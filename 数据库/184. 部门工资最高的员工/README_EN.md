@@ -1,8 +1,6 @@
 | English | [简体中文](README.md) |
 
 # [184. Department Highest Salary](https://leetcode-cn.com/problems/department-highest-salary)
- ### Related Topic
-
  ### Description
 <p>The <code>Employee</code> table holds all employees. Every employee has an Id, a salary, and there is also a column for the department Id.</p>
 
@@ -44,6 +42,3 @@
 <p><strong>Explanation:</strong></p>
 
 <p>Max and Jim both have&nbsp;the highest salary in the IT department and Henry has the highest salary in the Sales department.</p>
-
-
-### Similar Question

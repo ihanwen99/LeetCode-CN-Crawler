@@ -1,10 +1,6 @@
 | English | [简体中文](README.md) |
 
 # [1434. Number of Ways to Wear Different Hats to Each Other](https://leetcode-cn.com/problems/number-of-ways-to-wear-different-hats-to-each-other)
- ### Related Topics
- - [Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation)
- - [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)
-
  ### Description
 <p>There are&nbsp;<code>n</code> people&nbsp;and 40 types of hats labeled from 1 to 40.</p>
 
@@ -58,5 +54,4 @@ Number of Permutations of (1,2,3,4) = 24.
 	<li><code>1 &lt;= hats[i][j] &lt;= 40</code></li>
 	<li><code>hats[i]</code> contains a list of <strong>unique</strong> integers.</li>
 </ul>
-
-### Similar Question
+**Related Topics	**[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 

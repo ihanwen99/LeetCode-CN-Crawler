@@ -1,8 +1,6 @@
 | English | [简体中文](README.md) |
 
 # [1226. The Dining Philosophers](https://leetcode-cn.com/problems/the-dining-philosophers)
- ### Related Topic
-
  ### Description
 <p>Five silent philosophers&nbsp;sit at a round table with bowls of spaghetti. Forks are placed between each pair of adjacent philosophers.</p>
 
@@ -50,6 +48,3 @@ output[i] = [a, b, c] (three integers)
 <ul>
 	<li><code>1 &lt;= n &lt;= 60</code></li>
 </ul>
-
-
-### Similar Question

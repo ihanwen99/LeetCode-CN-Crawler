@@ -1,8 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1226. 哲学家进餐](https://leetcode-cn.com/problems/the-dining-philosophers)
- ### 标签
-
  ### 题目描述
 <p>5 个沉默寡言的哲学家围坐在圆桌前，每人面前一盘意面。叉子放在哲学家之间的桌面上。（5 个哲学家，5 根叉子）</p>
 
@@ -53,5 +51,3 @@ output[i] = [a, b, c] (3个整数)
 <ul>
 	<li><code>1 &lt;= n &lt;= 60</code></li>
 </ul>
-
- ### 相似题目

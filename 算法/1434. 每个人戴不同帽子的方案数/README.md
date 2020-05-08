@@ -1,10 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1434. 每个人戴不同帽子的方案数](https://leetcode-cn.com/problems/number-of-ways-to-wear-different-hats-to-each-other)
- ### 标签
- - [位运算](https://leetcode-cn.com/tag/bit-manipulation)
- - [动态规划](https://leetcode-cn.com/tag/dynamic-programming)
-
  ### 题目描述
 <p>总共有 <code>n</code>&nbsp;个人和 <code>40</code> 种不同的帽子，帽子编号从 <code>1</code> 到 <code>40</code> 。</p>
 
@@ -61,4 +57,4 @@
 	<li><code>hats[i]</code>&nbsp;包含一个数字互不相同的整数列表。</li>
 </ul>
 
- ### 相似题目
+**标签:	**[位运算](https://leetcode-cn.com/tag/bit-manipulation) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
