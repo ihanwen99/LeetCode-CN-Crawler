@@ -1,7 +1,5 @@
 README_CN = """
-| [English](README_EN.md) | 简体中文 |
-
-<p align="center"><img width="300" src="https://github.com/david990917/LeetCode-CN-Crawler/blob/master/image/leetcode-logo.png"></p>
+<p align="center">[English](README_EN.md) | 简体中文 | [Guidance指南](Guidance.md)</p>
 <p align="center">
     <img src="https://img.shields.io/badge/用户-{user_name}-blue.svg?" alt="">
     <img src="https://img.shields.io/badge/已解决-{num_solved}/{num_total}-blue.svg?" alt="">
@@ -23,9 +21,7 @@ README_CN = """
 """
 
 README_EN = """
-| English | [简体中文](README.md) |
-
-<p align="center"><img width="300" src="https://github.com/david990917/LeetCode-CN-Crawler/blob/master/image/leetcode-logo.png"></p>
+<p align="center">English | [简体中文](README.md) | [Guidance指南](Guidance.md)</p>
 <p align="center">
     <img src="https://img.shields.io/badge/User-{user_name}-blue.svg?" alt="">
     <img src="https://img.shields.io/badge/Solved-{num_solved}/{num_total}-blue.svg?" alt="">
