@@ -23,4 +23,4 @@
 	<li>不考虑答案输出的顺序。</li>
 </ul>
 
-**标签:	** [哈希表](https://leetcode-cn.com/tag/hash-table) [字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [哈希表](https://leetcode-cn.com/tag/hash-table) [字符串](https://leetcode-cn.com/tag/string) 
