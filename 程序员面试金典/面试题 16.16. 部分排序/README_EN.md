@@ -19,4 +19,4 @@
 	<li><code>0 &lt;= len(array) &lt;= 1000000</code></li>
 </ul>
 
-**Related Topics	**[Sort](https://leetcode-cn.com/tag/sort) [Array](https://leetcode-cn.com/tag/array) 
+**Related Topics**  [Sort](https://leetcode-cn.com/tag/sort) [Array](https://leetcode-cn.com/tag/array) 

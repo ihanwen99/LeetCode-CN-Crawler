@@ -31,4 +31,4 @@ So we return the level with the maximum sum which is level 2.
 	<li><code>-10^5 &lt;= node.val &lt;= 10^5</code></li>
 </ol>
 
-**Related Topic	**[Graph](https://leetcode-cn.com/tag/graph) 
+**Related Topic**  [Graph](https://leetcode-cn.com/tag/graph) 

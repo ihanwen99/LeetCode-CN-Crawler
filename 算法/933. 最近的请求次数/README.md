@@ -31,4 +31,4 @@
 
 <p>&nbsp;</p>
 
-**标签:	**[队列](https://leetcode-cn.com/tag/queue) 
+**标签:**  [队列](https://leetcode-cn.com/tag/queue) 

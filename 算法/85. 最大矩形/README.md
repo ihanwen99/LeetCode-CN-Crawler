@@ -15,7 +15,7 @@
 ]
 <strong>输出:</strong> 6</pre>
 
-**标签:	**[栈](https://leetcode-cn.com/tag/stack) [数组](https://leetcode-cn.com/tag/array) [哈希表](https://leetcode-cn.com/tag/hash-table) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [栈](https://leetcode-cn.com/tag/stack) [数组](https://leetcode-cn.com/tag/array) [哈希表](https://leetcode-cn.com/tag/hash-table) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
  ### 相似题目
 - 困难:	[柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram) 
 - 中等:	[最大正方形](https://leetcode-cn.com/problems/maximal-square) 

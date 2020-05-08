@@ -45,4 +45,4 @@
 	<li><code>1 &lt;= y&nbsp;&lt;= 100</code></li>
 	<li><code>0 &lt;= bound&nbsp;&lt;= 10^6</code></li>
 </ul>
-**Related Topics	**[Hash Table](https://leetcode-cn.com/tag/hash-table) [Math](https://leetcode-cn.com/tag/math) 
+**Related Topics**  [Hash Table](https://leetcode-cn.com/tag/hash-table) [Math](https://leetcode-cn.com/tag/math) 

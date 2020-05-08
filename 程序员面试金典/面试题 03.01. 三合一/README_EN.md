@@ -29,4 +29,4 @@
 [null, null, null, null, 2, 1, -1, -1]
 </pre>
 
-**Related Topic	**[Design](https://leetcode-cn.com/tag/design) 
+**Related Topic**  [Design](https://leetcode-cn.com/tag/design) 

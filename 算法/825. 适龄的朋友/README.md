@@ -49,4 +49,4 @@
 	<li><code>1 &lt;= ages[i] &lt;= 120</code>.</li>
 </ul>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) 

@@ -15,4 +15,4 @@
 
 <p>注意：本题与主站 21 题相同：<a href="https://leetcode-cn.com/problems/merge-two-sorted-lists/">https://leetcode-cn.com/problems/merge-two-sorted-lists/</a></p>
 
-**标签:	**[分治算法](https://leetcode-cn.com/tag/divide-and-conquer) 
+**标签:**  [分治算法](https://leetcode-cn.com/tag/divide-and-conquer) 

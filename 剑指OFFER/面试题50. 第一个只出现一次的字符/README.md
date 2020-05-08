@@ -19,4 +19,4 @@ s = &quot;&quot;
 
 <p><code>0 &lt;= s 的长度 &lt;= 50000</code></p>
 
-**标签:	**[哈希表](https://leetcode-cn.com/tag/hash-table) 
+**标签:**  [哈希表](https://leetcode-cn.com/tag/hash-table) 

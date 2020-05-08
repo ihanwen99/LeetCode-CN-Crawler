@@ -50,4 +50,4 @@ Therefore, the size of the longest subarray is 2.
 	<li><code>0 &lt;= limit &lt;= 10^9</code></li>
 </ul>
 
-**Related Topics	**[Array](https://leetcode-cn.com/tag/array) [Sliding Window](https://leetcode-cn.com/tag/sliding-window) 
+**Related Topics**  [Array](https://leetcode-cn.com/tag/array) [Sliding Window](https://leetcode-cn.com/tag/sliding-window) 

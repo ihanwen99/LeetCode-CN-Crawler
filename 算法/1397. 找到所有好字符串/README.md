@@ -43,4 +43,4 @@
 	<li>所有字符串都只包含小写英文字母。</li>
 </ul>
 
-**标签:	**[动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 

@@ -28,4 +28,4 @@
 	<li>树节点的值互不相同，且在&nbsp;<code>1</code>&nbsp;到&nbsp;<code>10^5</code> 之间。</li>
 </ul>
 
-**标签:	**[二叉搜索树](https://leetcode-cn.com/tag/binary-search-tree) 
+**标签:**  [二叉搜索树](https://leetcode-cn.com/tag/binary-search-tree) 

@@ -48,4 +48,4 @@
 	<li>All strings consists only of lower and upper case English letters.</li>
 </ol>
 
-**Related Topics	**[Trie](https://leetcode-cn.com/tag/trie) [String](https://leetcode-cn.com/tag/string) 
+**Related Topics**  [Trie](https://leetcode-cn.com/tag/trie) [String](https://leetcode-cn.com/tag/string) 

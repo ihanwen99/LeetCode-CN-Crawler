@@ -35,7 +35,7 @@
 
 <p>&nbsp;</p>
 
-**标签:	**[线段树](https://leetcode-cn.com/tag/segment-tree) [None](https://leetcode-cn.com/tag/ordered-map) 
+**标签:**  [线段树](https://leetcode-cn.com/tag/segment-tree) [None](https://leetcode-cn.com/tag/ordered-map) 
  ### 相似题目
 - 中等:	[合并区间](https://leetcode-cn.com/problems/merge-intervals) 
 - 困难:	[插入区间](https://leetcode-cn.com/problems/insert-interval) 

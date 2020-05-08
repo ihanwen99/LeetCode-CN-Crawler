@@ -33,4 +33,4 @@ Among all possible differences, the maximum value of 7 is obtained by |8 - 1| = 
 	<li>Each node will have value between <code>0</code> and <code>100000</code>.</li>
 </ol>
 
-**Related Topics	**[Tree](https://leetcode-cn.com/tag/tree) [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) 
+**Related Topics**  [Tree](https://leetcode-cn.com/tag/tree) [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) 

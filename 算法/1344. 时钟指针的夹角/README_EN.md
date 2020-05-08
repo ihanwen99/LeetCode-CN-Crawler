@@ -55,4 +55,4 @@
 	<li>Answers within&nbsp;<code>10^-5</code>&nbsp;of the actual value will be accepted as correct.</li>
 </ul>
 
-**Related Topic	**[Math](https://leetcode-cn.com/tag/math) 
+**Related Topic**  [Math](https://leetcode-cn.com/tag/math) 

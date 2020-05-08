@@ -44,6 +44,6 @@
 	<li><code>1 &lt;= A[i] &lt;= 10^6</code></li>
 </ol>
 
-**标签:	**[排序](https://leetcode-cn.com/tag/sort) [数学](https://leetcode-cn.com/tag/math) 
+**标签:**  [排序](https://leetcode-cn.com/tag/sort) [数学](https://leetcode-cn.com/tag/math) 
  ### 相似题目
 - 简单:	[最大三角形面积](https://leetcode-cn.com/problems/largest-triangle-area) 

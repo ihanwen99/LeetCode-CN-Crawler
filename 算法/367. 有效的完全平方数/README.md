@@ -17,7 +17,7 @@
 <strong>输出：</strong>False
 </pre>
 
-**标签:	**[数学](https://leetcode-cn.com/tag/math) [二分查找](https://leetcode-cn.com/tag/binary-search) 
+**标签:**  [数学](https://leetcode-cn.com/tag/math) [二分查找](https://leetcode-cn.com/tag/binary-search) 
  ### 相似题目
 - 简单:	[x 的平方根](https://leetcode-cn.com/problems/sqrtx) 
 - 简单:	[平方数之和](https://leetcode-cn.com/problems/sum-of-square-numbers) 

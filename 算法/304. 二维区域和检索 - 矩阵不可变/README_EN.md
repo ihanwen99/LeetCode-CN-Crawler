@@ -32,7 +32,7 @@ sumRegion(1, 2, 2, 4) -> 12
 <li>You may assume that <i>row</i>1 &le; <i>row</i>2 and <i>col</i>1 &le; <i>col</i>2.</li>
 </ol>
 </p>
-**Related Topic	**[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topic**  [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
 
 ### Similar Questions
  - Easy:	[Range Sum Query - Immutable](https://leetcode-cn.com/problems/range-sum-query-immutable) 

@@ -19,7 +19,7 @@
 [1,2,3]  =&gt;  [2,2,3]  =&gt;  [2,2,2]
 </pre>
 
-**标签:	**[数学](https://leetcode-cn.com/tag/math) 
+**标签:**  [数学](https://leetcode-cn.com/tag/math) 
  ### 相似题目
 - 困难:	[最佳的碰头地点](https://leetcode-cn.com/problems/best-meeting-point) 
 - 简单:	[最小移动次数使数组元素相等](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements) 

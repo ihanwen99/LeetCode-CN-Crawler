@@ -30,4 +30,4 @@
 
 <p><strong>注意:</strong> 输入是由大写和小写拉丁字母组成的非空单词。</p>
 
-**标签:	**[字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [字符串](https://leetcode-cn.com/tag/string) 

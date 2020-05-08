@@ -18,4 +18,4 @@
 	<li>如果行数远大于列数，你将如何解答呢？</li>
 </ol>
 
-**标签:	**[队列](https://leetcode-cn.com/tag/queue) [二分查找](https://leetcode-cn.com/tag/binary-search) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [队列](https://leetcode-cn.com/tag/queue) [二分查找](https://leetcode-cn.com/tag/binary-search) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 

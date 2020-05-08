@@ -57,6 +57,6 @@
 
 <p>&nbsp;</p>
 
-**标签:	**[贪心算法](https://leetcode-cn.com/tag/greedy) 
+**标签:**  [贪心算法](https://leetcode-cn.com/tag/greedy) 
  ### 相似题目
 - 中等:	[提莫攻击](https://leetcode-cn.com/problems/teemo-attacking) 

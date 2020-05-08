@@ -44,7 +44,7 @@ All arithmetic subsequence slices are:
 [2,6,10]
 </pre>
 
-**Related Topic	**[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topic**  [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
 
 ### Similar Question
  - Medium:	[Arithmetic Slices](https://leetcode-cn.com/problems/arithmetic-slices) 

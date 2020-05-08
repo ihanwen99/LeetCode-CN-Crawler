@@ -52,4 +52,4 @@
 	<li><code>1 &lt;= s.length &lt;= 10^5</code></li>
 	<li><code>s[i]</code>&nbsp;is one&nbsp;of&nbsp;&nbsp;<code>&#39;(&#39;</code> , <code>&#39;)&#39;</code> and&nbsp;lowercase English letters<code>.</code></li>
 </ul>
-**Related Topics	**[Stack](https://leetcode-cn.com/tag/stack) [String](https://leetcode-cn.com/tag/string) 
+**Related Topics**  [Stack](https://leetcode-cn.com/tag/stack) [String](https://leetcode-cn.com/tag/string) 

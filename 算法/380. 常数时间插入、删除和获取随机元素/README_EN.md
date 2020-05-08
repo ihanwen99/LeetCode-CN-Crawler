@@ -39,7 +39,7 @@ randomSet.insert(2);
 randomSet.getRandom();
 </pre>
 </p>
-**Related Topics	**[Design](https://leetcode-cn.com/tag/design) [Array](https://leetcode-cn.com/tag/array) [Hash Table](https://leetcode-cn.com/tag/hash-table) 
+**Related Topics**  [Design](https://leetcode-cn.com/tag/design) [Array](https://leetcode-cn.com/tag/array) [Hash Table](https://leetcode-cn.com/tag/hash-table) 
 
 ### Similar Question
  - Hard:	[Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode-cn.com/problems/insert-delete-getrandom-o1-duplicates-allowed) 

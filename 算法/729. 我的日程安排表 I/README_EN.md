@@ -34,7 +34,7 @@ The third event can be booked, as the first event takes every time less than 20,
 
 <p>&nbsp;</p>
 
-**Related Topic	**[Array](https://leetcode-cn.com/tag/array) 
+**Related Topic**  [Array](https://leetcode-cn.com/tag/array) 
 
 ### Similar Questions
  - Medium:	[My Calendar II](https://leetcode-cn.com/problems/my-calendar-ii) 

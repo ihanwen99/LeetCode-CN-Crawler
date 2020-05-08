@@ -36,4 +36,4 @@ A   L S  I G
 Y A   H R
 P     I</pre>
 
-**Related Topic	**[String](https://leetcode-cn.com/tag/string) 
+**Related Topic**  [String](https://leetcode-cn.com/tag/string) 

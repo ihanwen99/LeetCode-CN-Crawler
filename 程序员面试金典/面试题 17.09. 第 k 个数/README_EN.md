@@ -12,4 +12,4 @@
 <strong>Output: </strong>9
 </pre>
 
-**Related Topics	**[Heap](https://leetcode-cn.com/tag/heap) [Queue](https://leetcode-cn.com/tag/queue) [Math](https://leetcode-cn.com/tag/math) 
+**Related Topics**  [Heap](https://leetcode-cn.com/tag/heap) [Queue](https://leetcode-cn.com/tag/queue) [Math](https://leetcode-cn.com/tag/math) 

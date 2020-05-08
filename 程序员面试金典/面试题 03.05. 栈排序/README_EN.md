@@ -30,4 +30,4 @@
 	<li>The total number of elements in the stack is within the range [0, 5000].</li>
 </ol>
 
-**Related Topic	**[Design](https://leetcode-cn.com/tag/design) 
+**Related Topic**  [Design](https://leetcode-cn.com/tag/design) 

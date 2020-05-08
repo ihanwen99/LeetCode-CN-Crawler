@@ -54,7 +54,7 @@
 	<li>Number of Nodes will not exceed 1000.</li>
 </ul>
 
-**Related Topics	**[Hash Table](https://leetcode-cn.com/tag/hash-table) [Linked List](https://leetcode-cn.com/tag/linked-list) 
+**Related Topics**  [Hash Table](https://leetcode-cn.com/tag/hash-table) [Linked List](https://leetcode-cn.com/tag/linked-list) 
 
 ### Similar Question
  - Medium:	[Clone Graph](https://leetcode-cn.com/problems/clone-graph) 

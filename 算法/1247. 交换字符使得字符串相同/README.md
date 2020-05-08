@@ -49,4 +49,4 @@
 	<li><code>s1, s2</code>&nbsp;只包含&nbsp;<code>&#39;x&#39;</code>&nbsp;或&nbsp;<code>&#39;y&#39;</code>。</li>
 </ul>
 
-**标签:	**[贪心算法](https://leetcode-cn.com/tag/greedy) [字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [贪心算法](https://leetcode-cn.com/tag/greedy) [字符串](https://leetcode-cn.com/tag/string) 

@@ -25,4 +25,4 @@ cache.get(3);       // returns 3
 cache.get(4);       // returns 4
 </pre>
 
-**Related Topic	**[Design](https://leetcode-cn.com/tag/design) 
+**Related Topic**  [Design](https://leetcode-cn.com/tag/design) 

@@ -47,4 +47,4 @@
 	<li>Input follows the rules.</li>
 </ul>
 
-**Related Topic	**[Array](https://leetcode-cn.com/tag/array) 
+**Related Topic**  [Array](https://leetcode-cn.com/tag/array) 

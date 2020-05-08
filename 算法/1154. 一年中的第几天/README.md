@@ -41,4 +41,4 @@
 	<li><code>date</code> 表示的范围从 1900 年 1 月 1 日至 2019 年 12 月 31 日。</li>
 </ul>
 
-**标签:	**[数学](https://leetcode-cn.com/tag/math) 
+**标签:**  [数学](https://leetcode-cn.com/tag/math) 

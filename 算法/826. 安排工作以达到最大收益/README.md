@@ -26,4 +26,4 @@
 	<li><code>difficulty[i], profit[i], worker[i]</code>&nbsp; 的范围是&nbsp;<code>[1, 10^5]</code></li>
 </ul>
 
-**标签:	**[双指针](https://leetcode-cn.com/tag/two-pointers) 
+**标签:**  [双指针](https://leetcode-cn.com/tag/two-pointers) 

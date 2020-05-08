@@ -39,7 +39,7 @@ The root-to-leaf path <code>4-&gt;9-&gt;1</code> represents the number 491.
 The root-to-leaf path <code>4-&gt;0</code> represents the number 40.
 Therefore, sum = 495 + 491 + 40 = <code>1026</code>.</pre>
 
-**Related Topics	**[Tree](https://leetcode-cn.com/tag/tree) [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) 
+**Related Topics**  [Tree](https://leetcode-cn.com/tag/tree) [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) 
 
 ### Similar Questions
  - Easy:	[Path Sum](https://leetcode-cn.com/problems/path-sum) 

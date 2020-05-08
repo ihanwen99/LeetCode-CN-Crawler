@@ -35,7 +35,7 @@
 	<li><code>1</code> is typically treated as an ugly number.</li>
 	<li>Input is within the 32-bit signed integer range:&nbsp;[&minus;2<sup>31</sup>,&nbsp; 2<sup>31&nbsp;</sup>&minus; 1].</li>
 </ol>
-**Related Topic	**[Math](https://leetcode-cn.com/tag/math) 
+**Related Topic**  [Math](https://leetcode-cn.com/tag/math) 
 
 ### Similar Questions
  - Easy:	[Happy Number](https://leetcode-cn.com/problems/happy-number) 

@@ -34,7 +34,7 @@
 	<li><code>1 &lt;= K &lt;= A.length</code></li>
 </ol>
 
-**标签:	**[哈希表](https://leetcode-cn.com/tag/hash-table) [双指针](https://leetcode-cn.com/tag/two-pointers) [None](https://leetcode-cn.com/tag/sliding-window) 
+**标签:**  [哈希表](https://leetcode-cn.com/tag/hash-table) [双指针](https://leetcode-cn.com/tag/two-pointers) [None](https://leetcode-cn.com/tag/sliding-window) 
  ### 相似题目
 - 中等:	[无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters) 
 - 中等:	[至多包含两个不同字符的最长子串](https://leetcode-cn.com/problems/longest-substring-with-at-most-two-distinct-characters) 

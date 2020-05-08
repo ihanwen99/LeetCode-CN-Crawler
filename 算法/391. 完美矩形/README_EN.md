@@ -80,4 +80,4 @@ Return false. Because two of the rectangles overlap with each other.
 </pre>
 
 <p>&nbsp;</p>
-**Related Topic	**[Line Sweep](https://leetcode-cn.com/tag/line-sweep) 
+**Related Topic**  [Line Sweep](https://leetcode-cn.com/tag/line-sweep) 

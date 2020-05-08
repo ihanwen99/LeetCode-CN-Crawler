@@ -20,7 +20,7 @@
 <strong>解释:</strong> 你可以先偷窃 1 号房屋（金额 = 1），然后偷窃 3 号房屋（金额 = 3）。
 &nbsp;    偷窃到的最高金额 = 1 + 3 = 4 。</pre>
 
-**标签:	**[动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
  ### 相似题目
 - 简单:	[打家劫舍](https://leetcode-cn.com/problems/house-robber) 
 - 简单:	[粉刷房子](https://leetcode-cn.com/problems/paint-house) 

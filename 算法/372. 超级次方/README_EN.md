@@ -21,7 +21,7 @@
 </pre>
 </div>
 </div>
-**Related Topic	**[Math](https://leetcode-cn.com/tag/math) 
+**Related Topic**  [Math](https://leetcode-cn.com/tag/math) 
 
 ### Similar Question
  - Medium:	[Pow(x, n)](https://leetcode-cn.com/problems/powx-n) 

@@ -43,4 +43,4 @@
 	<li><code>1 &lt;= extraCandies &lt;= 50</code></li>
 </ul>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) 

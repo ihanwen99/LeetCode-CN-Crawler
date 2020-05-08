@@ -29,4 +29,4 @@
 
 <p>注意：本题与主站 233 题相同：<a href="https://leetcode-cn.com/problems/number-of-digit-one/">https://leetcode-cn.com/problems/number-of-digit-one/</a></p>
 
-**标签:	**[数学](https://leetcode-cn.com/tag/math) 
+**标签:**  [数学](https://leetcode-cn.com/tag/math) 

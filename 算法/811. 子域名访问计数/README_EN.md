@@ -40,4 +40,4 @@ We will visit &quot;google.mail.com&quot; 900 times, &quot;yahoo.com&quot; 50 ti
 	<li>The answer output can be returned in any order.</li>
 </ul>
 
-**Related Topic	**[Hash Table](https://leetcode-cn.com/tag/hash-table) 
+**Related Topic**  [Hash Table](https://leetcode-cn.com/tag/hash-table) 

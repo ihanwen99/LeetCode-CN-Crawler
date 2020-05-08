@@ -26,4 +26,4 @@
 	<li><code>0 &lt;= len(s) &lt;= 100 </code></li>
 </ul>
 
-**Related Topic	**[Array](https://leetcode-cn.com/tag/array) 
+**Related Topic**  [Array](https://leetcode-cn.com/tag/array) 

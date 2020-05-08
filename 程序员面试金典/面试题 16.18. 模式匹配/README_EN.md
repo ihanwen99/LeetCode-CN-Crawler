@@ -41,4 +41,4 @@
 	<li><code>pattern</code>&nbsp;only contains&nbsp;<code>&quot;a&quot;</code>&nbsp;and&nbsp;<code>&quot;b&quot;</code>,&nbsp;<code>value</code> only contains lowercase letters.</li>
 </ul>
 
-**Related Topic	**[String](https://leetcode-cn.com/tag/string) 
+**Related Topic**  [String](https://leetcode-cn.com/tag/string) 

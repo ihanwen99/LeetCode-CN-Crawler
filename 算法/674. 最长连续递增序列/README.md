@@ -23,7 +23,7 @@
 
 <p><strong>注意：</strong>数组长度不会超过10000。</p>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) 
  ### 相似题目
 - 中等:	[最长递增子序列的个数](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence) 
 - 困难:	[最小窗口子序列](https://leetcode-cn.com/problems/minimum-window-subsequence) 

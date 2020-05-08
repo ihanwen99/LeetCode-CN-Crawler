@@ -35,4 +35,4 @@
 	<li>所有行的大小都相同</li>
 </ol>
 
-**标签:	**[深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) 
+**标签:**  [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) 

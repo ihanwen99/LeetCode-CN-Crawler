@@ -27,4 +27,4 @@
 
 <p><strong>注意:</strong>&nbsp;合并必须从两个树的根节点开始。</p>
 
-**标签:	**[树](https://leetcode-cn.com/tag/tree) 
+**标签:**  [树](https://leetcode-cn.com/tag/tree) 

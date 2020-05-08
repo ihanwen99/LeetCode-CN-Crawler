@@ -21,7 +21,7 @@
 <pre><strong>输入: </strong>nums = [1,2,3,1,2,3], k<em> </em>=<em> </em>2
 <strong>输出:</strong> false</pre>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) [哈希表](https://leetcode-cn.com/tag/hash-table) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) [哈希表](https://leetcode-cn.com/tag/hash-table) 
  ### 相似题目
 - 简单:	[存在重复元素](https://leetcode-cn.com/problems/contains-duplicate) 
 - 中等:	[存在重复元素 III](https://leetcode-cn.com/problems/contains-duplicate-iii) 

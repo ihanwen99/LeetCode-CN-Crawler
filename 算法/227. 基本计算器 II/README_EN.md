@@ -33,7 +33,7 @@
 	<li><b>Do not</b> use the <code>eval</code> built-in library function.</li>
 </ul>
 
-**Related Topic	**[String](https://leetcode-cn.com/tag/string) 
+**Related Topic**  [String](https://leetcode-cn.com/tag/string) 
 
 ### Similar Questions
  - Hard:	[Basic Calculator](https://leetcode-cn.com/problems/basic-calculator) 

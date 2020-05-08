@@ -35,4 +35,4 @@ To sum up, pick a list of at most <b>k</b> distinct projects from given projects
 <li>The answer is guaranteed to fit in a 32-bit signed integer.</li>
 </ol>
 </p>
-**Related Topics	**[Heap](https://leetcode-cn.com/tag/heap) [Greedy](https://leetcode-cn.com/tag/greedy) 
+**Related Topics**  [Heap](https://leetcode-cn.com/tag/heap) [Greedy](https://leetcode-cn.com/tag/greedy) 

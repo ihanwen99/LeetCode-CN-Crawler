@@ -24,4 +24,4 @@ square2 = {0, -1, 2}
 	<li><code>square[2] &gt; 0</code></li>
 </ul>
 
-**标签:	**[几何](https://leetcode-cn.com/tag/geometry) 
+**标签:**  [几何](https://leetcode-cn.com/tag/geometry) 

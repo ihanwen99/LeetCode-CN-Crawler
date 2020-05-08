@@ -39,4 +39,4 @@ line2 = {1, 0}, {2, 1}
 	<li>All coordinates are valid 2D coordinates.</li>
 </ul>
 
-**Related Topics	**[Geometry](https://leetcode-cn.com/tag/geometry) [Math](https://leetcode-cn.com/tag/math) 
+**Related Topics**  [Geometry](https://leetcode-cn.com/tag/geometry) [Math](https://leetcode-cn.com/tag/math) 

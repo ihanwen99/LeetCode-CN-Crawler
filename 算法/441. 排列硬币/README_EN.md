@@ -34,4 +34,4 @@ The coins can form the following rows:
 Because the 4th row is incomplete, we return 3.
 </pre>
 </p>
-**Related Topics	**[Math](https://leetcode-cn.com/tag/math) [Binary Search](https://leetcode-cn.com/tag/binary-search) 
+**Related Topics**  [Math](https://leetcode-cn.com/tag/math) [Binary Search](https://leetcode-cn.com/tag/binary-search) 

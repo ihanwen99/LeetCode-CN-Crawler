@@ -24,7 +24,7 @@
 	<li>Space complexity should be <b>O(n)</b>.</li>
 	<li>Can you do it like a boss? Do it without using any builtin function like <b>__builtin_popcount</b> in c++ or in any other language.</li>
 </ul>
-**Related Topics	**[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topics**  [Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
 
 ### Similar Question
  - Easy:	[Number of 1 Bits](https://leetcode-cn.com/problems/number-of-1-bits) 

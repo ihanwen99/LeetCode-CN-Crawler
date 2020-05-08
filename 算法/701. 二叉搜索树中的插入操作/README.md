@@ -42,6 +42,6 @@
           4
 </pre>
 
-**标签:	**[树](https://leetcode-cn.com/tag/tree) 
+**标签:**  [树](https://leetcode-cn.com/tag/tree) 
  ### 相似题目
 - 简单:	[二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree) 

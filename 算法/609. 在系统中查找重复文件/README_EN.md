@@ -48,4 +48,4 @@
 	<li>How to make sure the duplicated files you find are not false positive?</li>
 </ol>
 
-**Related Topics	**[Hash Table](https://leetcode-cn.com/tag/hash-table) [String](https://leetcode-cn.com/tag/string) 
+**Related Topics**  [Hash Table](https://leetcode-cn.com/tag/hash-table) [String](https://leetcode-cn.com/tag/string) 

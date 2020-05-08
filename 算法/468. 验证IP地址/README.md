@@ -46,6 +46,6 @@
 <strong>解释:</strong> 这个地址既不是 IPv4 也不是 IPv6 地址。
 </pre>
 
-**标签:	**[字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [字符串](https://leetcode-cn.com/tag/string) 
  ### 相似题目
 - 简单:	[IP 到 CIDR](https://leetcode-cn.com/problems/ip-to-cidr) 

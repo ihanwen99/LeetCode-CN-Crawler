@@ -18,4 +18,4 @@
 	<li>The rectangle inside the matrix must have an area &gt; 0.</li>
 	<li>What if the number of rows is much larger than the number of columns?</li>
 </ol>
-**Related Topics	**[Queue](https://leetcode-cn.com/tag/queue) [Binary Search](https://leetcode-cn.com/tag/binary-search) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topics**  [Queue](https://leetcode-cn.com/tag/queue) [Binary Search](https://leetcode-cn.com/tag/binary-search) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 

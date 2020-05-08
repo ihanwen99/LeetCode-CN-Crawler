@@ -80,4 +80,4 @@
 	<li><code>grid[i][j]</code> 是&nbsp;<code>&#39;/&#39;</code>、<code>&#39;\&#39;</code>、或&nbsp;<code>&#39; &#39;</code>。</li>
 </ol>
 
-**标签:	**[深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) [并查集](https://leetcode-cn.com/tag/union-find) [图](https://leetcode-cn.com/tag/graph) 
+**标签:**  [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) [并查集](https://leetcode-cn.com/tag/union-find) [图](https://leetcode-cn.com/tag/graph) 

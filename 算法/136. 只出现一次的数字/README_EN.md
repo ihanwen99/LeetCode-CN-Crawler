@@ -22,7 +22,7 @@
 <strong>Output:</strong> 4
 </pre>
 
-**Related Topics	**[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) [Hash Table](https://leetcode-cn.com/tag/hash-table) 
+**Related Topics**  [Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) [Hash Table](https://leetcode-cn.com/tag/hash-table) 
 
 ### Similar Questions
  - Medium:	[Single Number II](https://leetcode-cn.com/problems/single-number-ii) 

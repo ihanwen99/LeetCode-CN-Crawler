@@ -13,7 +13,7 @@
 <strong>Output:</strong> <code>[&quot;255.255.11.135&quot;, &quot;255.255.111.35&quot;]
 </code></pre>
 
-**Related Topics	**[String](https://leetcode-cn.com/tag/string) [Backtracking](https://leetcode-cn.com/tag/backtracking) 
+**Related Topics**  [String](https://leetcode-cn.com/tag/string) [Backtracking](https://leetcode-cn.com/tag/backtracking) 
 
 ### Similar Question
  - Easy:	[IP to CIDR](https://leetcode-cn.com/problems/ip-to-cidr) 

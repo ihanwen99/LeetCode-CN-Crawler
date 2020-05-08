@@ -46,4 +46,4 @@ Given a list of lists of integers,&nbsp;<code>nums</code>,&nbsp;return all eleme
 	<li>There at most <code>10^5</code> elements in <code>nums</code>.</li>
 </ul>
 
-**Related Topics	**[Sort](https://leetcode-cn.com/tag/sort) [Array](https://leetcode-cn.com/tag/array) 
+**Related Topics**  [Sort](https://leetcode-cn.com/tag/sort) [Array](https://leetcode-cn.com/tag/array) 

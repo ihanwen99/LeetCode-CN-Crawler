@@ -20,6 +20,6 @@
 
 <p>假设你总是可以到达数组的最后一个位置。</p>
 
-**标签:	**[贪心算法](https://leetcode-cn.com/tag/greedy) [数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [贪心算法](https://leetcode-cn.com/tag/greedy) [数组](https://leetcode-cn.com/tag/array) 
  ### 相似题目
 - 中等:	[跳跃游戏](https://leetcode-cn.com/problems/jump-game) 

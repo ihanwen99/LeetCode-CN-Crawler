@@ -53,6 +53,6 @@
 	<li><code>1 &lt;= costs[i] &lt;= 1000</code></li>
 </ol>
 
-**标签:	**[动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
  ### 相似题目
 - 中等:	[零钱兑换](https://leetcode-cn.com/problems/coin-change) 

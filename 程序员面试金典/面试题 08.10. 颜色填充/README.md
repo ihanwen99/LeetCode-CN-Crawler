@@ -26,4 +26,4 @@ sr = 1, sc = 1, newColor = 2
 <li>image[i][j] 和 newColor 表示的颜色值在范围 [0, 65535]内。</li>
 </ol>
 
-**标签:	**[深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) 
+**标签:**  [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) 

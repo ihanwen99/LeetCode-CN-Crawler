@@ -47,4 +47,4 @@
 
 <p>&nbsp;</p>
 
-**Related Topic	**[String](https://leetcode-cn.com/tag/string) 
+**Related Topic**  [String](https://leetcode-cn.com/tag/string) 

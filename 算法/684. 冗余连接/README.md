@@ -40,7 +40,7 @@
 <p><strong>更新(2017-09-26):</strong><br>
 我们已经重新检查了问题描述及测试用例，明确图是<em><strong>无向&nbsp;</strong></em>图。对于有向图详见<strong><a href="https://leetcodechina.com/problems/redundant-connection-ii/description/">冗余连接II</a>。</strong>对于造成任何不便，我们深感歉意。</p>
 
-**标签:	**[树](https://leetcode-cn.com/tag/tree) [并查集](https://leetcode-cn.com/tag/union-find) [图](https://leetcode-cn.com/tag/graph) 
+**标签:**  [树](https://leetcode-cn.com/tag/tree) [并查集](https://leetcode-cn.com/tag/union-find) [图](https://leetcode-cn.com/tag/graph) 
  ### 相似题目
 - 困难:	[冗余连接 II](https://leetcode-cn.com/problems/redundant-connection-ii) 
 - 中等:	[账户合并](https://leetcode-cn.com/problems/accounts-merge) 

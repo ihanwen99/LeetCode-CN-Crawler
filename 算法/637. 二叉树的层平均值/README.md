@@ -23,7 +23,7 @@
 	<li>节点值的范围在32位有符号整数范围内。</li>
 </ol>
 
-**标签:	**[树](https://leetcode-cn.com/tag/tree) 
+**标签:**  [树](https://leetcode-cn.com/tag/tree) 
  ### 相似题目
 - 中等:	[二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal) 
 - 简单:	[二叉树的层次遍历 II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii) 

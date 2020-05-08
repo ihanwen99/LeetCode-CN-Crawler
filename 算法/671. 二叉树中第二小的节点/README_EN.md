@@ -38,7 +38,7 @@
 
 <p>&nbsp;</p>
 
-**Related Topic	**[Tree](https://leetcode-cn.com/tag/tree) 
+**Related Topic**  [Tree](https://leetcode-cn.com/tag/tree) 
 
 ### Similar Question
  - Medium:	[Kth Smallest Element in a BST](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst) 

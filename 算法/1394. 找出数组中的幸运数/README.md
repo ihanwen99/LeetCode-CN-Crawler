@@ -55,4 +55,4 @@
 	<li><code>1 &lt;= arr[i] &lt;= 500</code></li>
 </ul>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) 

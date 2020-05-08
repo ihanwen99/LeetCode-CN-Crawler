@@ -29,7 +29,7 @@ return [2], since 2 happens twice, however -5 only occur once.
 <p><b>Note:</b>
 You may assume the sum of values in any subtree is in the range of 32-bit signed integer.
 </p>
-**Related Topics	**[Tree](https://leetcode-cn.com/tag/tree) [Hash Table](https://leetcode-cn.com/tag/hash-table) 
+**Related Topics**  [Tree](https://leetcode-cn.com/tag/tree) [Hash Table](https://leetcode-cn.com/tag/hash-table) 
 
 ### Similar Question
  - Easy:	[Subtree of Another Tree](https://leetcode-cn.com/problems/subtree-of-another-tree) 

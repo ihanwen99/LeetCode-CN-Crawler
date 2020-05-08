@@ -58,4 +58,4 @@ Attend the third event on day 3.
 	<li><code>1 &lt;= events[i][0] &lt;= events[i][1] &lt;= 10^5</code></li>
 </ul>
 
-**Related Topics	**[Greedy](https://leetcode-cn.com/tag/greedy) [Sort](https://leetcode-cn.com/tag/sort) [Segment Tree](https://leetcode-cn.com/tag/segment-tree) 
+**Related Topics**  [Greedy](https://leetcode-cn.com/tag/greedy) [Sort](https://leetcode-cn.com/tag/sort) [Segment Tree](https://leetcode-cn.com/tag/segment-tree) 

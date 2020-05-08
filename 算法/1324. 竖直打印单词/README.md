@@ -44,4 +44,4 @@
 	<li>题目数据保证两个单词之间只有一个空格。</li>
 </ul>
 
-**标签:	**[字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [字符串](https://leetcode-cn.com/tag/string) 

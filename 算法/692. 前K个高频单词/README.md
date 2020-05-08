@@ -43,7 +43,7 @@
 	<li>尝试以&nbsp;<em>O</em>(<em>n</em> log <em>k</em>) 时间复杂度和&nbsp;<em>O</em>(<em>n</em>) 空间复杂度解决。</li>
 </ol>
 
-**标签:	**[堆](https://leetcode-cn.com/tag/heap) [字典树](https://leetcode-cn.com/tag/trie) [哈希表](https://leetcode-cn.com/tag/hash-table) 
+**标签:**  [堆](https://leetcode-cn.com/tag/heap) [字典树](https://leetcode-cn.com/tag/trie) [哈希表](https://leetcode-cn.com/tag/hash-table) 
  ### 相似题目
 - 中等:	[前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements) 
 - 中等:	[最接近原点的 K 个点](https://leetcode-cn.com/problems/k-closest-points-to-origin) 

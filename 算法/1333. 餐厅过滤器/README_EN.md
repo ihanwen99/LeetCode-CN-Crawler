@@ -50,4 +50,4 @@ After filter restaurants with veganFriendly = 1, maxPrice = 50 and maxDistance =
 	<li><code>veganFriendly<sub>i</sub></code> and&nbsp;<code>veganFriendly</code>&nbsp;are&nbsp;0 or 1.</li>
 	<li>All <code>id<sub>i</sub></code> are distinct.</li>
 </ul>
-**Related Topics	**[Sort](https://leetcode-cn.com/tag/sort) [Array](https://leetcode-cn.com/tag/array) 
+**Related Topics**  [Sort](https://leetcode-cn.com/tag/sort) [Array](https://leetcode-cn.com/tag/array) 

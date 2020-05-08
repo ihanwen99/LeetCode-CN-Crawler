@@ -39,7 +39,7 @@
 除了我们不能省略第一个对括号来中断输入和输出之间的一对一映射关系。
 </pre>
 
-**标签:	**[树](https://leetcode-cn.com/tag/tree) [字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [树](https://leetcode-cn.com/tag/tree) [字符串](https://leetcode-cn.com/tag/string) 
  ### 相似题目
 - 中等:	[从字符串生成二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-string) 
 - 中等:	[寻找重复的子树](https://leetcode-cn.com/problems/find-duplicate-subtrees) 

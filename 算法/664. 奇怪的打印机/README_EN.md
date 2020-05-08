@@ -33,7 +33,7 @@ Given a string consists of lower English letters only, your job is to count the 
 </p>
 
 <p><b>Hint</b>: Length of the given string will not exceed 100.</p>
-**Related Topics	**[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topics**  [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
 
 ### Similar Question
  - Hard:	[Remove Boxes](https://leetcode-cn.com/problems/remove-boxes) 

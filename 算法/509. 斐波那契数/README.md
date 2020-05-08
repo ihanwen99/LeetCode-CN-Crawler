@@ -41,7 +41,7 @@ F(N) = F(N - 1) + F(N - 2), 其中 N &gt; 1.
 	<li>0 &le; <code>N</code> &le; 30</li>
 </ul>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) 
  ### 相似题目
 - 简单:	[爬楼梯](https://leetcode-cn.com/problems/climbing-stairs) 
 - 中等:	[将数组拆分成斐波那契序列](https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence) 

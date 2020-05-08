@@ -50,7 +50,7 @@
 	<li><code>1 &lt;= stones[i] &lt;= 100</code></li>
 </ul>
 
-**标签:	**[动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
  ### 相似题目
 - 困难:	[戳气球](https://leetcode-cn.com/problems/burst-balloons) 
 - 中等:	[连接棒材的最低费用](https://leetcode-cn.com/problems/minimum-cost-to-connect-sticks) 

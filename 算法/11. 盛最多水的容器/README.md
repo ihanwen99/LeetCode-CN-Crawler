@@ -19,6 +19,6 @@
 <pre><strong>输入：</strong>[1,8,6,2,5,4,8,3,7]
 <strong>输出：</strong>49</pre>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) [双指针](https://leetcode-cn.com/tag/two-pointers) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) [双指针](https://leetcode-cn.com/tag/two-pointers) 
  ### 相似题目
 - 困难:	[接雨水](https://leetcode-cn.com/problems/trapping-rain-water) 

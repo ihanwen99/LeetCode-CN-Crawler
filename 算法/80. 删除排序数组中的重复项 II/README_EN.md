@@ -44,7 +44,7 @@ for (int i = 0; i &lt; len; i++) {
 }
 </pre>
 
-**Related Topics	**[Array](https://leetcode-cn.com/tag/array) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) 
+**Related Topics**  [Array](https://leetcode-cn.com/tag/array) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) 
 
 ### Similar Question
  - Easy:	[Remove Duplicates from Sorted Array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array) 

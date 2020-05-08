@@ -53,4 +53,4 @@ productOfNumbers.getProduct(2); // return 32. The product of the last 2 numbers 
 	<li><code>1 &lt;= k &lt;= 40000</code></li>
 </ul>
 
-**Related Topics	**[Design](https://leetcode-cn.com/tag/design) [Array](https://leetcode-cn.com/tag/array) 
+**Related Topics**  [Design](https://leetcode-cn.com/tag/design) [Array](https://leetcode-cn.com/tag/array) 

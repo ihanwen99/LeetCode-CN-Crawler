@@ -50,7 +50,7 @@
 	<li>如果&nbsp;<code>A.length &gt; 1</code>，那么&nbsp;<code>A[0] != 0</code></li>
 </ol>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) 
  ### 相似题目
 - 中等:	[两数相加](https://leetcode-cn.com/problems/add-two-numbers) 
 - 简单:	[加一](https://leetcode-cn.com/problems/plus-one) 

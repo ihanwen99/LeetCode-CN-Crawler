@@ -18,7 +18,7 @@ After third round, the three bulbs are <b>[on, off, off]</b>.
 So you should return 1, because there is only one bulb is on.
 </pre>
 
-**Related Topics	**[Brainteaser](https://leetcode-cn.com/tag/brainteaser) [Math](https://leetcode-cn.com/tag/math) 
+**Related Topics**  [Brainteaser](https://leetcode-cn.com/tag/brainteaser) [Math](https://leetcode-cn.com/tag/math) 
 
 ### Similar Questions
  - Medium:	[Bulb Switcher II](https://leetcode-cn.com/problems/bulb-switcher-ii) 

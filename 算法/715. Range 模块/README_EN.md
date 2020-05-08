@@ -29,7 +29,7 @@
 <li>The total number of calls to <code>queryRange</code> in a single test case is at most <code>5000</code>.</li>
 <li>The total number of calls to <code>removeRange</code> in a single test case is at most <code>1000</code>.</li>
 </p>
-**Related Topics	**[Segment Tree](https://leetcode-cn.com/tag/segment-tree) [Ordered Map](https://leetcode-cn.com/tag/ordered-map) 
+**Related Topics**  [Segment Tree](https://leetcode-cn.com/tag/segment-tree) [Ordered Map](https://leetcode-cn.com/tag/ordered-map) 
 
 ### Similar Questions
  - Medium:	[Merge Intervals](https://leetcode-cn.com/problems/merge-intervals) 

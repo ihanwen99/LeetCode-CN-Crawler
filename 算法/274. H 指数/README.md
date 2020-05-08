@@ -21,6 +21,6 @@
 
 <p><strong>提示：</strong>如果 <em>h </em>有多种可能的值，<em>h</em> 指数是其中最大的那个。</p>
 
-**标签:	**[排序](https://leetcode-cn.com/tag/sort) [哈希表](https://leetcode-cn.com/tag/hash-table) 
+**标签:**  [排序](https://leetcode-cn.com/tag/sort) [哈希表](https://leetcode-cn.com/tag/hash-table) 
  ### 相似题目
 - 中等:	[H指数 II](https://leetcode-cn.com/problems/h-index-ii) 

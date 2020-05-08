@@ -28,4 +28,4 @@ queue.empty(); // return false</pre>
 
 <p>&nbsp;</p>
 
-**Related Topic	**[Stack](https://leetcode-cn.com/tag/stack) 
+**Related Topic**  [Stack](https://leetcode-cn.com/tag/stack) 

@@ -42,4 +42,4 @@
 	<li>所有房间中的钥匙数量总计不超过&nbsp;<code>3000</code>。</li>
 </ol>
 
-**标签:	**[深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) [图](https://leetcode-cn.com/tag/graph) 
+**标签:**  [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) [图](https://leetcode-cn.com/tag/graph) 

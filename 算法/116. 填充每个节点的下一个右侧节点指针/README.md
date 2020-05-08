@@ -37,7 +37,7 @@
 	<li>使用递归解题也符合要求，本题中递归程序占用的栈空间不算做额外的空间复杂度。</li>
 </ul>
 
-**标签:	**[树](https://leetcode-cn.com/tag/tree) [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) 
+**标签:**  [树](https://leetcode-cn.com/tag/tree) [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) 
  ### 相似题目
 - 中等:	[填充每个节点的下一个右侧节点指针 II](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii) 
 - 中等:	[二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view) 

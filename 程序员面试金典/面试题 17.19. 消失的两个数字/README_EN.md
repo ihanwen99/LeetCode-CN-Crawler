@@ -24,4 +24,4 @@
 	<li><code>nums.length &lt;=&nbsp;30000</code></li>
 </ul>
 
-**Related Topics	**[Array](https://leetcode-cn.com/tag/array) [Math](https://leetcode-cn.com/tag/math) 
+**Related Topics**  [Array](https://leetcode-cn.com/tag/array) [Math](https://leetcode-cn.com/tag/math) 

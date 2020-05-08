@@ -14,7 +14,7 @@
 Given <code>1-&gt;2-&gt;3-&gt;4</code>, you should return the list as <code>2-&gt;1-&gt;4-&gt;3</code>.
 </pre>
 
-**Related Topic	**[Linked List](https://leetcode-cn.com/tag/linked-list) 
+**Related Topic**  [Linked List](https://leetcode-cn.com/tag/linked-list) 
 
 ### Similar Question
  - Hard:	[Reverse Nodes in k-Group](https://leetcode-cn.com/problems/reverse-nodes-in-k-group) 

@@ -48,7 +48,7 @@
 
 <p>返回 <strong>false</strong>。</p>
 
-**标签:	**[树](https://leetcode-cn.com/tag/tree) 
+**标签:**  [树](https://leetcode-cn.com/tag/tree) 
  ### 相似题目
 - 中等:	[统计同值子树](https://leetcode-cn.com/problems/count-univalue-subtrees) 
 - 中等:	[出现次数最多的子树元素和](https://leetcode-cn.com/problems/most-frequent-subtree-sum) 

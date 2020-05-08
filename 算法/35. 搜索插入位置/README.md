@@ -30,6 +30,6 @@
 <strong>输出:</strong> 0
 </pre>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) [二分查找](https://leetcode-cn.com/tag/binary-search) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) [二分查找](https://leetcode-cn.com/tag/binary-search) 
  ### 相似题目
 - 简单:	[第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version) 

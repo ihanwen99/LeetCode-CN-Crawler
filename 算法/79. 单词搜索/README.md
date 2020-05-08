@@ -32,6 +32,6 @@
 	<li><code>1 &lt;= word.length &lt;= 10^3</code></li>
 </ul>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) [回溯算法](https://leetcode-cn.com/tag/backtracking) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) [回溯算法](https://leetcode-cn.com/tag/backtracking) 
  ### 相似题目
 - 困难:	[单词搜索 II](https://leetcode-cn.com/problems/word-search-ii) 

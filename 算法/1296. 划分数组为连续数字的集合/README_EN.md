@@ -45,4 +45,4 @@ Return&nbsp;<code>True</code>&nbsp;if its possible<strong>&nbsp;</strong>otherwi
 	<li><code>1 &lt;= nums[i] &lt;= 10^9</code></li>
 	<li><code>1 &lt;= k &lt;= nums.length</code></li>
 </ul>
-**Related Topics	**[Greedy](https://leetcode-cn.com/tag/greedy) [Array](https://leetcode-cn.com/tag/array) 
+**Related Topics**  [Greedy](https://leetcode-cn.com/tag/greedy) [Array](https://leetcode-cn.com/tag/array) 

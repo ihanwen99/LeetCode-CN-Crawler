@@ -23,7 +23,7 @@
 <pre><strong>输入: </strong>[1,1,1,3,3,4,3,2,4,2]
 <strong>输出:</strong> true</pre>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) [哈希表](https://leetcode-cn.com/tag/hash-table) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) [哈希表](https://leetcode-cn.com/tag/hash-table) 
  ### 相似题目
 - 简单:	[存在重复元素 II](https://leetcode-cn.com/problems/contains-duplicate-ii) 
 - 中等:	[存在重复元素 III](https://leetcode-cn.com/problems/contains-duplicate-iii) 

@@ -37,4 +37,4 @@ Both the input and output have TreeNode type.
 	<li>The values of each node are unique.</li>
 </ul>
 
-**Related Topic	**[Tree](https://leetcode-cn.com/tag/tree) 
+**Related Topic**  [Tree](https://leetcode-cn.com/tag/tree) 

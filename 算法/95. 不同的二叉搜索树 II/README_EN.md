@@ -26,7 +26,7 @@ The above output corresponds to the 5 unique BST&#39;s shown below:
    2     1         2                 3
 </pre>
 
-**Related Topics	**[Tree](https://leetcode-cn.com/tag/tree) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topics**  [Tree](https://leetcode-cn.com/tag/tree) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
 
 ### Similar Questions
  - Medium:	[Unique Binary Search Trees](https://leetcode-cn.com/problems/unique-binary-search-trees) 

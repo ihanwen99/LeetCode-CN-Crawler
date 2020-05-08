@@ -61,4 +61,4 @@ Total distance = 6
 	<li><code>2 &lt;= word.length &lt;= 300</code></li>
 	<li>Each <code data-stringify-type="code">word[i]</code>&nbsp;is an English uppercase letter.</li>
 </ul>
-**Related Topic	**[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topic**  [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 

@@ -30,7 +30,7 @@
 2. 向下 -&gt; 向下 -&gt; 向右 -&gt; 向右
 </pre>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
  ### 相似题目
 - 中等:	[不同路径](https://leetcode-cn.com/problems/unique-paths) 
 - 困难:	[不同路径 III](https://leetcode-cn.com/problems/unique-paths-iii) 

@@ -56,4 +56,4 @@
 	<li>本题与主站 160 题相同：<a href="https://leetcode-cn.com/problems/intersection-of-two-linked-lists/">https://leetcode-cn.com/problems/intersection-of-two-linked-lists/</a></li>
 </ul>
 
-**标签:	**[链表](https://leetcode-cn.com/tag/linked-list) 
+**标签:**  [链表](https://leetcode-cn.com/tag/linked-list) 

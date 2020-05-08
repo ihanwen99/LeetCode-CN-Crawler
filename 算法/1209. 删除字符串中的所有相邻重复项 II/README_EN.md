@@ -44,4 +44,4 @@ Finally delete &quot;ddd&quot;, get &quot;aa&quot;</pre>
 	<li><code>s</code> only contains lower case English letters.</li>
 </ul>
 
-**Related Topic	**[Stack](https://leetcode-cn.com/tag/stack) 
+**Related Topic**  [Stack](https://leetcode-cn.com/tag/stack) 

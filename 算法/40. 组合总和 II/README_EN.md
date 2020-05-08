@@ -37,7 +37,7 @@
 ]
 </pre>
 
-**Related Topics	**[Array](https://leetcode-cn.com/tag/array) [Backtracking](https://leetcode-cn.com/tag/backtracking) 
+**Related Topics**  [Array](https://leetcode-cn.com/tag/array) [Backtracking](https://leetcode-cn.com/tag/backtracking) 
 
 ### Similar Question
  - Medium:	[Combination Sum](https://leetcode-cn.com/problems/combination-sum) 

@@ -61,4 +61,4 @@ After removing outer parentheses of each part, this is &quot;&quot; + &quot;&quo
 <div>&nbsp;</div>
 </div>
 </div>
-**Related Topic	**[Stack](https://leetcode-cn.com/tag/stack) 
+**Related Topic**  [Stack](https://leetcode-cn.com/tag/stack) 

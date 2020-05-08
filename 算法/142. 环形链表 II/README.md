@@ -42,7 +42,7 @@
 <p><strong>进阶：</strong><br>
 你是否可以不用额外空间解决此题？</p>
 
-**标签:	**[链表](https://leetcode-cn.com/tag/linked-list) [双指针](https://leetcode-cn.com/tag/two-pointers) 
+**标签:**  [链表](https://leetcode-cn.com/tag/linked-list) [双指针](https://leetcode-cn.com/tag/two-pointers) 
  ### 相似题目
 - 简单:	[环形链表](https://leetcode-cn.com/problems/linked-list-cycle) 
 - 中等:	[寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number) 

@@ -20,7 +20,7 @@
 <strong>Output:</strong> false
 </pre>
 
-**Related Topics	**[Two Pointers](https://leetcode-cn.com/tag/two-pointers) [String](https://leetcode-cn.com/tag/string) 
+**Related Topics**  [Two Pointers](https://leetcode-cn.com/tag/two-pointers) [String](https://leetcode-cn.com/tag/string) 
 
 ### Similar Questions
  - Easy:	[Palindrome Linked List](https://leetcode-cn.com/problems/palindrome-linked-list) 

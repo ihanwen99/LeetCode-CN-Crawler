@@ -59,4 +59,4 @@ Bulb 4th changes to blue at the moment 3.
 	<li><code>light</code> is a permutation of&nbsp;&nbsp;<code>[1, 2, ..., n]</code></li>
 </ul>
 
-**Related Topic	**[Array](https://leetcode-cn.com/tag/array) 
+**Related Topic**  [Array](https://leetcode-cn.com/tag/array) 

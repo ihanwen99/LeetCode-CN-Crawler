@@ -13,4 +13,4 @@
 <strong>Output:</strong> 1-&gt;2-&gt;2-&gt;4-&gt;3-&gt;5
 </pre>
 
-**Related Topics	**[Linked List](https://leetcode-cn.com/tag/linked-list) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) 
+**Related Topics**  [Linked List](https://leetcode-cn.com/tag/linked-list) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) 

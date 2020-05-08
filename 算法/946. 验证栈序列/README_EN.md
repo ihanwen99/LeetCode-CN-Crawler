@@ -38,4 +38,4 @@ push(5), pop() -&gt; 5, pop() -&gt; 3, pop() -&gt; 2, pop() -&gt; 1
 </ol>
 </div>
 </div>
-**Related Topic	**[Stack](https://leetcode-cn.com/tag/stack) 
+**Related Topic**  [Stack](https://leetcode-cn.com/tag/stack) 

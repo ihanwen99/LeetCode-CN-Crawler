@@ -48,4 +48,4 @@
 <pre><strong>输入：&quot;</strong>/a//b////c/d//././/..&quot;
 <strong>输出：&quot;</strong>/a/b/c&quot;</pre>
 
-**标签:	**[栈](https://leetcode-cn.com/tag/stack) [字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [栈](https://leetcode-cn.com/tag/stack) [字符串](https://leetcode-cn.com/tag/string) 

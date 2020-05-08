@@ -16,7 +16,7 @@
 <strong>Output:</strong> 1-&gt;1-&gt;2-&gt;3-&gt;4-&gt;4-&gt;5-&gt;6
 </pre>
 
-**Related Topics	**[Heap](https://leetcode-cn.com/tag/heap) [Linked List](https://leetcode-cn.com/tag/linked-list) [Divide and Conquer](https://leetcode-cn.com/tag/divide-and-conquer) 
+**Related Topics**  [Heap](https://leetcode-cn.com/tag/heap) [Linked List](https://leetcode-cn.com/tag/linked-list) [Divide and Conquer](https://leetcode-cn.com/tag/divide-and-conquer) 
 
 ### Similar Questions
  - Easy:	[Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists) 

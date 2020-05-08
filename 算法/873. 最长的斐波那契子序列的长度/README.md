@@ -45,6 +45,6 @@
 	<li><em>（对于以 Java，C，C++，以及&nbsp;C# 的提交，时间限制被减少了 50%）</em></li>
 </ul>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
  ### 相似题目
 - 简单:	[斐波那契数](https://leetcode-cn.com/problems/fibonacci-number) 

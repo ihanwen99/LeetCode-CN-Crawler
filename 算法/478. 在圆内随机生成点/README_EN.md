@@ -38,7 +38,7 @@
 <p>The input is two lists:&nbsp;the subroutines called&nbsp;and their&nbsp;arguments.&nbsp;<code>Solution</code>&#39;s&nbsp;constructor has three arguments, the radius, x-position of the center, and y-position of the center of the circle. <code>randPoint</code> has no arguments.&nbsp;Arguments&nbsp;are&nbsp;always wrapped with a list, even if there aren&#39;t any.</p>
 </div>
 
-**Related Topics	**[Math](https://leetcode-cn.com/tag/math) [Random](https://leetcode-cn.com/tag/random) [Rejection Sampling](https://leetcode-cn.com/tag/rejection-sampling) 
+**Related Topics**  [Math](https://leetcode-cn.com/tag/math) [Random](https://leetcode-cn.com/tag/random) [Rejection Sampling](https://leetcode-cn.com/tag/rejection-sampling) 
 
 ### Similar Question
  - Medium:	[Random Point in Non-overlapping Rectangles](https://leetcode-cn.com/problems/random-point-in-non-overlapping-rectangles) 

@@ -38,7 +38,7 @@ With each iteration one element (red) is removed from the input data and inserte
 <strong>Output:</strong> -1-&gt;0-&gt;3-&gt;4-&gt;5
 </pre>
 
-**Related Topics	**[Sort](https://leetcode-cn.com/tag/sort) [Linked List](https://leetcode-cn.com/tag/linked-list) 
+**Related Topics**  [Sort](https://leetcode-cn.com/tag/sort) [Linked List](https://leetcode-cn.com/tag/linked-list) 
 
 ### Similar Questions
  - Medium:	[Sort List](https://leetcode-cn.com/problems/sort-list) 

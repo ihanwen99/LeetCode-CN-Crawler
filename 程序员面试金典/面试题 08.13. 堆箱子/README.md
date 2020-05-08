@@ -24,4 +24,4 @@
 	<li>箱子的数目不大于3000个。</li>
 </ol>
 
-**标签:	**[动态规划](https://leetcode-cn.com/tag/dynamic-programming) [回溯算法](https://leetcode-cn.com/tag/backtracking) 
+**标签:**  [动态规划](https://leetcode-cn.com/tag/dynamic-programming) [回溯算法](https://leetcode-cn.com/tag/backtracking) 

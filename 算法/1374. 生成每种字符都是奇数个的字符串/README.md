@@ -36,4 +36,4 @@
 	<li><code>1 &lt;= n &lt;= 500</code></li>
 </ul>
 
-**标签:	**[字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [字符串](https://leetcode-cn.com/tag/string) 

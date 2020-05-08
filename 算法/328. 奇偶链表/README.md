@@ -24,6 +24,6 @@
 	<li>链表的第一个节点视为奇数节点，第二个节点视为偶数节点，以此类推。</li>
 </ul>
 
-**标签:	**[链表](https://leetcode-cn.com/tag/linked-list) 
+**标签:**  [链表](https://leetcode-cn.com/tag/linked-list) 
  ### 相似题目
 - 中等:	[分隔链表](https://leetcode-cn.com/problems/split-linked-list-in-parts) 

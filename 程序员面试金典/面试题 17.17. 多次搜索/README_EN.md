@@ -23,4 +23,4 @@ smalls = [&quot;is&quot;,&quot;ppi&quot;,&quot;hi&quot;,&quot;sis&quot;,&quot;i&
 	<li>All characters are lowercase letters.</li>
 </ul>
 
-**Related Topics	**[Trie](https://leetcode-cn.com/tag/trie) [String](https://leetcode-cn.com/tag/string) 
+**Related Topics**  [Trie](https://leetcode-cn.com/tag/trie) [String](https://leetcode-cn.com/tag/string) 

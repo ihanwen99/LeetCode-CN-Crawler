@@ -36,4 +36,4 @@
 	<li><code>1 &lt;= s.length &lt;= 5 x 10^5</code></li>
 	<li><code>s</code>&nbsp;contains only lowercase English letters.</li>
 </ul>
-**Related Topic	**[String](https://leetcode-cn.com/tag/string) 
+**Related Topic**  [String](https://leetcode-cn.com/tag/string) 

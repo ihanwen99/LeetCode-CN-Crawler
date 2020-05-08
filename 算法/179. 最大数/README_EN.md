@@ -19,4 +19,4 @@
 
 <p><strong>Note:</strong> The result may be very large, so you need to return a string instead of an integer.</p>
 
-**Related Topic	**[Sort](https://leetcode-cn.com/tag/sort) 
+**Related Topic**  [Sort](https://leetcode-cn.com/tag/sort) 

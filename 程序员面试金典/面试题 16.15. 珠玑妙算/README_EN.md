@@ -29,4 +29,4 @@
 	<li>There are only <code>&quot;R&quot;</code>,<code>&quot;G&quot;</code>,<code>&quot;B&quot;</code>,<code>&quot;Y&quot;</code> in <code>solution</code>&nbsp;and&nbsp;<code>guess</code>.</li>
 </ul>
 
-**Related Topic	**[Array](https://leetcode-cn.com/tag/array) 
+**Related Topic**  [Array](https://leetcode-cn.com/tag/array) 

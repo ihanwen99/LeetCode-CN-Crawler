@@ -59,7 +59,7 @@
 <strong>Explanation:</strong> The number &quot;-91283472332&quot; is out of the range of a 32-bit signed integer.
 &nbsp;            Thefore INT_MIN (&minus;2<sup>31</sup>) is returned.</pre>
 
-**Related Topics	**[Math](https://leetcode-cn.com/tag/math) [String](https://leetcode-cn.com/tag/string) 
+**Related Topics**  [Math](https://leetcode-cn.com/tag/math) [String](https://leetcode-cn.com/tag/string) 
 
 ### Similar Questions
  - Easy:	[Reverse Integer](https://leetcode-cn.com/problems/reverse-integer) 

@@ -46,4 +46,4 @@ Islands in gray are closed because they are completely surrounded by water (grou
 	<li><code>1 &lt;= grid.length, grid[0].length &lt;= 100</code></li>
 	<li><code>0 &lt;= grid[i][j] &lt;=1</code></li>
 </ul>
-**Related Topic	**[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) 
+**Related Topic**  [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) 

@@ -24,7 +24,7 @@
 	<li><code>K</code> will be an integer in the range <code>[0, 10^9]</code>.</li>
 </ul>
 
-**Related Topic	**[Binary Search](https://leetcode-cn.com/tag/binary-search) 
+**Related Topic**  [Binary Search](https://leetcode-cn.com/tag/binary-search) 
 
 ### Similar Question
  - Easy:	[Factorial Trailing Zeroes](https://leetcode-cn.com/problems/factorial-trailing-zeroes) 

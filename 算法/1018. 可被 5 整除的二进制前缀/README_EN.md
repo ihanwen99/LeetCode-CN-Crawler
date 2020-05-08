@@ -45,4 +45,4 @@ The input numbers in binary are 0, 01, 011; which are 0, 1, and 3 in base-10.  O
 	<li><code>A[i]</code> is <code>0</code> or <code>1</code></li>
 </ol>
 
-**Related Topic	**[Array](https://leetcode-cn.com/tag/array) 
+**Related Topic**  [Array](https://leetcode-cn.com/tag/array) 

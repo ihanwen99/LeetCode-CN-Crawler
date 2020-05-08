@@ -30,4 +30,4 @@
 
 <p><strong>提示：</strong>任何试图绕过评判的解决方案都将导致比赛资格被取消。</p>
 
-**标签:	**[极小化极大](https://leetcode-cn.com/tag/minimax) 
+**标签:**  [极小化极大](https://leetcode-cn.com/tag/minimax) 

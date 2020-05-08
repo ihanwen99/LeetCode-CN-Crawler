@@ -42,7 +42,7 @@ s: &quot;abab&quot; p: &quot;ab&quot;
 起始索引等于 2 的子串是 &quot;ab&quot;, 它是 &quot;ab&quot; 的字母异位词。
 </pre>
 
-**标签:	**[哈希表](https://leetcode-cn.com/tag/hash-table) 
+**标签:**  [哈希表](https://leetcode-cn.com/tag/hash-table) 
  ### 相似题目
 - 简单:	[有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram) 
 - 中等:	[字符串的排列](https://leetcode-cn.com/problems/permutation-in-string) 

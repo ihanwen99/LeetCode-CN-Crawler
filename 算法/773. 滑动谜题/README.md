@@ -50,4 +50,4 @@
 	<li><code>board[i][j]</code>&nbsp;是一个&nbsp;<code>[0, 1, 2, 3, 4, 5]</code>&nbsp;的排列.</li>
 </ul>
 
-**标签:	**[广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search) 
+**标签:**  [广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search) 

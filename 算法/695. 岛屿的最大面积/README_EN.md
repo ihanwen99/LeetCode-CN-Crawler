@@ -28,7 +28,7 @@ Given the above grid, return <code>0</code>.
 
 <p><b>Note:</b> The length of each dimension in the given <code>grid</code> does not exceed 50.</p>
 
-**Related Topics	**[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) [Array](https://leetcode-cn.com/tag/array) 
+**Related Topics**  [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) [Array](https://leetcode-cn.com/tag/array) 
 
 ### Similar Questions
  - Medium:	[Number of Islands](https://leetcode-cn.com/problems/number-of-islands) 

@@ -19,7 +19,7 @@
 <strong>Explanation:</strong> Because the path 1&rarr;3&rarr;1&rarr;1&rarr;1 minimizes the sum.
 </pre>
 
-**Related Topics	**[Array](https://leetcode-cn.com/tag/array) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topics**  [Array](https://leetcode-cn.com/tag/array) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
 
 ### Similar Questions
  - Medium:	[Unique Paths](https://leetcode-cn.com/problems/unique-paths) 

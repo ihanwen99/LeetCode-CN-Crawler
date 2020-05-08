@@ -51,4 +51,4 @@ public:
 	<li>It&#39;s also guaranteed that <code>f(x, y)</code> will fit in 32 bit signed integer if <code>1 &lt;= x, y &lt;= 1000</code></li>
 </ul>
 
-**Related Topics	**[Math](https://leetcode-cn.com/tag/math) [Binary Search](https://leetcode-cn.com/tag/binary-search) 
+**Related Topics**  [Math](https://leetcode-cn.com/tag/math) [Binary Search](https://leetcode-cn.com/tag/binary-search) 

@@ -24,4 +24,4 @@
 [null, null, null, null, 2, 1, 3]
 </pre>
 
-**标签:	**[设计](https://leetcode-cn.com/tag/design) 
+**标签:**  [设计](https://leetcode-cn.com/tag/design) 

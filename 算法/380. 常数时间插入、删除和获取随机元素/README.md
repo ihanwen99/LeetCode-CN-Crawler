@@ -38,6 +38,6 @@ randomSet.insert(2);
 randomSet.getRandom();
 </pre>
 
-**标签:	**[设计](https://leetcode-cn.com/tag/design) [数组](https://leetcode-cn.com/tag/array) [哈希表](https://leetcode-cn.com/tag/hash-table) 
+**标签:**  [设计](https://leetcode-cn.com/tag/design) [数组](https://leetcode-cn.com/tag/array) [哈希表](https://leetcode-cn.com/tag/hash-table) 
  ### 相似题目
 - 困难:	[O(1) 时间插入、删除和获取随机元素 - 允许重复](https://leetcode-cn.com/problems/insert-delete-getrandom-o1-duplicates-allowed) 

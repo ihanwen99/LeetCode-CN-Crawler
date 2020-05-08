@@ -18,7 +18,7 @@ For example, given <i>n</i> = 3, a solution set is:
   "()()()"
 ]
 </pre>
-**Related Topics	**[String](https://leetcode-cn.com/tag/string) [Backtracking](https://leetcode-cn.com/tag/backtracking) 
+**Related Topics**  [String](https://leetcode-cn.com/tag/string) [Backtracking](https://leetcode-cn.com/tag/backtracking) 
 
 ### Similar Questions
  - Medium:	[Letter Combinations of a Phone Number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number) 

@@ -38,7 +38,7 @@
 <strong>Output:</strong> &quot;2314&quot;
 </pre>
 
-**Related Topics	**[Math](https://leetcode-cn.com/tag/math) [Backtracking](https://leetcode-cn.com/tag/backtracking) 
+**Related Topics**  [Math](https://leetcode-cn.com/tag/math) [Backtracking](https://leetcode-cn.com/tag/backtracking) 
 
 ### Similar Questions
  - Medium:	[Next Permutation](https://leetcode-cn.com/problems/next-permutation) 

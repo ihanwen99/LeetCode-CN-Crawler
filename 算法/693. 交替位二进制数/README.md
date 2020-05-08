@@ -40,6 +40,6 @@
 10的二进制数是: 1010
 </pre>
 
-**标签:	**[位运算](https://leetcode-cn.com/tag/bit-manipulation) 
+**标签:**  [位运算](https://leetcode-cn.com/tag/bit-manipulation) 
  ### 相似题目
 - 简单:	[位1的个数](https://leetcode-cn.com/problems/number-of-1-bits) 

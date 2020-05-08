@@ -23,4 +23,4 @@
 	<li>字符串长度在[1, 9]之间。</li>
 </ol>
 
-**标签:	**[回溯算法](https://leetcode-cn.com/tag/backtracking) 
+**标签:**  [回溯算法](https://leetcode-cn.com/tag/backtracking) 

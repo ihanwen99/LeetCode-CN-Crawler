@@ -15,7 +15,7 @@
 1 的右侧有 <strong>0 </strong>个更小的元素.
 </pre>
 
-**标签:	**[排序](https://leetcode-cn.com/tag/sort) [树状数组](https://leetcode-cn.com/tag/binary-indexed-tree) [线段树](https://leetcode-cn.com/tag/segment-tree) [二分查找](https://leetcode-cn.com/tag/binary-search) [分治算法](https://leetcode-cn.com/tag/divide-and-conquer) 
+**标签:**  [排序](https://leetcode-cn.com/tag/sort) [树状数组](https://leetcode-cn.com/tag/binary-indexed-tree) [线段树](https://leetcode-cn.com/tag/segment-tree) [二分查找](https://leetcode-cn.com/tag/binary-search) [分治算法](https://leetcode-cn.com/tag/divide-and-conquer) 
  ### 相似题目
 - 困难:	[区间和的个数](https://leetcode-cn.com/problems/count-of-range-sum) 
 - 中等:	[根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height) 

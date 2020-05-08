@@ -30,4 +30,4 @@
              The third child gets 1 candy because it satisfies the above two conditions.
 </pre>
 
-**Related Topic	**[Greedy](https://leetcode-cn.com/tag/greedy) 
+**Related Topic**  [Greedy](https://leetcode-cn.com/tag/greedy) 

@@ -14,7 +14,7 @@
 <p><strong>进阶:</strong><br>
 你可以不使用循环或者递归，且在 O(1) 时间复杂度内解决这个问题吗？</p>
 
-**标签:	**[数学](https://leetcode-cn.com/tag/math) 
+**标签:**  [数学](https://leetcode-cn.com/tag/math) 
  ### 相似题目
 - 简单:	[快乐数](https://leetcode-cn.com/problems/happy-number) 
 - 简单:	[最小元素各数位之和](https://leetcode-cn.com/problems/sum-of-digits-in-the-minimum-number) 

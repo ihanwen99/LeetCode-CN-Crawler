@@ -63,4 +63,4 @@ Day 7: [0, 0, 1, 1, 0, 0, 0, 0]</span>
 </div>
 </div>
 
-**Related Topic	**[Hash Table](https://leetcode-cn.com/tag/hash-table) 
+**Related Topic**  [Hash Table](https://leetcode-cn.com/tag/hash-table) 

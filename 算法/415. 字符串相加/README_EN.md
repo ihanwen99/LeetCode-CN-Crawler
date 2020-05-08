@@ -12,7 +12,7 @@
 <li>You <b>must not use any built-in BigInteger library</b> or <b>convert the inputs to integer</b> directly.</li>
 </ol>
 </p>
-**Related Topic	**[String](https://leetcode-cn.com/tag/string) 
+**Related Topic**  [String](https://leetcode-cn.com/tag/string) 
 
 ### Similar Questions
  - Medium:	[Add Two Numbers](https://leetcode-cn.com/problems/add-two-numbers) 

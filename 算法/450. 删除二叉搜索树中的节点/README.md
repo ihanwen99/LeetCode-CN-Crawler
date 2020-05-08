@@ -44,6 +44,6 @@ key = 3
     4   7
 </pre>
 
-**标签:	**[树](https://leetcode-cn.com/tag/tree) 
+**标签:**  [树](https://leetcode-cn.com/tag/tree) 
  ### 相似题目
 - 中等:	[拆分二叉搜索树](https://leetcode-cn.com/problems/split-bst) 

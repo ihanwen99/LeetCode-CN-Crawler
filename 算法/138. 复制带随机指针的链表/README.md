@@ -56,6 +56,6 @@
 	<li>节点数目不超过 1000 。</li>
 </ul>
 
-**标签:	**[哈希表](https://leetcode-cn.com/tag/hash-table) [链表](https://leetcode-cn.com/tag/linked-list) 
+**标签:**  [哈希表](https://leetcode-cn.com/tag/hash-table) [链表](https://leetcode-cn.com/tag/linked-list) 
  ### 相似题目
 - 中等:	[克隆图](https://leetcode-cn.com/problems/clone-graph) 

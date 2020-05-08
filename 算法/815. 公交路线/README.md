@@ -25,4 +25,4 @@ T = 6
 	<li><code>0 &lt;= routes[i][j] &lt; 10 ^ 6</code>.</li>
 </ul>
 
-**标签:	**[广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search) 
+**标签:**  [广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search) 

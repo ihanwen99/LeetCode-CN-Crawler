@@ -17,7 +17,7 @@ Given a circular array (the next element of the last element is the first elemen
 <p><b>Note:</b>
 The length of given array won't exceed 10000.
 </p>
-**Related Topic	**[Stack](https://leetcode-cn.com/tag/stack) 
+**Related Topic**  [Stack](https://leetcode-cn.com/tag/stack) 
 
 ### Similar Questions
  - Easy:	[Next Greater Element I](https://leetcode-cn.com/problems/next-greater-element-i) 

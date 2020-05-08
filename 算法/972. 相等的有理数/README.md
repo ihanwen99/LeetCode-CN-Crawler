@@ -53,4 +53,4 @@
 	<li><code>1 &lt;= &lt;RepeatingPart&gt;.length &lt;= 4 </code></li>
 </ol>
 
-**标签:	**[数学](https://leetcode-cn.com/tag/math) 
+**标签:**  [数学](https://leetcode-cn.com/tag/math) 

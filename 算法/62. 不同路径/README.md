@@ -39,7 +39,7 @@
 	<li>题目数据保证答案小于等于 <code>2 * 10 ^ 9</code></li>
 </ul>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
  ### 相似题目
 - 中等:	[不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii) 
 - 中等:	[最小路径和](https://leetcode-cn.com/problems/minimum-path-sum) 

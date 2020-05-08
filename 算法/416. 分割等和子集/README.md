@@ -33,6 +33,6 @@
 
 <p>&nbsp;</p>
 
-**标签:	**[动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
  ### 相似题目
 - 中等:	[划分为k个相等的子集](https://leetcode-cn.com/problems/partition-to-k-equal-sum-subsets) 

@@ -51,4 +51,4 @@
 	<li><code>0 &lt;= colsum[i] &lt;= 2</code></li>
 </ul>
 
-**Related Topics	**[Greedy](https://leetcode-cn.com/tag/greedy) [Math](https://leetcode-cn.com/tag/math) 
+**Related Topics**  [Greedy](https://leetcode-cn.com/tag/greedy) [Math](https://leetcode-cn.com/tag/math) 

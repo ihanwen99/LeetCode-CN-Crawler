@@ -26,7 +26,7 @@ Then the 1st smallest distance pair is (1,1), and its distance is 0.
 <li><code>1 <= k <= len(nums) * (len(nums) - 1) / 2</code>.</li>
 </ol>
 </p>
-**Related Topics	**[Heap](https://leetcode-cn.com/tag/heap) [Array](https://leetcode-cn.com/tag/array) [Binary Search](https://leetcode-cn.com/tag/binary-search) 
+**Related Topics**  [Heap](https://leetcode-cn.com/tag/heap) [Array](https://leetcode-cn.com/tag/array) [Binary Search](https://leetcode-cn.com/tag/binary-search) 
 
 ### Similar Questions
  - Medium:	[Find K Pairs with Smallest Sums](https://leetcode-cn.com/problems/find-k-pairs-with-smallest-sums) 

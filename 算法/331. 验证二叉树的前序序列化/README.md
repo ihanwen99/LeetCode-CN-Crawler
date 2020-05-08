@@ -37,4 +37,4 @@
 <pre><strong>输入: </strong><code>&quot;9,#,#,1&quot;</code>
 <strong>输出: </strong><code>false</code></pre>
 
-**标签:	**[栈](https://leetcode-cn.com/tag/stack) 
+**标签:**  [栈](https://leetcode-cn.com/tag/stack) 

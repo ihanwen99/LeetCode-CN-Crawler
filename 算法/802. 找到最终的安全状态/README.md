@@ -28,4 +28,4 @@
 	<li>每个 <code>graph[i]</code> 被排序为不同的整数列表， 在区间 <code>[0, graph.length - 1]</code>&nbsp;中选取。</li>
 </ul>
 
-**标签:	**[深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) [图](https://leetcode-cn.com/tag/graph) 
+**标签:**  [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) [图](https://leetcode-cn.com/tag/graph) 

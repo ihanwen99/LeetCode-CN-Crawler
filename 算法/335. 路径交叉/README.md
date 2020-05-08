@@ -41,4 +41,4 @@
 <strong>输出:</strong> true 
 </pre>
 
-**标签:	**[数学](https://leetcode-cn.com/tag/math) 
+**标签:**  [数学](https://leetcode-cn.com/tag/math) 

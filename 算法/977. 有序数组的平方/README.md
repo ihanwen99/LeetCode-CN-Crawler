@@ -28,7 +28,7 @@
 	<li><code>A</code>&nbsp;已按非递减顺序排序。</li>
 </ol>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) [双指针](https://leetcode-cn.com/tag/two-pointers) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) [双指针](https://leetcode-cn.com/tag/two-pointers) 
  ### 相似题目
 - 简单:	[合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array) 
 - 中等:	[有序转化数组](https://leetcode-cn.com/problems/sort-transformed-array) 

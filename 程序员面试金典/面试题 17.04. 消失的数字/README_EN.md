@@ -21,4 +21,4 @@
 <strong>Output: </strong>8
 </pre>
 
-**Related Topics	**[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) [Array](https://leetcode-cn.com/tag/array) [Math](https://leetcode-cn.com/tag/math) 
+**Related Topics**  [Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) [Array](https://leetcode-cn.com/tag/array) [Math](https://leetcode-cn.com/tag/math) 

@@ -35,4 +35,4 @@
 	<li>钥匙的数目范围是&nbsp;<code>[1, 6]</code>，每个钥匙都对应一个不同的字母，正好打开一个对应的锁。</li>
 </ol>
 
-**标签:	**[堆](https://leetcode-cn.com/tag/heap) [广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search) 
+**标签:**  [堆](https://leetcode-cn.com/tag/heap) [广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search) 

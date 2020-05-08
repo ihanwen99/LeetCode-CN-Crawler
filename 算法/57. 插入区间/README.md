@@ -19,7 +19,7 @@
 <strong>解释:</strong> 这是因为新的区间 <code>[4,8]</code> 与 <code>[3,5],[6,7],[8,10]</code>&nbsp;重叠。
 </pre>
 
-**标签:	**[排序](https://leetcode-cn.com/tag/sort) [数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [排序](https://leetcode-cn.com/tag/sort) [数组](https://leetcode-cn.com/tag/array) 
  ### 相似题目
 - 中等:	[合并区间](https://leetcode-cn.com/problems/merge-intervals) 
 - 困难:	[Range 模块](https://leetcode-cn.com/problems/range-module) 

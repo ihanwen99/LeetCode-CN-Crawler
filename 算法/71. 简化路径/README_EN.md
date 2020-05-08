@@ -55,4 +55,4 @@
 <strong>Output: &quot;</strong><span id="example-output-1">/a/b/c&quot;</span>
 </pre>
 
-**Related Topics	**[Stack](https://leetcode-cn.com/tag/stack) [String](https://leetcode-cn.com/tag/string) 
+**Related Topics**  [Stack](https://leetcode-cn.com/tag/stack) [String](https://leetcode-cn.com/tag/string) 

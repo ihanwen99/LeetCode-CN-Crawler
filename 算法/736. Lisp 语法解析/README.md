@@ -68,7 +68,7 @@
 
 <p>&nbsp;</p>
 
-**标签:	**[字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [字符串](https://leetcode-cn.com/tag/string) 
  ### 相似题目
 - 中等:	[三元表达式解析器](https://leetcode-cn.com/problems/ternary-expression-parser) 
 - 困难:	[原子的数量](https://leetcode-cn.com/problems/number-of-atoms) 

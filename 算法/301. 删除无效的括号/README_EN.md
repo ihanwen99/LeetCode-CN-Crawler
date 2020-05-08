@@ -26,7 +26,7 @@
 <b>Input:</b> &quot;)(&quot;
 <b>Output: </b>[&quot;&quot;]
 </pre>
-**Related Topics	**[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) [Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search) 
+**Related Topics**  [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) [Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search) 
 
 ### Similar Question
  - Easy:	[Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses) 

@@ -31,7 +31,7 @@
 </div>
 </div>
 
-**Related Topics	**[Array](https://leetcode-cn.com/tag/array) [Hash Table](https://leetcode-cn.com/tag/hash-table) 
+**Related Topics**  [Array](https://leetcode-cn.com/tag/array) [Hash Table](https://leetcode-cn.com/tag/hash-table) 
 
 ### Similar Questions
  - Easy:	[Contains Duplicate](https://leetcode-cn.com/problems/contains-duplicate) 

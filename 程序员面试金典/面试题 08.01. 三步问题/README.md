@@ -25,4 +25,4 @@
 <li>n范围在[1, 1000000]之间</li>
 </ol>
 
-**标签:	**[动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 

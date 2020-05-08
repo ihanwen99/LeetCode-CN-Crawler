@@ -38,7 +38,7 @@ Target = 28
 
 <p>&nbsp;</p>
 
-**标签:	**[树](https://leetcode-cn.com/tag/tree) 
+**标签:**  [树](https://leetcode-cn.com/tag/tree) 
  ### 相似题目
 - 简单:	[两数之和](https://leetcode-cn.com/problems/two-sum) 
 - 简单:	[两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted) 

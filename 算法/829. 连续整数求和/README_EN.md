@@ -27,4 +27,4 @@
 
 <p><strong>Note:</strong>&nbsp;<code>1 &lt;= N &lt;= 10 ^ 9</code>.</p>
 
-**Related Topic	**[Math](https://leetcode-cn.com/tag/math) 
+**Related Topic**  [Math](https://leetcode-cn.com/tag/math) 

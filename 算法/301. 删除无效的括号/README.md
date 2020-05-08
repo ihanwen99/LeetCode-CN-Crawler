@@ -23,6 +23,6 @@
 <pre><strong>输入:</strong> &quot;)(&quot;
 <strong>输出: </strong>[&quot;&quot;]</pre>
 
-**标签:	**[深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) [广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search) 
+**标签:**  [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) [广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search) 
  ### 相似题目
 - 简单:	[有效的括号](https://leetcode-cn.com/problems/valid-parentheses) 

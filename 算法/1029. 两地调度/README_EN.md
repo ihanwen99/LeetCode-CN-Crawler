@@ -31,4 +31,4 @@ The total minimum cost is 10 + 30 + 50 + 20 = 110 to have half the people interv
 	<li>It is guaranteed that <code>costs.length</code> is even.</li>
 	<li><code>1 &lt;= costs[i][0], costs[i][1] &lt;= 1000</code></li>
 </ol>
-**Related Topic	**[Greedy](https://leetcode-cn.com/tag/greedy) 
+**Related Topic**  [Greedy](https://leetcode-cn.com/tag/greedy) 

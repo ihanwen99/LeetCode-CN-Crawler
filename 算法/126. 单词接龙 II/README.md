@@ -44,6 +44,6 @@ wordList = [&quot;hot&quot;,&quot;dot&quot;,&quot;dog&quot;,&quot;lot&quot;,&quo
 
 <strong>解释:</strong>&nbsp;<em>endWord</em> &quot;cog&quot; 不在字典中，所以不存在符合要求的转换序列。</pre>
 
-**标签:	**[广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search) [数组](https://leetcode-cn.com/tag/array) [字符串](https://leetcode-cn.com/tag/string) [回溯算法](https://leetcode-cn.com/tag/backtracking) 
+**标签:**  [广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search) [数组](https://leetcode-cn.com/tag/array) [字符串](https://leetcode-cn.com/tag/string) [回溯算法](https://leetcode-cn.com/tag/backtracking) 
  ### 相似题目
 - 中等:	[单词接龙](https://leetcode-cn.com/problems/word-ladder) 

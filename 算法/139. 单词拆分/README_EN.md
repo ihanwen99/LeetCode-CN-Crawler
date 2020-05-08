@@ -35,7 +35,7 @@
 <strong>Output:</strong> false
 </pre>
 
-**Related Topic	**[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topic**  [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
 
 ### Similar Question
  - Hard:	[Word Break II](https://leetcode-cn.com/problems/word-break-ii) 

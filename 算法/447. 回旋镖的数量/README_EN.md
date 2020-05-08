@@ -21,7 +21,7 @@ The two boomerangs are <b>[[1,0],[0,0],[2,0]]</b> and <b>[[1,0],[2,0],[0,0]]</b>
 
 <p>&nbsp;</p>
 
-**Related Topic	**[Hash Table](https://leetcode-cn.com/tag/hash-table) 
+**Related Topic**  [Hash Table](https://leetcode-cn.com/tag/hash-table) 
 
 ### Similar Question
  - Medium:	[Line Reflection](https://leetcode-cn.com/problems/line-reflection) 

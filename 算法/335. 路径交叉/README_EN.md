@@ -44,4 +44,4 @@ Input:</strong> <code>[1,1,1,1]</code>
 <strong>Output:</strong> true 
 </pre>
 
-**Related Topic	**[Math](https://leetcode-cn.com/tag/math) 
+**Related Topic**  [Math](https://leetcode-cn.com/tag/math) 

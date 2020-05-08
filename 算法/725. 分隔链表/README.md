@@ -47,7 +47,7 @@ root = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10], k = 3
 
 <p>&nbsp;</p>
 
-**标签:	**[链表](https://leetcode-cn.com/tag/linked-list) 
+**标签:**  [链表](https://leetcode-cn.com/tag/linked-list) 
  ### 相似题目
 - 中等:	[旋转链表](https://leetcode-cn.com/problems/rotate-list) 
 - 中等:	[奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list) 

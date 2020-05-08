@@ -33,7 +33,7 @@ Window position                Max
 	<li><code>1 &lt;= k&nbsp;&lt;= nums.length</code></li>
 </ul>
 
-**Related Topics	**[Heap](https://leetcode-cn.com/tag/heap) [Sliding Window](https://leetcode-cn.com/tag/sliding-window) 
+**Related Topics**  [Heap](https://leetcode-cn.com/tag/heap) [Sliding Window](https://leetcode-cn.com/tag/sliding-window) 
 
 ### Similar Questions
  - Hard:	[Minimum Window Substring](https://leetcode-cn.com/problems/minimum-window-substring) 

@@ -24,7 +24,7 @@
 <p><b>Note:</b>
 The length of the given binary array will not exceed 50,000.
 </p>
-**Related Topic	**[Hash Table](https://leetcode-cn.com/tag/hash-table) 
+**Related Topic**  [Hash Table](https://leetcode-cn.com/tag/hash-table) 
 
 ### Similar Question
  - Medium:	[Maximum Size Subarray Sum Equals k](https://leetcode-cn.com/problems/maximum-size-subarray-sum-equals-k) 

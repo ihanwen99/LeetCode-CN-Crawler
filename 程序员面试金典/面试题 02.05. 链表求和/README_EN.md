@@ -22,4 +22,4 @@
 <strong>Output: </strong>9 -&gt; 1 -&gt; 2. That is, 912.
 </pre>
 
-**Related Topics	**[Linked List](https://leetcode-cn.com/tag/linked-list) [Math](https://leetcode-cn.com/tag/math) 
+**Related Topics**  [Linked List](https://leetcode-cn.com/tag/linked-list) [Math](https://leetcode-cn.com/tag/math) 

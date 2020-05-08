@@ -23,6 +23,6 @@
 	<li>数组里整数的范围为 [0, 1000]。</li>
 </ol>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) 
  ### 相似题目
 - 中等:	[较小的三数之和](https://leetcode-cn.com/problems/3sum-smaller) 

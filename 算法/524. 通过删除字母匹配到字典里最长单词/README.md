@@ -32,6 +32,6 @@ s = &quot;abpcplea&quot;, d = [&quot;a&quot;,&quot;b&quot;,&quot;c&quot;]
 	<li>所有输入的字符串长度不会超过 1000。</li>
 </ol>
 
-**标签:	**[排序](https://leetcode-cn.com/tag/sort) [双指针](https://leetcode-cn.com/tag/two-pointers) 
+**标签:**  [排序](https://leetcode-cn.com/tag/sort) [双指针](https://leetcode-cn.com/tag/two-pointers) 
  ### 相似题目
 - 简单:	[词典中最长的单词](https://leetcode-cn.com/problems/longest-word-in-dictionary) 

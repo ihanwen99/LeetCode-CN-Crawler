@@ -35,7 +35,7 @@
 <p><strong>更新(2017/9/19):</strong><br />
 这个参数 <em>arr</em> 已经被改变为一个<strong>整数数组</strong>（而不是整数列表）。<strong><em>&nbsp;请重新加载代码定义以获取最新更改。</em></strong></p>
 
-**标签:	**[二分查找](https://leetcode-cn.com/tag/binary-search) 
+**标签:**  [二分查找](https://leetcode-cn.com/tag/binary-search) 
  ### 相似题目
 - 简单:	[猜数字大小](https://leetcode-cn.com/problems/guess-number-higher-or-lower) 
 - 中等:	[猜数字大小 II](https://leetcode-cn.com/problems/guess-number-higher-or-lower-ii) 

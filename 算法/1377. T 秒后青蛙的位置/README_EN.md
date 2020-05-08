@@ -48,4 +48,4 @@
 	<li><code>1 &lt;= target&nbsp;&lt;= n</code></li>
 	<li>Answers within <code>10^-5</code> of the actual value will be accepted as correct.</li>
 </ul>
-**Related Topic	**[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) 
+**Related Topic**  [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) 

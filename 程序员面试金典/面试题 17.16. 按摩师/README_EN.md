@@ -32,4 +32,4 @@
 <strong>Explanation: </strong> Accept request 1, 3, 5 and 8, total minutes = 2 + 4 + 3 + 3 = 12
 </pre>
 
-**Related Topic	**[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topic**  [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 

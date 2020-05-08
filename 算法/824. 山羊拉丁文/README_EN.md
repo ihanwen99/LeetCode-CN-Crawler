@@ -46,4 +46,4 @@
 	<li><code>1 &lt;= S.length &lt;= 150</code>.</li>
 </ul>
 
-**Related Topic	**[String](https://leetcode-cn.com/tag/string) 
+**Related Topic**  [String](https://leetcode-cn.com/tag/string) 

@@ -43,4 +43,4 @@
 	<li><code>s</code>&nbsp;中只含有小写英文字母。</li>
 </ul>
 
-**标签:	**[栈](https://leetcode-cn.com/tag/stack) 
+**标签:**  [栈](https://leetcode-cn.com/tag/stack) 

@@ -33,7 +33,7 @@ A student could be rewarded if his attendance record doesn't contain <b>more tha
 
 
 
-**Related Topic	**[String](https://leetcode-cn.com/tag/string) 
+**Related Topic**  [String](https://leetcode-cn.com/tag/string) 
 
 ### Similar Question
  - Hard:	[Student Attendance Record II](https://leetcode-cn.com/problems/student-attendance-record-ii) 

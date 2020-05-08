@@ -19,7 +19,7 @@
 <strong>Output:</strong> &quot;bb&quot;
 </pre>
 
-**Related Topics	**[String](https://leetcode-cn.com/tag/string) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topics**  [String](https://leetcode-cn.com/tag/string) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
 
 ### Similar Questions
  - Hard:	[Shortest Palindrome](https://leetcode-cn.com/problems/shortest-palindrome) 

@@ -18,7 +18,7 @@
 	<li>数组中元素的范围是 [-1000, 1000] ，且整数&nbsp;<strong>k&nbsp;</strong>的范围是&nbsp;[-1e7, 1e7]。</li>
 </ol>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) [哈希表](https://leetcode-cn.com/tag/hash-table) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) [哈希表](https://leetcode-cn.com/tag/hash-table) 
  ### 相似题目
 - 简单:	[两数之和](https://leetcode-cn.com/problems/two-sum) 
 - 中等:	[连续的子数组和](https://leetcode-cn.com/problems/continuous-subarray-sum) 

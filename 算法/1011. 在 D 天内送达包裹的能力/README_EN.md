@@ -58,4 +58,4 @@ A ship capacity of 6 is the minimum to ship all the packages in 3 days like this
 	<li><code>1 &lt;= D &lt;= weights.length &lt;= 50000</code></li>
 	<li><code>1 &lt;= weights[i] &lt;= 500</code></li>
 </ol>
-**Related Topics	**[Array](https://leetcode-cn.com/tag/array) [Binary Search](https://leetcode-cn.com/tag/binary-search) 
+**Related Topics**  [Array](https://leetcode-cn.com/tag/array) [Binary Search](https://leetcode-cn.com/tag/binary-search) 

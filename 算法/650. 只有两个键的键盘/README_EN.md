@@ -35,7 +35,7 @@ In step 3, we use <b>Paste</b> operation to get &#39;AAA&#39;.
 
 <p>&nbsp;</p>
 
-**Related Topic	**[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topic**  [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
 
 ### Similar Questions
  - Medium:	[4 Keys Keyboard](https://leetcode-cn.com/problems/4-keys-keyboard) 

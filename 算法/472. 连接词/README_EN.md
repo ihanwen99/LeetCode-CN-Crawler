@@ -23,7 +23,7 @@ Given a list of words (<b>without duplicates</b>), please write a program that r
 <li>The returned elements order does not matter. </li>
 </ol>
 </p>
-**Related Topics	**[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) [Trie](https://leetcode-cn.com/tag/trie) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topics**  [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) [Trie](https://leetcode-cn.com/tag/trie) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
 
 ### Similar Question
  - Hard:	[Word Break II](https://leetcode-cn.com/problems/word-break-ii) 

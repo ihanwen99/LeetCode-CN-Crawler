@@ -29,7 +29,7 @@
 	<li>All coordinates in rectangles will be between&nbsp;<code>-10^9 </code>and<code> 10^9</code>.</li>
 </ol>
 
-**Related Topic	**[Math](https://leetcode-cn.com/tag/math) 
+**Related Topic**  [Math](https://leetcode-cn.com/tag/math) 
 
 ### Similar Question
  - Medium:	[Rectangle Area](https://leetcode-cn.com/problems/rectangle-area) 

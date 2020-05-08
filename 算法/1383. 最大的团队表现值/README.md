@@ -43,4 +43,4 @@
 	<li><code>1 &lt;= k &lt;= n</code></li>
 </ul>
 
-**标签:	**[贪心算法](https://leetcode-cn.com/tag/greedy) [排序](https://leetcode-cn.com/tag/sort) 
+**标签:**  [贪心算法](https://leetcode-cn.com/tag/greedy) [排序](https://leetcode-cn.com/tag/sort) 

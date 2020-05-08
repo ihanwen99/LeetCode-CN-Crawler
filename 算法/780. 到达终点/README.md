@@ -30,4 +30,4 @@
 	<li><code>sx, sy, tx, ty</code>&nbsp;是范围在&nbsp;<code>[1, 10^9]</code>&nbsp;的整数。</li>
 </ul>
 
-**标签:	**[数学](https://leetcode-cn.com/tag/math) 
+**标签:**  [数学](https://leetcode-cn.com/tag/math) 

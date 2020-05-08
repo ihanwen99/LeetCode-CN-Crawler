@@ -17,4 +17,4 @@
 	<li><code>numbers.length == 2</code></li>
 </ul>
 
-**Related Topics	**[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) [Math](https://leetcode-cn.com/tag/math) 
+**Related Topics**  [Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) [Math](https://leetcode-cn.com/tag/math) 

@@ -33,4 +33,4 @@
 <strong>解释:</strong> 在位置1, 4上有两个供暖器。我们需要将加热半径设为1，这样所有房屋就都能得到供暖。
 </pre>
 
-**标签:	**[二分查找](https://leetcode-cn.com/tag/binary-search) 
+**标签:**  [二分查找](https://leetcode-cn.com/tag/binary-search) 

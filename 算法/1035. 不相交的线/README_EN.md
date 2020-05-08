@@ -53,7 +53,7 @@ We cannot draw 3 uncrossed lines, because the line from A[1]=4 to B[2]=4 will in
 	<li><code><font face="monospace">1 &lt;= A[i], B[i] &lt;= 2000</font></code></li>
 </ol>
 
-**Related Topic	**[Array](https://leetcode-cn.com/tag/array) 
+**Related Topic**  [Array](https://leetcode-cn.com/tag/array) 
 
 ### Similar Question
  - Hard:	[Edit Distance](https://leetcode-cn.com/problems/edit-distance) 

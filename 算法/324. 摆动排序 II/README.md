@@ -20,7 +20,7 @@
 <p><strong>进阶:</strong><br>
 你能用&nbsp;O(n) 时间复杂度和 / 或原地 O(1) 额外空间来实现吗？</p>
 
-**标签:	**[排序](https://leetcode-cn.com/tag/sort) 
+**标签:**  [排序](https://leetcode-cn.com/tag/sort) 
  ### 相似题目
 - 中等:	[颜色分类](https://leetcode-cn.com/problems/sort-colors) 
 - 中等:	[数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array) 

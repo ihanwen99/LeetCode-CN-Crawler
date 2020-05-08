@@ -61,7 +61,7 @@
 &nbsp;    因此返回 INT_MIN (&minus;2<sup>31</sup>) 。
 </pre>
 
-**标签:	**[数学](https://leetcode-cn.com/tag/math) [字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [数学](https://leetcode-cn.com/tag/math) [字符串](https://leetcode-cn.com/tag/string) 
  ### 相似题目
 - 简单:	[整数反转](https://leetcode-cn.com/problems/reverse-integer) 
 - 困难:	[有效数字](https://leetcode-cn.com/problems/valid-number) 

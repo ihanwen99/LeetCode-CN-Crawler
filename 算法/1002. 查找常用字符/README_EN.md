@@ -35,7 +35,7 @@
 </ol>
 </div>
 </div>
-**Related Topics	**[Array](https://leetcode-cn.com/tag/array) [Hash Table](https://leetcode-cn.com/tag/hash-table) 
+**Related Topics**  [Array](https://leetcode-cn.com/tag/array) [Hash Table](https://leetcode-cn.com/tag/hash-table) 
 
 ### Similar Question
  - Easy:	[Intersection of Two Arrays II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii) 

@@ -53,4 +53,4 @@ The robot moves from (0, 0) -&gt; (0, 1) -&gt; (-1, 1) -&gt; (-1, 0) -&gt; (0, 0
 	<li><code>instructions[i]</code> is in <code>{&#39;G&#39;, &#39;L&#39;, &#39;R&#39;}</code></li>
 </ol>
 
-**Related Topic	**[Math](https://leetcode-cn.com/tag/math) 
+**Related Topic**  [Math](https://leetcode-cn.com/tag/math) 

@@ -27,4 +27,4 @@ which are both strictly increasing.
 	<li><code>A[i], B[i]</code> are integer values in the range <code>[0, 2000]</code>.</li>
 </ul>
 
-**Related Topic	**[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topic**  [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 

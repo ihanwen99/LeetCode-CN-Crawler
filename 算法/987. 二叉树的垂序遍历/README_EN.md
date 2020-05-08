@@ -58,4 +58,4 @@ However, in the report &quot;[1,5,6]&quot;, the node value of 5 comes first sinc
 <div>&nbsp;</div>
 </div>
 
-**Related Topics	**[Tree](https://leetcode-cn.com/tag/tree) [Hash Table](https://leetcode-cn.com/tag/hash-table) 
+**Related Topics**  [Tree](https://leetcode-cn.com/tag/tree) [Hash Table](https://leetcode-cn.com/tag/hash-table) 

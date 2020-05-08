@@ -31,7 +31,7 @@
 	<li>You may assume the sum of all the numbers is in the range of a signed 32-bit integer.</li>
 </ol>
 
-**Related Topics	**[Math](https://leetcode-cn.com/tag/math) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topics**  [Math](https://leetcode-cn.com/tag/math) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
 
 ### Similar Question
  - Medium:	[Subarray Sum Equals K](https://leetcode-cn.com/problems/subarray-sum-equals-k) 

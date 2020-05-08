@@ -16,7 +16,7 @@
 所以返回 [<strong>0, 1</strong>]
 </pre>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) [哈希表](https://leetcode-cn.com/tag/hash-table) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) [哈希表](https://leetcode-cn.com/tag/hash-table) 
  ### 相似题目
 - 中等:	[三数之和](https://leetcode-cn.com/problems/3sum) 
 - 中等:	[四数之和](https://leetcode-cn.com/problems/4sum) 

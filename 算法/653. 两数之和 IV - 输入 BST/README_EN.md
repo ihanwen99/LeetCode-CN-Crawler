@@ -38,7 +38,7 @@ Target = 28
 
 <p>&nbsp;</p>
 
-**Related Topic	**[Tree](https://leetcode-cn.com/tag/tree) 
+**Related Topic**  [Tree](https://leetcode-cn.com/tag/tree) 
 
 ### Similar Questions
  - Easy:	[Two Sum](https://leetcode-cn.com/problems/two-sum) 

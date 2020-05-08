@@ -41,7 +41,7 @@
 
 <p>你能用 <em>O(1)</em>（即，常量）内存解决此问题吗？</p>
 
-**标签:	**[链表](https://leetcode-cn.com/tag/linked-list) [双指针](https://leetcode-cn.com/tag/two-pointers) 
+**标签:**  [链表](https://leetcode-cn.com/tag/linked-list) [双指针](https://leetcode-cn.com/tag/two-pointers) 
  ### 相似题目
 - 中等:	[环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii) 
 - 简单:	[快乐数](https://leetcode-cn.com/problems/happy-number) 

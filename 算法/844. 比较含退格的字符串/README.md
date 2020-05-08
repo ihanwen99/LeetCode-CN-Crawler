@@ -55,4 +55,4 @@
 
 <p>&nbsp;</p>
 
-**标签:	**[栈](https://leetcode-cn.com/tag/stack) [双指针](https://leetcode-cn.com/tag/two-pointers) 
+**标签:**  [栈](https://leetcode-cn.com/tag/stack) [双指针](https://leetcode-cn.com/tag/two-pointers) 

@@ -13,6 +13,6 @@
 <pre>给定 <code>1-&gt;2-&gt;3-&gt;4</code>, 你应该返回 <code>2-&gt;1-&gt;4-&gt;3</code>.
 </pre>
 
-**标签:	**[链表](https://leetcode-cn.com/tag/linked-list) 
+**标签:**  [链表](https://leetcode-cn.com/tag/linked-list) 
  ### 相似题目
 - 困难:	[K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group) 

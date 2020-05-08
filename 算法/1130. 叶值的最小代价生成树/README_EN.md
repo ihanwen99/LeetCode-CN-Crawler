@@ -36,4 +36,4 @@ There are two possible trees.  The first has non-leaf node sum 36, and the secon
 	<li><code>1 &lt;= arr[i] &lt;= 15</code></li>
 	<li>It is guaranteed that the answer fits into a 32-bit signed integer (ie.&nbsp;it is less than <code>2^31</code>).</li>
 </ul>
-**Related Topics	**[Stack](https://leetcode-cn.com/tag/stack) [Tree](https://leetcode-cn.com/tag/tree) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topics**  [Stack](https://leetcode-cn.com/tag/stack) [Tree](https://leetcode-cn.com/tag/tree) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 

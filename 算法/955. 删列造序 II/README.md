@@ -52,4 +52,4 @@ A 的列已经是按字典序排列了，所以我们不需要删除任何东西
 	<li><code>1 &lt;= A[i].length &lt;= 100</code></li>
 </ol>
 
-**标签:	**[贪心算法](https://leetcode-cn.com/tag/greedy) 
+**标签:**  [贪心算法](https://leetcode-cn.com/tag/greedy) 

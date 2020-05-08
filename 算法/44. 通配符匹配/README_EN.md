@@ -67,7 +67,7 @@ p = &quot;a*c?b&quot;
 <strong>Output:</strong> false
 </pre>
 
-**Related Topics	**[Greedy](https://leetcode-cn.com/tag/greedy) [String](https://leetcode-cn.com/tag/string) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) [Backtracking](https://leetcode-cn.com/tag/backtracking) 
+**Related Topics**  [Greedy](https://leetcode-cn.com/tag/greedy) [String](https://leetcode-cn.com/tag/string) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) [Backtracking](https://leetcode-cn.com/tag/backtracking) 
 
 ### Similar Question
  - Hard:	[Regular Expression Matching](https://leetcode-cn.com/problems/regular-expression-matching) 

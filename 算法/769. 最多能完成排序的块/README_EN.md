@@ -35,7 +35,7 @@ However, splitting into [1, 0], [2], [3], [4] is the highest number of chunks po
 
 <p>&nbsp;</p>
 
-**Related Topic	**[Array](https://leetcode-cn.com/tag/array) 
+**Related Topic**  [Array](https://leetcode-cn.com/tag/array) 
 
 ### Similar Question
  - Hard:	[Max Chunks To Make Sorted II](https://leetcode-cn.com/problems/max-chunks-to-make-sorted-ii) 

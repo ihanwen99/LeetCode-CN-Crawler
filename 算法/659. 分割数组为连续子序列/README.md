@@ -49,6 +49,6 @@
 
 <p>&nbsp;</p>
 
-**标签:	**[堆](https://leetcode-cn.com/tag/heap) [贪心算法](https://leetcode-cn.com/tag/greedy) 
+**标签:**  [堆](https://leetcode-cn.com/tag/heap) [贪心算法](https://leetcode-cn.com/tag/greedy) 
  ### 相似题目
 - 中等:	[前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements) 

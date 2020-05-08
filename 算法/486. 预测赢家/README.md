@@ -34,6 +34,6 @@
 	<li>如果最终两个玩家的分数相等，那么玩家1仍为赢家。</li>
 </ol>
 
-**标签:	**[极小化极大](https://leetcode-cn.com/tag/minimax) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [极小化极大](https://leetcode-cn.com/tag/minimax) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
  ### 相似题目
 - 中等:	[我能赢吗](https://leetcode-cn.com/problems/can-i-win) 

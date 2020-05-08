@@ -34,7 +34,7 @@
 
 <p><strong>注意:&nbsp;</strong>给定的矩阵<code>grid</code>&nbsp;的长度和宽度都不超过 50。</p>
 
-**标签:	**[深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) [数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) [数组](https://leetcode-cn.com/tag/array) 
  ### 相似题目
 - 中等:	[岛屿数量](https://leetcode-cn.com/problems/number-of-islands) 
 - 简单:	[岛屿的周长](https://leetcode-cn.com/problems/island-perimeter) 

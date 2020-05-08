@@ -39,7 +39,7 @@
 	<li>The total number of nodes is between <code>[0,&nbsp;10^4]</code></li>
 </ul>
 
-**Related Topic	**[Tree](https://leetcode-cn.com/tag/tree) 
+**Related Topic**  [Tree](https://leetcode-cn.com/tag/tree) 
 
 ### Similar Questions
  - Medium:	[Binary Tree Preorder Traversal](https://leetcode-cn.com/problems/binary-tree-preorder-traversal) 

@@ -14,7 +14,7 @@
 <strong>Explanation:</strong> The longest consecutive elements sequence is <code>[1, 2, 3, 4]</code>. Therefore its length is 4.
 </pre>
 
-**Related Topics	**[Union Find](https://leetcode-cn.com/tag/union-find) [Array](https://leetcode-cn.com/tag/array) 
+**Related Topics**  [Union Find](https://leetcode-cn.com/tag/union-find) [Array](https://leetcode-cn.com/tag/array) 
 
 ### Similar Question
  - Medium:	[Binary Tree Longest Consecutive Sequence](https://leetcode-cn.com/problems/binary-tree-longest-consecutive-sequence) 

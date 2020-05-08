@@ -46,7 +46,7 @@
 	<li><code>A</code> and <code>B</code> contain only lowercase letters from the set <code>{&#39;a&#39;, &#39;b&#39;, &#39;c&#39;, &#39;d&#39;, &#39;e&#39;, &#39;f&#39;}</code></li>
 </ol>
 
-**Related Topics	**[Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search) [Graph](https://leetcode-cn.com/tag/graph) 
+**Related Topics**  [Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search) [Graph](https://leetcode-cn.com/tag/graph) 
 
 ### Similar Question
  - Hard:	[Couples Holding Hands](https://leetcode-cn.com/problems/couples-holding-hands) 

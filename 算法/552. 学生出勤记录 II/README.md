@@ -26,6 +26,6 @@
 
 <p><strong>注意：n </strong>的值不会超过100000。</p>
 
-**标签:	**[动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
  ### 相似题目
 - 简单:	[学生出勤记录 I](https://leetcode-cn.com/problems/student-attendance-record-i) 

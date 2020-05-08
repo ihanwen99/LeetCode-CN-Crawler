@@ -51,4 +51,4 @@
 	<li><code>1 &lt;= N &lt;= 10000</code></li>
 </ol>
 
-**标签:	**[数学](https://leetcode-cn.com/tag/math) [二分查找](https://leetcode-cn.com/tag/binary-search) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [数学](https://leetcode-cn.com/tag/math) [二分查找](https://leetcode-cn.com/tag/binary-search) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 

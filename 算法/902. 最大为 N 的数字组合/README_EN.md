@@ -42,4 +42,4 @@ In total, this is 29523 integers that can be written using the digits of D.</pre
 	<li><code>1 &lt;= N &lt;= 10^9</code></li>
 </ol>
 
-**Related Topics	**[Math](https://leetcode-cn.com/tag/math) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topics**  [Math](https://leetcode-cn.com/tag/math) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 

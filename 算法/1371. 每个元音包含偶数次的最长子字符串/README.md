@@ -39,4 +39,4 @@
 	<li><code>s</code>&nbsp;只包含小写英文字母。</li>
 </ul>
 
-**标签:	**[字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [字符串](https://leetcode-cn.com/tag/string) 

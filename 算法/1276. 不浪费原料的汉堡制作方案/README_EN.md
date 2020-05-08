@@ -57,4 +57,4 @@
 	<li><code>0 &lt;= tomatoSlices &lt;= 10^7</code></li>
 	<li><code>0 &lt;= cheeseSlices &lt;= 10^7</code></li>
 </ul>
-**Related Topics	**[Greedy](https://leetcode-cn.com/tag/greedy) [Math](https://leetcode-cn.com/tag/math) 
+**Related Topics**  [Greedy](https://leetcode-cn.com/tag/greedy) [Math](https://leetcode-cn.com/tag/math) 

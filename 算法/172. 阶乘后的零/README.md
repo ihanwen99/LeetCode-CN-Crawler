@@ -18,7 +18,7 @@
 
 <p><strong>说明: </strong>你算法的时间复杂度应为&nbsp;<em>O</em>(log&nbsp;<em>n</em>)<em>&nbsp;</em>。</p>
 
-**标签:	**[数学](https://leetcode-cn.com/tag/math) 
+**标签:**  [数学](https://leetcode-cn.com/tag/math) 
  ### 相似题目
 - 困难:	[数字 1 的个数](https://leetcode-cn.com/problems/number-of-digit-one) 
 - 困难:	[阶乘函数后K个零](https://leetcode-cn.com/problems/preimage-size-of-factorial-zeroes-function) 

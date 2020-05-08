@@ -35,4 +35,4 @@ This demonstrated that taking the first 5 was a winning move for Alex, so we ret
 	<li><code>1 &lt;= piles[i] &lt;= 500</code></li>
 	<li><code>sum(piles)</code> is odd.</li>
 </ol>
-**Related Topics	**[Minimax](https://leetcode-cn.com/tag/minimax) [Math](https://leetcode-cn.com/tag/math) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topics**  [Minimax](https://leetcode-cn.com/tag/minimax) [Math](https://leetcode-cn.com/tag/math) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 

@@ -28,4 +28,4 @@
 	<li>s 仅含有小写英文字符。</li>
 </ol>
 
-**标签:	**[字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [字符串](https://leetcode-cn.com/tag/string) 

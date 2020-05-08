@@ -36,7 +36,7 @@ The substring with start index = 1 is "ba", which is an anagram of "ab".
 The substring with start index = 2 is "ab", which is an anagram of "ab".
 </pre>
 </p>
-**Related Topic	**[Hash Table](https://leetcode-cn.com/tag/hash-table) 
+**Related Topic**  [Hash Table](https://leetcode-cn.com/tag/hash-table) 
 
 ### Similar Questions
  - Easy:	[Valid Anagram](https://leetcode-cn.com/problems/valid-anagram) 

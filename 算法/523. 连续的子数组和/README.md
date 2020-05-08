@@ -25,6 +25,6 @@
 	<li>你可以认为所有数字总和在 32 位有符号整数范围内。</li>
 </ol>
 
-**标签:	**[数学](https://leetcode-cn.com/tag/math) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [数学](https://leetcode-cn.com/tag/math) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
  ### 相似题目
 - 中等:	[和为K的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k) 

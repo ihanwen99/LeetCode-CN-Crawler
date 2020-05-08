@@ -36,4 +36,4 @@
 	<li><code>K</code>&nbsp;的范围&nbsp;<code>[1, 2^(N-1)]</code>.</li>
 </ol>
 
-**标签:	**[递归](https://leetcode-cn.com/tag/recursion) 
+**标签:**  [递归](https://leetcode-cn.com/tag/recursion) 

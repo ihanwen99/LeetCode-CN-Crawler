@@ -39,6 +39,6 @@
 	<li><code>R - L</code>&nbsp;的最大值为 10000。</li>
 </ol>
 
-**标签:	**[位运算](https://leetcode-cn.com/tag/bit-manipulation) 
+**标签:**  [位运算](https://leetcode-cn.com/tag/bit-manipulation) 
  ### 相似题目
 - 简单:	[位1的个数](https://leetcode-cn.com/problems/number-of-1-bits) 

@@ -26,4 +26,4 @@ nums2 = [3, 4]
 The median is (2 + 3)/2 = 2.5
 </pre>
 
-**Related Topics	**[Array](https://leetcode-cn.com/tag/array) [Binary Search](https://leetcode-cn.com/tag/binary-search) [Divide and Conquer](https://leetcode-cn.com/tag/divide-and-conquer) 
+**Related Topics**  [Array](https://leetcode-cn.com/tag/array) [Binary Search](https://leetcode-cn.com/tag/binary-search) [Divide and Conquer](https://leetcode-cn.com/tag/divide-and-conquer) 

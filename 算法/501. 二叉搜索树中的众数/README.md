@@ -28,6 +28,6 @@
 
 <p><strong>进阶：</strong>你可以不使用额外的空间吗？（假设由递归产生的隐式调用栈的开销不被计算在内）</p>
 
-**标签:	**[树](https://leetcode-cn.com/tag/tree) 
+**标签:**  [树](https://leetcode-cn.com/tag/tree) 
  ### 相似题目
 - 中等:	[验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree) 

@@ -53,7 +53,7 @@
 	<li>Your code should preferably run in O(n) time and use only O(1) memory.</li>
 </ul>
 
-**Related Topic	**[Linked List](https://leetcode-cn.com/tag/linked-list) 
+**Related Topic**  [Linked List](https://leetcode-cn.com/tag/linked-list) 
 
 ### Similar Question
  - Easy:	[Minimum Index Sum of Two Lists](https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists) 

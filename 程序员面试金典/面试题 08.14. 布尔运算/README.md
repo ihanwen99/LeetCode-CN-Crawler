@@ -26,4 +26,4 @@
 	<li>运算符的数量不超过 19 个</li>
 </ul>
 
-**标签:	**[栈](https://leetcode-cn.com/tag/stack) [字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [栈](https://leetcode-cn.com/tag/stack) [字符串](https://leetcode-cn.com/tag/string) 

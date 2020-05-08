@@ -32,7 +32,7 @@ s = &quot;AABABBA&quot;, k = 1
 子串 &quot;BBBB&quot; 有最长重复字母, 答案为 4。
 </pre>
 
-**标签:	**[双指针](https://leetcode-cn.com/tag/two-pointers) [None](https://leetcode-cn.com/tag/sliding-window) 
+**标签:**  [双指针](https://leetcode-cn.com/tag/two-pointers) [None](https://leetcode-cn.com/tag/sliding-window) 
  ### 相似题目
 - 困难:	[至多包含 K 个不同字符的最长子串](https://leetcode-cn.com/problems/longest-substring-with-at-most-k-distinct-characters) 
 - 中等:	[最大连续1的个数 III](https://leetcode-cn.com/problems/max-consecutive-ones-iii) 

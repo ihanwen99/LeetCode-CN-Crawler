@@ -31,4 +31,4 @@
 	<li>It is guaranteed a sufficient team exists.</li>
 </ul>
 
-**Related Topics	**[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topics**  [Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 

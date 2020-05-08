@@ -21,7 +21,7 @@
 <pre><strong>输入:</strong> 218
 <strong>输出:</strong> false</pre>
 
-**标签:	**[位运算](https://leetcode-cn.com/tag/bit-manipulation) [数学](https://leetcode-cn.com/tag/math) 
+**标签:**  [位运算](https://leetcode-cn.com/tag/bit-manipulation) [数学](https://leetcode-cn.com/tag/math) 
  ### 相似题目
 - 简单:	[位1的个数](https://leetcode-cn.com/problems/number-of-1-bits) 
 - 简单:	[3的幂](https://leetcode-cn.com/problems/power-of-three) 

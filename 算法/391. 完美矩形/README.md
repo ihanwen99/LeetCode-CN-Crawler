@@ -69,4 +69,4 @@
 返回 false。因为中间有相交区域，虽然形成了矩形，但不是精确覆盖。
 </pre>
 
-**标签:	**[None](https://leetcode-cn.com/tag/line-sweep) 
+**标签:**  [None](https://leetcode-cn.com/tag/line-sweep) 

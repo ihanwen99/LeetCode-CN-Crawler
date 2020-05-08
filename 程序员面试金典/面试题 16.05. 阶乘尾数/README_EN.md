@@ -20,4 +20,4 @@
 
 <p><b>Note:&nbsp;</b>Your solution should be in logarithmic time complexity.</p>
 
-**Related Topic	**[Math](https://leetcode-cn.com/tag/math) 
+**Related Topic**  [Math](https://leetcode-cn.com/tag/math) 

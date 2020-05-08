@@ -51,4 +51,4 @@ k = 1
 	<li><code>grid[i][j] == 0 <strong>or</strong> 1</code></li>
 	<li><code>grid[0][0] == grid[m-1][n-1] == 0</code></li>
 </ul>
-**Related Topic	**[Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search) 
+**Related Topic**  [Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search) 

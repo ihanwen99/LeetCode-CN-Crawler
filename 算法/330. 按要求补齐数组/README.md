@@ -27,4 +27,4 @@
 <strong>输出:</strong> 0
 </pre>
 
-**标签:	**[贪心算法](https://leetcode-cn.com/tag/greedy) 
+**标签:**  [贪心算法](https://leetcode-cn.com/tag/greedy) 

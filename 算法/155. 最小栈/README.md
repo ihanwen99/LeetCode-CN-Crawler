@@ -41,7 +41,7 @@ minStack.getMin();   --&gt; 返回 -2.
 	<li><code>pop</code>、<code>top</code> 和 <code>getMin</code> 操作总是在 <strong>非空栈</strong> 上调用。</li>
 </ul>
 
-**标签:	**[栈](https://leetcode-cn.com/tag/stack) [设计](https://leetcode-cn.com/tag/design) 
+**标签:**  [栈](https://leetcode-cn.com/tag/stack) [设计](https://leetcode-cn.com/tag/design) 
  ### 相似题目
 - 困难:	[滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum) 
 - 简单:	[最大栈](https://leetcode-cn.com/problems/max-stack) 

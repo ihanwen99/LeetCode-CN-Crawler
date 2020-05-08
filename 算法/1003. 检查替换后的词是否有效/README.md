@@ -52,6 +52,6 @@
 
 <p>&nbsp;</p>
 
-**标签:	**[栈](https://leetcode-cn.com/tag/stack) [字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [栈](https://leetcode-cn.com/tag/stack) [字符串](https://leetcode-cn.com/tag/string) 
  ### 相似题目
 - 简单:	[有效的括号](https://leetcode-cn.com/problems/valid-parentheses) 

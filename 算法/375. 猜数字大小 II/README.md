@@ -25,7 +25,7 @@
 
 <p>给定&nbsp;<strong>n &ge; 1，</strong>计算你至少需要拥有多少现金才能确保你能赢得这个游戏。</p>
 
-**标签:	**[极小化极大](https://leetcode-cn.com/tag/minimax) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [极小化极大](https://leetcode-cn.com/tag/minimax) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
  ### 相似题目
 - 中等:	[翻转游戏 II](https://leetcode-cn.com/problems/flip-game-ii) 
 - 简单:	[猜数字大小](https://leetcode-cn.com/problems/guess-number-higher-or-lower) 

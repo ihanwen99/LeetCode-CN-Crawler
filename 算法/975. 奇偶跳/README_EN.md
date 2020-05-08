@@ -76,4 +76,4 @@ We can reach the end from starting indexes 1, 2, and 4.
 	<li><code>1 &lt;= A.length &lt;= 20000</code></li>
 	<li><code>0 &lt;= A[i] &lt; 100000</code></li>
 </ol>
-**Related Topics	**[Stack](https://leetcode-cn.com/tag/stack) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) [Ordered Map](https://leetcode-cn.com/tag/ordered-map) 
+**Related Topics**  [Stack](https://leetcode-cn.com/tag/stack) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) [Ordered Map](https://leetcode-cn.com/tag/ordered-map) 

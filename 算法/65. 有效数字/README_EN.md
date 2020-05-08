@@ -34,7 +34,7 @@
 <p><strong>Update (2015-02-10):</strong><br />
 The signature of the <code>C++</code> function had been updated. If you still see your function signature accepts a <code>const char *</code> argument, please click the reload button to reset your code definition.</p>
 
-**Related Topics	**[Math](https://leetcode-cn.com/tag/math) [String](https://leetcode-cn.com/tag/string) 
+**Related Topics**  [Math](https://leetcode-cn.com/tag/math) [String](https://leetcode-cn.com/tag/string) 
 
 ### Similar Question
  - Medium:	[String to Integer (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi) 

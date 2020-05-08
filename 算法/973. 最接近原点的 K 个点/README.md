@@ -38,7 +38,7 @@
 	<li><code>-10000 &lt; points[i][1] &lt; 10000</code></li>
 </ol>
 
-**标签:	**[堆](https://leetcode-cn.com/tag/heap) [排序](https://leetcode-cn.com/tag/sort) [分治算法](https://leetcode-cn.com/tag/divide-and-conquer) 
+**标签:**  [堆](https://leetcode-cn.com/tag/heap) [排序](https://leetcode-cn.com/tag/sort) [分治算法](https://leetcode-cn.com/tag/divide-and-conquer) 
  ### 相似题目
 - 中等:	[数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array) 
 - 中等:	[前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements) 

@@ -30,7 +30,7 @@ S[0] = {A[0], A[5], A[6], A[2]} = {5, 6, 2, 0}
 	<li>Each element of A is an integer within the range [0, N-1].</li>
 </ol>
 
-**Related Topic	**[Array](https://leetcode-cn.com/tag/array) 
+**Related Topic**  [Array](https://leetcode-cn.com/tag/array) 
 
 ### Similar Questions
  - Easy:	[Nested List Weight Sum](https://leetcode-cn.com/problems/nested-list-weight-sum) 

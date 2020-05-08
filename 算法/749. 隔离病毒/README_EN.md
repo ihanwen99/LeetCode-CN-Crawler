@@ -64,4 +64,4 @@ Notice that walls are only built on the shared boundary of two different cells.
 <li>Throughout the described process, there is always a contiguous viral region that will infect <b>strictly more</b> uncontaminated squares in the next round.</li>
 </ol>
 </p>
-**Related Topic	**[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) 
+**Related Topic**  [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) 

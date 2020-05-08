@@ -10,7 +10,7 @@
 <strong>输出：</strong>1-&gt;1-&gt;2-&gt;3-&gt;4-&gt;4
 </pre>
 
-**标签:	**[链表](https://leetcode-cn.com/tag/linked-list) 
+**标签:**  [链表](https://leetcode-cn.com/tag/linked-list) 
  ### 相似题目
 - 困难:	[合并K个排序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists) 
 - 简单:	[合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array) 

@@ -50,7 +50,7 @@ And the value to insert: 5
 	<li>It&#39;s guaranteed that <code>val</code> does not exist in the original BST.</li>
 </ul>
 
-**Related Topic	**[Tree](https://leetcode-cn.com/tag/tree) 
+**Related Topic**  [Tree](https://leetcode-cn.com/tag/tree) 
 
 ### Similar Question
  - Easy:	[Search in a Binary Search Tree](https://leetcode-cn.com/problems/search-in-a-binary-search-tree) 

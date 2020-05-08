@@ -45,7 +45,7 @@
 <p><b>Follow-up</b>:<br />
 Can you solve it without using extra space?</p>
 
-**Related Topics	**[Linked List](https://leetcode-cn.com/tag/linked-list) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) 
+**Related Topics**  [Linked List](https://leetcode-cn.com/tag/linked-list) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) 
 
 ### Similar Questions
  - Easy:	[Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle) 

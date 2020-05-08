@@ -14,4 +14,4 @@
 <li>正确结果在区间[-2147483648, 2147483647]内</li>
 </ul>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) [双指针](https://leetcode-cn.com/tag/two-pointers) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) [双指针](https://leetcode-cn.com/tag/two-pointers) 

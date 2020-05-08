@@ -45,4 +45,4 @@
 	<li><code>0 &lt;= queries[i][0] &lt;= queries[i][1] &lt; arr.length</code></li>
 </ul>
 
-**标签:	**[位运算](https://leetcode-cn.com/tag/bit-manipulation) 
+**标签:**  [位运算](https://leetcode-cn.com/tag/bit-manipulation) 

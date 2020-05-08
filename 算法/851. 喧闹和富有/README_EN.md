@@ -47,4 +47,4 @@ The other answers can be filled out with similar reasoning.
 	<li>The&nbsp;observations in <code>richer</code> are all logically consistent.</li>
 </ol>
 
-**Related Topic	**[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) 
+**Related Topic**  [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) 

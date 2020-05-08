@@ -57,4 +57,4 @@ Rows ordered from the weakest to the strongest are [0,2,3,1]
 	<li><code>1 &lt;= k &lt;= m</code></li>
 	<li><code>matrix[i][j]</code> is either 0 <strong>or</strong> 1.</li>
 </ul>
-**Related Topics	**[Array](https://leetcode-cn.com/tag/array) [Binary Search](https://leetcode-cn.com/tag/binary-search) 
+**Related Topics**  [Array](https://leetcode-cn.com/tag/array) [Binary Search](https://leetcode-cn.com/tag/binary-search) 

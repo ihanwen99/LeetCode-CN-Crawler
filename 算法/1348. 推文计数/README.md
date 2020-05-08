@@ -50,4 +50,4 @@ tweetCounts.getTweetCountsPerFrequency(&quot;hour&quot;, &quot;tweet3&quot;, 0, 
 	<li><code>0 &lt;= endTime - startTime &lt;= 10^4</code></li>
 </ul>
 
-**标签:	**[设计](https://leetcode-cn.com/tag/design) 
+**标签:**  [设计](https://leetcode-cn.com/tag/design) 

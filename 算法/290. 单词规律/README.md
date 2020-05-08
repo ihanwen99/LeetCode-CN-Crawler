@@ -29,7 +29,7 @@
 <p><strong>说明:</strong><br>
 你可以假设&nbsp;<code>pattern</code>&nbsp;只包含小写字母，&nbsp;<code>str</code>&nbsp;包含了由单个空格分隔的小写字母。&nbsp; &nbsp;&nbsp;</p>
 
-**标签:	**[哈希表](https://leetcode-cn.com/tag/hash-table) 
+**标签:**  [哈希表](https://leetcode-cn.com/tag/hash-table) 
  ### 相似题目
 - 简单:	[同构字符串](https://leetcode-cn.com/problems/isomorphic-strings) 
 - 困难:	[单词规律 II](https://leetcode-cn.com/problems/word-pattern-ii) 

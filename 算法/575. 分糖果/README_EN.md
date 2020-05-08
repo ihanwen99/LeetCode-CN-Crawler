@@ -30,4 +30,4 @@ The sister has two different kinds of candies, the brother has only one kind of 
 <li>The number in given array is in range [-100,000, 100,000].</li>
 <ol>
 </p>
-**Related Topic	**[Hash Table](https://leetcode-cn.com/tag/hash-table) 
+**Related Topic**  [Hash Table](https://leetcode-cn.com/tag/hash-table) 

@@ -21,7 +21,7 @@ A partition like "ababcbacadefegde", "hijhklij" is incorrect, because it splits 
 <li><code>S</code> will have length in range <code>[1, 500]</code>.</li>
 <li><code>S</code> will consist of lowercase letters (<code>'a'</code> to <code>'z'</code>) only.</li>
 </ol></p>
-**Related Topics	**[Greedy](https://leetcode-cn.com/tag/greedy) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) 
+**Related Topics**  [Greedy](https://leetcode-cn.com/tag/greedy) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) 
 
 ### Similar Question
  - Medium:	[Merge Intervals](https://leetcode-cn.com/problems/merge-intervals) 

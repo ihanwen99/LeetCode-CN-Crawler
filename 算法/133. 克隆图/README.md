@@ -72,6 +72,6 @@
 	<li>图是连通图，你可以从给定节点访问到所有节点。</li>
 </ol>
 
-**标签:	**[深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) [广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search) [图](https://leetcode-cn.com/tag/graph) 
+**标签:**  [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) [广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search) [图](https://leetcode-cn.com/tag/graph) 
  ### 相似题目
 - 中等:	[复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer) 

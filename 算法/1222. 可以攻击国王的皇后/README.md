@@ -56,4 +56,4 @@
 	<li>一个棋盘格上最多只能放置一枚棋子。</li>
 </ul>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) 

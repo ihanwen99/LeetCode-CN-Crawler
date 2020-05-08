@@ -14,7 +14,7 @@
   [2,1,1]
 ]</pre>
 
-**标签:	**[回溯算法](https://leetcode-cn.com/tag/backtracking) 
+**标签:**  [回溯算法](https://leetcode-cn.com/tag/backtracking) 
  ### 相似题目
 - 中等:	[下一个排列](https://leetcode-cn.com/problems/next-permutation) 
 - 中等:	[全排列](https://leetcode-cn.com/problems/permutations) 

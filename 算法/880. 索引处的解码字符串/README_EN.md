@@ -59,4 +59,4 @@ The decoded string is &quot;a&quot; repeated 8301530446056247680 times.  The 1st
 </div>
 </div>
 
-**Related Topic	**[Stack](https://leetcode-cn.com/tag/stack) 
+**Related Topic**  [Stack](https://leetcode-cn.com/tag/stack) 

@@ -47,4 +47,4 @@ The longest arithmetic subsequence is [20,15,10,5].
 	<li><code>0 &lt;= A[i] &lt;= 10000</code></li>
 </ol>
 </div>
-**Related Topic	**[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topic**  [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 

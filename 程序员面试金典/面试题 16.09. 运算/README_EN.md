@@ -29,4 +29,4 @@ operations.divide(5, -2); //returns -2
 	<li>The number of calls will not exceed 1000.</li>
 </ul>
 
-**Related Topic	**[Design](https://leetcode-cn.com/tag/design) 
+**Related Topic**  [Design](https://leetcode-cn.com/tag/design) 

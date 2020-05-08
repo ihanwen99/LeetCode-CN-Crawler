@@ -18,7 +18,7 @@
 <strong>Output: </strong>3 
 <strong>Explanation:</strong> transactions = [buy, sell, cooldown, buy, sell]
 </pre>
-**Related Topic	**[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topic**  [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
 
 ### Similar Questions
  - Easy:	[Best Time to Buy and Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock) 

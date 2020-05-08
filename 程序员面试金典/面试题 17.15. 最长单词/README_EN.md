@@ -19,4 +19,4 @@
 	<li><code>1 &lt;= len(words[i]) &lt;= 100</code></li>
 </ul>
 
-**Related Topic	**[String](https://leetcode-cn.com/tag/string) 
+**Related Topic**  [String](https://leetcode-cn.com/tag/string) 

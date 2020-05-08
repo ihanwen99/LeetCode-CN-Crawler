@@ -71,4 +71,4 @@
 
 <p><b>Note:</b> Answer will in the range of 32-bit signed integer.</p>
 
-**Related Topic	**[Tree](https://leetcode-cn.com/tag/tree) 
+**Related Topic**  [Tree](https://leetcode-cn.com/tag/tree) 

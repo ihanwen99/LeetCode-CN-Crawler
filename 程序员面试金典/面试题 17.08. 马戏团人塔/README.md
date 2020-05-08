@@ -16,4 +16,4 @@
 	<li><code>height.length == weight.length &lt;= 10000</code></li>
 </ul>
 
-**标签:	**[排序](https://leetcode-cn.com/tag/sort) [二分查找](https://leetcode-cn.com/tag/binary-search) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [排序](https://leetcode-cn.com/tag/sort) [二分查找](https://leetcode-cn.com/tag/binary-search) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 

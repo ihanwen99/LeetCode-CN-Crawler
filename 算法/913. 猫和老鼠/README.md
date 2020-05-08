@@ -49,4 +49,4 @@
 	<li>保证&nbsp;<code>graph[2]</code>&nbsp;包含非零元素。</li>
 </ol>
 
-**标签:	**[广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search) [极小化极大](https://leetcode-cn.com/tag/minimax) 
+**标签:**  [广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search) [极小化极大](https://leetcode-cn.com/tag/minimax) 

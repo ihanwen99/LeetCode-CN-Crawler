@@ -42,4 +42,4 @@ The 5 valid permutations of (0, 1, 2, 3) are:
 <p>&nbsp;</p>
 </div>
 
-**Related Topics	**[Divide and Conquer](https://leetcode-cn.com/tag/divide-and-conquer) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topics**  [Divide and Conquer](https://leetcode-cn.com/tag/divide-and-conquer) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 

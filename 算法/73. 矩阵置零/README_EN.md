@@ -46,7 +46,7 @@
 	<li>Could you devise a constant space solution?</li>
 </ul>
 
-**Related Topic	**[Array](https://leetcode-cn.com/tag/array) 
+**Related Topic**  [Array](https://leetcode-cn.com/tag/array) 
 
 ### Similar Question
  - Medium:	[Game of Life](https://leetcode-cn.com/problems/game-of-life) 

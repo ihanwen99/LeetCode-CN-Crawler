@@ -80,4 +80,4 @@ findElements.find(5); // return True
 	<li><code>0 &lt;= target &lt;= 10^6</code></li>
 </ul>
 
-**Related Topics	**[Tree](https://leetcode-cn.com/tag/tree) [Hash Table](https://leetcode-cn.com/tag/hash-table) 
+**Related Topics**  [Tree](https://leetcode-cn.com/tag/tree) [Hash Table](https://leetcode-cn.com/tag/hash-table) 

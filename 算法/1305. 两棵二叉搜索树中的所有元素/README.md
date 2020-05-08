@@ -51,4 +51,4 @@
 	<li>每个节点的值在&nbsp;<code>[-10^5, 10^5]</code>&nbsp;之间。</li>
 </ul>
 
-**标签:	**[排序](https://leetcode-cn.com/tag/sort) [树](https://leetcode-cn.com/tag/tree) 
+**标签:**  [排序](https://leetcode-cn.com/tag/sort) [树](https://leetcode-cn.com/tag/tree) 

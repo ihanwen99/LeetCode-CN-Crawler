@@ -20,7 +20,7 @@
 
 <p>返回 <code>true</code>, 因为存在目标和为 22 的根节点到叶子节点的路径 <code>5-&gt;4-&gt;11-&gt;2</code>。</p>
 
-**标签:	**[树](https://leetcode-cn.com/tag/tree) [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) 
+**标签:**  [树](https://leetcode-cn.com/tag/tree) [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) 
  ### 相似题目
 - 中等:	[路径总和 II](https://leetcode-cn.com/problems/path-sum-ii) 
 - 困难:	[二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum) 

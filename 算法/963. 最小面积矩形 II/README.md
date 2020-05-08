@@ -55,4 +55,4 @@
 	<li>与真实值误差不超过 <code>10^-5</code>&nbsp;的答案将视为正确结果。</li>
 </ol>
 
-**标签:	**[几何](https://leetcode-cn.com/tag/geometry) [数学](https://leetcode-cn.com/tag/math) 
+**标签:**  [几何](https://leetcode-cn.com/tag/geometry) [数学](https://leetcode-cn.com/tag/math) 

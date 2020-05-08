@@ -44,4 +44,4 @@ So function 0 spends 2 + 1 = 3 units of total time executing, and function 1 spe
 
 <p>&nbsp;</p>
 
-**Related Topic	**[Stack](https://leetcode-cn.com/tag/stack) 
+**Related Topic**  [Stack](https://leetcode-cn.com/tag/stack) 

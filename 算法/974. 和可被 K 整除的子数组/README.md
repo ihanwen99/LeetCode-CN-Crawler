@@ -25,6 +25,6 @@
 	<li><code>2 &lt;= K &lt;= 10000</code></li>
 </ol>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) [哈希表](https://leetcode-cn.com/tag/hash-table) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) [哈希表](https://leetcode-cn.com/tag/hash-table) 
  ### 相似题目
 - 中等:	[和为K的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k) 

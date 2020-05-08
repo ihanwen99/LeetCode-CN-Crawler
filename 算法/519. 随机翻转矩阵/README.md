@@ -32,4 +32,4 @@
 
 <p>输入包含两个列表：被调用的子程序和他们的参数。<code>Solution</code> 的构造函数有两个参数，分别为 <code>n_rows</code> 和 <code>n_cols</code>。<code>flip</code>&nbsp;和 <code>reset</code> 没有参数，参数总会以列表形式给出，哪怕该列表为空</p>
 
-**标签:	**[None](https://leetcode-cn.com/tag/random) 
+**标签:**  [None](https://leetcode-cn.com/tag/random) 

@@ -47,4 +47,4 @@
 	<li>All <code>reservedSeats[i]</code> are distinct.</li>
 </ul>
 
-**Related Topics	**[Greedy](https://leetcode-cn.com/tag/greedy) [Array](https://leetcode-cn.com/tag/array) 
+**Related Topics**  [Greedy](https://leetcode-cn.com/tag/greedy) [Array](https://leetcode-cn.com/tag/array) 

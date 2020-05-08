@@ -73,7 +73,7 @@ source = [&quot;a/*comment&quot;, &quot;line&quot;, &quot;more_comment*/b&quot;]
 	<li>给定的源码中不会有单引号、双引号或其他控制字符。</li>
 </ul>
 
-**标签:	**[字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [字符串](https://leetcode-cn.com/tag/string) 
  ### 相似题目
 - 中等:	[迷你语法分析器](https://leetcode-cn.com/problems/mini-parser) 
 - 中等:	[三元表达式解析器](https://leetcode-cn.com/problems/ternary-expression-parser) 

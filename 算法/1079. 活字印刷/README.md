@@ -30,4 +30,4 @@
 	<li><code>tiles</code> 由大写英文字母组成</li>
 </ol>
 
-**标签:	**[回溯算法](https://leetcode-cn.com/tag/backtracking) 
+**标签:**  [回溯算法](https://leetcode-cn.com/tag/backtracking) 

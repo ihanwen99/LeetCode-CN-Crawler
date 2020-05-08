@@ -23,6 +23,6 @@
 &nbsp;    coins =  3*1*5      +  3*5*8    +  1*3*8      + 1*8*1   = 167
 </pre>
 
-**标签:	**[分治算法](https://leetcode-cn.com/tag/divide-and-conquer) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [分治算法](https://leetcode-cn.com/tag/divide-and-conquer) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
  ### 相似题目
 - 困难:	[合并石头的最低成本](https://leetcode-cn.com/problems/minimum-cost-to-merge-stones) 

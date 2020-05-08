@@ -57,7 +57,7 @@ evalvars = [], evalints = []
 	<li><code>evalvars, evalints</code> 在范围&nbsp;<code>[0, 100]</code>&nbsp;内，且长度相同。</li>
 </ol>
 
-**标签:	**[栈](https://leetcode-cn.com/tag/stack) [哈希表](https://leetcode-cn.com/tag/hash-table) [字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [栈](https://leetcode-cn.com/tag/stack) [哈希表](https://leetcode-cn.com/tag/hash-table) [字符串](https://leetcode-cn.com/tag/string) 
  ### 相似题目
 - 困难:	[Lisp 语法解析](https://leetcode-cn.com/problems/parse-lisp-expression) 
 - 困难:	[基本计算器 III](https://leetcode-cn.com/problems/basic-calculator-iii) 

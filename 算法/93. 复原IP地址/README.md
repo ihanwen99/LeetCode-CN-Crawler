@@ -13,6 +13,6 @@
 <pre><strong>输入:</strong> &quot;25525511135&quot;
 <strong>输出:</strong> <code>[&quot;255.255.11.135&quot;, &quot;255.255.111.35&quot;]</code></pre>
 
-**标签:	**[字符串](https://leetcode-cn.com/tag/string) [回溯算法](https://leetcode-cn.com/tag/backtracking) 
+**标签:**  [字符串](https://leetcode-cn.com/tag/string) [回溯算法](https://leetcode-cn.com/tag/backtracking) 
  ### 相似题目
 - 简单:	[IP 到 CIDR](https://leetcode-cn.com/problems/ip-to-cidr) 

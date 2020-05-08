@@ -33,4 +33,4 @@
 	<li>本题与 1009 <a href="https://leetcode-cn.com/problems/complement-of-base-10-integer/">https://leetcode-cn.com/problems/complement-of-base-10-integer/</a> 相同</li>
 </ol>
 
-**标签:	**[位运算](https://leetcode-cn.com/tag/bit-manipulation) 
+**标签:**  [位运算](https://leetcode-cn.com/tag/bit-manipulation) 

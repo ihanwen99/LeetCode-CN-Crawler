@@ -20,4 +20,4 @@ B = [2,5,6],       n = 3
 	<li><code>A.length == n + m</code></li>
 </ul>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) [双指针](https://leetcode-cn.com/tag/two-pointers) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) [双指针](https://leetcode-cn.com/tag/two-pointers) 

@@ -26,7 +26,7 @@ S[0] = {A[0], A[5], A[6], A[2]} = {5, 6, 2, 0}
 	<li><code>A</code>中的元素大小在<code>[0, N-1]</code>之间。</li>
 </ol>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) 
  ### 相似题目
 - 简单:	[嵌套列表权重和](https://leetcode-cn.com/problems/nested-list-weight-sum) 
 - 中等:	[扁平化嵌套列表迭代器](https://leetcode-cn.com/problems/flatten-nested-list-iterator) 

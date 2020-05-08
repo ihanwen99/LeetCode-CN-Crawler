@@ -46,4 +46,4 @@
 	<li><code>0 &lt;= k &lt;= nums.length</code></li>
 	<li><code>nums[i]</code>&nbsp;is&nbsp;<code>0</code>&nbsp;or&nbsp;<code>1</code></li>
 </ul>
-**Related Topic	**[Array](https://leetcode-cn.com/tag/array) 
+**Related Topic**  [Array](https://leetcode-cn.com/tag/array) 

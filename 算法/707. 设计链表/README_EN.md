@@ -44,4 +44,4 @@ linkedList.get(1);&nbsp;&nbsp;&nbsp;         // returns 3
 	<li>At most <code>2000</code>&nbsp;calls will be made to&nbsp;<code>get</code>,&nbsp;<code>addAtHead</code>,&nbsp;<code>addAtTail</code>,&nbsp; <code>addAtIndex</code> and&nbsp;<code>deleteAtIndex</code>.</li>
 </ul>
 
-**Related Topics	**[Design](https://leetcode-cn.com/tag/design) [Linked List](https://leetcode-cn.com/tag/linked-list) 
+**Related Topics**  [Design](https://leetcode-cn.com/tag/design) [Linked List](https://leetcode-cn.com/tag/linked-list) 

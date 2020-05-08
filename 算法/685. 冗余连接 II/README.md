@@ -41,6 +41,6 @@ v   v
 	<li>二维数组中的每个整数在1到N之间，其中 N 是二维数组的大小。</li>
 </ul>
 
-**标签:	**[树](https://leetcode-cn.com/tag/tree) [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) [并查集](https://leetcode-cn.com/tag/union-find) [图](https://leetcode-cn.com/tag/graph) 
+**标签:**  [树](https://leetcode-cn.com/tag/tree) [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) [并查集](https://leetcode-cn.com/tag/union-find) [图](https://leetcode-cn.com/tag/graph) 
  ### 相似题目
 - 中等:	[冗余连接](https://leetcode-cn.com/problems/redundant-connection) 

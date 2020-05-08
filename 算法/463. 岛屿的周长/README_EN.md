@@ -26,7 +26,7 @@
 <img src="https://assets.leetcode.com/uploads/2018/10/12/island.png" style="width: 221px; height: 213px;" />
 </pre>
 
-**Related Topic	**[Hash Table](https://leetcode-cn.com/tag/hash-table) 
+**Related Topic**  [Hash Table](https://leetcode-cn.com/tag/hash-table) 
 
 ### Similar Questions
  - Medium:	[Max Area of Island](https://leetcode-cn.com/problems/max-area-of-island) 

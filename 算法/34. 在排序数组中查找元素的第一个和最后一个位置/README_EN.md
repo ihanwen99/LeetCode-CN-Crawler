@@ -20,7 +20,7 @@
 <strong>Input:</strong> nums = [<code>5,7,7,8,8,10]</code>, target = 6
 <strong>Output:</strong> [-1,-1]</pre>
 
-**Related Topics	**[Array](https://leetcode-cn.com/tag/array) [Binary Search](https://leetcode-cn.com/tag/binary-search) 
+**Related Topics**  [Array](https://leetcode-cn.com/tag/array) [Binary Search](https://leetcode-cn.com/tag/binary-search) 
 
 ### Similar Question
  - Easy:	[First Bad Version](https://leetcode-cn.com/problems/first-bad-version) 

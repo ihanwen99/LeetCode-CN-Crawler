@@ -44,4 +44,4 @@
 	<li><code>0 &lt;= indices[i][1] &lt;&nbsp;m</code></li>
 </ul>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) 

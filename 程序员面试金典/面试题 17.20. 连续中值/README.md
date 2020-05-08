@@ -28,4 +28,4 @@ addNum(3)
 findMedian() -&gt; 2
 </pre>
 
-**标签:	**[堆](https://leetcode-cn.com/tag/heap) 
+**标签:**  [堆](https://leetcode-cn.com/tag/heap) 

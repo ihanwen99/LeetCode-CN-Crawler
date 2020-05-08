@@ -54,4 +54,4 @@
 	<li>编号为&nbsp;<code>N*N</code>&nbsp;的方格上没有蛇或梯子。</li>
 </ol>
 
-**标签:	**[广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search) 
+**标签:**  [广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search) 

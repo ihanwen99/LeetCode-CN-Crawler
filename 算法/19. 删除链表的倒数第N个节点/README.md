@@ -19,4 +19,4 @@
 
 <p>你能尝试使用一趟扫描实现吗？</p>
 
-**标签:	**[链表](https://leetcode-cn.com/tag/linked-list) [双指针](https://leetcode-cn.com/tag/two-pointers) 
+**标签:**  [链表](https://leetcode-cn.com/tag/linked-list) [双指针](https://leetcode-cn.com/tag/two-pointers) 

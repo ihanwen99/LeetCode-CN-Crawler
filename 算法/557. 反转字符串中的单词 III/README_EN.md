@@ -14,7 +14,7 @@
 <p><b>Note:</b>
 In the string, each word is separated by single space and there will not be any extra space in the string.
 </p>
-**Related Topic	**[String](https://leetcode-cn.com/tag/string) 
+**Related Topic**  [String](https://leetcode-cn.com/tag/string) 
 
 ### Similar Question
  - Easy:	[Reverse String II](https://leetcode-cn.com/problems/reverse-string-ii) 

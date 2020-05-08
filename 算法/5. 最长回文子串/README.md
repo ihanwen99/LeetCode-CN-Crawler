@@ -17,7 +17,7 @@
 <strong>输出:</strong> &quot;bb&quot;
 </pre>
 
-**标签:	**[字符串](https://leetcode-cn.com/tag/string) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [字符串](https://leetcode-cn.com/tag/string) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
  ### 相似题目
 - 困难:	[最短回文串](https://leetcode-cn.com/problems/shortest-palindrome) 
 - 简单:	[回文排列](https://leetcode-cn.com/problems/palindrome-permutation) 

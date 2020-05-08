@@ -42,4 +42,4 @@
 
 <p>注意：本题与主站 295 题相同：<a href="https://leetcode-cn.com/problems/find-median-from-data-stream/">https://leetcode-cn.com/problems/find-median-from-data-stream/</a></p>
 
-**标签:	**[堆](https://leetcode-cn.com/tag/heap) [设计](https://leetcode-cn.com/tag/design) 
+**标签:**  [堆](https://leetcode-cn.com/tag/heap) [设计](https://leetcode-cn.com/tag/design) 

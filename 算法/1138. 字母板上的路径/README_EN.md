@@ -37,4 +37,4 @@
 	<li><code>1 &lt;= target.length &lt;= 100</code></li>
 	<li><code>target</code> consists only of English lowercase letters.</li>
 </ul>
-**Related Topics	**[Hash Table](https://leetcode-cn.com/tag/hash-table) [String](https://leetcode-cn.com/tag/string) 
+**Related Topics**  [Hash Table](https://leetcode-cn.com/tag/hash-table) [String](https://leetcode-cn.com/tag/string) 

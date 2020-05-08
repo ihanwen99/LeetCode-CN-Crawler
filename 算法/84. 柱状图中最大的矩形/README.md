@@ -25,6 +25,6 @@
 <pre><strong>输入:</strong> [2,1,5,6,2,3]
 <strong>输出:</strong> 10</pre>
 
-**标签:	**[栈](https://leetcode-cn.com/tag/stack) [数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [栈](https://leetcode-cn.com/tag/stack) [数组](https://leetcode-cn.com/tag/array) 
  ### 相似题目
 - 困难:	[最大矩形](https://leetcode-cn.com/problems/maximal-rectangle) 

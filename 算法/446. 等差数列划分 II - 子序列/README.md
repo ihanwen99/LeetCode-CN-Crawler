@@ -49,6 +49,6 @@
 
 <p>&nbsp;</p>
 
-**标签:	**[动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
  ### 相似题目
 - 中等:	[等差数列划分](https://leetcode-cn.com/problems/arithmetic-slices) 

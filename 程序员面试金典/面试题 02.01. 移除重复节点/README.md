@@ -29,4 +29,4 @@
 
 <p>如果不得使用临时缓冲区，该怎么解决？</p>
 
-**标签:	**[链表](https://leetcode-cn.com/tag/linked-list) 
+**标签:**  [链表](https://leetcode-cn.com/tag/linked-list) 

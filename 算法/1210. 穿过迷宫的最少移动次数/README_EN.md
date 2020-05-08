@@ -57,4 +57,4 @@
 	<li>It is guaranteed that the snake starts at empty cells.</li>
 </ul>
 
-**Related Topic	**[Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search) 
+**Related Topic**  [Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search) 

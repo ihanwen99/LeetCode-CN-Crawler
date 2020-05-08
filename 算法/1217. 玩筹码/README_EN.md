@@ -40,4 +40,4 @@
 	<li><code>1 &lt;= chips[i] &lt;= 10^9</code></li>
 </ul>
 
-**Related Topics	**[Greedy](https://leetcode-cn.com/tag/greedy) [Array](https://leetcode-cn.com/tag/array) [Math](https://leetcode-cn.com/tag/math) 
+**Related Topics**  [Greedy](https://leetcode-cn.com/tag/greedy) [Array](https://leetcode-cn.com/tag/array) [Math](https://leetcode-cn.com/tag/math) 

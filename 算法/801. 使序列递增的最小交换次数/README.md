@@ -26,4 +26,4 @@ A = [1, 3, 5, 7] ， B = [1, 2, 3, 4]
 	<li><code>A[i], B[i]</code>&nbsp;均为&nbsp;<code>[0, 2000]</code>区间内的整数。</li>
 </ul>
 
-**标签:	**[动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 

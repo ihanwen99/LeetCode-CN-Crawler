@@ -19,4 +19,4 @@
 	<li>每个时间取值在 00:00~23:59 之间。</li>
 </ol>
 
-**标签:	**[字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [字符串](https://leetcode-cn.com/tag/string) 

@@ -25,7 +25,7 @@ The five points are show in the figure below. The red triangle is the largest.
 
 <p>&nbsp;</p>
 
-**Related Topic	**[Math](https://leetcode-cn.com/tag/math) 
+**Related Topic**  [Math](https://leetcode-cn.com/tag/math) 
 
 ### Similar Question
  - Easy:	[Largest Perimeter Triangle](https://leetcode-cn.com/problems/largest-perimeter-triangle) 

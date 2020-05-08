@@ -42,4 +42,4 @@
 	<li><code>0 &lt;= arr.length &lt;= 10<sup>5</sup></code></li>
 	<li><code>-10<sup>9</sup>&nbsp;&lt;= arr[i] &lt;= 10<sup>9</sup></code></li>
 </ul>
-**Related Topic	**[Array](https://leetcode-cn.com/tag/array) 
+**Related Topic**  [Array](https://leetcode-cn.com/tag/array) 

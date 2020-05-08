@@ -15,7 +15,7 @@
 <pre><strong>输入:</strong> -1-&gt;5-&gt;3-&gt;4-&gt;0
 <strong>输出:</strong> -1-&gt;0-&gt;3-&gt;4-&gt;5</pre>
 
-**标签:	**[排序](https://leetcode-cn.com/tag/sort) [链表](https://leetcode-cn.com/tag/linked-list) 
+**标签:**  [排序](https://leetcode-cn.com/tag/sort) [链表](https://leetcode-cn.com/tag/linked-list) 
  ### 相似题目
 - 简单:	[合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists) 
 - 中等:	[颜色分类](https://leetcode-cn.com/problems/sort-colors) 

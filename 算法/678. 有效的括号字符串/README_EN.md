@@ -39,7 +39,7 @@ Given a string containing only three types of characters: '(', ')' and '*', writ
 <li>The string size will be in the range [1, 100].</li>
 </ol>
 </p>
-**Related Topic	**[String](https://leetcode-cn.com/tag/string) 
+**Related Topic**  [String](https://leetcode-cn.com/tag/string) 
 
 ### Similar Question
  - Hard:	[Special Binary String](https://leetcode-cn.com/problems/special-binary-string) 

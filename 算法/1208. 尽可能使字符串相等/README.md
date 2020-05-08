@@ -44,4 +44,4 @@
 	<li><code>s</code> 和&nbsp;<code>t</code>&nbsp;都只含小写英文字母。</li>
 </ul>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) [None](https://leetcode-cn.com/tag/sliding-window) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) [None](https://leetcode-cn.com/tag/sliding-window) 

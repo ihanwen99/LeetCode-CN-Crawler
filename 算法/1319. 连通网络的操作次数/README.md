@@ -54,4 +54,4 @@
 	<li>两台计算机不会通过多条线缆连接。</li>
 </ul>
 
-**标签:	**[深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) [广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search) [并查集](https://leetcode-cn.com/tag/union-find) 
+**标签:**  [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) [广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search) [并查集](https://leetcode-cn.com/tag/union-find) 

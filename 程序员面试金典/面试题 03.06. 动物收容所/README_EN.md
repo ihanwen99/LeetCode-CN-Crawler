@@ -34,4 +34,4 @@
 	<li>The number of animals in the shelter will not exceed 20000.</li>
 </ol>
 
-**Related Topic	**[Design](https://leetcode-cn.com/tag/design) 
+**Related Topic**  [Design](https://leetcode-cn.com/tag/design) 

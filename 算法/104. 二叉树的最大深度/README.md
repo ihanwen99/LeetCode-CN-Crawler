@@ -19,7 +19,7 @@
 
 <p>返回它的最大深度&nbsp;3 。</p>
 
-**标签:	**[树](https://leetcode-cn.com/tag/tree) [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) 
+**标签:**  [树](https://leetcode-cn.com/tag/tree) [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) 
  ### 相似题目
 - 简单:	[平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree) 
 - 简单:	[二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree) 

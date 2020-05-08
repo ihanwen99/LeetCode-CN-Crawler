@@ -54,4 +54,4 @@
 	<li><code>1 &lt;= s.length &lt;= 500</code></li>
 	<li>All characters of <code>s</code>&nbsp;are lower case English letters.</li>
 </ul>
-**Related Topic	**[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topic**  [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 

@@ -53,4 +53,4 @@ kv.get(&quot;foo&quot;, 5); // 输出 &quot;bar2&quot; &nbsp;
 	<li><code>TimeMap.set</code> 和&nbsp;<code>TimeMap.get</code>&nbsp;函数在每个测试用例中将（组合）调用总计&nbsp;<code>120000</code> 次。</li>
 </ol>
 
-**标签:	**[哈希表](https://leetcode-cn.com/tag/hash-table) [二分查找](https://leetcode-cn.com/tag/binary-search) 
+**标签:**  [哈希表](https://leetcode-cn.com/tag/hash-table) [二分查找](https://leetcode-cn.com/tag/binary-search) 

@@ -40,4 +40,4 @@ twitter.unfollow(1, 2);
 twitter.getNewsFeed(1);
 </pre>
 
-**标签:	**[堆](https://leetcode-cn.com/tag/heap) [设计](https://leetcode-cn.com/tag/design) [哈希表](https://leetcode-cn.com/tag/hash-table) 
+**标签:**  [堆](https://leetcode-cn.com/tag/heap) [设计](https://leetcode-cn.com/tag/design) [哈希表](https://leetcode-cn.com/tag/hash-table) 

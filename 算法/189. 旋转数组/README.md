@@ -29,7 +29,7 @@
 	<li>要求使用空间复杂度为&nbsp;O(1) 的&nbsp;<strong>原地&nbsp;</strong>算法。</li>
 </ul>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) 
  ### 相似题目
 - 中等:	[旋转链表](https://leetcode-cn.com/problems/rotate-list) 
 - 中等:	[翻转字符串里的单词 II](https://leetcode-cn.com/problems/reverse-words-in-a-string-ii) 

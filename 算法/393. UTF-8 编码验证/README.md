@@ -46,4 +46,4 @@ data = [235, 140, 4], 表示 8 位的序列: <strong>11101011 10001100 00000100<
 但第二个延续字节不以 10 开头，所以是不符合规则的。
 </pre>
 
-**标签:	**[位运算](https://leetcode-cn.com/tag/bit-manipulation) 
+**标签:**  [位运算](https://leetcode-cn.com/tag/bit-manipulation) 

@@ -17,7 +17,7 @@
 <strong>输出: </strong>[[0,1],[1,0]] 
 <strong>解释: </strong>可拼接成的回文串为 <code>[&quot;battab&quot;,&quot;tabbat&quot;]</code></pre>
 
-**标签:	**[字典树](https://leetcode-cn.com/tag/trie) [哈希表](https://leetcode-cn.com/tag/hash-table) [字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [字典树](https://leetcode-cn.com/tag/trie) [哈希表](https://leetcode-cn.com/tag/hash-table) [字符串](https://leetcode-cn.com/tag/string) 
  ### 相似题目
 - 中等:	[最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring) 
 - 困难:	[最短回文串](https://leetcode-cn.com/problems/shortest-palindrome) 

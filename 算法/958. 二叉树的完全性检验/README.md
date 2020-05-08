@@ -36,4 +36,4 @@
 	<li>树中将会有 1 到 100 个结点。</li>
 </ol>
 
-**标签:	**[树](https://leetcode-cn.com/tag/tree) 
+**标签:**  [树](https://leetcode-cn.com/tag/tree) 

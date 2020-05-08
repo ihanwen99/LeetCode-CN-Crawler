@@ -28,4 +28,4 @@
 <p><strong>说明：</strong><br>
 你有办法在时间复杂度为 O(N)，空间复杂度为 O(1) 内完成吗？</p>
 
-**标签:	**[位运算](https://leetcode-cn.com/tag/bit-manipulation) [数组](https://leetcode-cn.com/tag/array) [分治算法](https://leetcode-cn.com/tag/divide-and-conquer) 
+**标签:**  [位运算](https://leetcode-cn.com/tag/bit-manipulation) [数组](https://leetcode-cn.com/tag/array) [分治算法](https://leetcode-cn.com/tag/divide-and-conquer) 

@@ -21,6 +21,6 @@
 <strong>输出:</strong> False
 </pre>
 
-**标签:	**[数学](https://leetcode-cn.com/tag/math) 
+**标签:**  [数学](https://leetcode-cn.com/tag/math) 
  ### 相似题目
 - 简单:	[有效的完全平方数](https://leetcode-cn.com/problems/valid-perfect-square) 

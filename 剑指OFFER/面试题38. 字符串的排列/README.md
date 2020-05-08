@@ -22,4 +22,4 @@
 
 <p><code>1 &lt;= s 的长度 &lt;= 8</code></p>
 
-**标签:	**[回溯算法](https://leetcode-cn.com/tag/backtracking) 
+**标签:**  [回溯算法](https://leetcode-cn.com/tag/backtracking) 

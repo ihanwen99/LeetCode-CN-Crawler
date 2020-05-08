@@ -57,4 +57,4 @@
 	<li>只有一个格子上存在&nbsp;<code>board[i][j] == &#39;R&#39;</code></li>
 </ol>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) 

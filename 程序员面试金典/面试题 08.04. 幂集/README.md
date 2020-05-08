@@ -22,4 +22,4 @@
 ]
 </pre>
 
-**标签:	**[位运算](https://leetcode-cn.com/tag/bit-manipulation) [数组](https://leetcode-cn.com/tag/array) [回溯算法](https://leetcode-cn.com/tag/backtracking) 
+**标签:**  [位运算](https://leetcode-cn.com/tag/bit-manipulation) [数组](https://leetcode-cn.com/tag/array) [回溯算法](https://leetcode-cn.com/tag/backtracking) 

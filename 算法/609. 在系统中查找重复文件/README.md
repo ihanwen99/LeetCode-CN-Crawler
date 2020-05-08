@@ -46,4 +46,4 @@
 	<li>如何确保您发现的重复文件不是误报？</li>
 </ol>
 
-**标签:	**[哈希表](https://leetcode-cn.com/tag/hash-table) [字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [哈希表](https://leetcode-cn.com/tag/hash-table) [字符串](https://leetcode-cn.com/tag/string) 

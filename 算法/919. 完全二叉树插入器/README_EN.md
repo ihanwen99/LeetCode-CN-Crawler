@@ -52,4 +52,4 @@
 <div>&nbsp;</div>
 </div>
 
-**Related Topic	**[Tree](https://leetcode-cn.com/tag/tree) 
+**Related Topic**  [Tree](https://leetcode-cn.com/tag/tree) 

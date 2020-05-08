@@ -27,4 +27,4 @@
 
 <p>注意：本题与主站 239 题相同：<a href="https://leetcode-cn.com/problems/sliding-window-maximum/">https://leetcode-cn.com/problems/sliding-window-maximum/</a></p>
 
-**标签:	**[栈](https://leetcode-cn.com/tag/stack) [None](https://leetcode-cn.com/tag/sliding-window) 
+**标签:**  [栈](https://leetcode-cn.com/tag/stack) [None](https://leetcode-cn.com/tag/sliding-window) 

@@ -36,6 +36,6 @@
 
 <p>&nbsp;</p>
 
-**标签:	**[二分查找](https://leetcode-cn.com/tag/binary-search) 
+**标签:**  [二分查找](https://leetcode-cn.com/tag/binary-search) 
  ### 相似题目
 - 中等:	[寻找峰值](https://leetcode-cn.com/problems/find-peak-element) 

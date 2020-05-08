@@ -30,4 +30,4 @@
 	<li>坡度的值不会超过32位整数的范围。</li>
 </ol>
 
-**标签:	**[树](https://leetcode-cn.com/tag/tree) 
+**标签:**  [树](https://leetcode-cn.com/tag/tree) 

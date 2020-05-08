@@ -26,7 +26,7 @@ Input: search(&quot;leetcoded&quot;), Output: False
 	<li>请记住<strong>重置</strong>MagicDictionary类中声明的类变量，因为静态/类变量会在多个测试用例中保留。 请参阅<a href="http://leetcode.com/faq/#different-output">这里</a>了解更多详情。</li>
 </ol>
 
-**标签:	**[字典树](https://leetcode-cn.com/tag/trie) [哈希表](https://leetcode-cn.com/tag/hash-table) 
+**标签:**  [字典树](https://leetcode-cn.com/tag/trie) [哈希表](https://leetcode-cn.com/tag/hash-table) 
  ### 相似题目
 - 中等:	[实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree) 
 - 简单:	[词典中最长的单词](https://leetcode-cn.com/problems/longest-word-in-dictionary) 

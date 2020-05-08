@@ -27,7 +27,7 @@
 	<li>1 &lt;= sentence words length &lt;= 1000</li>
 </ul>
 
-**Related Topics	**[Trie](https://leetcode-cn.com/tag/trie) [Hash Table](https://leetcode-cn.com/tag/hash-table) 
+**Related Topics**  [Trie](https://leetcode-cn.com/tag/trie) [Hash Table](https://leetcode-cn.com/tag/hash-table) 
 
 ### Similar Question
  - Medium:	[Implement Trie (Prefix Tree)](https://leetcode-cn.com/problems/implement-trie-prefix-tree) 

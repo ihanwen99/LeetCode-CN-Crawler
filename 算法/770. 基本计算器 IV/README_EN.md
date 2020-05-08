@@ -53,7 +53,7 @@ evalvars = [], evalints = []
 	<li><code>evalvars, evalints</code> will have equal lengths in range <code>[0, 100]</code>.</li>
 </ol>
 
-**Related Topics	**[Stack](https://leetcode-cn.com/tag/stack) [Hash Table](https://leetcode-cn.com/tag/hash-table) [String](https://leetcode-cn.com/tag/string) 
+**Related Topics**  [Stack](https://leetcode-cn.com/tag/stack) [Hash Table](https://leetcode-cn.com/tag/hash-table) [String](https://leetcode-cn.com/tag/string) 
 
 ### Similar Questions
  - Hard:	[Parse Lisp Expression](https://leetcode-cn.com/problems/parse-lisp-expression) 

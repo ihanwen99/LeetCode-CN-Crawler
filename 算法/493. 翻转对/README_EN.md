@@ -24,7 +24,7 @@
 <li>All the numbers in the input array are in the range of 32-bit integer.</li>
 </ol>
 </p>
-**Related Topics	**[Sort](https://leetcode-cn.com/tag/sort) [Binary Indexed Tree](https://leetcode-cn.com/tag/binary-indexed-tree) [Segment Tree](https://leetcode-cn.com/tag/segment-tree) [Binary Search](https://leetcode-cn.com/tag/binary-search) [Divide and Conquer](https://leetcode-cn.com/tag/divide-and-conquer) 
+**Related Topics**  [Sort](https://leetcode-cn.com/tag/sort) [Binary Indexed Tree](https://leetcode-cn.com/tag/binary-indexed-tree) [Segment Tree](https://leetcode-cn.com/tag/segment-tree) [Binary Search](https://leetcode-cn.com/tag/binary-search) [Divide and Conquer](https://leetcode-cn.com/tag/divide-and-conquer) 
 
 ### Similar Questions
  - Hard:	[Count of Smaller Numbers After Self](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self) 

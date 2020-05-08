@@ -26,7 +26,7 @@ search(&quot;b..&quot;) -&gt; true
 <p><b>Note:</b><br />
 You may assume that all words are consist of lowercase letters <code>a-z</code>.</p>
 
-**Related Topics	**[Design](https://leetcode-cn.com/tag/design) [Trie](https://leetcode-cn.com/tag/trie) [Backtracking](https://leetcode-cn.com/tag/backtracking) 
+**Related Topics**  [Design](https://leetcode-cn.com/tag/design) [Trie](https://leetcode-cn.com/tag/trie) [Backtracking](https://leetcode-cn.com/tag/backtracking) 
 
 ### Similar Questions
  - Medium:	[Implement Trie (Prefix Tree)](https://leetcode-cn.com/problems/implement-trie-prefix-tree) 

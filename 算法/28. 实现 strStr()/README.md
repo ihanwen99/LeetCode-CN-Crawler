@@ -24,7 +24,7 @@
 
 <p>对于本题而言，当&nbsp;<code>needle</code>&nbsp;是空字符串时我们应当返回 0 。这与C语言的&nbsp;<a href="https://baike.baidu.com/item/strstr/811469" target="_blank">strstr()</a>&nbsp;以及 Java的&nbsp;<a href="https://docs.oracle.com/javase/7/docs/api/java/lang/String.html#indexOf(java.lang.String)" target="_blank">indexOf()</a>&nbsp;定义相符。</p>
 
-**标签:	**[双指针](https://leetcode-cn.com/tag/two-pointers) [字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [双指针](https://leetcode-cn.com/tag/two-pointers) [字符串](https://leetcode-cn.com/tag/string) 
  ### 相似题目
 - 困难:	[最短回文串](https://leetcode-cn.com/problems/shortest-palindrome) 
 - 简单:	[重复的子字符串](https://leetcode-cn.com/problems/repeated-substring-pattern) 

@@ -46,4 +46,4 @@
 	<li>It&#39;s guaranteed that the result will be in range&nbsp;<code>[1,&nbsp;2 * 10^9]</code></li>
 </ul>
 
-**Related Topics	**[Math](https://leetcode-cn.com/tag/math) [Binary Search](https://leetcode-cn.com/tag/binary-search) 
+**Related Topics**  [Math](https://leetcode-cn.com/tag/math) [Binary Search](https://leetcode-cn.com/tag/binary-search) 

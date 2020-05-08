@@ -47,7 +47,7 @@ The input has been split into consecutive parts with size difference at most 1, 
 <li>Each value of a node in the input will be an integer in the range <code>[0, 999]</code>.</li>
 <li><code>k</code> will be an integer in the range <code>[1, 50]</code>.</li>
 </p>
-**Related Topic	**[Linked List](https://leetcode-cn.com/tag/linked-list) 
+**Related Topic**  [Linked List](https://leetcode-cn.com/tag/linked-list) 
 
 ### Similar Questions
  - Medium:	[Rotate List](https://leetcode-cn.com/problems/rotate-list) 

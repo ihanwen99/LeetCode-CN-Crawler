@@ -29,4 +29,4 @@ List 3: [5, 18, 22, 30], 22 is in range [20,24].
 	<li>-10<sup>5</sup> &lt;= <code>value of elements</code> &lt;= 10<sup>5</sup>.</li>
 </ol>
 
-**Related Topics	**[Hash Table](https://leetcode-cn.com/tag/hash-table) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) [String](https://leetcode-cn.com/tag/string) 
+**Related Topics**  [Hash Table](https://leetcode-cn.com/tag/hash-table) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) [String](https://leetcode-cn.com/tag/string) 

@@ -43,6 +43,6 @@
 
 <p>&nbsp;</p>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) 
  ### 相似题目
 - 困难:	[编辑距离](https://leetcode-cn.com/problems/edit-distance) 

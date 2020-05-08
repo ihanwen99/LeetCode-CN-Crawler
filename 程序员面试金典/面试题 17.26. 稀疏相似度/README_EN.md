@@ -31,4 +31,4 @@
 	<li>The number of document pairs with similarity greater than 0 will not exceed 1000.</li>
 </ul>
 
-**Related Topic	**[Hash Table](https://leetcode-cn.com/tag/hash-table) 
+**Related Topic**  [Hash Table](https://leetcode-cn.com/tag/hash-table) 

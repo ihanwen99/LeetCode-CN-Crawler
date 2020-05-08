@@ -24,7 +24,7 @@ Given an array <code>nums</code> representing the data status of this set after 
 <li>The given array's numbers won't have any order.</li>
 </ol>
 </p>
-**Related Topics	**[Hash Table](https://leetcode-cn.com/tag/hash-table) [Math](https://leetcode-cn.com/tag/math) 
+**Related Topics**  [Hash Table](https://leetcode-cn.com/tag/hash-table) [Math](https://leetcode-cn.com/tag/math) 
 
 ### Similar Question
  - Medium:	[Find the Duplicate Number](https://leetcode-cn.com/problems/find-the-duplicate-number) 

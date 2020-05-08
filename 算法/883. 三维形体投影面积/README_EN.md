@@ -121,4 +121,4 @@ Here are the three projections (&quot;shadows&quot;) of the shape made with each
 </div>
 </div>
 
-**Related Topic	**[Math](https://leetcode-cn.com/tag/math) 
+**Related Topic**  [Math](https://leetcode-cn.com/tag/math) 

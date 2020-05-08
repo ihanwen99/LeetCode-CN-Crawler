@@ -48,7 +48,7 @@ wordDict = [&quot;cats&quot;, &quot;dog&quot;, &quot;sand&quot;, &quot;and&quot;
 <strong>Output:
 </strong>[]</pre>
 
-**Related Topics	**[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) [Backtracking](https://leetcode-cn.com/tag/backtracking) 
+**Related Topics**  [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) [Backtracking](https://leetcode-cn.com/tag/backtracking) 
 
 ### Similar Questions
  - Medium:	[Word Break](https://leetcode-cn.com/problems/word-break) 

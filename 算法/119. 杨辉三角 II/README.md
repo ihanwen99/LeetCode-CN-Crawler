@@ -18,6 +18,6 @@
 
 <p>你可以优化你的算法到 <em>O</em>(<em>k</em>) 空间复杂度吗？</p>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) 
  ### 相似题目
 - 简单:	[杨辉三角](https://leetcode-cn.com/problems/pascals-triangle) 

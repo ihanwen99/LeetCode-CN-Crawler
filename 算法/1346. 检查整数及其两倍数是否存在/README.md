@@ -44,4 +44,4 @@
 	<li><code>-10^3 &lt;= arr[i] &lt;= 10^3</code></li>
 </ul>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) 

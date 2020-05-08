@@ -27,4 +27,4 @@
 <strong>Explanation:</strong> Input: [5,1,4,null,null,3,6].
 &nbsp;    the value of root node is 5, but its right child has value 4.</pre>
 
-**Related Topics	**[Tree](https://leetcode-cn.com/tag/tree) [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) 
+**Related Topics**  [Tree](https://leetcode-cn.com/tag/tree) [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) 

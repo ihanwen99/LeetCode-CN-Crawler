@@ -26,4 +26,4 @@
 <strong>Output: </strong>&quot;0.(6)&quot;
 </pre>
 
-**Related Topics	**[Hash Table](https://leetcode-cn.com/tag/hash-table) [Math](https://leetcode-cn.com/tag/math) 
+**Related Topics**  [Hash Table](https://leetcode-cn.com/tag/hash-table) [Math](https://leetcode-cn.com/tag/math) 

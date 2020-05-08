@@ -61,7 +61,7 @@
 <ol>
 	<li><code>1 &lt;= B.length &lt;= 100</code></li>
 </ol>
-**Related Topic	**[Tree](https://leetcode-cn.com/tag/tree) 
+**Related Topic**  [Tree](https://leetcode-cn.com/tag/tree) 
 
 ### Similar Question
  - Medium:	[Maximum Binary Tree](https://leetcode-cn.com/problems/maximum-binary-tree) 

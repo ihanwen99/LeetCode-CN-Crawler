@@ -35,4 +35,4 @@
 	<li><code>1 &lt;= W &lt;= hand.length</code></li>
 </ol>
 
-**标签:	**[None](https://leetcode-cn.com/tag/ordered-map) 
+**标签:**  [None](https://leetcode-cn.com/tag/ordered-map) 

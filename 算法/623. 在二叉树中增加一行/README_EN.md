@@ -64,4 +64,4 @@ A binary tree as following:
 <li>The given binary tree has at least one tree node.</li>
 </ol>
 </p>
-**Related Topic	**[Tree](https://leetcode-cn.com/tag/tree) 
+**Related Topic**  [Tree](https://leetcode-cn.com/tag/tree) 

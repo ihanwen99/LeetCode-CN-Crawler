@@ -20,7 +20,7 @@
 <p><strong>Note: </strong><br />
 You may assume k is always valid, 1 &le; k &le; array&#39;s length.</p>
 
-**Related Topics	**[Heap](https://leetcode-cn.com/tag/heap) [Divide and Conquer](https://leetcode-cn.com/tag/divide-and-conquer) 
+**Related Topics**  [Heap](https://leetcode-cn.com/tag/heap) [Divide and Conquer](https://leetcode-cn.com/tag/divide-and-conquer) 
 
 ### Similar Questions
  - Medium:	[Wiggle Sort II](https://leetcode-cn.com/problems/wiggle-sort-ii) 

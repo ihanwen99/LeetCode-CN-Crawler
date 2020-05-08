@@ -28,4 +28,4 @@ The missing numbers are [5,6,8,...], hence the third missing number is 8.
 	<li><code>0 &lt;= S.length &lt;= 500000</code></li>
 </ol>
 
-**Related Topic	**[String](https://leetcode-cn.com/tag/string) 
+**Related Topic**  [String](https://leetcode-cn.com/tag/string) 

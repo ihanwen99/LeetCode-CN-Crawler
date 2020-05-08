@@ -70,4 +70,4 @@
 	<li><code>0 &lt;= A[i] &lt; 100000</code></li>
 </ol>
 
-**标签:	**[栈](https://leetcode-cn.com/tag/stack) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) [None](https://leetcode-cn.com/tag/ordered-map) 
+**标签:**  [栈](https://leetcode-cn.com/tag/stack) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) [None](https://leetcode-cn.com/tag/ordered-map) 

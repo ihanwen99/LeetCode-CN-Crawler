@@ -25,6 +25,6 @@ HammingDistance(4, 14) + HammingDistance(4, 2) + HammingDistance(14, 2) = 2 + 2 
 	<li>数组的长度不超过&nbsp;<code>10^4</code>。</li>
 </ol>
 
-**标签:	**[位运算](https://leetcode-cn.com/tag/bit-manipulation) 
+**标签:**  [位运算](https://leetcode-cn.com/tag/bit-manipulation) 
  ### 相似题目
 - 简单:	[汉明距离](https://leetcode-cn.com/problems/hamming-distance) 

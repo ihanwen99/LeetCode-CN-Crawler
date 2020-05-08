@@ -22,7 +22,7 @@
 
 <p><strong>注意:</strong>&nbsp;给定的数组长度不超过 2000 并且结果一定是32位有符号整数。</p>
 
-**标签:	**[动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
  ### 相似题目
 - 中等:	[最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence) 
 - 简单:	[最长连续递增序列](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence) 

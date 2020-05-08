@@ -24,7 +24,7 @@
 	<li>You may not alter the values in the list&#39;s nodes, only nodes itself may be changed.</li>
 </ul>
 
-**Related Topic	**[Linked List](https://leetcode-cn.com/tag/linked-list) 
+**Related Topic**  [Linked List](https://leetcode-cn.com/tag/linked-list) 
 
 ### Similar Question
  - Medium:	[Swap Nodes in Pairs](https://leetcode-cn.com/problems/swap-nodes-in-pairs) 

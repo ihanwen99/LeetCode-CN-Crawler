@@ -39,4 +39,4 @@
 	<li><code>-10^8 &lt;= target &lt;= 10^8</code></li>
 </ol>
 
-**Related Topics	**[Array](https://leetcode-cn.com/tag/array) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) [Sliding Window](https://leetcode-cn.com/tag/sliding-window) 
+**Related Topics**  [Array](https://leetcode-cn.com/tag/array) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) [Sliding Window](https://leetcode-cn.com/tag/sliding-window) 

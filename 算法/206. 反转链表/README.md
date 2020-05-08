@@ -12,7 +12,7 @@
 <p><strong>进阶:</strong><br>
 你可以迭代或递归地反转链表。你能否用两种方法解决这道题？</p>
 
-**标签:	**[链表](https://leetcode-cn.com/tag/linked-list) 
+**标签:**  [链表](https://leetcode-cn.com/tag/linked-list) 
  ### 相似题目
 - 中等:	[反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii) 
 - 中等:	[上下翻转二叉树](https://leetcode-cn.com/problems/binary-tree-upside-down) 

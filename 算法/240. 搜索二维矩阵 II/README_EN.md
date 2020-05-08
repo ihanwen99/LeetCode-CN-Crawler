@@ -27,7 +27,7 @@
 
 <p>Given&nbsp;target&nbsp;=&nbsp;<code>20</code>, return&nbsp;<code>false</code>.</p>
 
-**Related Topics	**[Binary Search](https://leetcode-cn.com/tag/binary-search) [Divide and Conquer](https://leetcode-cn.com/tag/divide-and-conquer) 
+**Related Topics**  [Binary Search](https://leetcode-cn.com/tag/binary-search) [Divide and Conquer](https://leetcode-cn.com/tag/divide-and-conquer) 
 
 ### Similar Question
  - Medium:	[Search a 2D Matrix](https://leetcode-cn.com/problems/search-a-2d-matrix) 

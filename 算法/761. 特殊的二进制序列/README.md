@@ -30,6 +30,6 @@
 	<li><code>S</code>&nbsp;保证为一个满足上述定义的<em>特殊 </em>的二进制序列。</li>
 </ol>
 
-**标签:	**[递归](https://leetcode-cn.com/tag/recursion) [字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [递归](https://leetcode-cn.com/tag/recursion) [字符串](https://leetcode-cn.com/tag/string) 
  ### 相似题目
 - 中等:	[有效的括号字符串](https://leetcode-cn.com/problems/valid-parenthesis-string) 

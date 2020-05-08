@@ -29,4 +29,4 @@
 	<li><code>1 &lt;= A[0].length&nbsp;&lt;= 1000</code></li>
 </ol>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) 

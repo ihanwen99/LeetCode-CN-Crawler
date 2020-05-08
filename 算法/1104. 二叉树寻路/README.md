@@ -34,4 +34,4 @@
 	<li><code>1 &lt;= label &lt;= 10^6</code></li>
 </ul>
 
-**标签:	**[树](https://leetcode-cn.com/tag/tree) [数学](https://leetcode-cn.com/tag/math) 
+**标签:**  [树](https://leetcode-cn.com/tag/tree) [数学](https://leetcode-cn.com/tag/math) 

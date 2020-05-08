@@ -48,4 +48,4 @@
 	<li><code>S</code> 是一个有效括号字符串</li>
 </ol>
 
-**标签:	**[栈](https://leetcode-cn.com/tag/stack) 
+**标签:**  [栈](https://leetcode-cn.com/tag/stack) 

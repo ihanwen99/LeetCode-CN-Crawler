@@ -22,4 +22,4 @@
 	<li><code>nums.length &lt;=&nbsp;30000</code></li>
 </ul>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) [数学](https://leetcode-cn.com/tag/math) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) [数学](https://leetcode-cn.com/tag/math) 

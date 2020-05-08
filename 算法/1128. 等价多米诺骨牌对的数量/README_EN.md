@@ -18,4 +18,4 @@
 	<li><code>1 &lt;= dominoes.length &lt;= 40000</code></li>
 	<li><code>1 &lt;= dominoes[i][j] &lt;= 9</code></li>
 </ul>
-**Related Topic	**[Array](https://leetcode-cn.com/tag/array) 
+**Related Topic**  [Array](https://leetcode-cn.com/tag/array) 

@@ -12,7 +12,7 @@ Given array nums = [-1, 2, 1, -4], and target = 1.
 The sum that is closest to the target is 2. (-1 + 2 + 1 = 2).
 </pre>
 
-**Related Topics	**[Array](https://leetcode-cn.com/tag/array) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) 
+**Related Topics**  [Array](https://leetcode-cn.com/tag/array) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) 
 
 ### Similar Questions
  - Medium:	[3Sum](https://leetcode-cn.com/problems/3sum) 

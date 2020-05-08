@@ -37,7 +37,7 @@
 	<li>Do not return anything from your function.</li>
 </ul>
 
-**Related Topic	**[Linked List](https://leetcode-cn.com/tag/linked-list) 
+**Related Topic**  [Linked List](https://leetcode-cn.com/tag/linked-list) 
 
 ### Similar Question
  - Easy:	[Remove Linked List Elements](https://leetcode-cn.com/problems/remove-linked-list-elements) 

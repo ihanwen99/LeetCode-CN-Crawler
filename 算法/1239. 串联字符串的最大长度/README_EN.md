@@ -40,4 +40,4 @@ Maximum length is 4.
 	<li><code>arr[i]</code> contains only lower case English letters.</li>
 </ul>
 
-**Related Topics	**[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) [Backtracking](https://leetcode-cn.com/tag/backtracking) 
+**Related Topics**  [Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) [Backtracking](https://leetcode-cn.com/tag/backtracking) 

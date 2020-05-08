@@ -22,6 +22,6 @@
 我们可以构造的最长的回文串是&quot;dccaccd&quot;, 它的长度是 7。
 </pre>
 
-**标签:	**[哈希表](https://leetcode-cn.com/tag/hash-table) 
+**标签:**  [哈希表](https://leetcode-cn.com/tag/hash-table) 
  ### 相似题目
 - 简单:	[回文排列](https://leetcode-cn.com/problems/palindrome-permutation) 

@@ -28,7 +28,7 @@
 <strong>Explanation:</strong> There exist two distinct solutions to the 4-queens puzzle as shown above.
 </pre>
 
-**Related Topic	**[Backtracking](https://leetcode-cn.com/tag/backtracking) 
+**Related Topic**  [Backtracking](https://leetcode-cn.com/tag/backtracking) 
 
 ### Similar Questions
  - Hard:	[N-Queens II](https://leetcode-cn.com/problems/n-queens-ii) 

@@ -35,7 +35,7 @@
 	<li>The total number of nodes is between <code>[0,&nbsp;10^4]</code>.</li>
 </ul>
 
-**Related Topics	**[Tree](https://leetcode-cn.com/tag/tree) [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) [Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search) 
+**Related Topics**  [Tree](https://leetcode-cn.com/tag/tree) [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) [Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search) 
 
 ### Similar Question
  - Easy:	[Maximum Depth of Binary Tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree) 

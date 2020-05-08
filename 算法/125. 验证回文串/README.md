@@ -18,7 +18,7 @@
 <strong>输出:</strong> false
 </pre>
 
-**标签:	**[双指针](https://leetcode-cn.com/tag/two-pointers) [字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [双指针](https://leetcode-cn.com/tag/two-pointers) [字符串](https://leetcode-cn.com/tag/string) 
  ### 相似题目
 - 简单:	[回文链表](https://leetcode-cn.com/problems/palindrome-linked-list) 
 - 简单:	[验证回文字符串 Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii) 

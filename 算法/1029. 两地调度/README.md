@@ -31,4 +31,4 @@
 	<li><code>1 &lt;= costs[i][0], costs[i][1] &lt;= 1000</code></li>
 </ol>
 
-**标签:	**[贪心算法](https://leetcode-cn.com/tag/greedy) 
+**标签:**  [贪心算法](https://leetcode-cn.com/tag/greedy) 

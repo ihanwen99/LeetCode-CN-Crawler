@@ -26,6 +26,6 @@
 <strong>输出:</strong> [1,2,3,4,8,12,11,10,9,5,6,7]
 </pre>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) 
  ### 相似题目
 - 中等:	[螺旋矩阵 II](https://leetcode-cn.com/problems/spiral-matrix-ii) 

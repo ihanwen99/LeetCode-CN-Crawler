@@ -34,4 +34,4 @@ iterator.hasNext(); // 返回 false
 	<li>题目保证每次调用函数&nbsp;<code>next</code>&nbsp;时都存在下一个字母组合。</li>
 </ul>
 
-**标签:	**[设计](https://leetcode-cn.com/tag/design) [回溯算法](https://leetcode-cn.com/tag/backtracking) 
+**标签:**  [设计](https://leetcode-cn.com/tag/design) [回溯算法](https://leetcode-cn.com/tag/backtracking) 

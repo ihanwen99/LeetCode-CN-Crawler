@@ -25,7 +25,7 @@ HammingDistance(4, 14) + HammingDistance(4, 2) + HammingDistance(14, 2) = 2 + 2 
 <li>Length of the array will not exceed <code>10^4</code>. </li>
 </ol>
 </p>
-**Related Topic	**[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) 
+**Related Topic**  [Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) 
 
 ### Similar Question
  - Easy:	[Hamming Distance](https://leetcode-cn.com/problems/hamming-distance) 

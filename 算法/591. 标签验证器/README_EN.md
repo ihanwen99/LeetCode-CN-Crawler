@@ -68,7 +68,7 @@ The reason why cdata is NOT <b>"&lt;![CDATA[&lt;div>]>]]>]]>"</b> is because of 
 <li>For simplicity, you could assume the input code (including the <b>any characters</b> mentioned above) only contain <code>letters</code>, <code>digits</code>, <code>'&lt;'</code>,<code>'>'</code>,<code>'/'</code>,<code>'!'</code>,<code>'['</code>,<code>']'</code> and <code>' '</code>.</li>
 </ol>
 </p>
-**Related Topics	**[Stack](https://leetcode-cn.com/tag/stack) [String](https://leetcode-cn.com/tag/string) 
+**Related Topics**  [Stack](https://leetcode-cn.com/tag/stack) [String](https://leetcode-cn.com/tag/string) 
 
 ### Similar Question
  - Medium:	[Add Bold Tag in String](https://leetcode-cn.com/problems/add-bold-tag-in-string) 

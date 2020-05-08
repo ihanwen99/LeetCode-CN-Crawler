@@ -14,4 +14,4 @@
 <strong>Output:</strong> [&quot;AAAAACCCCC&quot;, &quot;CCCCCAAAAA&quot;]
 </pre>
 
-**Related Topics	**[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) [Hash Table](https://leetcode-cn.com/tag/hash-table) 
+**Related Topics**  [Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) [Hash Table](https://leetcode-cn.com/tag/hash-table) 

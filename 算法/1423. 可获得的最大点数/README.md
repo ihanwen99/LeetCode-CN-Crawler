@@ -56,4 +56,4 @@
 	<li><code>1 &lt;= k &lt;= cardPoints.length</code></li>
 </ul>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) [None](https://leetcode-cn.com/tag/sliding-window) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) [None](https://leetcode-cn.com/tag/sliding-window) 

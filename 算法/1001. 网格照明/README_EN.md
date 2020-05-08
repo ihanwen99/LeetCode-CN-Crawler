@@ -46,7 +46,7 @@ Before performing the second query we have only the lamp [4,4] on.  Now the quer
 	<li><code>0 &lt;= queries.length &lt;= 20000</code></li>
 	<li><code>lamps[i].length == queries[i].length == 2</code></li>
 </ol>
-**Related Topic	**[Hash Table](https://leetcode-cn.com/tag/hash-table) 
+**Related Topic**  [Hash Table](https://leetcode-cn.com/tag/hash-table) 
 
 ### Similar Question
  - Hard:	[N-Queens](https://leetcode-cn.com/problems/n-queens) 

@@ -27,4 +27,4 @@
 	<li><code>1 &lt;= grid[0].length &lt;= 100</code></li>
 	<li><code>grid[i][j]</code> is <code>0</code> or <code>1</code></li>
 </ul>
-**Related Topic	**[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topic**  [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 

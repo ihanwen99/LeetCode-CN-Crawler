@@ -41,6 +41,6 @@
 	<li><code>1 &lt;= K &lt;= A.length</code></li>
 </ol>
 
-**标签:	**[贪心算法](https://leetcode-cn.com/tag/greedy) [None](https://leetcode-cn.com/tag/sliding-window) 
+**标签:**  [贪心算法](https://leetcode-cn.com/tag/greedy) [None](https://leetcode-cn.com/tag/sliding-window) 
  ### 相似题目
 - 中等:	[灯泡开关](https://leetcode-cn.com/problems/bulb-switcher) 

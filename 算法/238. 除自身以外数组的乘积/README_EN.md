@@ -18,7 +18,7 @@
 <p><strong>Follow up:</strong><br />
 Could you solve it with constant space complexity? (The output array <strong>does not</strong> count as extra space for the purpose of space complexity analysis.)</p>
 
-**Related Topic	**[Array](https://leetcode-cn.com/tag/array) 
+**Related Topic**  [Array](https://leetcode-cn.com/tag/array) 
 
 ### Similar Questions
  - Hard:	[Trapping Rain Water](https://leetcode-cn.com/problems/trapping-rain-water) 

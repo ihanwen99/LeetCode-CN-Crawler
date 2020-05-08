@@ -54,4 +54,4 @@ The possible results are 1, 2, 3, 4, 6, and 7.
 	<li><code>0 &lt;= A[i] &lt;= 10^9</code></li>
 </ol>
 
-**Related Topics	**[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topics**  [Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 

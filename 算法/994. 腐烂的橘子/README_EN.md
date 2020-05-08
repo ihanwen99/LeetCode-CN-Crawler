@@ -57,7 +57,7 @@
 </div>
 </div>
 
-**Related Topic	**[Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search) 
+**Related Topic**  [Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search) 
 
 ### Similar Question
  - Medium:	[Walls and Gates](https://leetcode-cn.com/problems/walls-and-gates) 

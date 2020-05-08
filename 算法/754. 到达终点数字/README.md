@@ -35,4 +35,4 @@
 	<li><code>target</code>是在<code>[-10^9, 10^9]</code>范围中的非零整数。</li>
 </ul>
 
-**标签:	**[数学](https://leetcode-cn.com/tag/math) 
+**标签:**  [数学](https://leetcode-cn.com/tag/math) 

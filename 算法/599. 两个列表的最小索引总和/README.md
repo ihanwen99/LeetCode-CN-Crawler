@@ -33,6 +33,6 @@
 	<li>两个列表都没有重复的元素。</li>
 </ol>
 
-**标签:	**[哈希表](https://leetcode-cn.com/tag/hash-table) 
+**标签:**  [哈希表](https://leetcode-cn.com/tag/hash-table) 
  ### 相似题目
 - 简单:	[相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists) 

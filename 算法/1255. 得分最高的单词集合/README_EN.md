@@ -50,4 +50,4 @@ Letter &quot;e&quot; can only be used once.</pre>
 	<li><code>words[i]</code>, <code>letters[i]</code>&nbsp;contains only lower case English letters.</li>
 </ul>
 
-**Related Topic	**[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) 
+**Related Topic**  [Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) 

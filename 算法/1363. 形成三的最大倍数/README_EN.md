@@ -46,4 +46,4 @@
 	<li>The returning answer must not contain unnecessary leading zeros.</li>
 </ul>
 
-**Related Topics	**[Math](https://leetcode-cn.com/tag/math) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topics**  [Math](https://leetcode-cn.com/tag/math) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 

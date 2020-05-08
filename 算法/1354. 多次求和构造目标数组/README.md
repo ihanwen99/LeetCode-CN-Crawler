@@ -48,4 +48,4 @@
 	<li><code>1 &lt;= target[i] &lt;= 10^9</code></li>
 </ul>
 
-**标签:	**[贪心算法](https://leetcode-cn.com/tag/greedy) 
+**标签:**  [贪心算法](https://leetcode-cn.com/tag/greedy) 

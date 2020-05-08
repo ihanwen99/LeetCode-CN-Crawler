@@ -20,7 +20,7 @@
 
 <p>返回它的最小深度 &nbsp;2.</p>
 
-**标签:	**[树](https://leetcode-cn.com/tag/tree) [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) [广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search) 
+**标签:**  [树](https://leetcode-cn.com/tag/tree) [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) [广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search) 
  ### 相似题目
 - 中等:	[二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal) 
 - 简单:	[二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree) 

@@ -23,4 +23,4 @@
 	<li><code>0 &lt;= A[i] &lt;= 10^6</code></li>
 </ol>
 
-**标签:	**[图](https://leetcode-cn.com/tag/graph) 
+**标签:**  [图](https://leetcode-cn.com/tag/graph) 

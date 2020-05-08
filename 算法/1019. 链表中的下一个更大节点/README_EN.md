@@ -47,4 +47,4 @@
 </div>
 </div>
 </div>
-**Related Topics	**[Stack](https://leetcode-cn.com/tag/stack) [Linked List](https://leetcode-cn.com/tag/linked-list) 
+**Related Topics**  [Stack](https://leetcode-cn.com/tag/stack) [Linked List](https://leetcode-cn.com/tag/linked-list) 

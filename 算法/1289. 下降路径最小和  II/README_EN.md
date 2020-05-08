@@ -28,4 +28,4 @@ The falling path with the smallest sum is&nbsp;[1,5,7], so the answer is&nbsp;13
 	<li><code>-99 &lt;= arr[i][j] &lt;= 99</code></li>
 </ul>
 
-**Related Topic	**[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topic**  [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 

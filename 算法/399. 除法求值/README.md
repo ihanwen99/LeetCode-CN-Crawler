@@ -21,4 +21,4 @@ queries(问题方程式) = [ [&quot;a&quot;, &quot;c&quot;], [&quot;b&quot;, &qu
 
 <p>输入总是有效的。你可以假设除法运算中不会出现除数为0的情况，且不存在任何矛盾的结果。</p>
 
-**标签:	**[并查集](https://leetcode-cn.com/tag/union-find) [图](https://leetcode-cn.com/tag/graph) 
+**标签:**  [并查集](https://leetcode-cn.com/tag/union-find) [图](https://leetcode-cn.com/tag/graph) 

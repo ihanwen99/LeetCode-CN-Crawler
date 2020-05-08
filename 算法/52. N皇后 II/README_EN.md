@@ -27,7 +27,7 @@
 ]
 </pre>
 
-**Related Topic	**[Backtracking](https://leetcode-cn.com/tag/backtracking) 
+**Related Topic**  [Backtracking](https://leetcode-cn.com/tag/backtracking) 
 
 ### Similar Question
  - Hard:	[N-Queens](https://leetcode-cn.com/problems/n-queens) 

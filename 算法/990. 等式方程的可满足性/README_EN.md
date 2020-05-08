@@ -70,4 +70,4 @@
 </div>
 </div>
 
-**Related Topics	**[Union Find](https://leetcode-cn.com/tag/union-find) [Graph](https://leetcode-cn.com/tag/graph) 
+**Related Topics**  [Union Find](https://leetcode-cn.com/tag/union-find) [Graph](https://leetcode-cn.com/tag/graph) 

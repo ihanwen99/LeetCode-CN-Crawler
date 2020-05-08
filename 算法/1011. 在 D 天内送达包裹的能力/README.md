@@ -56,4 +56,4 @@
 	<li><code>1 &lt;= weights[i] &lt;= 500</code></li>
 </ol>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) [二分查找](https://leetcode-cn.com/tag/binary-search) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) [二分查找](https://leetcode-cn.com/tag/binary-search) 

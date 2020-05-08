@@ -21,4 +21,4 @@
 	<li><code>10 &lt;= low &lt;= high &lt;= 10^9</code></li>
 </ul>
 
-**Related Topic	**[Backtracking](https://leetcode-cn.com/tag/backtracking) 
+**Related Topic**  [Backtracking](https://leetcode-cn.com/tag/backtracking) 

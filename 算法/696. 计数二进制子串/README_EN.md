@@ -28,7 +28,7 @@
 <li><code>s.length</code> will be between 1 and 50,000.</li>
 <li><code>s</code> will only consist of "0" or "1" characters.</li>
 </p>
-**Related Topic	**[String](https://leetcode-cn.com/tag/string) 
+**Related Topic**  [String](https://leetcode-cn.com/tag/string) 
 
 ### Similar Question
  - Medium:	[Encode and Decode Strings](https://leetcode-cn.com/problems/encode-and-decode-strings) 

@@ -52,4 +52,4 @@ Since all the cards revealed are in increasing order, the answer is correct.
 </div>
 </div>
 
-**Related Topic	**[Array](https://leetcode-cn.com/tag/array) 
+**Related Topic**  [Array](https://leetcode-cn.com/tag/array) 

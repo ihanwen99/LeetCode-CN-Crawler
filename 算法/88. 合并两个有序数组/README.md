@@ -23,7 +23,7 @@ nums2 = [2,5,6],       n = 3
 
 <strong>输出:</strong>&nbsp;[1,2,2,3,5,6]</pre>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) [双指针](https://leetcode-cn.com/tag/two-pointers) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) [双指针](https://leetcode-cn.com/tag/two-pointers) 
  ### 相似题目
 - 简单:	[合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists) 
 - 简单:	[有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array) 

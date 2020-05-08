@@ -21,7 +21,7 @@ A solution set is:
 ]
 </pre>
 
-**Related Topics	**[Array](https://leetcode-cn.com/tag/array) [Hash Table](https://leetcode-cn.com/tag/hash-table) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) 
+**Related Topics**  [Array](https://leetcode-cn.com/tag/array) [Hash Table](https://leetcode-cn.com/tag/hash-table) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) 
 
 ### Similar Questions
  - Easy:	[Two Sum](https://leetcode-cn.com/problems/two-sum) 

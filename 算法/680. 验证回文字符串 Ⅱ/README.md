@@ -25,6 +25,6 @@
 	<li>字符串只包含从 a-z 的小写字母。字符串的最大长度是50000。</li>
 </ol>
 
-**标签:	**[字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [字符串](https://leetcode-cn.com/tag/string) 
  ### 相似题目
 - 简单:	[验证回文串](https://leetcode-cn.com/problems/valid-palindrome) 

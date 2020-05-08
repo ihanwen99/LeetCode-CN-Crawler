@@ -60,4 +60,4 @@
 
 <p>&nbsp;</p>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) [数学](https://leetcode-cn.com/tag/math) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) [数学](https://leetcode-cn.com/tag/math) 

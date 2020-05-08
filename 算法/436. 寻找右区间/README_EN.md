@@ -54,7 +54,7 @@ For [2,3], the interval [3,4] has minimum-&quot;right&quot; start point.
 
 <p><strong>NOTE:</strong>&nbsp;input types have been changed on April 15, 2019. Please reset to default code definition to get new method signature.</p>
 
-**Related Topic	**[Binary Search](https://leetcode-cn.com/tag/binary-search) 
+**Related Topic**  [Binary Search](https://leetcode-cn.com/tag/binary-search) 
 
 ### Similar Question
  - Hard:	[Data Stream as Disjoint Intervals](https://leetcode-cn.com/problems/data-stream-as-disjoint-intervals) 

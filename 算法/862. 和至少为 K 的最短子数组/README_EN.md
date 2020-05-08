@@ -48,4 +48,4 @@
 </div>
 </div>
 
-**Related Topics	**[Queue](https://leetcode-cn.com/tag/queue) [Binary Search](https://leetcode-cn.com/tag/binary-search) 
+**Related Topics**  [Queue](https://leetcode-cn.com/tag/queue) [Binary Search](https://leetcode-cn.com/tag/binary-search) 

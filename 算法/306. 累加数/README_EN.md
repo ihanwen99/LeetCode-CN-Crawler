@@ -40,7 +40,7 @@
 <p><b>Follow up:</b><br />
 How would you handle overflow for very large input integers?</p>
 
-**Related Topic	**[Backtracking](https://leetcode-cn.com/tag/backtracking) 
+**Related Topic**  [Backtracking](https://leetcode-cn.com/tag/backtracking) 
 
 ### Similar Question
  - Medium:	[Split Array into Fibonacci Sequence](https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence) 

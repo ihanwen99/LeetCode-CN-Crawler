@@ -25,4 +25,4 @@ sentence = &quot;jesslookedjustliketimherbrother&quot;
 	<li>你可以认为<code>dictionary</code>和<code>sentence</code>中只包含小写字母。</li>
 </ul>
 
-**标签:	**[记忆化](https://leetcode-cn.com/tag/memoization) [字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [记忆化](https://leetcode-cn.com/tag/memoization) [字符串](https://leetcode-cn.com/tag/string) 

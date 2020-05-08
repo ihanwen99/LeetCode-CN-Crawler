@@ -23,4 +23,4 @@
 
 <p>所有输入只包含小写字母&nbsp;<code>a-z</code>&nbsp;。</p>
 
-**标签:	**[字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [字符串](https://leetcode-cn.com/tag/string) 

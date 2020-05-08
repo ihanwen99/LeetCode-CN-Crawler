@@ -33,6 +33,6 @@
 <strong>解释:</strong> 你可以拼出 &quot;10&quot;，但之后就没有剩余数字了。更好的选择是拼出 &quot;0&quot; 和 &quot;1&quot; 。
 </pre>
 
-**标签:	**[动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
  ### 相似题目
 - 困难:	[不含连续1的非负整数](https://leetcode-cn.com/problems/non-negative-integers-without-consecutive-ones) 

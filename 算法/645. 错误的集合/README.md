@@ -20,6 +20,6 @@
 	<li>给定的数组是无序的。</li>
 </ol>
 
-**标签:	**[哈希表](https://leetcode-cn.com/tag/hash-table) [数学](https://leetcode-cn.com/tag/math) 
+**标签:**  [哈希表](https://leetcode-cn.com/tag/hash-table) [数学](https://leetcode-cn.com/tag/math) 
  ### 相似题目
 - 中等:	[寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number) 

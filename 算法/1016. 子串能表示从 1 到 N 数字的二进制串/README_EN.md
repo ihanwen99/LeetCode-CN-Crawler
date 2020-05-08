@@ -29,4 +29,4 @@
 	<li><code>1 &lt;= N &lt;= 10^9</code></li>
 </ol>
 
-**Related Topic	**[String](https://leetcode-cn.com/tag/string) 
+**Related Topic**  [String](https://leetcode-cn.com/tag/string) 

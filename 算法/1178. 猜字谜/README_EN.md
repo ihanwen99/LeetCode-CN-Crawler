@@ -38,4 +38,4 @@ There&#39;re&nbsp;no valid words for&nbsp;&quot;gaswxyz&quot; cause none of the 
 	<li>Each <code>puzzles[i] </code>doesn&#39;t contain repeated characters.</li>
 </ul>
 
-**Related Topics	**[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) [Hash Table](https://leetcode-cn.com/tag/hash-table) 
+**Related Topics**  [Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) [Hash Table](https://leetcode-cn.com/tag/hash-table) 

@@ -59,4 +59,4 @@
 
 <p><strong>注意:</strong> 二叉树的高度在范围 [1, 10] 中。</p>
 
-**标签:	**[树](https://leetcode-cn.com/tag/tree) 
+**标签:**  [树](https://leetcode-cn.com/tag/tree) 

@@ -21,7 +21,7 @@ You may assume all input has valid answer.</p>
 
 <p><b>Follow Up:</b><br />
 Can you do it in O(n) time and/or in-place with O(1) extra space?</p>
-**Related Topic	**[Sort](https://leetcode-cn.com/tag/sort) 
+**Related Topic**  [Sort](https://leetcode-cn.com/tag/sort) 
 
 ### Similar Questions
  - Medium:	[Sort Colors](https://leetcode-cn.com/problems/sort-colors) 

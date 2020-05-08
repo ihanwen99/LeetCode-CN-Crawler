@@ -38,4 +38,4 @@ So the final output is 4.
 	<li>It&#39;s guaranteed that string <b>key</b> could always be spelled by rotating the string <b>ring</b>.</li>
 </ol>
 
-**Related Topics	**[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) [Divide and Conquer](https://leetcode-cn.com/tag/divide-and-conquer) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topics**  [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) [Divide and Conquer](https://leetcode-cn.com/tag/divide-and-conquer) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 

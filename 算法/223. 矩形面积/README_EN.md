@@ -18,7 +18,7 @@
 
 <p>Assume that the total area is never beyond the maximum possible value of <strong>int</strong>.</p>
 
-**Related Topic	**[Math](https://leetcode-cn.com/tag/math) 
+**Related Topic**  [Math](https://leetcode-cn.com/tag/math) 
 
 ### Similar Question
  - Easy:	[Rectangle Overlap](https://leetcode-cn.com/problems/rectangle-overlap) 

@@ -26,4 +26,4 @@
 	<li><code>0 &lt;= arr[i]&nbsp;&lt;= 10000</code></li>
 </ul>
 
-**标签:	**[堆](https://leetcode-cn.com/tag/heap) [分治算法](https://leetcode-cn.com/tag/divide-and-conquer) 
+**标签:**  [堆](https://leetcode-cn.com/tag/heap) [分治算法](https://leetcode-cn.com/tag/divide-and-conquer) 

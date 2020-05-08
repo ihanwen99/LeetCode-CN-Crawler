@@ -36,4 +36,4 @@
 	<li>输入的两个字符串均为非空字符串，且只包含字符 &#39;R&#39;,&#39;Y&#39;,&#39;B&#39;,&#39;G&#39;,&#39;W&#39;。</li>
 </ol>
 
-**标签:	**[深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) 
+**标签:**  [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) 

@@ -26,7 +26,7 @@
 
 <p>特别感谢<strong> </strong><a href="https://leetcode.com/pbrother/">@pbrother&nbsp;</a>添加此问题并且创建所有测试用例。</p>
 
-**标签:	**[贪心算法](https://leetcode-cn.com/tag/greedy) [二分查找](https://leetcode-cn.com/tag/binary-search) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [贪心算法](https://leetcode-cn.com/tag/greedy) [二分查找](https://leetcode-cn.com/tag/binary-search) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
  ### 相似题目
 - 中等:	[匹配子序列的单词数](https://leetcode-cn.com/problems/number-of-matching-subsequences) 
 - 中等:	[形成字符串的最短路径](https://leetcode-cn.com/problems/shortest-way-to-form-string) 

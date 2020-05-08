@@ -37,4 +37,4 @@
 	<li><code>1 &lt;= people[i] &lt;=&nbsp;limit &lt;= 30000</code></li>
 </ul>
 
-**标签:	**[贪心算法](https://leetcode-cn.com/tag/greedy) [双指针](https://leetcode-cn.com/tag/two-pointers) 
+**标签:**  [贪心算法](https://leetcode-cn.com/tag/greedy) [双指针](https://leetcode-cn.com/tag/two-pointers) 

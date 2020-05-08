@@ -31,7 +31,7 @@ while the minimum difference in this tree is 1, it occurs between node 1 and nod
 	<li>This question is the same as 530:&nbsp;<a href="https://leetcode.com/problems/minimum-absolute-difference-in-bst/">https://leetcode.com/problems/minimum-absolute-difference-in-bst/</a></li>
 </ol>
 
-**Related Topics	**[Tree](https://leetcode-cn.com/tag/tree) [Recursion](https://leetcode-cn.com/tag/recursion) 
+**Related Topics**  [Tree](https://leetcode-cn.com/tag/tree) [Recursion](https://leetcode-cn.com/tag/recursion) 
 
 ### Similar Question
  - Medium:	[Binary Tree Inorder Traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal) 

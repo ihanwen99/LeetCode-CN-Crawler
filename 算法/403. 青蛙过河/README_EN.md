@@ -41,4 +41,4 @@ The last stone at the 17th unit.
 the gap between the 5th and 6th stone is too large.
 </pre>
 </p>
-**Related Topic	**[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topic**  [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 

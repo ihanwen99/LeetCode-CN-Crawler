@@ -35,4 +35,4 @@
 	<li><code>logs[i]</code>&nbsp;保证有一个标识符，并且标识符后面有一个字。</li>
 </ol>
 
-**标签:	**[字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [字符串](https://leetcode-cn.com/tag/string) 

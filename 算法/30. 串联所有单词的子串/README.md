@@ -27,6 +27,6 @@
 <code><strong>输出：</strong>[]</code>
 </pre>
 
-**标签:	**[哈希表](https://leetcode-cn.com/tag/hash-table) [双指针](https://leetcode-cn.com/tag/two-pointers) [字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [哈希表](https://leetcode-cn.com/tag/hash-table) [双指针](https://leetcode-cn.com/tag/two-pointers) [字符串](https://leetcode-cn.com/tag/string) 
  ### 相似题目
 - 困难:	[最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring) 

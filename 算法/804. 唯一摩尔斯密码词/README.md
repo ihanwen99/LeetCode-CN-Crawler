@@ -35,4 +35,4 @@
 	<li>每个单词&nbsp;<code>words[i]</code>只包含小写字母。</li>
 </ul>
 
-**标签:	**[字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [字符串](https://leetcode-cn.com/tag/string) 

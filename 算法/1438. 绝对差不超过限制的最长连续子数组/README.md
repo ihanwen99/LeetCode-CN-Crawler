@@ -49,4 +49,4 @@
 	<li><code>0 &lt;= limit &lt;= 10^9</code></li>
 </ul>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) [None](https://leetcode-cn.com/tag/sliding-window) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) [None](https://leetcode-cn.com/tag/sliding-window) 

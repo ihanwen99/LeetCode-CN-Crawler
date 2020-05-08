@@ -33,4 +33,4 @@ XYZ YYZ XZZ XYY XXY</pre>
 
 <p>&nbsp;</p>
 
-**Related Topic	**[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topic**  [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 

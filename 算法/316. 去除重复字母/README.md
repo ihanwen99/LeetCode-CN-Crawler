@@ -21,4 +21,4 @@
 
 <p><strong>注意：</strong>该题与 1081 <a href="https://leetcode-cn.com/problems/smallest-subsequence-of-distinct-characters">https://leetcode-cn.com/problems/smallest-subsequence-of-distinct-characters</a> 相同</p>
 
-**标签:	**[栈](https://leetcode-cn.com/tag/stack) [贪心算法](https://leetcode-cn.com/tag/greedy) 
+**标签:**  [栈](https://leetcode-cn.com/tag/stack) [贪心算法](https://leetcode-cn.com/tag/greedy) 

@@ -47,4 +47,4 @@
 	<li><code>1 &lt;= arrLen&nbsp;&lt;= 10^6</code></li>
 </ul>
 
-**标签:	**[动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 

@@ -46,4 +46,4 @@
 	<li>Each <code>{amount}</code>&nbsp;consist of&nbsp;digits, and represent an integer between <code>0</code> and <code>2000</code>.</li>
 </ul>
 
-**Related Topics	**[Array](https://leetcode-cn.com/tag/array) [String](https://leetcode-cn.com/tag/string) 
+**Related Topics**  [Array](https://leetcode-cn.com/tag/array) [String](https://leetcode-cn.com/tag/string) 

@@ -37,4 +37,4 @@
 	<li><code>0 &lt;= graph[i].length &lt;&nbsp;graph.length</code></li>
 </ol>
 
-**Related Topics	**[Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topics**  [Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 

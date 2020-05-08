@@ -21,4 +21,4 @@
 	<li>Each&nbsp;<code>arr2[i]</code> is in <code>arr1</code>.</li>
 </ul>
 
-**Related Topics	**[Sort](https://leetcode-cn.com/tag/sort) [Array](https://leetcode-cn.com/tag/array) 
+**Related Topics**  [Sort](https://leetcode-cn.com/tag/sort) [Array](https://leetcode-cn.com/tag/array) 

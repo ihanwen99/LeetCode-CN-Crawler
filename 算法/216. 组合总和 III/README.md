@@ -23,6 +23,6 @@
 <strong>输出:</strong> [[1,2,6], [1,3,5], [2,3,4]]
 </pre>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) [回溯算法](https://leetcode-cn.com/tag/backtracking) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) [回溯算法](https://leetcode-cn.com/tag/backtracking) 
  ### 相似题目
 - 中等:	[组合总和](https://leetcode-cn.com/problems/combination-sum) 

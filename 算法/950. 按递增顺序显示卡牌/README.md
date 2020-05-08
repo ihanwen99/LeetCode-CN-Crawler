@@ -47,4 +47,4 @@
 	<li>对于所有的&nbsp;<code>i != j</code>，<code>A[i] != A[j]</code></li>
 </ol>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) 

@@ -46,4 +46,4 @@
 </div>
 </div>
 
-**Related Topics	**[Greedy](https://leetcode-cn.com/tag/greedy) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) 
+**Related Topics**  [Greedy](https://leetcode-cn.com/tag/greedy) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) 

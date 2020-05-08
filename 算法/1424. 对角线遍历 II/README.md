@@ -45,4 +45,4 @@
 	<li><code>nums</code>&nbsp;中最多有&nbsp;<code>10^5</code>&nbsp;个数字。</li>
 </ul>
 
-**标签:	**[排序](https://leetcode-cn.com/tag/sort) [数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [排序](https://leetcode-cn.com/tag/sort) [数组](https://leetcode-cn.com/tag/array) 

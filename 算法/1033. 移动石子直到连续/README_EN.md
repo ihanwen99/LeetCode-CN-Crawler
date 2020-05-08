@@ -59,4 +59,4 @@
 </div>
 </div>
 
-**Related Topic	**[Brainteaser](https://leetcode-cn.com/tag/brainteaser) 
+**Related Topic**  [Brainteaser](https://leetcode-cn.com/tag/brainteaser) 

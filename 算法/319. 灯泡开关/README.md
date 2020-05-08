@@ -17,7 +17,7 @@
 你应该返回 1，因为只有一个灯泡还亮着。
 </pre>
 
-**标签:	**[脑筋急转弯](https://leetcode-cn.com/tag/brainteaser) [数学](https://leetcode-cn.com/tag/math) 
+**标签:**  [脑筋急转弯](https://leetcode-cn.com/tag/brainteaser) [数学](https://leetcode-cn.com/tag/math) 
  ### 相似题目
 - 中等:	[灯泡开关 Ⅱ](https://leetcode-cn.com/problems/bulb-switcher-ii) 
 - 困难:	[K 连续位的最小翻转次数](https://leetcode-cn.com/problems/minimum-number-of-k-consecutive-bit-flips) 

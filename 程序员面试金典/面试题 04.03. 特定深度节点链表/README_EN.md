@@ -22,4 +22,4 @@
 <strong>Output: </strong>[[1],[2,3],[4,5,7],[8]]
 </pre>
 
-**Related Topics	**[Tree](https://leetcode-cn.com/tag/tree) [Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search) 
+**Related Topics**  [Tree](https://leetcode-cn.com/tag/tree) [Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search) 

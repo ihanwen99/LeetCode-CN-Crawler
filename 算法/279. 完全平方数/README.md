@@ -16,7 +16,7 @@
 <strong>输出:</strong> 2
 <strong>解释: </strong><code>13 = 4 + 9.</code></pre>
 
-**标签:	**[广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search) [数学](https://leetcode-cn.com/tag/math) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search) [数学](https://leetcode-cn.com/tag/math) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
  ### 相似题目
 - 简单:	[计数质数](https://leetcode-cn.com/problems/count-primes) 
 - 中等:	[丑数 II](https://leetcode-cn.com/problems/ugly-number-ii) 

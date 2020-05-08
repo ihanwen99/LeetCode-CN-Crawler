@@ -19,7 +19,7 @@
 ]
 </pre>
 
-**Related Topic	**[Backtracking](https://leetcode-cn.com/tag/backtracking) 
+**Related Topic**  [Backtracking](https://leetcode-cn.com/tag/backtracking) 
 
 ### Similar Questions
  - Medium:	[Combination Sum](https://leetcode-cn.com/problems/combination-sum) 

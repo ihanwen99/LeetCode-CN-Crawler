@@ -18,7 +18,7 @@
 
 <p><strong>Follow up:</strong> Recursive solution is trivial, could you do it iteratively?</p>
 
-**Related Topics	**[Stack](https://leetcode-cn.com/tag/stack) [Tree](https://leetcode-cn.com/tag/tree) [Hash Table](https://leetcode-cn.com/tag/hash-table) 
+**Related Topics**  [Stack](https://leetcode-cn.com/tag/stack) [Tree](https://leetcode-cn.com/tag/tree) [Hash Table](https://leetcode-cn.com/tag/hash-table) 
 
 ### Similar Questions
  - Medium:	[Validate Binary Search Tree](https://leetcode-cn.com/problems/validate-binary-search-tree) 

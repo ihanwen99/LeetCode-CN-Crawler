@@ -58,4 +58,4 @@
 	<li><code>s</code> consists of only digits and doesn&#39;t contain leading zeros.</li>
 	<li><code>1 &lt;= k &lt;= 10^9</code>.</li>
 </ul>
-**Related Topic	**[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topic**  [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 

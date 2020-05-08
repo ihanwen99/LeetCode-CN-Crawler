@@ -22,7 +22,7 @@
 	<li>我们可以不考虑输出结果的顺序。</li>
 </ul>
 
-**标签:	**[排序](https://leetcode-cn.com/tag/sort) [哈希表](https://leetcode-cn.com/tag/hash-table) [双指针](https://leetcode-cn.com/tag/two-pointers) [二分查找](https://leetcode-cn.com/tag/binary-search) 
+**标签:**  [排序](https://leetcode-cn.com/tag/sort) [哈希表](https://leetcode-cn.com/tag/hash-table) [双指针](https://leetcode-cn.com/tag/two-pointers) [二分查找](https://leetcode-cn.com/tag/binary-search) 
  ### 相似题目
 - 简单:	[两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii) 
 - 简单:	[三个有序数组的交集](https://leetcode-cn.com/problems/intersection-of-three-sorted-arrays) 

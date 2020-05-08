@@ -22,7 +22,7 @@ words = [&quot;a&quot;, &quot;bb&quot;, &quot;acd&quot;, &quot;ace&quot;]
 	<li>The length of <code>words[i]</code> will be in the range of <code>[1, 50]</code>.</li>
 </ul>
 
-**Related Topic	**[Array](https://leetcode-cn.com/tag/array) 
+**Related Topic**  [Array](https://leetcode-cn.com/tag/array) 
 
 ### Similar Question
  - Easy:	[Is Subsequence](https://leetcode-cn.com/problems/is-subsequence) 

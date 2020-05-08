@@ -52,4 +52,4 @@
 	<li><code>y1 &lt; y2</code></li>
 </ul>
 
-**标签:	**[几何](https://leetcode-cn.com/tag/geometry) 
+**标签:**  [几何](https://leetcode-cn.com/tag/geometry) 

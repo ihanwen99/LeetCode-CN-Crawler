@@ -25,4 +25,4 @@
 	<li>You may assume the input string will only contain letters of alphabet.</li>
 </ol>
 
-**Related Topic	**[Hash Table](https://leetcode-cn.com/tag/hash-table) 
+**Related Topic**  [Hash Table](https://leetcode-cn.com/tag/hash-table) 

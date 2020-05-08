@@ -35,7 +35,7 @@ Construct the maximum tree by the given array and output the root node of this t
 <li>The size of the given array will be in the range [1,1000].</li>
 </ol>
 </p>
-**Related Topic	**[Tree](https://leetcode-cn.com/tag/tree) 
+**Related Topic**  [Tree](https://leetcode-cn.com/tag/tree) 
 
 ### Similar Question
  - Medium:	[Maximum Binary Tree II](https://leetcode-cn.com/problems/maximum-binary-tree-ii) 

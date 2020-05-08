@@ -49,4 +49,4 @@
 
 <p>&nbsp;</p>
 
-**标签:	**[字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [字符串](https://leetcode-cn.com/tag/string) 

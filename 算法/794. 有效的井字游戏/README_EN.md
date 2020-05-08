@@ -44,7 +44,7 @@
 	<li>Each <code>board[i][j]</code> is a character in the set <code>{&quot; &quot;, &quot;X&quot;, &quot;O&quot;}</code>.</li>
 </ul>
 
-**Related Topics	**[Recursion](https://leetcode-cn.com/tag/recursion) [Math](https://leetcode-cn.com/tag/math) 
+**Related Topics**  [Recursion](https://leetcode-cn.com/tag/recursion) [Math](https://leetcode-cn.com/tag/math) 
 
 ### Similar Question
  - Medium:	[Design Tic-Tac-Toe](https://leetcode-cn.com/problems/design-tic-tac-toe) 

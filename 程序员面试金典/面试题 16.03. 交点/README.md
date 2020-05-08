@@ -41,4 +41,4 @@ line2 = {1, 0}, {2, 1}
 	<li>输入的坐标均是有效的二维坐标</li>
 </ul>
 
-**标签:	**[几何](https://leetcode-cn.com/tag/geometry) [数学](https://leetcode-cn.com/tag/math) 
+**标签:**  [几何](https://leetcode-cn.com/tag/geometry) [数学](https://leetcode-cn.com/tag/math) 

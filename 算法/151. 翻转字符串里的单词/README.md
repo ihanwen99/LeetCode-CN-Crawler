@@ -42,6 +42,6 @@
 
 <p>请选用 C 语言的用户尝试使用&nbsp;<em>O</em>(1) 额外空间复杂度的原地解法。</p>
 
-**标签:	**[字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [字符串](https://leetcode-cn.com/tag/string) 
  ### 相似题目
 - 中等:	[翻转字符串里的单词 II](https://leetcode-cn.com/problems/reverse-words-in-a-string-ii) 

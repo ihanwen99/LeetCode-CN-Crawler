@@ -38,4 +38,4 @@
 	<li>输入中任意一个域名的访问次数都小于<code>10000</code>。</li>
 </ul>
 
-**标签:	**[哈希表](https://leetcode-cn.com/tag/hash-table) 
+**标签:**  [哈希表](https://leetcode-cn.com/tag/hash-table) 

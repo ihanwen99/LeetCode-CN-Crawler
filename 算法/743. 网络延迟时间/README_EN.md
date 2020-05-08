@@ -30,4 +30,4 @@
 	<li>All edges <code>times[i] = (u, v, w)</code> will have <code>1 &lt;= u, v &lt;= N</code> and <code>0 &lt;= w &lt;= 100</code>.</li>
 </ol>
 
-**Related Topics	**[Heap](https://leetcode-cn.com/tag/heap) [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) [Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search) [Graph](https://leetcode-cn.com/tag/graph) 
+**Related Topics**  [Heap](https://leetcode-cn.com/tag/heap) [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) [Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search) [Graph](https://leetcode-cn.com/tag/graph) 

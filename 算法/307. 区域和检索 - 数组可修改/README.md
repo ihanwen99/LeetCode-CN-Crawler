@@ -22,7 +22,7 @@ sumRange(0, 2) -&gt; 8
 	<li>你可以假设 <em>update</em> 函数与 <em>sumRange</em> 函数的调用次数是均匀分布的。</li>
 </ol>
 
-**标签:	**[树状数组](https://leetcode-cn.com/tag/binary-indexed-tree) [线段树](https://leetcode-cn.com/tag/segment-tree) 
+**标签:**  [树状数组](https://leetcode-cn.com/tag/binary-indexed-tree) [线段树](https://leetcode-cn.com/tag/segment-tree) 
  ### 相似题目
 - 简单:	[区域和检索 - 数组不可变](https://leetcode-cn.com/problems/range-sum-query-immutable) 
 - 困难:	[二维区域和检索 - 可变](https://leetcode-cn.com/problems/range-sum-query-2d-mutable) 

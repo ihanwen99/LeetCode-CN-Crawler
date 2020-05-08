@@ -64,4 +64,4 @@
 	<li>字符串可能包含 256 个ASCII 字符中的任意字符。</li>
 </ul>
 
-**标签:	**[栈](https://leetcode-cn.com/tag/stack) [字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [栈](https://leetcode-cn.com/tag/stack) [字符串](https://leetcode-cn.com/tag/string) 

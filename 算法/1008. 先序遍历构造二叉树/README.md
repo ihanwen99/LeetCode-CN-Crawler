@@ -24,4 +24,4 @@
 	<li>先序&nbsp;<code>preorder</code>&nbsp;中的值是不同的。</li>
 </ol>
 
-**标签:	**[树](https://leetcode-cn.com/tag/tree) 
+**标签:**  [树](https://leetcode-cn.com/tag/tree) 

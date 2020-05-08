@@ -35,7 +35,7 @@ Return 4.
 	<li><code>0 &lt;= heightMap[i][j] &lt;= 20000</code></li>
 </ul>
 
-**Related Topics	**[Heap](https://leetcode-cn.com/tag/heap) [Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search) 
+**Related Topics**  [Heap](https://leetcode-cn.com/tag/heap) [Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search) 
 
 ### Similar Question
  - Hard:	[Trapping Rain Water](https://leetcode-cn.com/problems/trapping-rain-water) 

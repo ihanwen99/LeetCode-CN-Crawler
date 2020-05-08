@@ -9,7 +9,7 @@
 与 target 最接近的三个数的和为 2. (-1 + 2 + 1 = 2).
 </pre>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) [双指针](https://leetcode-cn.com/tag/two-pointers) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) [双指针](https://leetcode-cn.com/tag/two-pointers) 
  ### 相似题目
 - 中等:	[三数之和](https://leetcode-cn.com/problems/3sum) 
 - 中等:	[较小的三数之和](https://leetcode-cn.com/problems/3sum-smaller) 

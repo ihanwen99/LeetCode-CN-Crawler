@@ -31,4 +31,4 @@ You need to return a string representing their multiplication. Note i<sup>2</sup
 <li>The input strings will be given in the form of <b>a+bi</b>, where the integer <b>a</b> and <b>b</b> will both belong to the range of [-100, 100]. And <b>the output should be also in this form</b>.</li>
 </ol>
 </p>
-**Related Topics	**[Math](https://leetcode-cn.com/tag/math) [String](https://leetcode-cn.com/tag/string) 
+**Related Topics**  [Math](https://leetcode-cn.com/tag/math) [String](https://leetcode-cn.com/tag/string) 

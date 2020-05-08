@@ -54,4 +54,4 @@
 	<li><code>1 &lt;=&nbsp;profit[i] &lt;= 10^4</code></li>
 </ul>
 
-**标签:	**[排序](https://leetcode-cn.com/tag/sort) [二分查找](https://leetcode-cn.com/tag/binary-search) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [排序](https://leetcode-cn.com/tag/sort) [二分查找](https://leetcode-cn.com/tag/binary-search) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 

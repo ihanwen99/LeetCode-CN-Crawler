@@ -24,7 +24,7 @@ trie.search(&quot;app&quot;);     // returns true
 	<li>All inputs are guaranteed to be non-empty strings.</li>
 </ul>
 
-**Related Topics	**[Design](https://leetcode-cn.com/tag/design) [Trie](https://leetcode-cn.com/tag/trie) 
+**Related Topics**  [Design](https://leetcode-cn.com/tag/design) [Trie](https://leetcode-cn.com/tag/trie) 
 
 ### Similar Questions
  - Medium:	[Add and Search Word - Data structure design](https://leetcode-cn.com/problems/add-and-search-word-data-structure-design) 

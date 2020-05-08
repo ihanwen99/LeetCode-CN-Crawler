@@ -17,4 +17,4 @@ death = {1948, 1951, 2000}
 <li><code>birth[i] <= death[i]</code></li>
 </ul>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) 

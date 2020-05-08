@@ -36,4 +36,4 @@ All the adjacent element differ by one bit. Another valid permutation is [3,1,0,
 	<li><code>0 &lt;= start&nbsp;&lt;&nbsp;2 ^ n</code></li>
 </ul>
 
-**Related Topic	**[Math](https://leetcode-cn.com/tag/math) 
+**Related Topic**  [Math](https://leetcode-cn.com/tag/math) 

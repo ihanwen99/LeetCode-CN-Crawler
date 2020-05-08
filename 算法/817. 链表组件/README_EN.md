@@ -39,4 +39,4 @@ G = [0, 3, 1, 4]
 	<li><code>G</code> is a subset of all values in the linked list.</li>
 </ul>
 
-**Related Topic	**[Linked List](https://leetcode-cn.com/tag/linked-list) 
+**Related Topic**  [Linked List](https://leetcode-cn.com/tag/linked-list) 

@@ -39,7 +39,7 @@ So the maximum integer in M is 2, and there are four of it in M. So return 4.
 <li>The range of operations size won't exceed 10,000.</li>
 </ol>
 </p>
-**Related Topic	**[Math](https://leetcode-cn.com/tag/math) 
+**Related Topic**  [Math](https://leetcode-cn.com/tag/math) 
 
 ### Similar Question
  - Medium:	[Range Addition](https://leetcode-cn.com/problems/range-addition) 

@@ -28,7 +28,7 @@
 	<li>The given board size is always <code>9x9</code>.</li>
 </ul>
 
-**Related Topics	**[Hash Table](https://leetcode-cn.com/tag/hash-table) [Backtracking](https://leetcode-cn.com/tag/backtracking) 
+**Related Topics**  [Hash Table](https://leetcode-cn.com/tag/hash-table) [Backtracking](https://leetcode-cn.com/tag/backtracking) 
 
 ### Similar Questions
  - Medium:	[Valid Sudoku](https://leetcode-cn.com/problems/valid-sudoku) 

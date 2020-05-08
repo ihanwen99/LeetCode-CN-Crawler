@@ -35,4 +35,4 @@
 <div>
 <div>&nbsp;</div>
 </div>
-**Related Topics	**[Heap](https://leetcode-cn.com/tag/heap) [Sort](https://leetcode-cn.com/tag/sort) 
+**Related Topics**  [Heap](https://leetcode-cn.com/tag/heap) [Sort](https://leetcode-cn.com/tag/sort) 

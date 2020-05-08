@@ -46,4 +46,4 @@
 	<li><code>-10^4 &lt;= arr[i] &lt;= 10^4</code></li>
 </ul>
 
-**标签:	**[动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 

@@ -31,6 +31,6 @@
 	<li>每一个&nbsp;<code>cost[i]</code> 将会是一个Integer类型，范围为&nbsp;<code>[0, 999]</code>。</li>
 </ol>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
  ### 相似题目
 - 简单:	[爬楼梯](https://leetcode-cn.com/problems/climbing-stairs) 

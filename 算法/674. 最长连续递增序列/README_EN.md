@@ -26,7 +26,7 @@ Even though [1,3,5,7] is also an increasing subsequence, it's not a continuous o
 <p><b>Note:</b>
 Length of the array will not exceed 10,000.
 </p>
-**Related Topic	**[Array](https://leetcode-cn.com/tag/array) 
+**Related Topic**  [Array](https://leetcode-cn.com/tag/array) 
 
 ### Similar Questions
  - Medium:	[Number of Longest Increasing Subsequence](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence) 

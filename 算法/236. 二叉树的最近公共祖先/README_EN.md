@@ -35,7 +35,7 @@
 	<li>p and q are different and both values will&nbsp;exist in the binary tree.</li>
 </ul>
 
-**Related Topic	**[Tree](https://leetcode-cn.com/tag/tree) 
+**Related Topic**  [Tree](https://leetcode-cn.com/tag/tree) 
 
 ### Similar Questions
  - Easy:	[Lowest Common Ancestor of a Binary Search Tree](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree) 

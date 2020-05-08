@@ -50,7 +50,7 @@ If there is exactly one solution for the equation, we ensure that the value of <
 <b>Output:</b> "No solution"
 </pre>
 </p>
-**Related Topic	**[Math](https://leetcode-cn.com/tag/math) 
+**Related Topic**  [Math](https://leetcode-cn.com/tag/math) 
 
 ### Similar Question
  - Medium:	[Fraction Addition and Subtraction](https://leetcode-cn.com/problems/fraction-addition-and-subtraction) 

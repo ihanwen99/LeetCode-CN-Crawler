@@ -36,7 +36,7 @@ collection.remove(1);
 collection.getRandom();
 </pre>
 </p>
-**Related Topics	**[Design](https://leetcode-cn.com/tag/design) [Array](https://leetcode-cn.com/tag/array) [Hash Table](https://leetcode-cn.com/tag/hash-table) 
+**Related Topics**  [Design](https://leetcode-cn.com/tag/design) [Array](https://leetcode-cn.com/tag/array) [Hash Table](https://leetcode-cn.com/tag/hash-table) 
 
 ### Similar Question
  - Medium:	[Insert Delete GetRandom O(1)](https://leetcode-cn.com/problems/insert-delete-getrandom-o1) 

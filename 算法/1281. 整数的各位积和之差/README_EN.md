@@ -33,4 +33,4 @@ Result = 32 - 11 = 21
 	<li><code>1 &lt;= n &lt;= 10^5</code></li>
 </ul>
 
-**Related Topic	**[Math](https://leetcode-cn.com/tag/math) 
+**Related Topic**  [Math](https://leetcode-cn.com/tag/math) 

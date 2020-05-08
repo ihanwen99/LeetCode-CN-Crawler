@@ -26,4 +26,4 @@ XRLXXRRLX
 	<li>Both start and end will only consist of characters in <code>{&#39;L&#39;, &#39;R&#39;, &#39;X&#39;}</code>.</li>
 </ul>
 
-**Related Topic	**[Brainteaser](https://leetcode-cn.com/tag/brainteaser) 
+**Related Topic**  [Brainteaser](https://leetcode-cn.com/tag/brainteaser) 

@@ -38,4 +38,4 @@
 	<li><code>1 &lt;= time[i] &lt;= 500</code></li>
 </ul>
 
-**Related Topic	**[Array](https://leetcode-cn.com/tag/array) 
+**Related Topic**  [Array](https://leetcode-cn.com/tag/array) 

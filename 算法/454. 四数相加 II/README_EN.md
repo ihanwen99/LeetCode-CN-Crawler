@@ -26,7 +26,7 @@ The two tuples are:
 
 <p>&nbsp;</p>
 
-**Related Topics	**[Hash Table](https://leetcode-cn.com/tag/hash-table) [Binary Search](https://leetcode-cn.com/tag/binary-search) 
+**Related Topics**  [Hash Table](https://leetcode-cn.com/tag/hash-table) [Binary Search](https://leetcode-cn.com/tag/binary-search) 
 
 ### Similar Question
  - Medium:	[4Sum](https://leetcode-cn.com/problems/4sum) 

@@ -25,6 +25,6 @@
 	<li>输入的数组中任意三个数的乘积不会超出32位有符号整数的范围。</li>
 </ol>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) [数学](https://leetcode-cn.com/tag/math) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) [数学](https://leetcode-cn.com/tag/math) 
  ### 相似题目
 - 中等:	[乘积最大子数组](https://leetcode-cn.com/problems/maximum-product-subarray) 

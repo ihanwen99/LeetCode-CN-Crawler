@@ -25,4 +25,4 @@
 	<li><code>1 &lt;= S.length &lt;= 9</code></li>
 </ol>
 
-**Related Topic	**[Backtracking](https://leetcode-cn.com/tag/backtracking) 
+**Related Topic**  [Backtracking](https://leetcode-cn.com/tag/backtracking) 

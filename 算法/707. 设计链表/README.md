@@ -37,4 +37,4 @@ linkedList.get(1);            //返回3
 	<li>请不要使用内置的 LinkedList 库。</li>
 </ul>
 
-**标签:	**[设计](https://leetcode-cn.com/tag/design) [链表](https://leetcode-cn.com/tag/linked-list) 
+**标签:**  [设计](https://leetcode-cn.com/tag/design) [链表](https://leetcode-cn.com/tag/linked-list) 

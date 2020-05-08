@@ -45,4 +45,4 @@
 	<li><code>1 &lt;= k &lt;= 10^9</code></li>
 </ul>
 
-**标签:	**[贪心算法](https://leetcode-cn.com/tag/greedy) [数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [贪心算法](https://leetcode-cn.com/tag/greedy) [数组](https://leetcode-cn.com/tag/array) 

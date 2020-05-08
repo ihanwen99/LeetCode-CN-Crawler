@@ -19,7 +19,7 @@
 <pre><strong>输入: </strong>nums = [1,5,9,1,5,9], k = 2, t = 3
 <strong>输出:</strong> false</pre>
 
-**标签:	**[排序](https://leetcode-cn.com/tag/sort) [None](https://leetcode-cn.com/tag/ordered-map) 
+**标签:**  [排序](https://leetcode-cn.com/tag/sort) [None](https://leetcode-cn.com/tag/ordered-map) 
  ### 相似题目
 - 简单:	[存在重复元素](https://leetcode-cn.com/problems/contains-duplicate) 
 - 简单:	[存在重复元素 II](https://leetcode-cn.com/problems/contains-duplicate-ii) 

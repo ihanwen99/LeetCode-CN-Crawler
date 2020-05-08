@@ -50,4 +50,4 @@ Swap s[0] and s[1], s = &quot;abc&quot;
 	<li><code>s</code>&nbsp;only contains lower case English letters.</li>
 </ul>
 
-**Related Topics	**[Union Find](https://leetcode-cn.com/tag/union-find) [Array](https://leetcode-cn.com/tag/array) 
+**Related Topics**  [Union Find](https://leetcode-cn.com/tag/union-find) [Array](https://leetcode-cn.com/tag/array) 

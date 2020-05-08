@@ -56,4 +56,4 @@
 	<li><code>s</code> and <code>t</code> contain lower-case English letters only.</li>
 </ul>
 
-**Related Topic	**[String](https://leetcode-cn.com/tag/string) 
+**Related Topic**  [String](https://leetcode-cn.com/tag/string) 

@@ -22,7 +22,7 @@
 	<li>给出数对的个数在&nbsp;[1, 1000] 范围内。</li>
 </ol>
 
-**标签:	**[动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
  ### 相似题目
 - 中等:	[最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence) 
 - 中等:	[递增子序列](https://leetcode-cn.com/problems/increasing-subsequences) 

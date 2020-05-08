@@ -27,4 +27,4 @@
 	<li><code>0 &lt;= hours[i] &lt;= 16</code></li>
 </ul>
 
-**Related Topic	**[Stack](https://leetcode-cn.com/tag/stack) 
+**Related Topic**  [Stack](https://leetcode-cn.com/tag/stack) 

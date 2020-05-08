@@ -33,7 +33,7 @@
 &nbsp; [3,5]
 ]</pre>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) [回溯算法](https://leetcode-cn.com/tag/backtracking) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) [回溯算法](https://leetcode-cn.com/tag/backtracking) 
  ### 相似题目
 - 中等:	[电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number) 
 - 中等:	[组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii) 

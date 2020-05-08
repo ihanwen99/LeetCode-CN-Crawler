@@ -76,4 +76,4 @@
 	<li>There are no repeated elements on <code>moves</code>.</li>
 	<li><code>moves</code> follow the rules of tic tac toe.</li>
 </ul>
-**Related Topic	**[Array](https://leetcode-cn.com/tag/array) 
+**Related Topic**  [Array](https://leetcode-cn.com/tag/array) 

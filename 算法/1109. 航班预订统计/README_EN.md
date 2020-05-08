@@ -24,4 +24,4 @@
 	<li><code>1 &lt;= bookings[i][0] &lt;= bookings[i][1] &lt;= n &lt;= 20000</code></li>
 	<li><code>1 &lt;= bookings[i][2] &lt;= 10000</code></li>
 </ul>
-**Related Topics	**[Array](https://leetcode-cn.com/tag/array) [Math](https://leetcode-cn.com/tag/math) 
+**Related Topics**  [Array](https://leetcode-cn.com/tag/array) [Math](https://leetcode-cn.com/tag/math) 

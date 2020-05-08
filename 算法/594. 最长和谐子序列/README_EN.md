@@ -18,4 +18,4 @@
 
 <p><b>Note:</b> The length of the input array will not exceed 20,000.</p>
 
-**Related Topic	**[Hash Table](https://leetcode-cn.com/tag/hash-table) 
+**Related Topic**  [Hash Table](https://leetcode-cn.com/tag/hash-table) 

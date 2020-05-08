@@ -49,7 +49,7 @@
 <div>&nbsp;</div>
 </div>
 
-**Related Topics	**[Binary Search](https://leetcode-cn.com/tag/binary-search) [Random](https://leetcode-cn.com/tag/random) 
+**Related Topics**  [Binary Search](https://leetcode-cn.com/tag/binary-search) [Random](https://leetcode-cn.com/tag/random) 
 
 ### Similar Questions
  - Medium:	[Random Pick with Weight](https://leetcode-cn.com/problems/random-pick-with-weight) 

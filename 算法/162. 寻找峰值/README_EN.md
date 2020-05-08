@@ -30,7 +30,7 @@
 
 <p>Your solution should be in logarithmic complexity.</p>
 
-**Related Topics	**[Array](https://leetcode-cn.com/tag/array) [Binary Search](https://leetcode-cn.com/tag/binary-search) 
+**Related Topics**  [Array](https://leetcode-cn.com/tag/array) [Binary Search](https://leetcode-cn.com/tag/binary-search) 
 
 ### Similar Question
  - Easy:	[Peak Index in a Mountain Array](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array) 

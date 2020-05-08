@@ -32,7 +32,7 @@
 	<li>两个字符串的长度都在 [1, 10,000] 之间</li>
 </ol>
 
-**标签:	**[双指针](https://leetcode-cn.com/tag/two-pointers) [None](https://leetcode-cn.com/tag/sliding-window) 
+**标签:**  [双指针](https://leetcode-cn.com/tag/two-pointers) [None](https://leetcode-cn.com/tag/sliding-window) 
  ### 相似题目
 - 困难:	[最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring) 
 - 中等:	[找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string) 

@@ -14,6 +14,6 @@
  [ 7, 6, 5 ]
 ]</pre>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) 
  ### 相似题目
 - 中等:	[螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix) 

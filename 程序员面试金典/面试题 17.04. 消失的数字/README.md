@@ -19,4 +19,4 @@
 <strong>输出：</strong>8
 </pre>
 
-**标签:	**[位运算](https://leetcode-cn.com/tag/bit-manipulation) [数组](https://leetcode-cn.com/tag/array) [数学](https://leetcode-cn.com/tag/math) 
+**标签:**  [位运算](https://leetcode-cn.com/tag/bit-manipulation) [数组](https://leetcode-cn.com/tag/array) [数学](https://leetcode-cn.com/tag/math) 

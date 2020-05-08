@@ -28,7 +28,7 @@
 	<li>字符串如果不是 <code>&quot;0&quot;</code> ，就都不含前导零。</li>
 </ul>
 
-**标签:	**[数学](https://leetcode-cn.com/tag/math) [字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [数学](https://leetcode-cn.com/tag/math) [字符串](https://leetcode-cn.com/tag/string) 
  ### 相似题目
 - 中等:	[两数相加](https://leetcode-cn.com/problems/add-two-numbers) 
 - 中等:	[字符串相乘](https://leetcode-cn.com/problems/multiply-strings) 

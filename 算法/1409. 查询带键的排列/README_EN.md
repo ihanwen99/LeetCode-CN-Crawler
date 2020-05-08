@@ -47,4 +47,4 @@ Therefore, the array containing the result is [2,1,2,1].
 	<li><code>1 &lt;= queries.length &lt;= m</code></li>
 	<li><code>1 &lt;= queries[i] &lt;= m</code></li>
 </ul>
-**Related Topic	**[Array](https://leetcode-cn.com/tag/array) 
+**Related Topic**  [Array](https://leetcode-cn.com/tag/array) 

@@ -68,4 +68,4 @@ After steps 4, 5 and 6 of the second iteration, result = &quot;abccbaabccba&quot
 	<li><code>s</code> contains only lower-case English letters.</li>
 </ul>
 
-**Related Topics	**[Sort](https://leetcode-cn.com/tag/sort) [String](https://leetcode-cn.com/tag/string) 
+**Related Topics**  [Sort](https://leetcode-cn.com/tag/sort) [String](https://leetcode-cn.com/tag/string) 

@@ -11,7 +11,7 @@
 <b>Output:</b> 1-&gt;2-&gt;3-&gt;4-&gt;5
 </pre>
 
-**Related Topic	**[Linked List](https://leetcode-cn.com/tag/linked-list) 
+**Related Topic**  [Linked List](https://leetcode-cn.com/tag/linked-list) 
 
 ### Similar Questions
  - Easy:	[Remove Element](https://leetcode-cn.com/problems/remove-element) 

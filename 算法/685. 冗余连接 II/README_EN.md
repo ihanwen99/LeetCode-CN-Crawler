@@ -36,7 +36,7 @@ v   v
 <li>The size of the input 2D-array will be between 3 and 1000.</li>
 <li>Every integer represented in the 2D-array will be between 1 and N, where N is the size of the input array.</li>
 </p>
-**Related Topics	**[Tree](https://leetcode-cn.com/tag/tree) [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) [Union Find](https://leetcode-cn.com/tag/union-find) [Graph](https://leetcode-cn.com/tag/graph) 
+**Related Topics**  [Tree](https://leetcode-cn.com/tag/tree) [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) [Union Find](https://leetcode-cn.com/tag/union-find) [Graph](https://leetcode-cn.com/tag/graph) 
 
 ### Similar Question
  - Medium:	[Redundant Connection](https://leetcode-cn.com/problems/redundant-connection) 

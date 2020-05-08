@@ -19,7 +19,7 @@
 
 <p>Although the above answer is in lexicographical order, your answer could be in any order you want.</p>
 
-**Related Topics	**[String](https://leetcode-cn.com/tag/string) [Backtracking](https://leetcode-cn.com/tag/backtracking) 
+**Related Topics**  [String](https://leetcode-cn.com/tag/string) [Backtracking](https://leetcode-cn.com/tag/backtracking) 
 
 ### Similar Questions
  - Medium:	[Generate Parentheses](https://leetcode-cn.com/problems/generate-parentheses) 

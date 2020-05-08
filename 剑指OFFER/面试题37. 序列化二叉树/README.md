@@ -18,4 +18,4 @@
 
 <p>注意：本题与主站 297 题相同：<a href="https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/">https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/</a></p>
 
-**标签:	**[树](https://leetcode-cn.com/tag/tree) [设计](https://leetcode-cn.com/tag/design) 
+**标签:**  [树](https://leetcode-cn.com/tag/tree) [设计](https://leetcode-cn.com/tag/design) 

@@ -52,6 +52,6 @@
 	<li><code>1 &lt;= Y &lt;= 10^9</code></li>
 </ol>
 
-**标签:	**[贪心算法](https://leetcode-cn.com/tag/greedy) [数学](https://leetcode-cn.com/tag/math) 
+**标签:**  [贪心算法](https://leetcode-cn.com/tag/greedy) [数学](https://leetcode-cn.com/tag/math) 
  ### 相似题目
 - 中等:	[只有两个键的键盘](https://leetcode-cn.com/problems/2-keys-keyboard) 

@@ -15,7 +15,7 @@
 
 <p><b>Follow up:</b><br />
 Could you do it without any loop/recursion in O(1) runtime?</p>
-**Related Topic	**[Math](https://leetcode-cn.com/tag/math) 
+**Related Topic**  [Math](https://leetcode-cn.com/tag/math) 
 
 ### Similar Questions
  - Easy:	[Happy Number](https://leetcode-cn.com/problems/happy-number) 

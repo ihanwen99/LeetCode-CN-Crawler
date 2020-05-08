@@ -43,4 +43,4 @@ We then go to room 3.  Since we were able to go to every room, we return true.
 	<li>The number of keys in all rooms combined is at most&nbsp;<code>3000</code>.</li>
 </ol>
 
-**Related Topics	**[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) [Graph](https://leetcode-cn.com/tag/graph) 
+**Related Topics**  [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) [Graph](https://leetcode-cn.com/tag/graph) 

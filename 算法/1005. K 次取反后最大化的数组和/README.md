@@ -39,4 +39,4 @@
 	<li><code>-100 &lt;= A[i] &lt;= 100</code></li>
 </ol>
 
-**标签:	**[贪心算法](https://leetcode-cn.com/tag/greedy) 
+**标签:**  [贪心算法](https://leetcode-cn.com/tag/greedy) 

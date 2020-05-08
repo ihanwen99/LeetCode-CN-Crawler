@@ -22,4 +22,4 @@
 
 <p><strong>注意：</strong>两结点之间的路径长度是以它们之间边的数目表示。</p>
 
-**标签:	**[树](https://leetcode-cn.com/tag/tree) 
+**标签:**  [树](https://leetcode-cn.com/tag/tree) 

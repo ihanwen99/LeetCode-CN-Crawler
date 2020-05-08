@@ -36,7 +36,7 @@ k = <code>3</code>
 <strong>Output:</strong>
 <code>[9, 8, 9]</code>
 </pre>
-**Related Topics	**[Greedy](https://leetcode-cn.com/tag/greedy) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topics**  [Greedy](https://leetcode-cn.com/tag/greedy) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
 
 ### Similar Questions
  - Medium:	[Remove K Digits](https://leetcode-cn.com/problems/remove-k-digits) 

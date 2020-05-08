@@ -63,4 +63,4 @@
 	<li><code>0 &lt;= ranges[i] &lt;= 100</code></li>
 </ul>
 
-**标签:	**[贪心算法](https://leetcode-cn.com/tag/greedy) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [贪心算法](https://leetcode-cn.com/tag/greedy) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 

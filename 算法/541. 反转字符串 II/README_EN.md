@@ -18,7 +18,7 @@ Given a string and an integer k, you need to reverse the first k characters for 
 <li> The string consists of lower English letters only.</li>
 <li> Length of the given string and k will in the range [1, 10000]</li>
 </ol>
-**Related Topic	**[String](https://leetcode-cn.com/tag/string) 
+**Related Topic**  [String](https://leetcode-cn.com/tag/string) 
 
 ### Similar Questions
  - Easy:	[Reverse String](https://leetcode-cn.com/problems/reverse-string) 

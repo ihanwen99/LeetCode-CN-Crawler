@@ -25,6 +25,6 @@ WordFilter.f(&quot;b&quot;, &quot;&quot;) // 返回 -1
 	<li><code>words[i]</code>和<code>prefix, suffix</code>只包含小写字母。</li>
 </ol>
 
-**标签:	**[字典树](https://leetcode-cn.com/tag/trie) 
+**标签:**  [字典树](https://leetcode-cn.com/tag/trie) 
  ### 相似题目
 - 中等:	[添加与搜索单词 - 数据结构设计](https://leetcode-cn.com/problems/add-and-search-word-data-structure-design) 

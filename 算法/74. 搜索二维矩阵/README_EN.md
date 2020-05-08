@@ -34,7 +34,7 @@ matrix = [
 target = 13
 <strong>Output:</strong> false</pre>
 
-**Related Topics	**[Array](https://leetcode-cn.com/tag/array) [Binary Search](https://leetcode-cn.com/tag/binary-search) 
+**Related Topics**  [Array](https://leetcode-cn.com/tag/array) [Binary Search](https://leetcode-cn.com/tag/binary-search) 
 
 ### Similar Question
  - Medium:	[Search a 2D Matrix II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii) 

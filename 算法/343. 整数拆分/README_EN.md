@@ -23,4 +23,4 @@
 <p><b>Note</b>: You may assume that <i>n</i> is not less than 2 and not larger than 58.</p>
 </div>
 </div>
-**Related Topics	**[Math](https://leetcode-cn.com/tag/math) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topics**  [Math](https://leetcode-cn.com/tag/math) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 

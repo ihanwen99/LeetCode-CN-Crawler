@@ -44,7 +44,7 @@ circularQueue.Rear(); &nbsp;// return 4
 	<li>Please do not use the built-in Queue library.</li>
 </ul>
 
-**Related Topics	**[Design](https://leetcode-cn.com/tag/design) [Queue](https://leetcode-cn.com/tag/queue) 
+**Related Topics**  [Design](https://leetcode-cn.com/tag/design) [Queue](https://leetcode-cn.com/tag/queue) 
 
 ### Similar Question
  - Medium:	[Design Circular Deque](https://leetcode-cn.com/problems/design-circular-deque) 

@@ -50,7 +50,7 @@ wordList = [&quot;hot&quot;,&quot;dot&quot;,&quot;dog&quot;,&quot;lot&quot;,&quo
 <ul>
 </ul>
 
-**Related Topics	**[Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search) [Array](https://leetcode-cn.com/tag/array) [String](https://leetcode-cn.com/tag/string) [Backtracking](https://leetcode-cn.com/tag/backtracking) 
+**Related Topics**  [Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search) [Array](https://leetcode-cn.com/tag/array) [String](https://leetcode-cn.com/tag/string) [Backtracking](https://leetcode-cn.com/tag/backtracking) 
 
 ### Similar Question
  - Medium:	[Word Ladder](https://leetcode-cn.com/problems/word-ladder) 

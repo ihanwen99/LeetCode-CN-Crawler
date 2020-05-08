@@ -46,7 +46,7 @@
 注意&#39;A&#39;和&#39;a&#39;被认为是两种不同的字符。
 </pre>
 
-**标签:	**[堆](https://leetcode-cn.com/tag/heap) [哈希表](https://leetcode-cn.com/tag/hash-table) 
+**标签:**  [堆](https://leetcode-cn.com/tag/heap) [哈希表](https://leetcode-cn.com/tag/hash-table) 
  ### 相似题目
 - 中等:	[前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements) 
 - 简单:	[字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string) 

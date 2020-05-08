@@ -31,7 +31,7 @@ Window position                Median
 You may assume <code>k</code> is always valid, ie: <code>k</code> is always smaller than input array&#39;s size for non-empty array.<br />
 Answers within&nbsp;<code>10^-5</code>&nbsp;of the actual value will be accepted as correct.</p>
 
-**Related Topic	**[Sliding Window](https://leetcode-cn.com/tag/sliding-window) 
+**Related Topic**  [Sliding Window](https://leetcode-cn.com/tag/sliding-window) 
 
 ### Similar Question
  - Hard:	[Find Median from Data Stream](https://leetcode-cn.com/problems/find-median-from-data-stream) 

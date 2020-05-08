@@ -21,6 +21,6 @@
 	<li>第&nbsp;<code>n</code>&nbsp;个超级丑数确保在 32 位有符整数范围内。</li>
 </ul>
 
-**标签:	**[堆](https://leetcode-cn.com/tag/heap) [数学](https://leetcode-cn.com/tag/math) 
+**标签:**  [堆](https://leetcode-cn.com/tag/heap) [数学](https://leetcode-cn.com/tag/math) 
  ### 相似题目
 - 中等:	[丑数 II](https://leetcode-cn.com/problems/ugly-number-ii) 

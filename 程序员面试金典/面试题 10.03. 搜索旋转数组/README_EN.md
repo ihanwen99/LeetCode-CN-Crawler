@@ -24,4 +24,4 @@
 	<li><code>1 &lt;= arr.length &lt;= 1000000</code></li>
 </ol>
 
-**Related Topics	**[Array](https://leetcode-cn.com/tag/array) [Binary Search](https://leetcode-cn.com/tag/binary-search) 
+**Related Topics**  [Array](https://leetcode-cn.com/tag/array) [Binary Search](https://leetcode-cn.com/tag/binary-search) 

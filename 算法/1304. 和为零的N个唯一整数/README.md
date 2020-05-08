@@ -33,4 +33,4 @@
 	<li><code>1 &lt;= n &lt;= 1000</code></li>
 </ul>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) 

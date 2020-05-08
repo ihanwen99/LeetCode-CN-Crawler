@@ -34,4 +34,4 @@ since a and b map to the same letter.</pre>
 </ul>
 </div>
 
-**Related Topic	**[String](https://leetcode-cn.com/tag/string) 
+**Related Topic**  [String](https://leetcode-cn.com/tag/string) 

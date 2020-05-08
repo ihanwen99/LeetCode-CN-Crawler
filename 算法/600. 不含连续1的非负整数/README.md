@@ -20,7 +20,7 @@
 
 <p><strong>说明:</strong> 1 &lt;= n &lt;= 10<sup>9</sup></p>
 
-**标签:	**[动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
  ### 相似题目
 - 简单:	[打家劫舍](https://leetcode-cn.com/problems/house-robber) 
 - 中等:	[打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii) 

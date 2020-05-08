@@ -39,4 +39,4 @@ The XOR values for queries are:
 	<li><code>queries[i].length == 2</code></li>
 	<li><code>0 &lt;= queries[i][0] &lt;= queries[i][1] &lt; arr.length</code></li>
 </ul>
-**Related Topic	**[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) 
+**Related Topic**  [Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) 

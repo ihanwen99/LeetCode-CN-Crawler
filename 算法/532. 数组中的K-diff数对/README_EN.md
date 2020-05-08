@@ -38,7 +38,7 @@ Given an array of integers and an integer <b>k</b>, you need to find the number 
 <li>All the integers in the given input belong to the range: [-1e7, 1e7].</li>
 </ol>
 </p>
-**Related Topics	**[Array](https://leetcode-cn.com/tag/array) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) 
+**Related Topics**  [Array](https://leetcode-cn.com/tag/array) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) 
 
 ### Similar Question
  - Easy:	[Minimum Absolute Difference in BST](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst) 

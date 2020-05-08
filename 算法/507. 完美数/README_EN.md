@@ -18,7 +18,7 @@ Now, given an <b>integer</b> n, write a function that returns true when it is a 
 <p><b>Note:</b>
 The input number <b>n</b> will not exceed 100,000,000. (1e8)
 </p>
-**Related Topic	**[Math](https://leetcode-cn.com/tag/math) 
+**Related Topic**  [Math](https://leetcode-cn.com/tag/math) 
 
 ### Similar Question
  - Easy:	[Self Dividing Numbers](https://leetcode-cn.com/problems/self-dividing-numbers) 

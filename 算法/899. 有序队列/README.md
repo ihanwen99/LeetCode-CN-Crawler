@@ -37,4 +37,4 @@
 	<li><code>S</code>&nbsp;只由小写字母组成。</li>
 </ol>
 
-**标签:	**[数学](https://leetcode-cn.com/tag/math) [字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [数学](https://leetcode-cn.com/tag/math) [字符串](https://leetcode-cn.com/tag/string) 

@@ -43,4 +43,4 @@
 	<li>grid[i][j] 位于区间 [0, ..., N*N - 1] 内。</li>
 </ol>
 
-**标签:	**[堆](https://leetcode-cn.com/tag/heap) [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) [并查集](https://leetcode-cn.com/tag/union-find) [二分查找](https://leetcode-cn.com/tag/binary-search) 
+**标签:**  [堆](https://leetcode-cn.com/tag/heap) [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) [并查集](https://leetcode-cn.com/tag/union-find) [二分查找](https://leetcode-cn.com/tag/binary-search) 

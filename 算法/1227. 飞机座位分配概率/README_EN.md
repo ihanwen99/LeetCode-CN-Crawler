@@ -33,4 +33,4 @@
 <ul>
 	<li><code>1 &lt;= n &lt;= 10^5</code></li>
 </ul>
-**Related Topics	**[Brainteaser](https://leetcode-cn.com/tag/brainteaser) [Math](https://leetcode-cn.com/tag/math) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topics**  [Brainteaser](https://leetcode-cn.com/tag/brainteaser) [Math](https://leetcode-cn.com/tag/math) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 

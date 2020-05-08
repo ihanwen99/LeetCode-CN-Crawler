@@ -55,4 +55,4 @@
 	<li><code>0 &lt;= mountain_arr.get(index) &lt;=&nbsp;10^9</code></li>
 </ul>
 
-**Related Topic	**[Binary Search](https://leetcode-cn.com/tag/binary-search) 
+**Related Topic**  [Binary Search](https://leetcode-cn.com/tag/binary-search) 

@@ -34,6 +34,6 @@
 <strong>输出:</strong> &quot;ZY&quot;
 </pre>
 
-**标签:	**[数学](https://leetcode-cn.com/tag/math) 
+**标签:**  [数学](https://leetcode-cn.com/tag/math) 
  ### 相似题目
 - 简单:	[Excel表列序号](https://leetcode-cn.com/problems/excel-sheet-column-number) 

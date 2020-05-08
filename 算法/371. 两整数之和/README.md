@@ -15,6 +15,6 @@
 <pre><strong>输入: </strong>a = -2, b = 3
 <strong>输出: </strong>1</pre>
 
-**标签:	**[位运算](https://leetcode-cn.com/tag/bit-manipulation) 
+**标签:**  [位运算](https://leetcode-cn.com/tag/bit-manipulation) 
  ### 相似题目
 - 中等:	[两数相加](https://leetcode-cn.com/problems/add-two-numbers) 

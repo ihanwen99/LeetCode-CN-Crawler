@@ -18,6 +18,6 @@ s = &quot;loveleetcode&quot;,
 
 <p><strong>注意事项：</strong>您可以假定该字符串只包含小写字母。</p>
 
-**标签:	**[哈希表](https://leetcode-cn.com/tag/hash-table) [字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [哈希表](https://leetcode-cn.com/tag/hash-table) [字符串](https://leetcode-cn.com/tag/string) 
  ### 相似题目
 - 中等:	[根据字符出现频率排序](https://leetcode-cn.com/problems/sort-characters-by-frequency) 

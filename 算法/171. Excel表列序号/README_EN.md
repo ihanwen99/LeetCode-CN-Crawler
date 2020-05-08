@@ -37,7 +37,7 @@
 <strong>Input: </strong>&quot;ZY&quot;
 <strong>Output:</strong> 701
 </pre>
-**Related Topic	**[Math](https://leetcode-cn.com/tag/math) 
+**Related Topic**  [Math](https://leetcode-cn.com/tag/math) 
 
 ### Similar Question
  - Easy:	[Excel Sheet Column Title](https://leetcode-cn.com/problems/excel-sheet-column-title) 

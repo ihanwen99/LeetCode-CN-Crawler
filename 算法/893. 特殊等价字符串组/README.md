@@ -56,4 +56,4 @@
 	<li>所有&nbsp;<code>A[i]</code>&nbsp;都只由小写字母组成。</li>
 </ul>
 
-**标签:	**[字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [字符串](https://leetcode-cn.com/tag/string) 

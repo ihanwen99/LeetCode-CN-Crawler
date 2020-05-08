@@ -40,4 +40,4 @@
 	<li><code>1 &lt;= nums[i] &lt;= 10^9</code></li>
 </ul>
 
-**Related Topic	**[Math](https://leetcode-cn.com/tag/math) 
+**Related Topic**  [Math](https://leetcode-cn.com/tag/math) 

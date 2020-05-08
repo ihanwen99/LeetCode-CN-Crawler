@@ -22,4 +22,4 @@ queries = [ [&quot;a&quot;, &quot;c&quot;], [&quot;b&quot;, &quot;a&quot;], [&qu
 
 <p>The input is always valid. You may assume that evaluating the queries will result in no division by zero and there is no contradiction.</p>
 
-**Related Topics	**[Union Find](https://leetcode-cn.com/tag/union-find) [Graph](https://leetcode-cn.com/tag/graph) 
+**Related Topics**  [Union Find](https://leetcode-cn.com/tag/union-find) [Graph](https://leetcode-cn.com/tag/graph) 

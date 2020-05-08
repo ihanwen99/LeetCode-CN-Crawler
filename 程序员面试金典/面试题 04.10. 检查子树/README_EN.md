@@ -26,4 +26,4 @@
 	<li>The node numbers of both tree are in [0, 20000].</li>
 </ol>
 
-**Related Topic	**[Tree](https://leetcode-cn.com/tag/tree) 
+**Related Topic**  [Tree](https://leetcode-cn.com/tag/tree) 

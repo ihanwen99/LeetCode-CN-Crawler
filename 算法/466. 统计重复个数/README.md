@@ -22,4 +22,4 @@ s2 =&quot;ab&quot;,n2 = 2
 2
 </pre>
 
-**标签:	**[动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 

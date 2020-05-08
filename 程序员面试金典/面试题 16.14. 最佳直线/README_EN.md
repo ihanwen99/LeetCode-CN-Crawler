@@ -21,4 +21,4 @@
 	<li><code>len(Points[i]) = 2</code></li>
 </ul>
 
-**Related Topics	**[Geometry](https://leetcode-cn.com/tag/geometry) [Hash Table](https://leetcode-cn.com/tag/hash-table) 
+**Related Topics**  [Geometry](https://leetcode-cn.com/tag/geometry) [Hash Table](https://leetcode-cn.com/tag/hash-table) 

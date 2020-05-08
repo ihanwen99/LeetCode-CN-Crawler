@@ -29,6 +29,6 @@
 	<li>保证返回的最终结果能被32位整数存下。</li>
 </ol>
 
-**标签:	**[深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
  ### 相似题目
 - 困难:	[给表达式添加运算符](https://leetcode-cn.com/problems/expression-add-operators) 

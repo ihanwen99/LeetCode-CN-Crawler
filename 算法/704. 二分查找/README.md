@@ -29,6 +29,6 @@
 	<li><code>nums</code>&nbsp;的每个元素都将在&nbsp;<code>[-9999, 9999]</code>之间。</li>
 </ol>
 
-**标签:	**[二分查找](https://leetcode-cn.com/tag/binary-search) 
+**标签:**  [二分查找](https://leetcode-cn.com/tag/binary-search) 
  ### 相似题目
 - 中等:	[搜索长度未知的有序数组](https://leetcode-cn.com/problems/search-in-a-sorted-array-of-unknown-size) 

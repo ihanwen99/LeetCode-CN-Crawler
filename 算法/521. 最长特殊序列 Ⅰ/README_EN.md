@@ -42,7 +42,7 @@ Note that &quot;cdc&quot; can be also a longest uncommon subsequence.
 	<li>Only letters from a ~ z will appear in input strings.</li>
 </ul>
 
-**Related Topic	**[String](https://leetcode-cn.com/tag/string) 
+**Related Topic**  [String](https://leetcode-cn.com/tag/string) 
 
 ### Similar Question
  - Medium:	[Longest Uncommon Subsequence II](https://leetcode-cn.com/problems/longest-uncommon-subsequence-ii) 

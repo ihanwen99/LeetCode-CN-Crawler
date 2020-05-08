@@ -36,7 +36,7 @@ hashMap.get(2); &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;// returns -1 (not foun
 	<li>Please do not use the built-in HashMap library.</li>
 </ul>
 
-**Related Topics	**[Design](https://leetcode-cn.com/tag/design) [Hash Table](https://leetcode-cn.com/tag/hash-table) 
+**Related Topics**  [Design](https://leetcode-cn.com/tag/design) [Hash Table](https://leetcode-cn.com/tag/hash-table) 
 
 ### Similar Question
  - Easy:	[Design HashSet](https://leetcode-cn.com/problems/design-hashset) 

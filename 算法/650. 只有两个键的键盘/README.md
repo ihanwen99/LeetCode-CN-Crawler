@@ -29,7 +29,7 @@
 	<li><code>n</code>&nbsp;的取值范围是 [1, 1000] 。</li>
 </ol>
 
-**标签:	**[动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
  ### 相似题目
 - 中等:	[4键键盘](https://leetcode-cn.com/problems/4-keys-keyboard) 
 - 中等:	[坏了的计算器](https://leetcode-cn.com/problems/broken-calculator) 

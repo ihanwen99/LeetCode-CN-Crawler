@@ -46,4 +46,4 @@ or
 7 -> 6 -> 3 -> 2 -> 1
 </pre>
 </p>
-**Related Topics	**[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) [Math](https://leetcode-cn.com/tag/math) 
+**Related Topics**  [Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) [Math](https://leetcode-cn.com/tag/math) 

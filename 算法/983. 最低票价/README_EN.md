@@ -57,7 +57,7 @@ In total you spent $17 and covered all the days of your travel.
 	<li><code>1 &lt;= costs[i] &lt;= 1000</code></li>
 </ol>
 
-**Related Topic	**[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topic**  [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
 
 ### Similar Question
  - Medium:	[Coin Change](https://leetcode-cn.com/problems/coin-change) 

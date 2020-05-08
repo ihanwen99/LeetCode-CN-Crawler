@@ -55,4 +55,4 @@ The nodes that are reachable in the final graph after M = 6 moves are indicated 
 <div>&nbsp;</div>
 </div>
 
-**Related Topic	**[Heap](https://leetcode-cn.com/tag/heap) 
+**Related Topic**  [Heap](https://leetcode-cn.com/tag/heap) 

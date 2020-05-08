@@ -68,4 +68,4 @@
 	<li>输入的二叉树至少有一个节点。</li>
 </ol>
 
-**标签:	**[树](https://leetcode-cn.com/tag/tree) 
+**标签:**  [树](https://leetcode-cn.com/tag/tree) 

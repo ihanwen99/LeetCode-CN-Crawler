@@ -51,4 +51,4 @@
 	<li>Both input strings will be non-empty and only contain characters &#39;R&#39;,&#39;Y&#39;,&#39;B&#39;,&#39;G&#39;,&#39;W&#39;.</li>
 </ul>
 
-**Related Topic	**[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) 
+**Related Topic**  [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) 

@@ -33,7 +33,7 @@
 
 <p>输入是两个列表：调用成员函数名和调用的参数。<code>Solution</code>&nbsp;的构造函数有一个参数，即数组&nbsp;<code>w</code>。<code>pickIndex</code>&nbsp;没有参数。输入参数是一个列表，即使参数为空，也会输入一个 [] 空列表。</p>
 
-**标签:	**[二分查找](https://leetcode-cn.com/tag/binary-search) [None](https://leetcode-cn.com/tag/random) 
+**标签:**  [二分查找](https://leetcode-cn.com/tag/binary-search) [None](https://leetcode-cn.com/tag/random) 
  ### 相似题目
 - 中等:	[随机数索引](https://leetcode-cn.com/problems/random-pick-index) 
 - 困难:	[黑名单中的随机数](https://leetcode-cn.com/problems/random-pick-with-blacklist) 

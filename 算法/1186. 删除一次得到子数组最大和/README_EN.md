@@ -37,4 +37,4 @@
 	<li><code>1 &lt;= arr.length &lt;= 10^5</code></li>
 	<li><code>-10^4 &lt;= arr[i] &lt;= 10^4</code></li>
 </ul>
-**Related Topic	**[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topic**  [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 

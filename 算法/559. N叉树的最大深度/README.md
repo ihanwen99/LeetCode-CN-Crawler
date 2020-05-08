@@ -22,6 +22,6 @@
 	<li>树的深度不会超过&nbsp;<code>1000</code>。</li>
 	<li>树的节点总不会超过&nbsp;<code>5000</code>。</li>
 </ol>
-**标签:	**[树](https://leetcode-cn.com/tag/tree) [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) [广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search) 
+**标签:**  [树](https://leetcode-cn.com/tag/tree) [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) [广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search) 
  ### 相似题目
 - 简单:	[二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree) 

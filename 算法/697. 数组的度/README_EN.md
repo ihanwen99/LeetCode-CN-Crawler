@@ -29,7 +29,7 @@ The shortest length is 2. So return 2.
 <li><code>nums.length</code> will be between 1 and 50,000.</li>
 <li><code>nums[i]</code> will be an integer between 0 and 49,999.</li>
 </p>
-**Related Topic	**[Array](https://leetcode-cn.com/tag/array) 
+**Related Topic**  [Array](https://leetcode-cn.com/tag/array) 
 
 ### Similar Question
  - Easy:	[Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray) 

@@ -37,7 +37,7 @@
 	<li>如果有M[i][j] = 1，则有M[j][i] = 1。</li>
 </ol>
 
-**标签:	**[深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) [并查集](https://leetcode-cn.com/tag/union-find) 
+**标签:**  [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) [并查集](https://leetcode-cn.com/tag/union-find) 
  ### 相似题目
 - 中等:	[无向图中连通分量的数目](https://leetcode-cn.com/problems/number-of-connected-components-in-an-undirected-graph) 
 - 简单:	[机器人能否返回原点](https://leetcode-cn.com/problems/robot-return-to-origin) 

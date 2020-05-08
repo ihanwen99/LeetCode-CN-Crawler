@@ -11,4 +11,4 @@
 <strong>输出: </strong>9
 </pre>
 
-**标签:	**[堆](https://leetcode-cn.com/tag/heap) [队列](https://leetcode-cn.com/tag/queue) [数学](https://leetcode-cn.com/tag/math) 
+**标签:**  [堆](https://leetcode-cn.com/tag/heap) [队列](https://leetcode-cn.com/tag/queue) [数学](https://leetcode-cn.com/tag/math) 

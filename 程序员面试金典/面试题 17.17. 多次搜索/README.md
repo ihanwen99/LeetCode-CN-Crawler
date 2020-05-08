@@ -22,4 +22,4 @@ smalls = [&quot;is&quot;,&quot;ppi&quot;,&quot;hi&quot;,&quot;sis&quot;,&quot;i&
 	<li>所有出现的字符均为英文小写字母。</li>
 </ul>
 
-**标签:	**[字典树](https://leetcode-cn.com/tag/trie) [字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [字典树](https://leetcode-cn.com/tag/trie) [字符串](https://leetcode-cn.com/tag/string) 

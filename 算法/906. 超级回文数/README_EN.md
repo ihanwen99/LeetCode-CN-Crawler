@@ -31,4 +31,4 @@ Note that 676 is not a superpalindrome: 26 * 26 = 676, but 26 is not a palindrom
 <p>&nbsp;</p>
 </div>
 
-**Related Topic	**[Math](https://leetcode-cn.com/tag/math) 
+**Related Topic**  [Math](https://leetcode-cn.com/tag/math) 

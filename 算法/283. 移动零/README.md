@@ -16,6 +16,6 @@
 	<li>尽量减少操作次数。</li>
 </ol>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) [双指针](https://leetcode-cn.com/tag/two-pointers) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) [双指针](https://leetcode-cn.com/tag/two-pointers) 
  ### 相似题目
 - 简单:	[移除元素](https://leetcode-cn.com/problems/remove-element) 

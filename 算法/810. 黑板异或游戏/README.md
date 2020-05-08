@@ -29,4 +29,4 @@
 	<li><code>0 &lt;= nums[i] &lt;= 2^16</code></li>
 </ul>
 
-**标签:	**[数学](https://leetcode-cn.com/tag/math) 
+**标签:**  [数学](https://leetcode-cn.com/tag/math) 

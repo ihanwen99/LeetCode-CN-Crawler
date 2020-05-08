@@ -40,7 +40,7 @@
 = 17 + 5
 = 22</pre>
 
-**标签:	**[栈](https://leetcode-cn.com/tag/stack) 
+**标签:**  [栈](https://leetcode-cn.com/tag/stack) 
  ### 相似题目
 - 困难:	[基本计算器](https://leetcode-cn.com/problems/basic-calculator) 
 - 困难:	[给表达式添加运算符](https://leetcode-cn.com/problems/expression-add-operators) 

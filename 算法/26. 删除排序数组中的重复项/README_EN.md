@@ -42,7 +42,7 @@ int len = removeDuplicates(nums);
 for (int i = 0; i &lt; len; i++) {
 &nbsp; &nbsp; print(nums[i]);
 }</pre>
-**Related Topics	**[Array](https://leetcode-cn.com/tag/array) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) 
+**Related Topics**  [Array](https://leetcode-cn.com/tag/array) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) 
 
 ### Similar Questions
  - Easy:	[Remove Element](https://leetcode-cn.com/problems/remove-element) 

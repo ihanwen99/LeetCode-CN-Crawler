@@ -69,4 +69,4 @@ Given a <em>m</em> x <em>n</em> <code>grid</code>. Each cell of the <code>grid</
 	<li><code>1 &lt;= grid[i][j] &lt;= 6</code></li>
 </ul>
 
-**Related Topics	**[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) [Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search) 
+**Related Topics**  [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) [Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search) 

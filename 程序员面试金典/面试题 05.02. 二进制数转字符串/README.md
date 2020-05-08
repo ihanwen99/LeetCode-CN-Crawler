@@ -23,4 +23,4 @@
 	<li>32位包括输出中的&quot;0.&quot;这两位。</li>
 </ol>
 
-**标签:	**[字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [字符串](https://leetcode-cn.com/tag/string) 

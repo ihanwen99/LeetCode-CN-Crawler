@@ -25,4 +25,4 @@
 	<li>The values of <code>preorder</code> are distinct.</li>
 </ul>
 
-**Related Topic	**[Tree](https://leetcode-cn.com/tag/tree) 
+**Related Topic**  [Tree](https://leetcode-cn.com/tag/tree) 

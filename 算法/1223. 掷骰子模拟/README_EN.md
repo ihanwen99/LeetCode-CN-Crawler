@@ -40,4 +40,4 @@
 	<li><code>1 &lt;= rollMax[i] &lt;= 15</code></li>
 </ul>
 
-**Related Topic	**[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topic**  [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 

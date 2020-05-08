@@ -29,4 +29,4 @@ Other cases:
 <li>There is only one optimal division for each test case.</li>
 </ol>
 </p>
-**Related Topics	**[Math](https://leetcode-cn.com/tag/math) [String](https://leetcode-cn.com/tag/string) 
+**Related Topics**  [Math](https://leetcode-cn.com/tag/math) [String](https://leetcode-cn.com/tag/string) 

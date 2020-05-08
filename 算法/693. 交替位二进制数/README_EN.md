@@ -39,7 +39,7 @@ The binary representation of 11 is: 1011.
 The binary representation of 10 is: 1010.
 </pre>
 </p>
-**Related Topic	**[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) 
+**Related Topic**  [Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) 
 
 ### Similar Question
  - Easy:	[Number of 1 Bits](https://leetcode-cn.com/problems/number-of-1-bits) 

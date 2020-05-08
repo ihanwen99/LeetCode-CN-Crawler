@@ -29,4 +29,4 @@ Given the following tree and &nbsp;<code>sum = 22,</code></p>
 	<li><code>node number &lt;= 10000</code></li>
 </ul>
 
-**Related Topics	**[Tree](https://leetcode-cn.com/tag/tree) [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) 
+**Related Topics**  [Tree](https://leetcode-cn.com/tag/tree) [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) 

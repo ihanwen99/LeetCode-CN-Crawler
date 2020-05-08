@@ -37,4 +37,4 @@ queries[4] :&nbsp;子串 = &quot;abcda&quot;，可以变成回文的 &quot;abcba
 	<li><code>s</code> 中只有小写英文字母</li>
 </ul>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) [字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) [字符串](https://leetcode-cn.com/tag/string) 

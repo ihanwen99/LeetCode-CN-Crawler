@@ -33,4 +33,4 @@
 	<li><code>0 &lt;= A[i][j]&nbsp;&lt;=&nbsp;1</code></li>
 </ul>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) 

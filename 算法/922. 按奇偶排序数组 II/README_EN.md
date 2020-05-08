@@ -31,4 +31,4 @@
 <div>
 <p>&nbsp;</p>
 </div>
-**Related Topics	**[Sort](https://leetcode-cn.com/tag/sort) [Array](https://leetcode-cn.com/tag/array) 
+**Related Topics**  [Sort](https://leetcode-cn.com/tag/sort) [Array](https://leetcode-cn.com/tag/array) 

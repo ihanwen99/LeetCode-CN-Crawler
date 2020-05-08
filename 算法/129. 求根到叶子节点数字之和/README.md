@@ -37,7 +37,7 @@
 从根到叶子节点路径 <code>4-&gt;0</code> 代表数字 40.
 因此，数字总和 = 495 + 491 + 40 = <code>1026</code>.</pre>
 
-**标签:	**[树](https://leetcode-cn.com/tag/tree) [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) 
+**标签:**  [树](https://leetcode-cn.com/tag/tree) [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) 
  ### 相似题目
 - 简单:	[路径总和](https://leetcode-cn.com/problems/path-sum) 
 - 困难:	[二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum) 

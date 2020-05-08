@@ -16,4 +16,4 @@
 <p>
 Challenge: Perform all these in O(1) time complexity.
 </p>
-**Related Topic	**[Design](https://leetcode-cn.com/tag/design) 
+**Related Topic**  [Design](https://leetcode-cn.com/tag/design) 

@@ -47,4 +47,4 @@ Note that you can&#39;t swap s1[0] and s1[1] to make s1 equal to &quot;yx&quot;,
 	<li><code>s1, s2</code>&nbsp;only contain <code>&#39;x&#39;</code> or <code>&#39;y&#39;</code>.</li>
 </ul>
 
-**Related Topics	**[Greedy](https://leetcode-cn.com/tag/greedy) [String](https://leetcode-cn.com/tag/string) 
+**Related Topics**  [Greedy](https://leetcode-cn.com/tag/greedy) [String](https://leetcode-cn.com/tag/string) 

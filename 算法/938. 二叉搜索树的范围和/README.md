@@ -29,4 +29,4 @@
 	<li>最终的答案保证小于&nbsp;<code>2^31</code>。</li>
 </ol>
 
-**标签:	**[树](https://leetcode-cn.com/tag/tree) [递归](https://leetcode-cn.com/tag/recursion) 
+**标签:**  [树](https://leetcode-cn.com/tag/tree) [递归](https://leetcode-cn.com/tag/recursion) 

@@ -26,4 +26,4 @@
 	<li><strong>对于使用Java的用户，请注意传入类型已修改为List&lt;List&lt;Integer&gt;&gt;。重置代码模板后可以看到这项改动。</strong></li>
 </ol>
 
-**标签:	**[哈希表](https://leetcode-cn.com/tag/hash-table) [双指针](https://leetcode-cn.com/tag/two-pointers) [字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [哈希表](https://leetcode-cn.com/tag/hash-table) [双指针](https://leetcode-cn.com/tag/two-pointers) [字符串](https://leetcode-cn.com/tag/string) 

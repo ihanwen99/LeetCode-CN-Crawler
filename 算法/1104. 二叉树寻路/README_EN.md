@@ -32,4 +32,4 @@
 	<li><code>1 &lt;= label &lt;= 10^6</code></li>
 </ul>
 
-**Related Topics	**[Tree](https://leetcode-cn.com/tag/tree) [Math](https://leetcode-cn.com/tag/math) 
+**Related Topics**  [Tree](https://leetcode-cn.com/tag/tree) [Math](https://leetcode-cn.com/tag/math) 

@@ -27,7 +27,7 @@
 	<li>Each string is either <code>&quot;0&quot;</code> or doesn&#39;t contain any leading zero.</li>
 </ul>
 
-**Related Topics	**[Math](https://leetcode-cn.com/tag/math) [String](https://leetcode-cn.com/tag/string) 
+**Related Topics**  [Math](https://leetcode-cn.com/tag/math) [String](https://leetcode-cn.com/tag/string) 
 
 ### Similar Questions
  - Medium:	[Add Two Numbers](https://leetcode-cn.com/problems/add-two-numbers) 

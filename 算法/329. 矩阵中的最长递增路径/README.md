@@ -29,4 +29,4 @@
 <strong>解释: </strong>最长递增路径是&nbsp;<code>[3, 4, 5, 6]</code>。注意不允许在对角线方向上移动。
 </pre>
 
-**标签:	**[深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) [拓扑排序](https://leetcode-cn.com/tag/topological-sort) [记忆化](https://leetcode-cn.com/tag/memoization) 
+**标签:**  [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) [拓扑排序](https://leetcode-cn.com/tag/topological-sort) [记忆化](https://leetcode-cn.com/tag/memoization) 

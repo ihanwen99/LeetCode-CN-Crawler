@@ -22,6 +22,6 @@ kthLargest.add(4);&nbsp; &nbsp;// returns 8
 <p><strong>说明: </strong><br />
 你可以假设&nbsp;<code>nums</code>&nbsp;的长度&ge;&nbsp;<code>k-1</code>&nbsp;且<code>k</code> &ge;&nbsp;1。</p>
 
-**标签:	**[堆](https://leetcode-cn.com/tag/heap) 
+**标签:**  [堆](https://leetcode-cn.com/tag/heap) 
  ### 相似题目
 - 中等:	[数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array) 

@@ -18,7 +18,7 @@
      ]
 </pre>
 
-**标签:	**[字符串](https://leetcode-cn.com/tag/string) [回溯算法](https://leetcode-cn.com/tag/backtracking) 
+**标签:**  [字符串](https://leetcode-cn.com/tag/string) [回溯算法](https://leetcode-cn.com/tag/backtracking) 
  ### 相似题目
 - 中等:	[电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number) 
 - 简单:	[有效的括号](https://leetcode-cn.com/problems/valid-parentheses) 

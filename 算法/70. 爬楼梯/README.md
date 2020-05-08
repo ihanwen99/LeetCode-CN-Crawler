@@ -26,7 +26,7 @@
 3.  2 阶 + 1 阶
 </pre>
 
-**标签:	**[动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
  ### 相似题目
 - 简单:	[使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs) 
 - 简单:	[斐波那契数](https://leetcode-cn.com/problems/fibonacci-number) 

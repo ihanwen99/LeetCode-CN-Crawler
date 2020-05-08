@@ -53,4 +53,4 @@ The city 0 has 1 neighboring city at a distanceThreshold = 2.
 	<li><code>1 &lt;= weight<sub>i</sub>,&nbsp;distanceThreshold &lt;= 10^4</code></li>
 	<li>All pairs <code>(from<sub>i</sub>, to<sub>i</sub>)</code> are distinct.</li>
 </ul>
-**Related Topic	**[Graph](https://leetcode-cn.com/tag/graph) 
+**Related Topic**  [Graph](https://leetcode-cn.com/tag/graph) 

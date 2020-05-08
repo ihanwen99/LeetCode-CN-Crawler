@@ -40,4 +40,4 @@
 	<li><code>1 &lt;= k &lt;= nums.length</code></li>
 </ul>
 
-**标签:	**[双指针](https://leetcode-cn.com/tag/two-pointers) 
+**标签:**  [双指针](https://leetcode-cn.com/tag/two-pointers) 

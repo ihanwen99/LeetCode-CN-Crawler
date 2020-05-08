@@ -21,7 +21,7 @@
 &nbsp;    偷窃到的最高金额 = 2 + 9 + 1 = 12 。
 </pre>
 
-**标签:	**[动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
  ### 相似题目
 - 中等:	[乘积最大子数组](https://leetcode-cn.com/problems/maximum-product-subarray) 
 - 中等:	[打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii) 

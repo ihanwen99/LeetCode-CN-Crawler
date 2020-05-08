@@ -24,7 +24,7 @@ as <code>&quot;[1,2,3,null,null,4,5]&quot;</code>
 
 <p><strong>Note:&nbsp;</strong>Do not use class member/global/static variables to store states. Your serialize and deserialize algorithms should be stateless.</p>
 
-**Related Topics	**[Tree](https://leetcode-cn.com/tag/tree) [Design](https://leetcode-cn.com/tag/design) 
+**Related Topics**  [Tree](https://leetcode-cn.com/tag/tree) [Design](https://leetcode-cn.com/tag/design) 
 
 ### Similar Questions
  - Medium:	[Encode and Decode Strings](https://leetcode-cn.com/problems/encode-and-decode-strings) 

@@ -28,4 +28,4 @@
 	<li>栈中的元素数目在[0, 5000]范围内。</li>
 </ol>
 
-**标签:	**[设计](https://leetcode-cn.com/tag/design) 
+**标签:**  [设计](https://leetcode-cn.com/tag/design) 

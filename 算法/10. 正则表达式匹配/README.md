@@ -60,6 +60,6 @@ s = &quot;mississippi&quot;
 p = &quot;mis*is*p*.&quot;
 <strong>输出:</strong> false</pre>
 
-**标签:	**[字符串](https://leetcode-cn.com/tag/string) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) [回溯算法](https://leetcode-cn.com/tag/backtracking) 
+**标签:**  [字符串](https://leetcode-cn.com/tag/string) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) [回溯算法](https://leetcode-cn.com/tag/backtracking) 
  ### 相似题目
 - 困难:	[通配符匹配](https://leetcode-cn.com/problems/wildcard-matching) 

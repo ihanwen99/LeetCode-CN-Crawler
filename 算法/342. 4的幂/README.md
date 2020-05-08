@@ -18,7 +18,7 @@
 <p><strong>进阶：</strong><br>
 你能不使用循环或者递归来完成本题吗？</p>
 
-**标签:	**[位运算](https://leetcode-cn.com/tag/bit-manipulation) 
+**标签:**  [位运算](https://leetcode-cn.com/tag/bit-manipulation) 
  ### 相似题目
 - 简单:	[2的幂](https://leetcode-cn.com/problems/power-of-two) 
 - 简单:	[3的幂](https://leetcode-cn.com/problems/power-of-three) 

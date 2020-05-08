@@ -21,7 +21,7 @@
 
 <strong>Explanation:</strong> All root-to-leaf paths are: 1-&gt;2-&gt;5, 1-&gt;3
 </pre>
-**Related Topics	**[Tree](https://leetcode-cn.com/tag/tree) [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) 
+**Related Topics**  [Tree](https://leetcode-cn.com/tag/tree) [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) 
 
 ### Similar Questions
  - Medium:	[Path Sum II](https://leetcode-cn.com/problems/path-sum-ii) 

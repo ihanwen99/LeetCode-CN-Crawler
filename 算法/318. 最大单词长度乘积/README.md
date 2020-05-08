@@ -22,4 +22,4 @@
 <strong>输出: </strong><code>0 
 <strong>解释: </strong>不存在这样的两个单词。</code></pre>
 
-**标签:	**[位运算](https://leetcode-cn.com/tag/bit-manipulation) 
+**标签:**  [位运算](https://leetcode-cn.com/tag/bit-manipulation) 

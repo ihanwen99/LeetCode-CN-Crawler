@@ -22,7 +22,7 @@
 	<li>给定单词中的字符只含有小写字母。</li>
 </ol>
 
-**标签:	**[字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [字符串](https://leetcode-cn.com/tag/string) 
  ### 相似题目
 - 困难:	[编辑距离](https://leetcode-cn.com/problems/edit-distance) 
 - 中等:	[两个字符串的最小ASCII删除和](https://leetcode-cn.com/problems/minimum-ascii-delete-sum-for-two-strings) 

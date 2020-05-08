@@ -77,4 +77,4 @@ id = 1 的员工将在 6 分钟内通知 id = 0 的员工。
 	<li>题目 <strong>保证</strong> 所有员工都可以收到通知。</li>
 </ul>
 
-**标签:	**[深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) 
+**标签:**  [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) 

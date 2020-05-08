@@ -30,4 +30,4 @@
 <li>The length of the given matchstick array will not exceed <code>15</code>.</li>
 </ol>
 </p>
-**Related Topic	**[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) 
+**Related Topic**  [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) 

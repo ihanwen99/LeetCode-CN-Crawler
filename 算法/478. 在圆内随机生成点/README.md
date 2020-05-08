@@ -34,6 +34,6 @@
 
 <p>输入是两个列表：调用成员函数名和调用的参数。<code>Solution</code>&nbsp;的构造函数有三个参数，圆的半径、圆心的 x 坐标、圆心的 y 坐标。<code>randPoint</code>&nbsp;没有参数。输入参数是一个列表，即使参数为空，也会输入一个 [] 空列表。</p>
 
-**标签:	**[数学](https://leetcode-cn.com/tag/math) [None](https://leetcode-cn.com/tag/random) [None](https://leetcode-cn.com/tag/rejection-sampling) 
+**标签:**  [数学](https://leetcode-cn.com/tag/math) [None](https://leetcode-cn.com/tag/random) [None](https://leetcode-cn.com/tag/rejection-sampling) 
  ### 相似题目
 - 中等:	[非重叠矩形中的随机点](https://leetcode-cn.com/problems/random-point-in-non-overlapping-rectangles) 

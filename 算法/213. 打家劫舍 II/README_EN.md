@@ -23,7 +23,7 @@
 <strong>Explanation:</strong> Rob house 1 (money = 1) and then rob house 3 (money = 3).
 &nbsp;            Total amount you can rob = 1 + 3 = 4.</pre>
 
-**Related Topic	**[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topic**  [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
 
 ### Similar Questions
  - Easy:	[House Robber](https://leetcode-cn.com/problems/house-robber) 

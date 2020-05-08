@@ -19,7 +19,7 @@
 <strong>输出:</strong> 2
 </pre>
 
-**标签:	**[位运算](https://leetcode-cn.com/tag/bit-manipulation) [数组](https://leetcode-cn.com/tag/array) [分治算法](https://leetcode-cn.com/tag/divide-and-conquer) 
+**标签:**  [位运算](https://leetcode-cn.com/tag/bit-manipulation) [数组](https://leetcode-cn.com/tag/array) [分治算法](https://leetcode-cn.com/tag/divide-and-conquer) 
  ### 相似题目
 - 中等:	[求众数 II](https://leetcode-cn.com/problems/majority-element-ii) 
 - 简单:	[检查一个数是否在数组中占绝大多数](https://leetcode-cn.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array) 

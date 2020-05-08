@@ -55,4 +55,4 @@
 </div>
 </div>
 
-**Related Topic	**[Greedy](https://leetcode-cn.com/tag/greedy) 
+**Related Topic**  [Greedy](https://leetcode-cn.com/tag/greedy) 

@@ -49,7 +49,7 @@ wordList = [&quot;hot&quot;,&quot;dot&quot;,&quot;dog&quot;,&quot;lot&quot;,&quo
 <ul>
 </ul>
 
-**Related Topic	**[Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search) 
+**Related Topic**  [Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search) 
 
 ### Similar Questions
  - Hard:	[Word Ladder II](https://leetcode-cn.com/problems/word-ladder-ii) 

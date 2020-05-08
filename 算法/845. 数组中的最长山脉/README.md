@@ -40,4 +40,4 @@
 	<li><code>0 &lt;= A[i] &lt;= 10000</code></li>
 </ol>
 
-**标签:	**[双指针](https://leetcode-cn.com/tag/two-pointers) 
+**标签:**  [双指针](https://leetcode-cn.com/tag/two-pointers) 

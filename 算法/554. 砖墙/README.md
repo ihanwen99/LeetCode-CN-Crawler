@@ -35,4 +35,4 @@
 	<li>每一行砖块的宽度之和应该相等，并且不能超过 INT_MAX。</li>
 	<li>每一行砖块的数量在&nbsp;[1,10,000] 范围内，&nbsp;墙的高度在&nbsp;[1,10,000] 范围内，&nbsp;总的砖块数量不超过 20,000。</li>
 </ol>
-**标签:	**[哈希表](https://leetcode-cn.com/tag/hash-table) 
+**标签:**  [哈希表](https://leetcode-cn.com/tag/hash-table) 

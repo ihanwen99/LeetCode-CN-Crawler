@@ -22,7 +22,7 @@ inorder = [9,3,15,20,7]</pre>
     /  \
    15   7</pre>
 
-**Related Topics	**[Tree](https://leetcode-cn.com/tag/tree) [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) [Array](https://leetcode-cn.com/tag/array) 
+**Related Topics**  [Tree](https://leetcode-cn.com/tag/tree) [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) [Array](https://leetcode-cn.com/tag/array) 
 
 ### Similar Question
  - Medium:	[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal) 

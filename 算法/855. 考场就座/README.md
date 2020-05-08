@@ -34,6 +34,6 @@ seat() -&gt; 5，学生最后坐在 5 号座位上。
 	<li>保证在调用&nbsp;<code>ExamRoom.leave(p)</code>&nbsp;时有学生正坐在座位 <code>p</code> 上。</li>
 </ol>
 
-**标签:	**[None](https://leetcode-cn.com/tag/ordered-map) 
+**标签:**  [None](https://leetcode-cn.com/tag/ordered-map) 
  ### 相似题目
 - 简单:	[到最近的人的最大距离](https://leetcode-cn.com/problems/maximize-distance-to-closest-person) 

@@ -37,4 +37,4 @@ The strings that can be formed are &quot;hello&quot; and &quot;world&quot; so th
 	<li><code>1 &lt;= words[i].length, chars.length&nbsp;&lt;= 100</code></li>
 	<li>All strings contain lowercase English letters only.</li>
 </ol>
-**Related Topics	**[Array](https://leetcode-cn.com/tag/array) [Hash Table](https://leetcode-cn.com/tag/hash-table) 
+**Related Topics**  [Array](https://leetcode-cn.com/tag/array) [Hash Table](https://leetcode-cn.com/tag/hash-table) 

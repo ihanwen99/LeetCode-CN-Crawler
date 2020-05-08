@@ -42,7 +42,7 @@
 
 <p><b>Note:</b> The given binary tree has not more than 10000 nodes. The height of the tree is not more than 1000.</p>
 
-**Related Topics	**[Tree](https://leetcode-cn.com/tag/tree) [Recursion](https://leetcode-cn.com/tag/recursion) 
+**Related Topics**  [Tree](https://leetcode-cn.com/tag/tree) [Recursion](https://leetcode-cn.com/tag/recursion) 
 
 ### Similar Questions
  - Hard:	[Binary Tree Maximum Path Sum](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum) 

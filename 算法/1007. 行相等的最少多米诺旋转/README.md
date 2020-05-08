@@ -40,4 +40,4 @@
 	<li><code>2 &lt;= A.length == B.length &lt;= 20000</code></li>
 </ol>
 
-**标签:	**[贪心算法](https://leetcode-cn.com/tag/greedy) [数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [贪心算法](https://leetcode-cn.com/tag/greedy) [数组](https://leetcode-cn.com/tag/array) 

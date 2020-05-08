@@ -21,4 +21,4 @@
 <strong>输出：</strong>[[1],[2,3],[4,5,7],[8]]
 </pre>
 
-**标签:	**[树](https://leetcode-cn.com/tag/tree) [广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search) 
+**标签:**  [树](https://leetcode-cn.com/tag/tree) [广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search) 

@@ -44,4 +44,4 @@
 	<li><code>0 &lt;= num &lt;= 10^6</code></li>
 </ul>
 
-**标签:	**[位运算](https://leetcode-cn.com/tag/bit-manipulation) 
+**标签:**  [位运算](https://leetcode-cn.com/tag/bit-manipulation) 

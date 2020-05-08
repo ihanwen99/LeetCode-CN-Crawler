@@ -10,7 +10,7 @@
 <strong>输出:</strong> 1-&gt;2-&gt;3-&gt;4-&gt;5
 </pre>
 
-**标签:	**[链表](https://leetcode-cn.com/tag/linked-list) 
+**标签:**  [链表](https://leetcode-cn.com/tag/linked-list) 
  ### 相似题目
 - 简单:	[移除元素](https://leetcode-cn.com/problems/remove-element) 
 - 简单:	[删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list) 

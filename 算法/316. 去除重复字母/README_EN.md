@@ -20,4 +20,4 @@
 
 <p><strong>Note:</strong> This question is the same as 1081:&nbsp;<a href="https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/">https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/</a></p>
 
-**Related Topics	**[Stack](https://leetcode-cn.com/tag/stack) [Greedy](https://leetcode-cn.com/tag/greedy) 
+**Related Topics**  [Stack](https://leetcode-cn.com/tag/stack) [Greedy](https://leetcode-cn.com/tag/greedy) 

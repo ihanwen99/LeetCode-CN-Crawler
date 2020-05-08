@@ -34,7 +34,7 @@
 <strong>Output:</strong> 0
 </pre>
 
-**Related Topics	**[Array](https://leetcode-cn.com/tag/array) [Binary Search](https://leetcode-cn.com/tag/binary-search) 
+**Related Topics**  [Array](https://leetcode-cn.com/tag/array) [Binary Search](https://leetcode-cn.com/tag/binary-search) 
 
 ### Similar Question
  - Easy:	[First Bad Version](https://leetcode-cn.com/problems/first-bad-version) 

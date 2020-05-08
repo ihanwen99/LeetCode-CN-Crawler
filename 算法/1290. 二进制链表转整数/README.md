@@ -51,4 +51,4 @@
 	<li>每个结点的值不是&nbsp;<code>0</code> 就是 <code>1</code>。</li>
 </ul>
 
-**标签:	**[位运算](https://leetcode-cn.com/tag/bit-manipulation) [链表](https://leetcode-cn.com/tag/linked-list) 
+**标签:**  [位运算](https://leetcode-cn.com/tag/bit-manipulation) [链表](https://leetcode-cn.com/tag/linked-list) 

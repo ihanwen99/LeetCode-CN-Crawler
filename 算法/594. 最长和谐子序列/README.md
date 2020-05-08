@@ -16,4 +16,4 @@
 
 <p><strong>说明:</strong> 输入的数组长度最大不超过20,000.</p>
 
-**标签:	**[哈希表](https://leetcode-cn.com/tag/hash-table) 
+**标签:**  [哈希表](https://leetcode-cn.com/tag/hash-table) 

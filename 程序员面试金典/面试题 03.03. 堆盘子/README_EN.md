@@ -27,4 +27,4 @@
 [null, null, null, null, 2, 1, 3]
 </pre>
 
-**Related Topic	**[Design](https://leetcode-cn.com/tag/design) 
+**Related Topic**  [Design](https://leetcode-cn.com/tag/design) 

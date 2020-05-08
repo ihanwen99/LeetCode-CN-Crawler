@@ -32,6 +32,6 @@
 	<li><code>nums[i]</code>&nbsp;是一个在0到49,999范围内的整数。</li>
 </ul>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) 
  ### 相似题目
 - 简单:	[最大子序和](https://leetcode-cn.com/problems/maximum-subarray) 

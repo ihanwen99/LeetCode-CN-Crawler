@@ -48,7 +48,7 @@
 	<li><code>0 &lt;= c0 &lt; grid[0].length</code></li>
 	<li><code>1 &lt;= color &lt;= 1000</code></li>
 </ol>
-**Related Topic	**[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) 
+**Related Topic**  [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) 
 
 ### Similar Question
  - Easy:	[Island Perimeter](https://leetcode-cn.com/problems/island-perimeter) 

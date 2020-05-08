@@ -45,7 +45,7 @@ circularDeque.getFront();			// return 4
 	<li>Please do not use the built-in Deque library.</li>
 </ul>
 
-**Related Topics	**[Design](https://leetcode-cn.com/tag/design) [Queue](https://leetcode-cn.com/tag/queue) 
+**Related Topics**  [Design](https://leetcode-cn.com/tag/design) [Queue](https://leetcode-cn.com/tag/queue) 
 
 ### Similar Question
  - Medium:	[Design Circular Queue](https://leetcode-cn.com/problems/design-circular-queue) 

@@ -33,7 +33,7 @@
 <strong>解释:</strong>&nbsp;小偷一晚能够盗取的最高金额&nbsp;= <strong>4</strong> + <strong>5</strong> = <strong>9</strong>.
 </pre>
 
-**标签:	**[树](https://leetcode-cn.com/tag/tree) [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) 
+**标签:**  [树](https://leetcode-cn.com/tag/tree) [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) 
  ### 相似题目
 - 简单:	[打家劫舍](https://leetcode-cn.com/problems/house-robber) 
 - 中等:	[打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii) 

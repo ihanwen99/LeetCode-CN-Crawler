@@ -22,7 +22,7 @@ trie.search(&quot;app&quot;);     // 返回 true</pre>
 	<li>保证所有输入均为非空字符串。</li>
 </ul>
 
-**标签:	**[设计](https://leetcode-cn.com/tag/design) [字典树](https://leetcode-cn.com/tag/trie) 
+**标签:**  [设计](https://leetcode-cn.com/tag/design) [字典树](https://leetcode-cn.com/tag/trie) 
  ### 相似题目
 - 中等:	[添加与搜索单词 - 数据结构设计](https://leetcode-cn.com/problems/add-and-search-word-data-structure-design) 
 - 困难:	[设计搜索自动补全系统](https://leetcode-cn.com/problems/design-search-autocomplete-system) 

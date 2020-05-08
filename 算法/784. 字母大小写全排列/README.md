@@ -23,7 +23,7 @@
 	<li><code>S</code>&nbsp;仅由数字和字母组成。</li>
 </ul>
 
-**标签:	**[位运算](https://leetcode-cn.com/tag/bit-manipulation) [回溯算法](https://leetcode-cn.com/tag/backtracking) 
+**标签:**  [位运算](https://leetcode-cn.com/tag/bit-manipulation) [回溯算法](https://leetcode-cn.com/tag/backtracking) 
  ### 相似题目
 - 中等:	[子集](https://leetcode-cn.com/problems/subsets) 
 - 中等:	[字母切换](https://leetcode-cn.com/problems/brace-expansion) 

@@ -55,4 +55,4 @@ Day 7: [0, 0, 1, 1, 0, 0, 0, 0]
 	<li><code>1 &lt;= N &lt;= 10^9</code></li>
 </ol>
 
-**标签:	**[哈希表](https://leetcode-cn.com/tag/hash-table) 
+**标签:**  [哈希表](https://leetcode-cn.com/tag/hash-table) 

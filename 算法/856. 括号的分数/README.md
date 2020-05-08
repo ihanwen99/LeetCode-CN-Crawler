@@ -45,4 +45,4 @@
 	<li><code>2 &lt;= S.length &lt;= 50</code></li>
 </ol>
 
-**标签:	**[栈](https://leetcode-cn.com/tag/stack) [字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [栈](https://leetcode-cn.com/tag/stack) [字符串](https://leetcode-cn.com/tag/string) 

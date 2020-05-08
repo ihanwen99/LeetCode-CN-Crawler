@@ -25,4 +25,4 @@
 	<li><code>1 &lt;= words.length &lt;= 1000000</code></li>
 </ol>
 
-**Related Topic	**[Binary Search](https://leetcode-cn.com/tag/binary-search) 
+**Related Topic**  [Binary Search](https://leetcode-cn.com/tag/binary-search) 

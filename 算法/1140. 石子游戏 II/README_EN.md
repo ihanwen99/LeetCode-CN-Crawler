@@ -28,4 +28,4 @@
 	<li><code>1 &lt;= piles.length &lt;= 100</code></li>
 	<li><code>1 &lt;= piles[i]&nbsp;&lt;= 10 ^ 4</code></li>
 </ul>
-**Related Topic	**[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topic**  [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 

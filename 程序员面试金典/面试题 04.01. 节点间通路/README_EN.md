@@ -26,4 +26,4 @@
 	<li>There might be self cycles and duplicated edges.</li>
 </ol>
 
-**Related Topic	**[Graph](https://leetcode-cn.com/tag/graph) 
+**Related Topic**  [Graph](https://leetcode-cn.com/tag/graph) 

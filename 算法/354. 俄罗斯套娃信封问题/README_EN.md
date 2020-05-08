@@ -19,7 +19,7 @@ Rotation is not allowed.</p>
 </pre>
 </div>
 
-**Related Topics	**[Binary Search](https://leetcode-cn.com/tag/binary-search) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topics**  [Binary Search](https://leetcode-cn.com/tag/binary-search) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
 
 ### Similar Question
  - Medium:	[Longest Increasing Subsequence](https://leetcode-cn.com/problems/longest-increasing-subsequence) 

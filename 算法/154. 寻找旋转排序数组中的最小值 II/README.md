@@ -27,6 +27,6 @@
 	<li>允许重复会影响算法的时间复杂度吗？会如何影响，为什么？</li>
 </ul>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) [二分查找](https://leetcode-cn.com/tag/binary-search) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) [二分查找](https://leetcode-cn.com/tag/binary-search) 
  ### 相似题目
 - 中等:	[寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array) 

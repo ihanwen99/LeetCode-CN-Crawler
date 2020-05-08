@@ -29,7 +29,7 @@ Output:
 </pre>
 One possible longest palindromic subsequence is "bb".
 </p>
-**Related Topic	**[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topic**  [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
 
 ### Similar Questions
  - Medium:	[Longest Palindromic Substring](https://leetcode-cn.com/problems/longest-palindromic-substring) 

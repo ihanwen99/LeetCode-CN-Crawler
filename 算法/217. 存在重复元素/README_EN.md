@@ -24,7 +24,7 @@
 <strong>Input: </strong>[1,1,1,3,3,4,3,2,4,2]
 <strong>Output:</strong> true</pre>
 
-**Related Topics	**[Array](https://leetcode-cn.com/tag/array) [Hash Table](https://leetcode-cn.com/tag/hash-table) 
+**Related Topics**  [Array](https://leetcode-cn.com/tag/array) [Hash Table](https://leetcode-cn.com/tag/hash-table) 
 
 ### Similar Questions
  - Easy:	[Contains Duplicate II](https://leetcode-cn.com/problems/contains-duplicate-ii) 

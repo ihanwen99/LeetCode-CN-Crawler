@@ -49,4 +49,4 @@
 </div>
 </div>
 
-**Related Topic	**[Heap](https://leetcode-cn.com/tag/heap) 
+**Related Topic**  [Heap](https://leetcode-cn.com/tag/heap) 

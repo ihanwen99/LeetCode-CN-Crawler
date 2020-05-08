@@ -19,7 +19,7 @@
 
 <p><strong>进阶:</strong> 你能将算法的时间复杂度降低到&nbsp;O(<em>n</em> log <em>n</em>) 吗?</p>
 
-**标签:	**[二分查找](https://leetcode-cn.com/tag/binary-search) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [二分查找](https://leetcode-cn.com/tag/binary-search) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
  ### 相似题目
 - 中等:	[递增的三元子序列](https://leetcode-cn.com/problems/increasing-triplet-subsequence) 
 - 困难:	[俄罗斯套娃信封问题](https://leetcode-cn.com/problems/russian-doll-envelopes) 

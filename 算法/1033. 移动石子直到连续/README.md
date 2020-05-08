@@ -37,4 +37,4 @@
 	<li><code>a != b, b != c, c != a</code></li>
 </ol>
 
-**标签:	**[脑筋急转弯](https://leetcode-cn.com/tag/brainteaser) 
+**标签:**  [脑筋急转弯](https://leetcode-cn.com/tag/brainteaser) 

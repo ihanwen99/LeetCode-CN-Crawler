@@ -50,4 +50,4 @@ customStack.pop();                            // 返回 -1 --&gt; 栈为空，�
 	<li>每种方法 <code>increment</code>，<code>push</code> 以及 <code>pop</code> 分别最多调用 <code>1000</code> 次</li>
 </ul>
 
-**标签:	**[栈](https://leetcode-cn.com/tag/stack) [设计](https://leetcode-cn.com/tag/design) 
+**标签:**  [栈](https://leetcode-cn.com/tag/stack) [设计](https://leetcode-cn.com/tag/design) 

@@ -19,4 +19,4 @@
 	<li>The result fits in 32-bit integer.</li>
 </ul>
 
-**Related Topic	**[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) 
+**Related Topic**  [Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) 

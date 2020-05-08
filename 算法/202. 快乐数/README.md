@@ -21,7 +21,7 @@
 1<sup>2</sup> + 0<sup>2</sup> + 0<sup>2</sup> = 1
 </pre>
 
-**标签:	**[哈希表](https://leetcode-cn.com/tag/hash-table) [数学](https://leetcode-cn.com/tag/math) 
+**标签:**  [哈希表](https://leetcode-cn.com/tag/hash-table) [数学](https://leetcode-cn.com/tag/math) 
  ### 相似题目
 - 简单:	[环形链表](https://leetcode-cn.com/problems/linked-list-cycle) 
 - 简单:	[各位相加](https://leetcode-cn.com/problems/add-digits) 

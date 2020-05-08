@@ -37,4 +37,4 @@ logs =
 	<li>1 &lt;= n &lt;= 100</li>
 </ol>
 
-**标签:	**[栈](https://leetcode-cn.com/tag/stack) 
+**标签:**  [栈](https://leetcode-cn.com/tag/stack) 

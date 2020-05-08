@@ -24,4 +24,4 @@
 <li>A，B范围在[-2147483648, 2147483647]之间</li>
 </ol>
 
-**标签:	**[位运算](https://leetcode-cn.com/tag/bit-manipulation) 
+**标签:**  [位运算](https://leetcode-cn.com/tag/bit-manipulation) 

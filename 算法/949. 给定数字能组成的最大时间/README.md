@@ -31,4 +31,4 @@
 	<li><code>0 &lt;= A[i] &lt;= 9</code></li>
 </ol>
 
-**标签:	**[数学](https://leetcode-cn.com/tag/math) 
+**标签:**  [数学](https://leetcode-cn.com/tag/math) 

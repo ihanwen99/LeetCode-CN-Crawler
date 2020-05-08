@@ -52,4 +52,4 @@ You cannot add more items, though only $9 for 2A ,2B and 1C.
 <li>You are <b>not</b> allowed to buy more items than you want, even if that would lower the overall price.</li>
 </ol>
 </p>
-**Related Topics	**[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topics**  [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 

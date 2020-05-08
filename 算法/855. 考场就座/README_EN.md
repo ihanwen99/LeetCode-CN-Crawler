@@ -35,7 +35,7 @@ seat() -&gt; 5, the student sits at the last seat number 5.</span>
 	<li>Calls to <code>ExamRoom.leave(p)</code> are guaranteed to have a student currently sitting in seat number <code>p</code>.</li>
 </ol>
 
-**Related Topic	**[Ordered Map](https://leetcode-cn.com/tag/ordered-map) 
+**Related Topic**  [Ordered Map](https://leetcode-cn.com/tag/ordered-map) 
 
 ### Similar Question
  - Easy:	[Maximize Distance to Closest Person](https://leetcode-cn.com/problems/maximize-distance-to-closest-person) 

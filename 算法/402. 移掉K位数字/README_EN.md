@@ -36,7 +36,7 @@ Output: "0"
 Explanation: Remove all the digits from the number and it is left with nothing which is 0.
 </pre>
 </p>
-**Related Topics	**[Stack](https://leetcode-cn.com/tag/stack) [Greedy](https://leetcode-cn.com/tag/greedy) 
+**Related Topics**  [Stack](https://leetcode-cn.com/tag/stack) [Greedy](https://leetcode-cn.com/tag/greedy) 
 
 ### Similar Questions
  - Hard:	[Create Maximum Number](https://leetcode-cn.com/problems/create-maximum-number) 

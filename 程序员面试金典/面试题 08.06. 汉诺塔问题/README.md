@@ -29,4 +29,4 @@
 	<li>A中盘子的数目不大于14个。</li>
 </ol>
 
-**标签:	**[递归](https://leetcode-cn.com/tag/recursion) 
+**标签:**  [递归](https://leetcode-cn.com/tag/recursion) 

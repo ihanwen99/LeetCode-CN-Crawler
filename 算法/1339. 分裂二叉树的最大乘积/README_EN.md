@@ -48,4 +48,4 @@
 	<li>Each tree has at most <code>50000</code> nodes and at least <code>2</code> nodes.</li>
 	<li>Each node&#39;s value is between <code>[1, 10000]</code>.</li>
 </ul>
-**Related Topics	**[Tree](https://leetcode-cn.com/tag/tree) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topics**  [Tree](https://leetcode-cn.com/tag/tree) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 

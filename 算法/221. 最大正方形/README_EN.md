@@ -16,7 +16,7 @@
 
 <strong>Output: </strong>4
 </pre>
-**Related Topic	**[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topic**  [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
 
 ### Similar Questions
  - Hard:	[Maximal Rectangle](https://leetcode-cn.com/problems/maximal-rectangle) 

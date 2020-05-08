@@ -39,6 +39,6 @@
 	<li><code>grid[i][j]</code>&nbsp;不是&nbsp;<code>0</code>&nbsp;就是&nbsp;<code>1</code></li>
 </ol>
 
-**标签:	**[广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search) [图](https://leetcode-cn.com/tag/graph) 
+**标签:**  [广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search) [图](https://leetcode-cn.com/tag/graph) 
  ### 相似题目
 - 困难:	[离建筑物最近的距离](https://leetcode-cn.com/problems/shortest-distance-from-all-buildings) 

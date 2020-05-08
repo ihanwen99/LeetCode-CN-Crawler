@@ -41,4 +41,4 @@ A，B，C的价格分别为&yen;2，&yen;3，&yen;4.
 	<li>你不可以购买超出待购清单的物品，即使更便宜。</li>
 </ol>
 
-**标签:	**[深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 

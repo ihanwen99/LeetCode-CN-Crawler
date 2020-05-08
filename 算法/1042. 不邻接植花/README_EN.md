@@ -52,4 +52,4 @@
 </div>
 </div>
 
-**Related Topic	**[Graph](https://leetcode-cn.com/tag/graph) 
+**Related Topic**  [Graph](https://leetcode-cn.com/tag/graph) 

@@ -64,4 +64,4 @@
 	<li>The string may contain any possible characters out of all the 256&nbsp;ASCII characters.</li>
 </ul>
 
-**Related Topics	**[Stack](https://leetcode-cn.com/tag/stack) [String](https://leetcode-cn.com/tag/string) 
+**Related Topics**  [Stack](https://leetcode-cn.com/tag/stack) [String](https://leetcode-cn.com/tag/string) 

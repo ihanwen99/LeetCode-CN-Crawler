@@ -47,7 +47,7 @@ The longest subsequence that is fibonacci-like:
 	<li><em>(The time limit has been reduced by 50% for submissions in Java, C, and C++.)</em></li>
 </ul>
 
-**Related Topics	**[Array](https://leetcode-cn.com/tag/array) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topics**  [Array](https://leetcode-cn.com/tag/array) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
 
 ### Similar Question
  - Easy:	[Fibonacci Number](https://leetcode-cn.com/problems/fibonacci-number) 

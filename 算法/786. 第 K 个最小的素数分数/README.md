@@ -26,7 +26,7 @@
 	<li><code>K</code> 取值范围为 <code>1</code> &mdash;<code>A.length * (A.length - 1) / 2</code></li>
 </ul>
 
-**标签:	**[堆](https://leetcode-cn.com/tag/heap) [二分查找](https://leetcode-cn.com/tag/binary-search) 
+**标签:**  [堆](https://leetcode-cn.com/tag/heap) [二分查找](https://leetcode-cn.com/tag/binary-search) 
  ### 相似题目
 - 中等:	[有序矩阵中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix) 
 - 困难:	[乘法表中第k小的数](https://leetcode-cn.com/problems/kth-smallest-number-in-multiplication-table) 

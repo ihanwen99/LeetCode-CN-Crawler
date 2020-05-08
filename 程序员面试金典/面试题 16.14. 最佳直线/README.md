@@ -15,4 +15,4 @@
 <li><code>len(Points[i]) = 2</code></li>
 </ul>
 
-**标签:	**[几何](https://leetcode-cn.com/tag/geometry) [哈希表](https://leetcode-cn.com/tag/hash-table) 
+**标签:**  [几何](https://leetcode-cn.com/tag/geometry) [哈希表](https://leetcode-cn.com/tag/hash-table) 

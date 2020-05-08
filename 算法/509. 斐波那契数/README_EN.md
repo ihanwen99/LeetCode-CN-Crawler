@@ -43,7 +43,7 @@ F(N) = F(N - 1) + F(N - 2), for N &gt; 1.
 
 <p>0 &le; <code>N</code> &le; 30.</p>
 
-**Related Topic	**[Array](https://leetcode-cn.com/tag/array) 
+**Related Topic**  [Array](https://leetcode-cn.com/tag/array) 
 
 ### Similar Questions
  - Easy:	[Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs) 

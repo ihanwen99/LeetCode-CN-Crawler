@@ -34,7 +34,7 @@
 <strong>Output:</strong> 9
 <strong>Explanation:</strong>&nbsp;Maximum amount of money the thief can rob = <font color="red">4</font> + <font color="red">5</font> = <b>9</b>.
 </pre>
-**Related Topics	**[Tree](https://leetcode-cn.com/tag/tree) [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) 
+**Related Topics**  [Tree](https://leetcode-cn.com/tag/tree) [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) 
 
 ### Similar Questions
  - Easy:	[House Robber](https://leetcode-cn.com/problems/house-robber) 

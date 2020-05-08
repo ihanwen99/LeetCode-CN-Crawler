@@ -15,7 +15,7 @@ Because nums[<strong>0</strong>] + nums[<strong>1</strong>] = 2 + 7 = 9,
 return [<strong>0</strong>, <strong>1</strong>].
 </pre>
 
-**Related Topics	**[Array](https://leetcode-cn.com/tag/array) [Hash Table](https://leetcode-cn.com/tag/hash-table) 
+**Related Topics**  [Array](https://leetcode-cn.com/tag/array) [Hash Table](https://leetcode-cn.com/tag/hash-table) 
 
 ### Similar Questions
  - Medium:	[3Sum](https://leetcode-cn.com/problems/3sum) 

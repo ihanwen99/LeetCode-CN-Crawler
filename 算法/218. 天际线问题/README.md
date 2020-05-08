@@ -23,6 +23,6 @@
 	<li>输出天际线中不得有连续的相同高度的水平线。例如 <code>[...[2 3], [4 5], [7 5], [11 5], [12 7]...]</code> 是不正确的答案；三条高度为 5 的线应该在最终输出中合并为一个：<code>[...[2 3], [4 5], [12 7], ...]</code></li>
 </ul>
 
-**标签:	**[堆](https://leetcode-cn.com/tag/heap) [树状数组](https://leetcode-cn.com/tag/binary-indexed-tree) [线段树](https://leetcode-cn.com/tag/segment-tree) [分治算法](https://leetcode-cn.com/tag/divide-and-conquer) [None](https://leetcode-cn.com/tag/line-sweep) 
+**标签:**  [堆](https://leetcode-cn.com/tag/heap) [树状数组](https://leetcode-cn.com/tag/binary-indexed-tree) [线段树](https://leetcode-cn.com/tag/segment-tree) [分治算法](https://leetcode-cn.com/tag/divide-and-conquer) [None](https://leetcode-cn.com/tag/line-sweep) 
  ### 相似题目
 - 困难:	[掉落的方块](https://leetcode-cn.com/problems/falling-squares) 

@@ -33,7 +33,7 @@
 <strong>输出:</strong> &quot;1211&quot;
 <strong>解释：</strong>当 n = 3 时，序列是 &quot;21&quot;，其中我们有 &quot;2&quot; 和 &quot;1&quot; 两组，&quot;2&quot; 可以读作 &quot;12&quot;，也就是出现频次 = 1 而 值 = 2；类似 &quot;1&quot; 可以读作 &quot;11&quot;。所以答案是 &quot;12&quot; 和 &quot;11&quot; 组合在一起，也就是 &quot;1211&quot;。</pre>
 
-**标签:	**[字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [字符串](https://leetcode-cn.com/tag/string) 
  ### 相似题目
 - 中等:	[字符串的编码与解码](https://leetcode-cn.com/problems/encode-and-decode-strings) 
 - 简单:	[压缩字符串](https://leetcode-cn.com/problems/string-compression) 

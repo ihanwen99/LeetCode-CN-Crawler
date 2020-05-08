@@ -29,7 +29,7 @@ And the value to search: 2
 
 <p>Note that an empty tree is represented by <code>NULL</code>, therefore you would see the expected output (serialized tree format) as&nbsp;<code>[]</code>, not <code>null</code>.</p>
 
-**Related Topic	**[Tree](https://leetcode-cn.com/tag/tree) 
+**Related Topic**  [Tree](https://leetcode-cn.com/tag/tree) 
 
 ### Similar Questions
  - Easy:	[Closest Binary Search Tree Value](https://leetcode-cn.com/problems/closest-binary-search-tree-value) 

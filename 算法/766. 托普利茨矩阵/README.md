@@ -48,6 +48,6 @@ matrix = [
 	<li>如果矩阵太大以至于只能一次将部分行加载到内存中，该怎么办？</li>
 </ol>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) 
  ### 相似题目
 - 简单:	[有效的单词方块](https://leetcode-cn.com/problems/valid-word-square) 

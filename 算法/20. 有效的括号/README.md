@@ -42,7 +42,7 @@
 <pre><strong>输入:</strong> &quot;{[]}&quot;
 <strong>输出:</strong> true</pre>
 
-**标签:	**[栈](https://leetcode-cn.com/tag/stack) [字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [栈](https://leetcode-cn.com/tag/stack) [字符串](https://leetcode-cn.com/tag/string) 
  ### 相似题目
 - 中等:	[括号生成](https://leetcode-cn.com/problems/generate-parentheses) 
 - 困难:	[最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses) 

@@ -33,6 +33,6 @@ bits = [1, 1, 1, 0]
 	<li><code>bits[i]</code> 总是<code>0</code> 或&nbsp;<code>1</code>.</li>
 </ul>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) 
  ### 相似题目
 - 中等:	[格雷编码](https://leetcode-cn.com/problems/gray-code) 

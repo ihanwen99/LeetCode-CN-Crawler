@@ -21,7 +21,7 @@ In a complete binary tree every level, except possibly the last, is completely f
 
 <strong>Output:</strong> 6</pre>
 
-**Related Topics	**[Tree](https://leetcode-cn.com/tag/tree) [Binary Search](https://leetcode-cn.com/tag/binary-search) 
+**Related Topics**  [Tree](https://leetcode-cn.com/tag/tree) [Binary Search](https://leetcode-cn.com/tag/binary-search) 
 
 ### Similar Question
  - Easy:	[Closest Binary Search Tree Value](https://leetcode-cn.com/problems/closest-binary-search-tree-value) 

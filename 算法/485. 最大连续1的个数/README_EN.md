@@ -19,7 +19,7 @@
 <li>The length of input array is a positive integer and will not exceed 10,000</li>
 </ul>
 </p>
-**Related Topic	**[Array](https://leetcode-cn.com/tag/array) 
+**Related Topic**  [Array](https://leetcode-cn.com/tag/array) 
 
 ### Similar Questions
  - Medium:	[Max Consecutive Ones II](https://leetcode-cn.com/problems/max-consecutive-ones-ii) 

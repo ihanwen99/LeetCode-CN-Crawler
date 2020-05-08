@@ -48,7 +48,7 @@
 <strong>Output:</strong> true
 </pre>
 
-**Related Topics	**[Stack](https://leetcode-cn.com/tag/stack) [String](https://leetcode-cn.com/tag/string) 
+**Related Topics**  [Stack](https://leetcode-cn.com/tag/stack) [String](https://leetcode-cn.com/tag/string) 
 
 ### Similar Questions
  - Medium:	[Generate Parentheses](https://leetcode-cn.com/problems/generate-parentheses) 

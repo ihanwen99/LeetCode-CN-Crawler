@@ -44,4 +44,4 @@ Rotate the matrix <strong>in place. </strong>It becomes:
 ]
 </pre>
 
-**Related Topic	**[Array](https://leetcode-cn.com/tag/array) 
+**Related Topic**  [Array](https://leetcode-cn.com/tag/array) 

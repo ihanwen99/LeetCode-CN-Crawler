@@ -34,7 +34,7 @@ The value of <b>n</b> won't exceed 100,000.
 
 
 
-**Related Topic	**[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topic**  [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
 
 ### Similar Question
  - Easy:	[Student Attendance Record I](https://leetcode-cn.com/problems/student-attendance-record-i) 

@@ -42,4 +42,4 @@ Note that other answers, such as [3, 3], would also be accepted.
 	<li><code>A[i]</code> is a permutation of <code>[1, 2, ..., A.length]</code></li>
 </ol>
 
-**Related Topics	**[Sort](https://leetcode-cn.com/tag/sort) [Array](https://leetcode-cn.com/tag/array) 
+**Related Topics**  [Sort](https://leetcode-cn.com/tag/sort) [Array](https://leetcode-cn.com/tag/array) 

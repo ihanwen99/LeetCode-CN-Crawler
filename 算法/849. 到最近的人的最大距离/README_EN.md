@@ -41,7 +41,7 @@ This is the maximum distance possible, so the answer is 3.
 </div>
 </div>
 
-**Related Topic	**[Array](https://leetcode-cn.com/tag/array) 
+**Related Topic**  [Array](https://leetcode-cn.com/tag/array) 
 
 ### Similar Question
  - Medium:	[Exam Room](https://leetcode-cn.com/problems/exam-room) 

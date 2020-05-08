@@ -15,6 +15,6 @@
   [&quot;a&quot;,&quot;a&quot;,&quot;b&quot;]
 ]</pre>
 
-**标签:	**[回溯算法](https://leetcode-cn.com/tag/backtracking) 
+**标签:**  [回溯算法](https://leetcode-cn.com/tag/backtracking) 
  ### 相似题目
 - 困难:	[分割回文串 II](https://leetcode-cn.com/problems/palindrome-partitioning-ii) 

@@ -48,4 +48,4 @@ r = 2, c = 4
 <li>The given r and c are all positive.</li>
 </ol>
 </p>
-**Related Topic	**[Array](https://leetcode-cn.com/tag/array) 
+**Related Topic**  [Array](https://leetcode-cn.com/tag/array) 

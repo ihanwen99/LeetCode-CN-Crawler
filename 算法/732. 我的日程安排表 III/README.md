@@ -36,7 +36,7 @@ MyCalendarThree.book(25, 55); // returns 3
 	<li>调用函数&nbsp;<code>MyCalendar.book(start, end)</code>时，&nbsp;<code>start</code> 和&nbsp;<code>end</code> 的取值范围为&nbsp;<code>[0, 10^9]</code>。</li>
 </ul>
 
-**标签:	**[线段树](https://leetcode-cn.com/tag/segment-tree) [None](https://leetcode-cn.com/tag/ordered-map) 
+**标签:**  [线段树](https://leetcode-cn.com/tag/segment-tree) [None](https://leetcode-cn.com/tag/ordered-map) 
  ### 相似题目
 - 中等:	[我的日程安排表 I](https://leetcode-cn.com/problems/my-calendar-i) 
 - 中等:	[我的日程安排表 II](https://leetcode-cn.com/problems/my-calendar-ii) 

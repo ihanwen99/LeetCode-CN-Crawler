@@ -14,7 +14,7 @@
 <b>Explanation:</b> 342 + 465 = 807.
 </pre>
 
-**Related Topics	**[Linked List](https://leetcode-cn.com/tag/linked-list) [Math](https://leetcode-cn.com/tag/math) 
+**Related Topics**  [Linked List](https://leetcode-cn.com/tag/linked-list) [Math](https://leetcode-cn.com/tag/math) 
 
 ### Similar Questions
  - Medium:	[Multiply Strings](https://leetcode-cn.com/problems/multiply-strings) 

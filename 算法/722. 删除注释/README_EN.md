@@ -71,7 +71,7 @@ source = ["a/*comment", "line", "more_comment*/b"]
 <li>Every open block comment is eventually closed.</li>
 <li>There are no single-quote, double-quote, or control characters in the source code.</li>
 </p>
-**Related Topic	**[String](https://leetcode-cn.com/tag/string) 
+**Related Topic**  [String](https://leetcode-cn.com/tag/string) 
 
 ### Similar Questions
  - Medium:	[Mini Parser](https://leetcode-cn.com/problems/mini-parser) 

@@ -17,7 +17,7 @@
 <strong>Output:</strong> 6
 </pre>
 
-**Related Topics	**[Stack](https://leetcode-cn.com/tag/stack) [Array](https://leetcode-cn.com/tag/array) [Hash Table](https://leetcode-cn.com/tag/hash-table) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topics**  [Stack](https://leetcode-cn.com/tag/stack) [Array](https://leetcode-cn.com/tag/array) [Hash Table](https://leetcode-cn.com/tag/hash-table) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
 
 ### Similar Questions
  - Hard:	[Largest Rectangle in Histogram](https://leetcode-cn.com/problems/largest-rectangle-in-histogram) 

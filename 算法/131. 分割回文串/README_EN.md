@@ -17,7 +17,7 @@
 ]
 </pre>
 
-**Related Topic	**[Backtracking](https://leetcode-cn.com/tag/backtracking) 
+**Related Topic**  [Backtracking](https://leetcode-cn.com/tag/backtracking) 
 
 ### Similar Question
  - Hard:	[Palindrome Partitioning II](https://leetcode-cn.com/problems/palindrome-partitioning-ii) 

@@ -46,4 +46,4 @@
 	<li><code>1 &lt;= nums[i] &lt;= 10^5</code></li>
 </ul>
 
-**标签:	**[哈希表](https://leetcode-cn.com/tag/hash-table) 
+**标签:**  [哈希表](https://leetcode-cn.com/tag/hash-table) 

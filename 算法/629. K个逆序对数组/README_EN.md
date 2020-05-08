@@ -38,4 +38,4 @@ The array [1,3,2] and [2,1,3] have exactly 1 inverse pair.
 
 <p>&nbsp;</p>
 
-**Related Topic	**[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topic**  [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 

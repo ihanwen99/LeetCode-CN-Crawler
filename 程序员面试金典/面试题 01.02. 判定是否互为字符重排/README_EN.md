@@ -25,4 +25,4 @@
 	<li><code>0 &lt;= len(s2) &lt;= 100</code></li>
 </ol>
 
-**Related Topics	**[Array](https://leetcode-cn.com/tag/array) [String](https://leetcode-cn.com/tag/string) 
+**Related Topics**  [Array](https://leetcode-cn.com/tag/array) [String](https://leetcode-cn.com/tag/string) 

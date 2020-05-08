@@ -57,4 +57,4 @@
 </div>
 </div>
 
-**Related Topics	**[Math](https://leetcode-cn.com/tag/math) [Binary Search](https://leetcode-cn.com/tag/binary-search) 
+**Related Topics**  [Math](https://leetcode-cn.com/tag/math) [Binary Search](https://leetcode-cn.com/tag/binary-search) 

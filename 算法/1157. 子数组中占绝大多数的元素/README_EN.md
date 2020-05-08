@@ -37,4 +37,4 @@ majorityChecker.query(2,3,2); // returns 2
 	<li>For each query, <code>2 * threshold &gt; right - left + 1</code></li>
 	<li>The number of queries is at most <code>10000</code></li>
 </ul>
-**Related Topics	**[Segment Tree](https://leetcode-cn.com/tag/segment-tree) [Array](https://leetcode-cn.com/tag/array) [Binary Search](https://leetcode-cn.com/tag/binary-search) 
+**Related Topics**  [Segment Tree](https://leetcode-cn.com/tag/segment-tree) [Array](https://leetcode-cn.com/tag/array) [Binary Search](https://leetcode-cn.com/tag/binary-search) 

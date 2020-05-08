@@ -48,4 +48,4 @@ customStack.pop();                            // return -1 --&gt; Stack is empty
 	<li><code>0 &lt;= val &lt;= 100</code></li>
 	<li>At most&nbsp;<code>1000</code>&nbsp;calls will be made to each method of <code>increment</code>, <code>push</code> and <code>pop</code> each separately.</li>
 </ul>
-**Related Topics	**[Stack](https://leetcode-cn.com/tag/stack) [Design](https://leetcode-cn.com/tag/design) 
+**Related Topics**  [Stack](https://leetcode-cn.com/tag/stack) [Design](https://leetcode-cn.com/tag/design) 

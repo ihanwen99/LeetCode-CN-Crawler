@@ -41,7 +41,7 @@ The cell (2, 2) is as far as possible from all the land with distance 4.
 	<li><span><code>grid[i][j]</code>&nbsp;is <code>0</code> or <code>1</code></span></li>
 </ol>
 
-**Related Topics	**[Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search) [Graph](https://leetcode-cn.com/tag/graph) 
+**Related Topics**  [Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search) [Graph](https://leetcode-cn.com/tag/graph) 
 
 ### Similar Question
  - Hard:	[Shortest Distance from All Buildings](https://leetcode-cn.com/problems/shortest-distance-from-all-buildings) 

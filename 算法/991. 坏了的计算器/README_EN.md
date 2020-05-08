@@ -55,7 +55,7 @@
 	<li><code>1 &lt;= X &lt;= 10^9</code></li>
 	<li><code>1 &lt;= Y &lt;= 10^9</code></li>
 </ol>
-**Related Topics	**[Greedy](https://leetcode-cn.com/tag/greedy) [Math](https://leetcode-cn.com/tag/math) 
+**Related Topics**  [Greedy](https://leetcode-cn.com/tag/greedy) [Math](https://leetcode-cn.com/tag/math) 
 
 ### Similar Question
  - Medium:	[2 Keys Keyboard](https://leetcode-cn.com/problems/2-keys-keyboard) 

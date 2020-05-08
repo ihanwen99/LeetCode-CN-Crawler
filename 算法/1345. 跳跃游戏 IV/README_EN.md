@@ -62,4 +62,4 @@
 	<li><code>1 &lt;= arr.length &lt;= 5 * 10^4</code></li>
 	<li><code>-10^8 &lt;= arr[i] &lt;= 10^8</code></li>
 </ul>
-**Related Topic	**[Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search) 
+**Related Topic**  [Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search) 

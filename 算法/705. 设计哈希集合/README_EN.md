@@ -36,7 +36,7 @@ hashSet.contains(2); &nbsp;&nbsp;&nbsp;// returns false (already removed)
 	<li>Please do not use the built-in HashSet library.</li>
 </ul>
 
-**Related Topics	**[Design](https://leetcode-cn.com/tag/design) [Hash Table](https://leetcode-cn.com/tag/hash-table) 
+**Related Topics**  [Design](https://leetcode-cn.com/tag/design) [Hash Table](https://leetcode-cn.com/tag/hash-table) 
 
 ### Similar Question
  - Easy:	[Design HashMap](https://leetcode-cn.com/problems/design-hashmap) 

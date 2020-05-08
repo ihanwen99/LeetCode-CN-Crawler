@@ -50,4 +50,4 @@ Profit obtained 150 = 20 + 70 + 60.
 	<li><code>1 &lt;=&nbsp;profit[i] &lt;= 10^4</code></li>
 </ul>
 
-**Related Topics	**[Sort](https://leetcode-cn.com/tag/sort) [Binary Search](https://leetcode-cn.com/tag/binary-search) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topics**  [Sort](https://leetcode-cn.com/tag/sort) [Binary Search](https://leetcode-cn.com/tag/binary-search) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 

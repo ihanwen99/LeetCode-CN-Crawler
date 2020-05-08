@@ -42,4 +42,4 @@
 	<li><code>0 &lt;= K &lt; N &lt;= L &lt;= 100</code></li>
 </ol>
 
-**标签:	**[动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 

@@ -59,4 +59,4 @@ After removing, new nodes become leaf nodes with value (target = 2) (Picture in 
 	<li>Each tree has at most <code>3000</code> nodes.</li>
 	<li>Each node&#39;s value is between <code>[1, 1000]</code>.</li>
 </ul>
-**Related Topic	**[Tree](https://leetcode-cn.com/tag/tree) 
+**Related Topic**  [Tree](https://leetcode-cn.com/tag/tree) 

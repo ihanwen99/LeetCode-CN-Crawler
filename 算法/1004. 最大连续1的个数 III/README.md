@@ -34,7 +34,7 @@
 	<li><code>A[i]</code> 为&nbsp;<code>0</code>&nbsp;或&nbsp;<code>1</code>&nbsp;</li>
 </ol>
 
-**标签:	**[双指针](https://leetcode-cn.com/tag/two-pointers) [None](https://leetcode-cn.com/tag/sliding-window) 
+**标签:**  [双指针](https://leetcode-cn.com/tag/two-pointers) [None](https://leetcode-cn.com/tag/sliding-window) 
  ### 相似题目
 - 困难:	[至多包含 K 个不同字符的最长子串](https://leetcode-cn.com/problems/longest-substring-with-at-most-k-distinct-characters) 
 - 中等:	[替换后的最长重复字符](https://leetcode-cn.com/problems/longest-repeating-character-replacement) 

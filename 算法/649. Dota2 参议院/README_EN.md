@@ -55,7 +55,7 @@ And in the round 2, the third senator can just announce the victory since he is 
 
 <p>&nbsp;</p>
 
-**Related Topic	**[Greedy](https://leetcode-cn.com/tag/greedy) 
+**Related Topic**  [Greedy](https://leetcode-cn.com/tag/greedy) 
 
 ### Similar Question
  - Medium:	[Teemo Attacking](https://leetcode-cn.com/problems/teemo-attacking) 

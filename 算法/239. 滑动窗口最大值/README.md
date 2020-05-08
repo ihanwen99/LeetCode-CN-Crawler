@@ -39,7 +39,7 @@
 	<li><code>1 &lt;= k&nbsp;&lt;= nums.length</code></li>
 </ul>
 
-**标签:	**[堆](https://leetcode-cn.com/tag/heap) [None](https://leetcode-cn.com/tag/sliding-window) 
+**标签:**  [堆](https://leetcode-cn.com/tag/heap) [None](https://leetcode-cn.com/tag/sliding-window) 
  ### 相似题目
 - 困难:	[最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring) 
 - 简单:	[最小栈](https://leetcode-cn.com/problems/min-stack) 

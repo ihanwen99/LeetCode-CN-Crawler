@@ -44,4 +44,4 @@
 	<li>本题结果在&nbsp;<code>[1,&nbsp;2 * 10^9]</code>&nbsp;的范围内</li>
 </ul>
 
-**标签:	**[数学](https://leetcode-cn.com/tag/math) [二分查找](https://leetcode-cn.com/tag/binary-search) 
+**标签:**  [数学](https://leetcode-cn.com/tag/math) [二分查找](https://leetcode-cn.com/tag/binary-search) 

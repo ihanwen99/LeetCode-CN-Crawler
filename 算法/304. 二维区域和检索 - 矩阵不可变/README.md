@@ -30,7 +30,7 @@ sumRegion(1, 2, 2, 4) -&gt; 12
 	<li>你可以假设&nbsp;<em>row</em>1 &le; <em>row</em>2 且&nbsp;<em>col</em>1 &le; <em>col</em>2。</li>
 </ol>
 
-**标签:	**[动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
  ### 相似题目
 - 简单:	[区域和检索 - 数组不可变](https://leetcode-cn.com/problems/range-sum-query-immutable) 
 - 困难:	[二维区域和检索 - 可变](https://leetcode-cn.com/problems/range-sum-query-2d-mutable) 

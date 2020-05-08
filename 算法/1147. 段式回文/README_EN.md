@@ -50,4 +50,4 @@
 	<li><code>text</code> consists only of lowercase English characters.</li>
 	<li><code>1 &lt;= text.length &lt;= 1000</code></li>
 </ul>
-**Related Topic	**[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topic**  [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 

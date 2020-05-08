@@ -48,4 +48,4 @@
 	<li><code>grid[i][j] == 0 or 1</code></li>
 </ul>
 
-**标签:	**[图](https://leetcode-cn.com/tag/graph) [数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [图](https://leetcode-cn.com/tag/graph) [数组](https://leetcode-cn.com/tag/array) 

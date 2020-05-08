@@ -24,7 +24,7 @@
 &nbsp;            the decimal part is truncated, 2 is returned.
 </pre>
 
-**Related Topics	**[Math](https://leetcode-cn.com/tag/math) [Binary Search](https://leetcode-cn.com/tag/binary-search) 
+**Related Topics**  [Math](https://leetcode-cn.com/tag/math) [Binary Search](https://leetcode-cn.com/tag/binary-search) 
 
 ### Similar Questions
  - Medium:	[Pow(x, n)](https://leetcode-cn.com/problems/powx-n) 

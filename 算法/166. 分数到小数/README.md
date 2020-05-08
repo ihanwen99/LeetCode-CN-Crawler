@@ -23,4 +23,4 @@
 <strong>输出: </strong>&quot;0.(6)&quot;
 </pre>
 
-**标签:	**[哈希表](https://leetcode-cn.com/tag/hash-table) [数学](https://leetcode-cn.com/tag/math) 
+**标签:**  [哈希表](https://leetcode-cn.com/tag/hash-table) [数学](https://leetcode-cn.com/tag/math) 

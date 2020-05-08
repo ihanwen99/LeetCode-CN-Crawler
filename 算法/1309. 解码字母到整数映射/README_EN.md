@@ -51,4 +51,4 @@
 	<li><code>s[i]</code> only contains digits letters (<code>&#39;0&#39;</code>-<code>&#39;9&#39;</code>) and <code>&#39;#&#39;</code>&nbsp;letter.</li>
 	<li><code>s</code> will be valid string&nbsp;such that mapping is always possible.</li>
 </ul>
-**Related Topic	**[String](https://leetcode-cn.com/tag/string) 
+**Related Topic**  [String](https://leetcode-cn.com/tag/string) 

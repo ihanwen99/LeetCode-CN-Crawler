@@ -15,6 +15,6 @@
 <pre><strong>输入: </strong>a = 2, b = [1,0]
 <strong>输出: </strong>1024</pre>
 
-**标签:	**[数学](https://leetcode-cn.com/tag/math) 
+**标签:**  [数学](https://leetcode-cn.com/tag/math) 
  ### 相似题目
 - 中等:	[Pow(x, n)](https://leetcode-cn.com/problems/powx-n) 

@@ -17,6 +17,6 @@
 [[5,0], [7,0], [5,2], [6,1], [4,4], [7,1]]
 </pre>
 
-**标签:	**[贪心算法](https://leetcode-cn.com/tag/greedy) 
+**标签:**  [贪心算法](https://leetcode-cn.com/tag/greedy) 
  ### 相似题目
 - 困难:	[计算右侧小于当前元素的个数](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self) 

@@ -26,6 +26,6 @@
 
 <p>给定&nbsp;target&nbsp;=&nbsp;<code>20</code>，返回&nbsp;<code>false</code>。</p>
 
-**标签:	**[二分查找](https://leetcode-cn.com/tag/binary-search) [分治算法](https://leetcode-cn.com/tag/divide-and-conquer) 
+**标签:**  [二分查找](https://leetcode-cn.com/tag/binary-search) [分治算法](https://leetcode-cn.com/tag/divide-and-conquer) 
  ### 相似题目
 - 中等:	[搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix) 

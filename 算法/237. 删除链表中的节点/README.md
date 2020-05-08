@@ -35,6 +35,6 @@
 	<li>不要从你的函数中返回任何结果。</li>
 </ul>
 
-**标签:	**[链表](https://leetcode-cn.com/tag/linked-list) 
+**标签:**  [链表](https://leetcode-cn.com/tag/linked-list) 
  ### 相似题目
 - 简单:	[移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements) 

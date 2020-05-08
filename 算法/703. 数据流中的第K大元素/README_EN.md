@@ -22,7 +22,7 @@ kthLargest.add(4);&nbsp; &nbsp;// returns 8
 <p><strong>Note: </strong><br />
 You may assume that&nbsp;<code>nums</code>&#39; length&nbsp;&ge;&nbsp;<code>k-1</code>&nbsp;and <code>k</code> &ge;&nbsp;1.</p>
 
-**Related Topic	**[Heap](https://leetcode-cn.com/tag/heap) 
+**Related Topic**  [Heap](https://leetcode-cn.com/tag/heap) 
 
 ### Similar Question
  - Medium:	[Kth Largest Element in an Array](https://leetcode-cn.com/problems/kth-largest-element-in-an-array) 

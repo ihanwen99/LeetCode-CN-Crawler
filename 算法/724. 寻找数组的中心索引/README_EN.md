@@ -42,7 +42,7 @@ There is no index that satisfies the conditions in the problem statement.
 
 <p>&nbsp;</p>
 
-**Related Topic	**[Array](https://leetcode-cn.com/tag/array) 
+**Related Topic**  [Array](https://leetcode-cn.com/tag/array) 
 
 ### Similar Question
  - Medium:	[Subarray Sum Equals K](https://leetcode-cn.com/problems/subarray-sum-equals-k) 

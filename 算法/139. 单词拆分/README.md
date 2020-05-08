@@ -32,6 +32,6 @@
 <strong>输出:</strong> false
 </pre>
 
-**标签:	**[动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
  ### 相似题目
 - 困难:	[单词拆分 II](https://leetcode-cn.com/problems/word-break-ii) 

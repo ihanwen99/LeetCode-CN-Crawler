@@ -35,7 +35,7 @@ You may assume k is always valid, 1 &le; k &le; BST&#39;s total elements.</p>
 <p><b>Follow up:</b><br />
 What if the BST is modified (insert/delete operations) often and you need to find the kth smallest frequently? How would you optimize the kthSmallest routine?</p>
 
-**Related Topics	**[Tree](https://leetcode-cn.com/tag/tree) [Binary Search](https://leetcode-cn.com/tag/binary-search) 
+**Related Topics**  [Tree](https://leetcode-cn.com/tag/tree) [Binary Search](https://leetcode-cn.com/tag/binary-search) 
 
 ### Similar Questions
  - Medium:	[Binary Tree Inorder Traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal) 

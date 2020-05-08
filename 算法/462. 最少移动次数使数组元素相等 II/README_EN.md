@@ -20,7 +20,7 @@ Only two moves are needed (remember each move increments or decrements one eleme
 [1,2,3]  =>  [2,2,3]  =>  [2,2,2]
 </pre>
 </p></p>
-**Related Topic	**[Math](https://leetcode-cn.com/tag/math) 
+**Related Topic**  [Math](https://leetcode-cn.com/tag/math) 
 
 ### Similar Questions
  - Hard:	[Best Meeting Point](https://leetcode-cn.com/problems/best-meeting-point) 

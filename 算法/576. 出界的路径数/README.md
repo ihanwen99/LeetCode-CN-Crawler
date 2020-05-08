@@ -31,6 +31,6 @@
 	<li>网格的长度和高度在 [1,50] 的范围内。</li>
 	<li>N 在 [0,50] 的范围内。</li>
 </ol>
-**标签:	**[深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
  ### 相似题目
 - 中等:	[“马”在棋盘上的概率](https://leetcode-cn.com/problems/knight-probability-in-chessboard) 

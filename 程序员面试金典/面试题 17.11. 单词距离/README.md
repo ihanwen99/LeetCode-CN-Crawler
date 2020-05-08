@@ -15,4 +15,4 @@
 	<li><code>words.length &lt;= 100000</code></li>
 </ul>
 
-**标签:	**[双指针](https://leetcode-cn.com/tag/two-pointers) [字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [双指针](https://leetcode-cn.com/tag/two-pointers) [字符串](https://leetcode-cn.com/tag/string) 

@@ -53,7 +53,7 @@
 	<li><code>0 &lt;= node.val &lt;= N</code></li>
 </ol>
 
-**标签:	**[树](https://leetcode-cn.com/tag/tree) [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) 
+**标签:**  [树](https://leetcode-cn.com/tag/tree) [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) 
  ### 相似题目
 - 困难:	[树中距离之和](https://leetcode-cn.com/problems/sum-of-distances-in-tree) 
 - 困难:	[监控二叉树](https://leetcode-cn.com/problems/binary-tree-cameras) 

@@ -60,4 +60,4 @@
 	<li><code>0 &lt;= deck[i] &lt;&nbsp;10^4</code></li>
 </ul>
 
-**Related Topics	**[Array](https://leetcode-cn.com/tag/array) [Math](https://leetcode-cn.com/tag/math) 
+**Related Topics**  [Array](https://leetcode-cn.com/tag/array) [Math](https://leetcode-cn.com/tag/math) 

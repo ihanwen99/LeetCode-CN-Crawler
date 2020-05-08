@@ -31,4 +31,4 @@
 	<li>Answers within <code>10^-5</code> of the true value will be accepted as correct.</li>
 </ol>
 
-**Related Topics	**[Math](https://leetcode-cn.com/tag/math) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) 
+**Related Topics**  [Math](https://leetcode-cn.com/tag/math) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) 

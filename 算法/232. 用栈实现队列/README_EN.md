@@ -30,7 +30,7 @@ queue.empty(); // returns false</pre>
 	<li>You may assume that all operations are valid (for example, no pop or peek operations will be called on an empty queue).</li>
 </ul>
 
-**Related Topics	**[Stack](https://leetcode-cn.com/tag/stack) [Design](https://leetcode-cn.com/tag/design) 
+**Related Topics**  [Stack](https://leetcode-cn.com/tag/stack) [Design](https://leetcode-cn.com/tag/design) 
 
 ### Similar Question
  - Easy:	[Implement Stack using Queues](https://leetcode-cn.com/problems/implement-stack-using-queues) 

@@ -42,4 +42,4 @@
 	<li><code>1 &lt;= m&nbsp;&lt;=&nbsp;13</code></li>
 </ul>
 
-**Related Topics	**[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) [Backtracking](https://leetcode-cn.com/tag/backtracking) 
+**Related Topics**  [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) [Backtracking](https://leetcode-cn.com/tag/backtracking) 

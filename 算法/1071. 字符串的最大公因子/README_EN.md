@@ -39,4 +39,4 @@
 	<li><code>str1[i]</code> and <code>str2[i]</code> are English uppercase letters.</li>
 </ol>
 
-**Related Topic	**[String](https://leetcode-cn.com/tag/string) 
+**Related Topic**  [String](https://leetcode-cn.com/tag/string) 

@@ -20,4 +20,4 @@ After removing the second node from the end, the linked list becomes <strong>1-&
 
 <p>Could you do this in one pass?</p>
 
-**Related Topics	**[Linked List](https://leetcode-cn.com/tag/linked-list) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) 
+**Related Topics**  [Linked List](https://leetcode-cn.com/tag/linked-list) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) 

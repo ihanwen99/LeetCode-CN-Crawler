@@ -33,7 +33,7 @@
 </ol>
 </div>
 </div>
-**Related Topics	**[Array](https://leetcode-cn.com/tag/array) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) 
+**Related Topics**  [Array](https://leetcode-cn.com/tag/array) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) 
 
 ### Similar Questions
  - Easy:	[Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array) 

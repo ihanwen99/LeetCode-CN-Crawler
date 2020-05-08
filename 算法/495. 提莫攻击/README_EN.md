@@ -42,7 +42,7 @@ So you finally need to output 3.
 
 <p>&nbsp;</p>
 
-**Related Topic	**[Array](https://leetcode-cn.com/tag/array) 
+**Related Topic**  [Array](https://leetcode-cn.com/tag/array) 
 
 ### Similar Questions
  - Medium:	[Merge Intervals](https://leetcode-cn.com/problems/merge-intervals) 

@@ -21,4 +21,4 @@
 	<li>After a pig has instantly finished drinking buckets, there has to be a <strong>cool down time</strong> of <em>m&nbsp;</em>minutes. During this time, only observation is allowed and no feedings at all.</li>
 	<li>Any given bucket can be sampled an infinite number of times (by an unlimited number of pigs).</li>
 </ol>
-**Related Topic	**[Math](https://leetcode-cn.com/tag/math) 
+**Related Topic**  [Math](https://leetcode-cn.com/tag/math) 

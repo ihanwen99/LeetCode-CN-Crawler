@@ -44,4 +44,4 @@
 	<li><code>0 &lt;= c0 &lt; C</code></li>
 </ol>
 
-**标签:	**[排序](https://leetcode-cn.com/tag/sort) 
+**标签:**  [排序](https://leetcode-cn.com/tag/sort) 

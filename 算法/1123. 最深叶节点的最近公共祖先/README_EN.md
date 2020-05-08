@@ -46,4 +46,4 @@ The answer returned is a TreeNode object (not an array) with serialization &quot
 	<li>Each node of the tree will have a distinct value between 1 and 1000.</li>
 </ul>
 
-**Related Topics	**[Tree](https://leetcode-cn.com/tag/tree) [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) 
+**Related Topics**  [Tree](https://leetcode-cn.com/tag/tree) [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) 

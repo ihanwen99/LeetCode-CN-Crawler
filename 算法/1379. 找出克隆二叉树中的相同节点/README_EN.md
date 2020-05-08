@@ -58,4 +58,4 @@
 	<li><code>target</code> node is a&nbsp;node from the <code>original</code> tree and is not <code>null</code>.</li>
 </ul>
 
-**Related Topic	**[Tree](https://leetcode-cn.com/tag/tree) 
+**Related Topic**  [Tree](https://leetcode-cn.com/tag/tree) 

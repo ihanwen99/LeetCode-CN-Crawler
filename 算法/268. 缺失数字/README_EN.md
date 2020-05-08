@@ -20,7 +20,7 @@
 
 <p><b>Note</b>:<br />
 Your algorithm should run in linear runtime complexity. Could you implement it using only constant extra space complexity?</p>
-**Related Topics	**[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) [Array](https://leetcode-cn.com/tag/array) [Math](https://leetcode-cn.com/tag/math) 
+**Related Topics**  [Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) [Array](https://leetcode-cn.com/tag/array) [Math](https://leetcode-cn.com/tag/math) 
 
 ### Similar Questions
  - Hard:	[First Missing Positive](https://leetcode-cn.com/problems/first-missing-positive) 

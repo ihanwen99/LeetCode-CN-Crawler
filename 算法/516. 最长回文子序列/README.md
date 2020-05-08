@@ -34,7 +34,7 @@
 
 <p>一个可能的最长回文子序列为 &quot;bb&quot;。</p>
 
-**标签:	**[动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
  ### 相似题目
 - 中等:	[最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring) 
 - 中等:	[回文子串](https://leetcode-cn.com/problems/palindromic-substrings) 

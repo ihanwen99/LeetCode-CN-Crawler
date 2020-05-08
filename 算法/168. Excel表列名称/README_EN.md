@@ -37,7 +37,7 @@
 <strong>Input:</strong> 701
 <strong>Output:</strong> &quot;ZY&quot;
 </pre>
-**Related Topic	**[Math](https://leetcode-cn.com/tag/math) 
+**Related Topic**  [Math](https://leetcode-cn.com/tag/math) 
 
 ### Similar Question
  - Easy:	[Excel Sheet Column Number](https://leetcode-cn.com/problems/excel-sheet-column-number) 

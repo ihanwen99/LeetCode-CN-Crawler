@@ -19,7 +19,7 @@
 <strong>输出:</strong> 0
 <strong>解释:</strong>&nbsp;结果不能为 2, 因为 [-2,-1] 不是子数组。</pre>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
  ### 相似题目
 - 简单:	[最大子序和](https://leetcode-cn.com/problems/maximum-subarray) 
 - 简单:	[打家劫舍](https://leetcode-cn.com/problems/house-robber) 

@@ -37,4 +37,4 @@
 	<li><code>matrix.length == matrix[0].length &lt;= 200</code></li>
 </ul>
 
-**Related Topic	**[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topic**  [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 

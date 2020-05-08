@@ -24,7 +24,7 @@
 上面的箭头指出了对应二进制位不同的位置。
 </pre>
 
-**标签:	**[位运算](https://leetcode-cn.com/tag/bit-manipulation) 
+**标签:**  [位运算](https://leetcode-cn.com/tag/bit-manipulation) 
  ### 相似题目
 - 简单:	[位1的个数](https://leetcode-cn.com/problems/number-of-1-bits) 
 - 中等:	[汉明距离总和](https://leetcode-cn.com/problems/total-hamming-distance) 

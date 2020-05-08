@@ -34,7 +34,7 @@
 	<li>A&nbsp;is a mountain, as defined above.</li>
 </ol>
 
-**Related Topic	**[Binary Search](https://leetcode-cn.com/tag/binary-search) 
+**Related Topic**  [Binary Search](https://leetcode-cn.com/tag/binary-search) 
 
 ### Similar Question
  - Medium:	[Find Peak Element](https://leetcode-cn.com/problems/find-peak-element) 

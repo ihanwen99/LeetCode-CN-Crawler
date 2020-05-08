@@ -35,4 +35,4 @@
 	<li><code>queries[i][j]</code>, <code>words[i][j]</code>&nbsp;都是小写英文字母</li>
 </ul>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) [字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) [字符串](https://leetcode-cn.com/tag/string) 

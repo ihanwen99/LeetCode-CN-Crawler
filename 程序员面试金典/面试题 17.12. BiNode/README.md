@@ -22,4 +22,4 @@
 	<li>节点数量不会超过 100000。</li>
 </ul>
 
-**标签:	**[树](https://leetcode-cn.com/tag/tree) [二叉搜索树](https://leetcode-cn.com/tag/binary-search-tree) [递归](https://leetcode-cn.com/tag/recursion) 
+**标签:**  [树](https://leetcode-cn.com/tag/tree) [二叉搜索树](https://leetcode-cn.com/tag/binary-search-tree) [递归](https://leetcode-cn.com/tag/recursion) 

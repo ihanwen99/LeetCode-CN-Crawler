@@ -28,7 +28,7 @@
 	<li>You can return the answer in any order.</li>
 </ul>
 
-**Related Topics	**[Heap](https://leetcode-cn.com/tag/heap) [Hash Table](https://leetcode-cn.com/tag/hash-table) 
+**Related Topics**  [Heap](https://leetcode-cn.com/tag/heap) [Hash Table](https://leetcode-cn.com/tag/hash-table) 
 
 ### Similar Questions
  - Medium:	[Word Frequency](https://leetcode-cn.com/problems/word-frequency) 

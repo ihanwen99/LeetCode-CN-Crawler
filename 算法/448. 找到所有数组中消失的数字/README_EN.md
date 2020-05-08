@@ -17,7 +17,7 @@
 [5,6]
 </pre>
 </p>
-**Related Topic	**[Array](https://leetcode-cn.com/tag/array) 
+**Related Topic**  [Array](https://leetcode-cn.com/tag/array) 
 
 ### Similar Questions
  - Hard:	[First Missing Positive](https://leetcode-cn.com/problems/first-missing-positive) 

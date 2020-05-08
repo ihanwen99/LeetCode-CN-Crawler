@@ -31,4 +31,4 @@ The smallest possible number of rabbits in the forest is therefore 5: 3 that ans
 	<li>Each <code>answers[i]</code> will be an integer in the range <code>[0, 999]</code>.</li>
 </ol>
 
-**Related Topics	**[Hash Table](https://leetcode-cn.com/tag/hash-table) [Math](https://leetcode-cn.com/tag/math) 
+**Related Topics**  [Hash Table](https://leetcode-cn.com/tag/hash-table) [Math](https://leetcode-cn.com/tag/math) 

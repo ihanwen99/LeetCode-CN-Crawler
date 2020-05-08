@@ -29,4 +29,4 @@ Merged tree:
 
 <p><b>Note:</b> The merging process must start from the root nodes of both trees.</p>
 
-**Related Topic	**[Tree](https://leetcode-cn.com/tag/tree) 
+**Related Topic**  [Tree](https://leetcode-cn.com/tag/tree) 

@@ -23,4 +23,4 @@ Note that 1 and 10 are not good numbers, since they remain unchanged after rotat
 	<li>N&nbsp; will be in range <code>[1, 10000]</code>.</li>
 </ul>
 
-**Related Topic	**[String](https://leetcode-cn.com/tag/string) 
+**Related Topic**  [String](https://leetcode-cn.com/tag/string) 

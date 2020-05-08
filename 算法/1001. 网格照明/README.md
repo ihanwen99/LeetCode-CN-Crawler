@@ -46,6 +46,6 @@
 	<li><code>lamps[i].length == queries[i].length == 2</code></li>
 </ol>
 
-**标签:	**[哈希表](https://leetcode-cn.com/tag/hash-table) 
+**标签:**  [哈希表](https://leetcode-cn.com/tag/hash-table) 
  ### 相似题目
 - 困难:	[N皇后](https://leetcode-cn.com/problems/n-queens) 

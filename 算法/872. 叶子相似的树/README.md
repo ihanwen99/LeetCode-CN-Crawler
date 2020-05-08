@@ -21,4 +21,4 @@
 	<li>给定的两颗树上的值介于 <code>0</code> 到 <code>200</code> 之间。</li>
 </ul>
 
-**标签:	**[树](https://leetcode-cn.com/tag/tree) [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) 
+**标签:**  [树](https://leetcode-cn.com/tag/tree) [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) 

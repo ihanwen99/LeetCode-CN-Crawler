@@ -30,7 +30,7 @@ cache.get(3);       // 返回  3
 cache.get(4);       // 返回  4
 </pre>
 
-**标签:	**[设计](https://leetcode-cn.com/tag/design) 
+**标签:**  [设计](https://leetcode-cn.com/tag/design) 
  ### 相似题目
 - 困难:	[LFU缓存](https://leetcode-cn.com/problems/lfu-cache) 
 - 困难:	[设计内存文件系统](https://leetcode-cn.com/problems/design-in-memory-file-system) 

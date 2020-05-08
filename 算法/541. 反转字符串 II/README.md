@@ -18,7 +18,7 @@
 	<li>给定字符串的长度和 k 在[1, 10000]范围内。</li>
 </ol>
 
-**标签:	**[字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [字符串](https://leetcode-cn.com/tag/string) 
  ### 相似题目
 - 简单:	[反转字符串](https://leetcode-cn.com/problems/reverse-string) 
 - 简单:	[反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii) 

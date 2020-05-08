@@ -54,4 +54,4 @@ Step 1) 2 是偶数，除 2 得到 1
 	<li><code>s[0] == &#39;1&#39;</code></li>
 </ul>
 
-**标签:	**[位运算](https://leetcode-cn.com/tag/bit-manipulation) [字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [位运算](https://leetcode-cn.com/tag/bit-manipulation) [字符串](https://leetcode-cn.com/tag/string) 

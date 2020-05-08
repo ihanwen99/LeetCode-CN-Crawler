@@ -20,7 +20,7 @@ Given two words <i>word1</i> and <i>word2</i>, find the minimum number of steps 
 <li>Characters in given words can only be lower-case letters.</li>
 </ol>
 </p>
-**Related Topic	**[String](https://leetcode-cn.com/tag/string) 
+**Related Topic**  [String](https://leetcode-cn.com/tag/string) 
 
 ### Similar Questions
  - Hard:	[Edit Distance](https://leetcode-cn.com/problems/edit-distance) 

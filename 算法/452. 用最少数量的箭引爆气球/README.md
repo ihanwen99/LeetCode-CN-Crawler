@@ -19,7 +19,7 @@
 对于该样例，我们可以在x = 6（射爆[2,8],[1,6]两个气球）和 x = 11（射爆另外两个气球）。
 </pre>
 
-**标签:	**[贪心算法](https://leetcode-cn.com/tag/greedy) 
+**标签:**  [贪心算法](https://leetcode-cn.com/tag/greedy) 
  ### 相似题目
 - 中等:	[会议室 II](https://leetcode-cn.com/problems/meeting-rooms-ii) 
 - 中等:	[无重叠区间](https://leetcode-cn.com/problems/non-overlapping-intervals) 

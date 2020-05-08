@@ -32,7 +32,7 @@
 <strong>Explanation: </strong></span>All possible pairs are returned from the sequence: [1,3],[2,3]
 </pre>
 
-**Related Topic	**[Heap](https://leetcode-cn.com/tag/heap) 
+**Related Topic**  [Heap](https://leetcode-cn.com/tag/heap) 
 
 ### Similar Questions
  - Medium:	[Kth Smallest Element in a Sorted Matrix](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix) 

@@ -44,4 +44,4 @@
 	<li>The input strings consist of lowercase English characters only.</li>
 </ul>
 
-**Related Topic	**[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topic**  [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 

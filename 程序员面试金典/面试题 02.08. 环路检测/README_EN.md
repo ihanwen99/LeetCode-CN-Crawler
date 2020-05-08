@@ -27,4 +27,4 @@
 <p><strong>Follow Up: </strong><br />
 Can you solve it without using additional space?</p>
 
-**Related Topic	**[Linked List](https://leetcode-cn.com/tag/linked-list) 
+**Related Topic**  [Linked List](https://leetcode-cn.com/tag/linked-list) 

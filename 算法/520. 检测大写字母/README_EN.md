@@ -35,4 +35,4 @@ Otherwise, we define that this word doesn&#39;t use capitals in a right way.
 
 <p><b>Note:</b> The input will be a non-empty word consisting of uppercase and lowercase latin letters.</p>
 
-**Related Topic	**[String](https://leetcode-cn.com/tag/string) 
+**Related Topic**  [String](https://leetcode-cn.com/tag/string) 

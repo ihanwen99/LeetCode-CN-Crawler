@@ -55,7 +55,7 @@ Asteroids moving the same direction never meet, so no asteroids will meet each o
 <li>The length of <code>asteroids</code> will be at most <code>10000</code>.</li>
 <li>Each asteroid will be a non-zero integer in the range <code>[-1000, 1000].</code>.</li>
 </p>
-**Related Topic	**[Stack](https://leetcode-cn.com/tag/stack) 
+**Related Topic**  [Stack](https://leetcode-cn.com/tag/stack) 
 
 ### Similar Question
  - Easy:	[Can Place Flowers](https://leetcode-cn.com/problems/can-place-flowers) 

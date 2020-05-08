@@ -19,6 +19,6 @@
  -10  5
 </pre>
 
-**标签:	**[深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) [链表](https://leetcode-cn.com/tag/linked-list) 
+**标签:**  [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) [链表](https://leetcode-cn.com/tag/linked-list) 
  ### 相似题目
 - 简单:	[将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree) 

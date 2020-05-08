@@ -49,4 +49,4 @@
 	<li><code>s[i] = &#39;L&#39; or &#39;R&#39;</code></li>
 </ul>
 
-**Related Topics	**[Greedy](https://leetcode-cn.com/tag/greedy) [String](https://leetcode-cn.com/tag/string) 
+**Related Topics**  [Greedy](https://leetcode-cn.com/tag/greedy) [String](https://leetcode-cn.com/tag/string) 

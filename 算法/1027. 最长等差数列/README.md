@@ -41,4 +41,4 @@
 	<li><code>0 &lt;= A[i] &lt;= 10000</code></li>
 </ol>
 
-**标签:	**[动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 

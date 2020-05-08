@@ -31,7 +31,7 @@
 	<li>可以保证<code>row</code> 是序列&nbsp;<code>0...len(row)-1</code>&nbsp;的一个全排列。</li>
 </ol>
 
-**标签:	**[贪心算法](https://leetcode-cn.com/tag/greedy) [并查集](https://leetcode-cn.com/tag/union-find) [图](https://leetcode-cn.com/tag/graph) 
+**标签:**  [贪心算法](https://leetcode-cn.com/tag/greedy) [并查集](https://leetcode-cn.com/tag/union-find) [图](https://leetcode-cn.com/tag/graph) 
  ### 相似题目
 - 困难:	[缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive) 
 - 简单:	[缺失数字](https://leetcode-cn.com/problems/missing-number) 

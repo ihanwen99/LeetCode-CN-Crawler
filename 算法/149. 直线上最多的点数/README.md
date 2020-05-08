@@ -32,6 +32,6 @@
 +-------------------&gt;
 0 &nbsp;1 &nbsp;2 &nbsp;3 &nbsp;4 &nbsp;5 &nbsp;6</pre>
 
-**标签:	**[哈希表](https://leetcode-cn.com/tag/hash-table) [数学](https://leetcode-cn.com/tag/math) 
+**标签:**  [哈希表](https://leetcode-cn.com/tag/hash-table) [数学](https://leetcode-cn.com/tag/math) 
  ### 相似题目
 - 中等:	[直线镜像](https://leetcode-cn.com/problems/line-reflection) 

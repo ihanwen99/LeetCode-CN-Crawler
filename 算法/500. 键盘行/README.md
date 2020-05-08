@@ -24,4 +24,4 @@
 	<li>你可以重复使用键盘上同一字符。</li>
 	<li>你可以假设输入的字符串将只包含字母。</li>
 </ol>
-**标签:	**[哈希表](https://leetcode-cn.com/tag/hash-table) 
+**标签:**  [哈希表](https://leetcode-cn.com/tag/hash-table) 

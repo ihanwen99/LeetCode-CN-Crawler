@@ -27,7 +27,7 @@ The input will be a list of strings, and the output needs to be the length of th
 <li>The length of the given list will be in the range of [2, 50].</li>
 </ol>
 </p>
-**Related Topic	**[String](https://leetcode-cn.com/tag/string) 
+**Related Topic**  [String](https://leetcode-cn.com/tag/string) 
 
 ### Similar Question
  - Easy:	[Longest Uncommon Subsequence I ](https://leetcode-cn.com/problems/longest-uncommon-subsequence-i) 

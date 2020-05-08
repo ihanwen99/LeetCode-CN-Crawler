@@ -52,4 +52,4 @@
 	<li><code>s</code> 仅由小写英文字母和/或数字组成。</li>
 </ul>
 
-**标签:	**[字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [字符串](https://leetcode-cn.com/tag/string) 

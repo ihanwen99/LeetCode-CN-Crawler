@@ -41,4 +41,4 @@
 这是因为第5和第6个石子之间的间距太大，没有可选的方案供青蛙跳跃过去。
 </pre>
 
-**标签:	**[动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 

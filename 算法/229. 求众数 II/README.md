@@ -16,7 +16,7 @@
 <pre><strong>输入:</strong> [1,1,1,3,3,2,2,2]
 <strong>输出:</strong> [1,2]</pre>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) 
  ### 相似题目
 - 简单:	[多数元素](https://leetcode-cn.com/problems/majority-element) 
 - 简单:	[检查一个数是否在数组中占绝大多数](https://leetcode-cn.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array) 

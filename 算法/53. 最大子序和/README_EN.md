@@ -16,7 +16,7 @@
 
 <p>If you have figured out the O(<em>n</em>) solution, try coding another solution using the divide and conquer approach, which is more subtle.</p>
 
-**Related Topics	**[Array](https://leetcode-cn.com/tag/array) [Divide and Conquer](https://leetcode-cn.com/tag/divide-and-conquer) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topics**  [Array](https://leetcode-cn.com/tag/array) [Divide and Conquer](https://leetcode-cn.com/tag/divide-and-conquer) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
 
 ### Similar Questions
  - Easy:	[Best Time to Buy and Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock) 

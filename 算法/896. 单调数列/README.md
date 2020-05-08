@@ -52,4 +52,4 @@
 	<li><code>-100000 &lt;= A[i] &lt;= 100000</code></li>
 </ol>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) 

@@ -48,4 +48,4 @@
 	<li><code>The sum of rods is at most 5000.</code></li>
 </ol>
 
-**Related Topic	**[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topic**  [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 

@@ -30,7 +30,7 @@
 	<li>请<strong>不要</strong>使用内置的库函数 <code>eval</code>。</li>
 </ul>
 
-**标签:	**[字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [字符串](https://leetcode-cn.com/tag/string) 
  ### 相似题目
 - 困难:	[基本计算器](https://leetcode-cn.com/problems/basic-calculator) 
 - 困难:	[给表达式添加运算符](https://leetcode-cn.com/problems/expression-add-operators) 

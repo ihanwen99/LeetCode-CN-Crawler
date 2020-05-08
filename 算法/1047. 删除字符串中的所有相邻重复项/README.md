@@ -27,4 +27,4 @@
 	<li><code>S</code> 仅由小写英文字母组成。</li>
 </ol>
 
-**标签:	**[栈](https://leetcode-cn.com/tag/stack) 
+**标签:**  [栈](https://leetcode-cn.com/tag/stack) 

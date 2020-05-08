@@ -22,7 +22,7 @@
 	<li>你能想出一个仅使用常数空间的一趟扫描算法吗？</li>
 </ul>
 
-**标签:	**[排序](https://leetcode-cn.com/tag/sort) [数组](https://leetcode-cn.com/tag/array) [双指针](https://leetcode-cn.com/tag/two-pointers) 
+**标签:**  [排序](https://leetcode-cn.com/tag/sort) [数组](https://leetcode-cn.com/tag/array) [双指针](https://leetcode-cn.com/tag/two-pointers) 
  ### 相似题目
 - 中等:	[排序链表](https://leetcode-cn.com/problems/sort-list) 
 - 中等:	[摆动排序](https://leetcode-cn.com/problems/wiggle-sort) 

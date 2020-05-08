@@ -33,6 +33,6 @@
 
 <p><strong>提示：</strong>盒子的总数 <code>n</code> 不会超过 100。</p>
 
-**标签:	**[深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
  ### 相似题目
 - 困难:	[奇怪的打印机](https://leetcode-cn.com/problems/strange-printer) 

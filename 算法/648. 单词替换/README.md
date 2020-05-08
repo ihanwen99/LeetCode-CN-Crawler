@@ -28,6 +28,6 @@
 	<li>1 &lt;= 句中词语长度 &lt;= 1000</li>
 </ul>
 
-**标签:	**[字典树](https://leetcode-cn.com/tag/trie) [哈希表](https://leetcode-cn.com/tag/hash-table) 
+**标签:**  [字典树](https://leetcode-cn.com/tag/trie) [哈希表](https://leetcode-cn.com/tag/hash-table) 
  ### 相似题目
 - 中等:	[实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree) 

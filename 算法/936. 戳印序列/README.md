@@ -40,4 +40,4 @@
 	<li><code>stamp</code> 和&nbsp;<code>target</code>&nbsp;只包含小写字母。</li>
 </ol>
 
-**标签:	**[贪心算法](https://leetcode-cn.com/tag/greedy) [字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [贪心算法](https://leetcode-cn.com/tag/greedy) [字符串](https://leetcode-cn.com/tag/string) 

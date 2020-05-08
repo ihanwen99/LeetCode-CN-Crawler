@@ -44,7 +44,7 @@
 = 22
 </pre>
 
-**Related Topic	**[Stack](https://leetcode-cn.com/tag/stack) 
+**Related Topic**  [Stack](https://leetcode-cn.com/tag/stack) 
 
 ### Similar Questions
  - Hard:	[Basic Calculator](https://leetcode-cn.com/problems/basic-calculator) 

@@ -36,4 +36,4 @@ snapshotArr.get(0,0);  // Get the value of array[0] with snap_id = 0, return 5</
 	<li><code>0 &lt;=&nbsp;val &lt;= 10^9</code></li>
 </ul>
 
-**Related Topic	**[Array](https://leetcode-cn.com/tag/array) 
+**Related Topic**  [Array](https://leetcode-cn.com/tag/array) 

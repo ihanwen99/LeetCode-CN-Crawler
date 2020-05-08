@@ -37,6 +37,6 @@
 	<li><code>0 &lt;= heightMap[i][j] &lt;= 20000</code></li>
 </ul>
 
-**标签:	**[堆](https://leetcode-cn.com/tag/heap) [广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search) 
+**标签:**  [堆](https://leetcode-cn.com/tag/heap) [广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search) 
  ### 相似题目
 - 困难:	[接雨水](https://leetcode-cn.com/problems/trapping-rain-water) 

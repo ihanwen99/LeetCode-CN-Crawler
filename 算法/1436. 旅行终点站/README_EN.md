@@ -46,4 +46,4 @@ Clearly the destination city is &quot;A&quot;.
 	<li>All strings&nbsp;consist of lowercase and uppercase English letters and the space character.</li>
 </ul>
 
-**Related Topic	**[String](https://leetcode-cn.com/tag/string) 
+**Related Topic**  [String](https://leetcode-cn.com/tag/string) 

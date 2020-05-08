@@ -30,7 +30,7 @@ Once you pay the cost, you can either climb one or two steps. You need to find m
 <li>Every <code>cost[i]</code> will be an integer in the range <code>[0, 999]</code>.</li>
 </ol>
 </p>
-**Related Topics	**[Array](https://leetcode-cn.com/tag/array) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topics**  [Array](https://leetcode-cn.com/tag/array) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
 
 ### Similar Question
  - Easy:	[Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs) 

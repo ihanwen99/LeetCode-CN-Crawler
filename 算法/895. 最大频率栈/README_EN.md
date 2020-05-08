@@ -56,4 +56,4 @@ The stack becomes [5,7].
 <p>&nbsp;</p>
 </div>
 
-**Related Topics	**[Stack](https://leetcode-cn.com/tag/stack) [Hash Table](https://leetcode-cn.com/tag/hash-table) 
+**Related Topics**  [Stack](https://leetcode-cn.com/tag/stack) [Hash Table](https://leetcode-cn.com/tag/hash-table) 

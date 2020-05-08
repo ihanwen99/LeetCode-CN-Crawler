@@ -24,4 +24,4 @@
 <strong>输出：</strong>9 -&gt; 1 -&gt; 2，即912
 </pre>
 
-**标签:	**[链表](https://leetcode-cn.com/tag/linked-list) [数学](https://leetcode-cn.com/tag/math) 
+**标签:**  [链表](https://leetcode-cn.com/tag/linked-list) [数学](https://leetcode-cn.com/tag/math) 

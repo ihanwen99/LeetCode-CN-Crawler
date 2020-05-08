@@ -52,7 +52,7 @@ formula = &quot;K4(ON(SO3)2)2&quot;
 	<li><code>formula</code>只包含字母、数字和圆括号，并且题目中给定的是合法的化学式。</li>
 </ul>
 
-**标签:	**[栈](https://leetcode-cn.com/tag/stack) [递归](https://leetcode-cn.com/tag/recursion) [哈希表](https://leetcode-cn.com/tag/hash-table) 
+**标签:**  [栈](https://leetcode-cn.com/tag/stack) [递归](https://leetcode-cn.com/tag/recursion) [哈希表](https://leetcode-cn.com/tag/hash-table) 
  ### 相似题目
 - 中等:	[字符串解码](https://leetcode-cn.com/problems/decode-string) 
 - 困难:	[编码最短长度的字符串](https://leetcode-cn.com/problems/encode-string-with-shortest-length) 

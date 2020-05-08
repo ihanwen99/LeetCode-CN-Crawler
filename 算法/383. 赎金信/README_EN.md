@@ -24,7 +24,7 @@
 	<li>You may assume that both strings contain only lowercase letters.</li>
 </ul>
 
-**Related Topic	**[String](https://leetcode-cn.com/tag/string) 
+**Related Topic**  [String](https://leetcode-cn.com/tag/string) 
 
 ### Similar Question
  - Hard:	[Stickers to Spell Word](https://leetcode-cn.com/problems/stickers-to-spell-word) 

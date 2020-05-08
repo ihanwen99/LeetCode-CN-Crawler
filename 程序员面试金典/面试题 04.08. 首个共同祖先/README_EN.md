@@ -37,4 +37,4 @@
 	<li>p, q are different node and both can be found in the given tree.</li>
 </ul>
 
-**Related Topic	**[Tree](https://leetcode-cn.com/tag/tree) 
+**Related Topic**  [Tree](https://leetcode-cn.com/tag/tree) 

@@ -30,4 +30,4 @@
 	<li>请<strong>不要</strong>使用内置的库函数 <code>eval</code>。</li>
 </ul>
 
-**标签:	**[字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [字符串](https://leetcode-cn.com/tag/string) 

@@ -41,4 +41,4 @@ For nums[4]=3 there exist three smaller numbers than it (1, 2 and 2).
 	<li><code>2 &lt;= nums.length &lt;= 500</code></li>
 	<li><code>0 &lt;= nums[i] &lt;= 100</code></li>
 </ul>
-**Related Topics	**[Array](https://leetcode-cn.com/tag/array) [Hash Table](https://leetcode-cn.com/tag/hash-table) 
+**Related Topics**  [Array](https://leetcode-cn.com/tag/array) [Hash Table](https://leetcode-cn.com/tag/hash-table) 

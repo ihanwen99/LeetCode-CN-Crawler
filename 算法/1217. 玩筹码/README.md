@@ -40,4 +40,4 @@
 	<li><code>1 &lt;= chips[i] &lt;= 10^9</code></li>
 </ul>
 
-**标签:	**[贪心算法](https://leetcode-cn.com/tag/greedy) [数组](https://leetcode-cn.com/tag/array) [数学](https://leetcode-cn.com/tag/math) 
+**标签:**  [贪心算法](https://leetcode-cn.com/tag/greedy) [数组](https://leetcode-cn.com/tag/array) [数学](https://leetcode-cn.com/tag/math) 

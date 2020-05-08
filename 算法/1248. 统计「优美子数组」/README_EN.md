@@ -39,4 +39,4 @@
 	<li><code>1 &lt;= k &lt;= nums.length</code></li>
 </ul>
 
-**Related Topic	**[Two Pointers](https://leetcode-cn.com/tag/two-pointers) 
+**Related Topic**  [Two Pointers](https://leetcode-cn.com/tag/two-pointers) 

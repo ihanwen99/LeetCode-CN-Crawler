@@ -20,7 +20,7 @@
 
 <p>Could you optimize your algorithm to use only <em>O</em>(<em>k</em>) extra space?</p>
 
-**Related Topic	**[Array](https://leetcode-cn.com/tag/array) 
+**Related Topic**  [Array](https://leetcode-cn.com/tag/array) 
 
 ### Similar Question
  - Easy:	[Pascal's Triangle](https://leetcode-cn.com/problems/pascals-triangle) 

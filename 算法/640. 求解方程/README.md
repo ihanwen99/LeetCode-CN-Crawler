@@ -40,6 +40,6 @@
 <strong>输出:</strong> &quot;No solution&quot;
 </pre>
 
-**标签:	**[数学](https://leetcode-cn.com/tag/math) 
+**标签:**  [数学](https://leetcode-cn.com/tag/math) 
  ### 相似题目
 - 中等:	[分数加减运算](https://leetcode-cn.com/problems/fraction-addition-and-subtraction) 

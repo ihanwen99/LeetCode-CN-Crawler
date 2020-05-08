@@ -27,7 +27,7 @@ k = 1
 	<li><code>1 &lt;= k &lt;= len(nums) * (len(nums) - 1) / 2</code>.</li>
 </ol>
 
-**标签:	**[堆](https://leetcode-cn.com/tag/heap) [数组](https://leetcode-cn.com/tag/array) [二分查找](https://leetcode-cn.com/tag/binary-search) 
+**标签:**  [堆](https://leetcode-cn.com/tag/heap) [数组](https://leetcode-cn.com/tag/array) [二分查找](https://leetcode-cn.com/tag/binary-search) 
  ### 相似题目
 - 中等:	[查找和最小的K对数字](https://leetcode-cn.com/problems/find-k-pairs-with-smallest-sums) 
 - 中等:	[有序矩阵中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix) 

@@ -68,7 +68,7 @@ Notice each digit has it&#39;s own entry in the array.
 	<li><code>1 &lt;= len(chars) &lt;= 1000</code>.</li>
 </ol>
 
-**Related Topic	**[String](https://leetcode-cn.com/tag/string) 
+**Related Topic**  [String](https://leetcode-cn.com/tag/string) 
 
 ### Similar Questions
  - Easy:	[Count and Say](https://leetcode-cn.com/problems/count-and-say) 

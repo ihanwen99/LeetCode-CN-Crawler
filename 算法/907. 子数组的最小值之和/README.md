@@ -27,4 +27,4 @@
 
 <p>&nbsp;</p>
 
-**标签:	**[栈](https://leetcode-cn.com/tag/stack) [数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [栈](https://leetcode-cn.com/tag/stack) [数组](https://leetcode-cn.com/tag/array) 

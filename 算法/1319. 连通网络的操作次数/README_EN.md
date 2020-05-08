@@ -53,4 +53,4 @@
 	<li>There are no repeated connections.</li>
 	<li>No two computers are connected by more than one cable.</li>
 </ul>
-**Related Topics	**[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) [Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search) [Union Find](https://leetcode-cn.com/tag/union-find) 
+**Related Topics**  [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) [Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search) [Union Find](https://leetcode-cn.com/tag/union-find) 

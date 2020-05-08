@@ -44,4 +44,4 @@
 	<li><code>nums[i]</code> 的值为 <code>0</code> 或 <code>1</code></li>
 </ul>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) 

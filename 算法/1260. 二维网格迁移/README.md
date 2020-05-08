@@ -49,4 +49,4 @@
 	<li><code>0 &lt;= k &lt;= 100</code></li>
 </ul>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) 

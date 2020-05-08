@@ -26,6 +26,6 @@
 <strong>输出:</strong> False
 </pre>
 
-**标签:	**[字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [字符串](https://leetcode-cn.com/tag/string) 
  ### 相似题目
 - 困难:	[学生出勤记录 II](https://leetcode-cn.com/problems/student-attendance-record-ii) 

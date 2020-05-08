@@ -20,7 +20,7 @@
 ]
 </pre>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) [哈希表](https://leetcode-cn.com/tag/hash-table) [双指针](https://leetcode-cn.com/tag/two-pointers) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) [哈希表](https://leetcode-cn.com/tag/hash-table) [双指针](https://leetcode-cn.com/tag/two-pointers) 
  ### 相似题目
 - 简单:	[两数之和](https://leetcode-cn.com/problems/two-sum) 
 - 中等:	[三数之和](https://leetcode-cn.com/problems/3sum) 

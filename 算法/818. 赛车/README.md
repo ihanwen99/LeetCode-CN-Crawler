@@ -38,4 +38,4 @@ target = 6
 	<li><code>1 &lt;= target（目标位置） &lt;= 10000</code>。</li>
 </ul>
 
-**标签:	**[堆](https://leetcode-cn.com/tag/heap) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [堆](https://leetcode-cn.com/tag/heap) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 

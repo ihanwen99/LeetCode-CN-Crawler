@@ -16,4 +16,4 @@
 
 <p>k is always valid.</p>
 
-**Related Topics	**[Linked List](https://leetcode-cn.com/tag/linked-list) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) 
+**Related Topics**  [Linked List](https://leetcode-cn.com/tag/linked-list) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) 

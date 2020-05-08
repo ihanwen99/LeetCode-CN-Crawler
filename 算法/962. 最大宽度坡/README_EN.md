@@ -45,4 +45,4 @@ The maximum width ramp is achieved at (i, j) = (2, 9): A[2] = 1 and A[9] = 1.
 <div>&nbsp;</div>
 </div>
 
-**Related Topic	**[Array](https://leetcode-cn.com/tag/array) 
+**Related Topic**  [Array](https://leetcode-cn.com/tag/array) 

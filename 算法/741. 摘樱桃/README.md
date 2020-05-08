@@ -42,7 +42,7 @@
 	<li>可以保证起点&nbsp;<code>grid[0][0]</code>&nbsp;和终点&nbsp;<code>grid[N-1][N-1]</code>&nbsp;的值都不会是 -1。</li>
 </ul>
 
-**标签:	**[动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
  ### 相似题目
 - 中等:	[最小路径和](https://leetcode-cn.com/problems/minimum-path-sum) 
 - 困难:	[地下城游戏](https://leetcode-cn.com/problems/dungeon-game) 

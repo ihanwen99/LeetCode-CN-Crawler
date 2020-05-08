@@ -44,4 +44,4 @@
 	<li>返回的结果不应包含不必要的前导零。</li>
 </ul>
 
-**标签:	**[数学](https://leetcode-cn.com/tag/math) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [数学](https://leetcode-cn.com/tag/math) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 

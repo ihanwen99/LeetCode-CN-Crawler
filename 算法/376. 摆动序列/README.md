@@ -29,4 +29,4 @@
 <p><strong>进阶:</strong><br>
 你能否用&nbsp;O(<em>n</em>) 时间复杂度完成此题?</p>
 
-**标签:	**[贪心算法](https://leetcode-cn.com/tag/greedy) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [贪心算法](https://leetcode-cn.com/tag/greedy) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 

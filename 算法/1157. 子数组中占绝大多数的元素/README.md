@@ -38,4 +38,4 @@ majorityChecker.query(2,3,2); // 返回 2
 	<li>查询次数最多为 <code>10000</code></li>
 </ul>
 
-**标签:	**[线段树](https://leetcode-cn.com/tag/segment-tree) [数组](https://leetcode-cn.com/tag/array) [二分查找](https://leetcode-cn.com/tag/binary-search) 
+**标签:**  [线段树](https://leetcode-cn.com/tag/segment-tree) [数组](https://leetcode-cn.com/tag/array) [二分查找](https://leetcode-cn.com/tag/binary-search) 

@@ -53,4 +53,4 @@ C -&gt; 2
 	<li>如果&nbsp;<code>friends[i]</code> 包含&nbsp;<code>j</code>&nbsp;，那么&nbsp;<code>friends[j]</code> 包含&nbsp;<code>i</code></li>
 </ul>
 
-**标签:	**[广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search) [哈希表](https://leetcode-cn.com/tag/hash-table) [字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search) [哈希表](https://leetcode-cn.com/tag/hash-table) [字符串](https://leetcode-cn.com/tag/string) 

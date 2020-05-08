@@ -43,4 +43,4 @@ and two 2s from [2,2,2,2] in 6 ways.
 	<li><code>0 &lt;= A[i] &lt;= 100</code></li>
 	<li><code>0 &lt;= target &lt;= 300</code></li>
 </ol>
-**Related Topic	**[Two Pointers](https://leetcode-cn.com/tag/two-pointers) 
+**Related Topic**  [Two Pointers](https://leetcode-cn.com/tag/two-pointers) 

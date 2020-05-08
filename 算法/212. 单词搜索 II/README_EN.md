@@ -32,7 +32,7 @@
 	<li>The values of&nbsp;<code>words</code> are distinct.</li>
 </ol>
 
-**Related Topics	**[Trie](https://leetcode-cn.com/tag/trie) [Backtracking](https://leetcode-cn.com/tag/backtracking) 
+**Related Topics**  [Trie](https://leetcode-cn.com/tag/trie) [Backtracking](https://leetcode-cn.com/tag/backtracking) 
 
 ### Similar Questions
  - Medium:	[Word Search](https://leetcode-cn.com/problems/word-search) 

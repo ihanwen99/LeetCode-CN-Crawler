@@ -43,4 +43,4 @@ We have the maximum performance of the team by selecting engineer 2 (with speed=
 	<li><code>1 &lt;= efficiency[i] &lt;= 10^8</code></li>
 	<li><code>1 &lt;= k &lt;= n</code></li>
 </ul>
-**Related Topics	**[Greedy](https://leetcode-cn.com/tag/greedy) [Sort](https://leetcode-cn.com/tag/sort) 
+**Related Topics**  [Greedy](https://leetcode-cn.com/tag/greedy) [Sort](https://leetcode-cn.com/tag/sort) 

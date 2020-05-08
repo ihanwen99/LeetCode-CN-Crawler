@@ -37,6 +37,6 @@
 &nbsp;    因此，当 <em>n</em> = 0 时，其格雷编码序列为 [0]。</code>
 </pre>
 
-**标签:	**[回溯算法](https://leetcode-cn.com/tag/backtracking) 
+**标签:**  [回溯算法](https://leetcode-cn.com/tag/backtracking) 
  ### 相似题目
 - 简单:	[1比特与2比特字符](https://leetcode-cn.com/problems/1-bit-and-2-bit-characters) 

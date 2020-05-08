@@ -32,7 +32,7 @@ There are 5 ways to assign symbols to make the sum of nums be target 3.
 <li>Your output answer is guaranteed to be fitted in a 32-bit integer.</li>
 </ol>
 </p>
-**Related Topics	**[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topics**  [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
 
 ### Similar Question
  - Hard:	[Expression Add Operators](https://leetcode-cn.com/problems/expression-add-operators) 

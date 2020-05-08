@@ -50,4 +50,4 @@
 	<li>解码后的字符串保证少于&nbsp;<code>2^63</code>&nbsp;个字母。</li>
 </ol>
 
-**标签:	**[栈](https://leetcode-cn.com/tag/stack) 
+**标签:**  [栈](https://leetcode-cn.com/tag/stack) 

@@ -44,6 +44,6 @@
 
 <p>&nbsp;</p>
 
-**标签:	**[树](https://leetcode-cn.com/tag/tree) [广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search) 
+**标签:**  [树](https://leetcode-cn.com/tag/tree) [广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search) 
  ### 相似题目
 - 中等:	[二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal) 

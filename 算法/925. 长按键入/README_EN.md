@@ -47,4 +47,4 @@
 	<li>The characters of <code>name</code> and <code>typed</code> are lowercase letters.</li>
 </ul>
 
-**Related Topics	**[Two Pointers](https://leetcode-cn.com/tag/two-pointers) [String](https://leetcode-cn.com/tag/string) 
+**Related Topics**  [Two Pointers](https://leetcode-cn.com/tag/two-pointers) [String](https://leetcode-cn.com/tag/string) 

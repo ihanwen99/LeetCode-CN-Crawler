@@ -19,7 +19,7 @@
 	<li>输入数组的长度是正整数，且不超过 10,000。</li>
 </ul>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) 
  ### 相似题目
 - 中等:	[最大连续1的个数 II](https://leetcode-cn.com/problems/max-consecutive-ones-ii) 
 - 中等:	[最大连续1的个数 III](https://leetcode-cn.com/problems/max-consecutive-ones-iii) 

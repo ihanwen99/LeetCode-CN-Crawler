@@ -62,6 +62,6 @@
 
 <p>&nbsp;</p>
 
-**标签:	**[动态规划](https://leetcode-cn.com/tag/dynamic-programming) [回溯算法](https://leetcode-cn.com/tag/backtracking) 
+**标签:**  [动态规划](https://leetcode-cn.com/tag/dynamic-programming) [回溯算法](https://leetcode-cn.com/tag/backtracking) 
  ### 相似题目
 - 简单:	[赎金信](https://leetcode-cn.com/problems/ransom-note) 

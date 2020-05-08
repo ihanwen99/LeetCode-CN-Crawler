@@ -20,7 +20,7 @@ call isBadVersion(4)&nbsp;-&gt; true
 Then 4 is the first bad version.&nbsp;</code>
 </pre>
 
-**Related Topic	**[Binary Search](https://leetcode-cn.com/tag/binary-search) 
+**Related Topic**  [Binary Search](https://leetcode-cn.com/tag/binary-search) 
 
 ### Similar Questions
  - Medium:	[Find First and Last Position of Element in Sorted Array](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array) 

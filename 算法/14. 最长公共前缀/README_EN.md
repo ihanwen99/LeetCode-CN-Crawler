@@ -25,4 +25,4 @@
 
 <p>All given inputs are in lowercase letters <code>a-z</code>.</p>
 
-**Related Topic	**[String](https://leetcode-cn.com/tag/string) 
+**Related Topic**  [String](https://leetcode-cn.com/tag/string) 

@@ -23,6 +23,6 @@
 	<li>结果误差值在&nbsp;<code>10^-6</code>&nbsp;以内都认为是正确答案。</li>
 </ul>
 
-**标签:	**[数学](https://leetcode-cn.com/tag/math) 
+**标签:**  [数学](https://leetcode-cn.com/tag/math) 
  ### 相似题目
 - 简单:	[三角形的最大周长](https://leetcode-cn.com/problems/largest-perimeter-triangle) 

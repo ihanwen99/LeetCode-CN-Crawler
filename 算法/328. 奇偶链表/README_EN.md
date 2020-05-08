@@ -27,7 +27,7 @@
 	<li>The first node is considered odd, the second node even and so on ...</li>
 </ul>
 
-**Related Topic	**[Linked List](https://leetcode-cn.com/tag/linked-list) 
+**Related Topic**  [Linked List](https://leetcode-cn.com/tag/linked-list) 
 
 ### Similar Question
  - Medium:	[Split Linked List in Parts](https://leetcode-cn.com/problems/split-linked-list-in-parts) 

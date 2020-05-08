@@ -16,7 +16,7 @@
 	<li>You must do this <b>in-place</b> without making a copy of the array.</li>
 	<li>Minimize the total number of operations.</li>
 </ol>
-**Related Topics	**[Array](https://leetcode-cn.com/tag/array) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) 
+**Related Topics**  [Array](https://leetcode-cn.com/tag/array) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) 
 
 ### Similar Question
  - Easy:	[Remove Element](https://leetcode-cn.com/problems/remove-element) 

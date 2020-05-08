@@ -17,7 +17,7 @@
 <strong>输出:</strong> [[1,5]]
 <strong>解释:</strong> 区间 [1,4] 和 [4,5] 可被视为重叠区间。</pre>
 
-**标签:	**[排序](https://leetcode-cn.com/tag/sort) [数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [排序](https://leetcode-cn.com/tag/sort) [数组](https://leetcode-cn.com/tag/array) 
  ### 相似题目
 - 困难:	[插入区间](https://leetcode-cn.com/problems/insert-interval) 
 - 简单:	[会议室](https://leetcode-cn.com/problems/meeting-rooms) 

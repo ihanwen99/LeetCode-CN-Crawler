@@ -29,4 +29,4 @@
 
 <p><strong>注意</strong>：本题与主站 105 题重复：<a href="https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/">https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/</a></p>
 
-**标签:	**[树](https://leetcode-cn.com/tag/tree) [递归](https://leetcode-cn.com/tag/recursion) 
+**标签:**  [树](https://leetcode-cn.com/tag/tree) [递归](https://leetcode-cn.com/tag/recursion) 

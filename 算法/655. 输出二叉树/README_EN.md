@@ -62,4 +62,4 @@
 <p><b>Note:</b>
 The height of binary tree is in the range of [1, 10].
 </p>
-**Related Topic	**[Tree](https://leetcode-cn.com/tag/tree) 
+**Related Topic**  [Tree](https://leetcode-cn.com/tag/tree) 

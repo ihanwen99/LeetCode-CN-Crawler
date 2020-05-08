@@ -51,4 +51,4 @@ Remove palindromic subsequence &quot;baab&quot; then &quot;b&quot;.
 	<li><code>0 &lt;= s.length &lt;= 1000</code></li>
 	<li><code>s</code> only consists of letters &#39;a&#39; and &#39;b&#39;</li>
 </ul>
-**Related Topic	**[String](https://leetcode-cn.com/tag/string) 
+**Related Topic**  [String](https://leetcode-cn.com/tag/string) 

@@ -32,6 +32,6 @@
 <strong>说明:</strong> 最小的值是 2, 但是不存在第二小的值。
 </pre>
 
-**标签:	**[树](https://leetcode-cn.com/tag/tree) 
+**标签:**  [树](https://leetcode-cn.com/tag/tree) 
  ### 相似题目
 - 中等:	[二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst) 

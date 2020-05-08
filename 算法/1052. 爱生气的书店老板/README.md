@@ -30,4 +30,4 @@
 	<li><code>0 &lt;=&nbsp;grumpy[i] &lt;= 1</code></li>
 </ul>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) [None](https://leetcode-cn.com/tag/sliding-window) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) [None](https://leetcode-cn.com/tag/sliding-window) 

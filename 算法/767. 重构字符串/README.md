@@ -26,7 +26,7 @@
 	<li><code>S</code> 只包含小写字母并且长度在<code>[1, 500]</code>区间内。</li>
 </ul>
 
-**标签:	**[堆](https://leetcode-cn.com/tag/heap) [贪心算法](https://leetcode-cn.com/tag/greedy) [排序](https://leetcode-cn.com/tag/sort) [字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [堆](https://leetcode-cn.com/tag/heap) [贪心算法](https://leetcode-cn.com/tag/greedy) [排序](https://leetcode-cn.com/tag/sort) [字符串](https://leetcode-cn.com/tag/string) 
  ### 相似题目
 - 困难:	[K 距离间隔重排字符串](https://leetcode-cn.com/problems/rearrange-string-k-distance-apart) 
 - 中等:	[任务调度器](https://leetcode-cn.com/problems/task-scheduler) 

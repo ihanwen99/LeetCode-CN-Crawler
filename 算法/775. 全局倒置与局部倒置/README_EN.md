@@ -34,4 +34,4 @@
 	<li>The time limit for this problem has been reduced.</li>
 </ul>
 
-**Related Topics	**[Array](https://leetcode-cn.com/tag/array) [Math](https://leetcode-cn.com/tag/math) 
+**Related Topics**  [Array](https://leetcode-cn.com/tag/array) [Math](https://leetcode-cn.com/tag/math) 

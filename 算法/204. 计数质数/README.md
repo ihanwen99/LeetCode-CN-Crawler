@@ -11,7 +11,7 @@
 <strong>解释:</strong> 小于 10 的质数一共有 4 个, 它们是 2, 3, 5, 7 。
 </pre>
 
-**标签:	**[哈希表](https://leetcode-cn.com/tag/hash-table) [数学](https://leetcode-cn.com/tag/math) 
+**标签:**  [哈希表](https://leetcode-cn.com/tag/hash-table) [数学](https://leetcode-cn.com/tag/math) 
  ### 相似题目
 - 简单:	[丑数](https://leetcode-cn.com/problems/ugly-number) 
 - 中等:	[丑数 II](https://leetcode-cn.com/problems/ugly-number-ii) 

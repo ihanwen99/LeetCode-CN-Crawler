@@ -29,7 +29,7 @@ Output: 1
 
 <p>Your algorithm should run in <em>O</em>(<em>n</em>) time and uses constant extra space.</p>
 
-**Related Topic	**[Array](https://leetcode-cn.com/tag/array) 
+**Related Topic**  [Array](https://leetcode-cn.com/tag/array) 
 
 ### Similar Questions
  - Easy:	[Missing Number](https://leetcode-cn.com/problems/missing-number) 

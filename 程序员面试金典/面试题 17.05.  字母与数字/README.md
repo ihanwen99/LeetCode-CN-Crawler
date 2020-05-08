@@ -26,4 +26,4 @@
 	<li><code>array.length &lt;= 100000</code></li>
 </ul>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) 

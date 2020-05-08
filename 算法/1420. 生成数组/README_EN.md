@@ -62,4 +62,4 @@
 	<li><code>1 &lt;= m &lt;= 100</code></li>
 	<li><code>0 &lt;= k &lt;= n</code></li>
 </ul>
-**Related Topic	**[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topic**  [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 

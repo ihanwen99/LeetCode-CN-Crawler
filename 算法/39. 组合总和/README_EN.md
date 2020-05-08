@@ -36,7 +36,7 @@
 ]
 </pre>
 
-**Related Topics	**[Array](https://leetcode-cn.com/tag/array) [Backtracking](https://leetcode-cn.com/tag/backtracking) 
+**Related Topics**  [Array](https://leetcode-cn.com/tag/array) [Backtracking](https://leetcode-cn.com/tag/backtracking) 
 
 ### Similar Questions
  - Medium:	[Letter Combinations of a Phone Number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number) 

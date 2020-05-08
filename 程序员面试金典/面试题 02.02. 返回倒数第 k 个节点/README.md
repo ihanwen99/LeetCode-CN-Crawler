@@ -15,4 +15,4 @@
 
 <p>给定的 <em>k</em>&nbsp;保证是有效的。</p>
 
-**标签:	**[链表](https://leetcode-cn.com/tag/linked-list) [双指针](https://leetcode-cn.com/tag/two-pointers) 
+**标签:**  [链表](https://leetcode-cn.com/tag/linked-list) [双指针](https://leetcode-cn.com/tag/two-pointers) 

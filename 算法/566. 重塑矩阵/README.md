@@ -46,4 +46,4 @@ r = 2, c = 4
 	<li>给定的 r 和 c 都是正数。</li>
 </ol>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) 

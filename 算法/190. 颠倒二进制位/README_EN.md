@@ -36,7 +36,7 @@
 
 <p>If this function is called many times, how would you optimize it?</p>
 
-**Related Topic	**[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) 
+**Related Topic**  [Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) 
 
 ### Similar Questions
  - Easy:	[Reverse Integer](https://leetcode-cn.com/problems/reverse-integer) 

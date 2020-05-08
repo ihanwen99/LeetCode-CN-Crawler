@@ -23,7 +23,7 @@
 	<li>The n<sup>th</sup> super ugly number is guaranteed to fit in a 32-bit signed integer.</li>
 </ul>
 
-**Related Topics	**[Heap](https://leetcode-cn.com/tag/heap) [Math](https://leetcode-cn.com/tag/math) 
+**Related Topics**  [Heap](https://leetcode-cn.com/tag/heap) [Math](https://leetcode-cn.com/tag/math) 
 
 ### Similar Question
  - Medium:	[Ugly Number II](https://leetcode-cn.com/problems/ugly-number-ii) 

@@ -45,4 +45,4 @@
 	<li><code>nums.length &lt;=&nbsp;threshold &lt;= 10^6</code></li>
 </ul>
 
-**标签:	**[二分查找](https://leetcode-cn.com/tag/binary-search) 
+**标签:**  [二分查找](https://leetcode-cn.com/tag/binary-search) 

@@ -24,4 +24,4 @@
 <li><code>num</code>的范围在[0, 2^30 - 1]之间，不会发生整数溢出。</li>
 </ol>
 
-**标签:	**[位运算](https://leetcode-cn.com/tag/bit-manipulation) 
+**标签:**  [位运算](https://leetcode-cn.com/tag/bit-manipulation) 

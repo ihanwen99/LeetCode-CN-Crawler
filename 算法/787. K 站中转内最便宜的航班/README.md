@@ -45,6 +45,6 @@ src = 0, dst = 2, k = 0
 	<li>航班没有重复，且不存在环路</li>
 </ul>
 
-**标签:	**[堆](https://leetcode-cn.com/tag/heap) [广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [堆](https://leetcode-cn.com/tag/heap) [广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
  ### 相似题目
 - 困难:	[最大休假天数](https://leetcode-cn.com/problems/maximum-vacation-days) 

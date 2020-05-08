@@ -20,7 +20,7 @@ Solution solution = new Solution(head);
 solution.getRandom();
 </pre>
 </p>
-**Related Topic	**[Reservoir Sampling](https://leetcode-cn.com/tag/reservoir-sampling) 
+**Related Topic**  [Reservoir Sampling](https://leetcode-cn.com/tag/reservoir-sampling) 
 
 ### Similar Question
  - Medium:	[Random Pick Index](https://leetcode-cn.com/problems/random-pick-index) 

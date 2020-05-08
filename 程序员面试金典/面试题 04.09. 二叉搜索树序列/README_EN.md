@@ -22,4 +22,4 @@ Given the following tree:</p>
 ]
 </pre>
 
-**Related Topics	**[Tree](https://leetcode-cn.com/tag/tree) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topics**  [Tree](https://leetcode-cn.com/tag/tree) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 

@@ -26,7 +26,7 @@ We could return these lists in any order, for example the answer [['Mary', 'mary
 <li>The length of <code>accounts[i]</code> will be in the range <code>[1, 10]</code>.</li>
 <li>The length of <code>accounts[i][j]</code> will be in the range <code>[1, 30]</code>.</li>
 </p>
-**Related Topics	**[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) [Union Find](https://leetcode-cn.com/tag/union-find) 
+**Related Topics**  [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) [Union Find](https://leetcode-cn.com/tag/union-find) 
 
 ### Similar Questions
  - Medium:	[Redundant Connection](https://leetcode-cn.com/problems/redundant-connection) 

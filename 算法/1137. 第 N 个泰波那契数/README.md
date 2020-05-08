@@ -34,6 +34,6 @@ T_4 = 1 + 1 + 2 = 4
 	<li>答案保证是一个 32 位整数，即&nbsp;<code>answer &lt;= 2^31 - 1</code>。</li>
 </ul>
 
-**标签:	**[递归](https://leetcode-cn.com/tag/recursion) 
+**标签:**  [递归](https://leetcode-cn.com/tag/recursion) 
  ### 相似题目
 - 简单:	[爬楼梯](https://leetcode-cn.com/problems/climbing-stairs) 

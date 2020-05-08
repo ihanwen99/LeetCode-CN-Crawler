@@ -69,4 +69,4 @@ If we started at the first tree, we would only collect [0, 1].</span>
 	<li><code>0 &lt;= tree[i] &lt; tree.length</code></li>
 </ol>
 
-**Related Topic	**[Two Pointers](https://leetcode-cn.com/tag/two-pointers) 
+**Related Topic**  [Two Pointers](https://leetcode-cn.com/tag/two-pointers) 

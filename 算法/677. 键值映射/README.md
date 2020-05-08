@@ -16,4 +16,4 @@
 输入: sum(&quot;ap&quot;), 输出: 5
 </pre>
 
-**标签:	**[字典树](https://leetcode-cn.com/tag/trie) 
+**标签:**  [字典树](https://leetcode-cn.com/tag/trie) 

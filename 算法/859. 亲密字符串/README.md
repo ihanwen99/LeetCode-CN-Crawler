@@ -46,4 +46,4 @@
 	<li><code>A</code>&nbsp;和&nbsp;<code>B</code>&nbsp;仅由小写字母构成。</li>
 </ol>
 
-**标签:	**[字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [字符串](https://leetcode-cn.com/tag/string) 

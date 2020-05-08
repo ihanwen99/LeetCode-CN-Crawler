@@ -55,4 +55,4 @@
 	<li><code>0 &lt;= arr[i] &lt;= 10^4</code></li>
 </ul>
 
-**标签:	**[排序](https://leetcode-cn.com/tag/sort) [位运算](https://leetcode-cn.com/tag/bit-manipulation) 
+**标签:**  [排序](https://leetcode-cn.com/tag/sort) [位运算](https://leetcode-cn.com/tag/bit-manipulation) 

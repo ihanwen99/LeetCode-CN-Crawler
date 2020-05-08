@@ -41,4 +41,4 @@
 	<li><code>1 &lt;= k &lt;= s.length &lt;= 100</code>.</li>
 	<li><code>s</code>&nbsp;only contains lowercase English letters.</li>
 </ul>
-**Related Topic	**[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topic**  [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 

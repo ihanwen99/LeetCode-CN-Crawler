@@ -29,7 +29,7 @@ Both "apply" and "apple" can be built from other words in the dictionary. Howeve
 <li>The length of <code>words</code> will be in the range <code>[1, 1000]</code>.</li>
 <li>The length of <code>words[i]</code> will be in the range <code>[1, 30]</code>.</li>
 </p>
-**Related Topics	**[Trie](https://leetcode-cn.com/tag/trie) [Hash Table](https://leetcode-cn.com/tag/hash-table) 
+**Related Topics**  [Trie](https://leetcode-cn.com/tag/trie) [Hash Table](https://leetcode-cn.com/tag/hash-table) 
 
 ### Similar Questions
  - Medium:	[Longest Word in Dictionary through Deleting](https://leetcode-cn.com/problems/longest-word-in-dictionary-through-deleting) 

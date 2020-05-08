@@ -30,7 +30,7 @@
 <p><b>Note:</b><br />
 You may assume both <b><i>s&nbsp;</i></b>and <b><i>t&nbsp;</i></b>have the same length.</p>
 
-**Related Topic	**[Hash Table](https://leetcode-cn.com/tag/hash-table) 
+**Related Topic**  [Hash Table](https://leetcode-cn.com/tag/hash-table) 
 
 ### Similar Question
  - Easy:	[Word Pattern](https://leetcode-cn.com/problems/word-pattern) 

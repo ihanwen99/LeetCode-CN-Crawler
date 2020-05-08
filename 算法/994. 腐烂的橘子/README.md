@@ -48,6 +48,6 @@
 	<li><code>grid[i][j]</code> 仅为&nbsp;<code>0</code>、<code>1</code>&nbsp;或&nbsp;<code>2</code></li>
 </ol>
 
-**标签:	**[广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search) 
+**标签:**  [广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search) 
  ### 相似题目
 - 中等:	[墙与门](https://leetcode-cn.com/problems/walls-and-gates) 

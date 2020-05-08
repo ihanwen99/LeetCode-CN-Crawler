@@ -35,4 +35,4 @@
 	<li><code>coordinates</code>&nbsp;contains no duplicate point.</li>
 </ul>
 
-**Related Topics	**[Geometry](https://leetcode-cn.com/tag/geometry) [Array](https://leetcode-cn.com/tag/array) [Math](https://leetcode-cn.com/tag/math) 
+**Related Topics**  [Geometry](https://leetcode-cn.com/tag/geometry) [Array](https://leetcode-cn.com/tag/array) [Math](https://leetcode-cn.com/tag/math) 

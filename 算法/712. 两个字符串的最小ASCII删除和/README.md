@@ -32,7 +32,7 @@
 	<li>所有字符串中的字符ASCII值在<code>[97, 122]</code>之间。</li>
 </ul>
 
-**标签:	**[动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
  ### 相似题目
 - 困难:	[编辑距离](https://leetcode-cn.com/problems/edit-distance) 
 - 中等:	[最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence) 

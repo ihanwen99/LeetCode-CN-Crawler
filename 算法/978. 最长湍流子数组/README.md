@@ -43,6 +43,6 @@
 	<li><code>0 &lt;= A[i] &lt;= 10^9</code></li>
 </ol>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) [None](https://leetcode-cn.com/tag/sliding-window) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) [None](https://leetcode-cn.com/tag/sliding-window) 
  ### 相似题目
 - 简单:	[最大子序和](https://leetcode-cn.com/problems/maximum-subarray) 

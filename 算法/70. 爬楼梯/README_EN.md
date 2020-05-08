@@ -29,7 +29,7 @@
 3. 2 steps + 1 step
 </pre>
 
-**Related Topic	**[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topic**  [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
 
 ### Similar Questions
  - Easy:	[Min Cost Climbing Stairs](https://leetcode-cn.com/problems/min-cost-climbing-stairs) 

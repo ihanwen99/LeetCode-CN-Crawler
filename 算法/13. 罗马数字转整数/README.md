@@ -53,6 +53,6 @@ M             1000</pre>
 <strong>输出:</strong> 1994
 <strong>解释:</strong> M = 1000, CM = 900, XC = 90, IV = 4.</pre>
 
-**标签:	**[数学](https://leetcode-cn.com/tag/math) [字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [数学](https://leetcode-cn.com/tag/math) [字符串](https://leetcode-cn.com/tag/string) 
  ### 相似题目
 - 中等:	[整数转罗马数字](https://leetcode-cn.com/problems/integer-to-roman) 

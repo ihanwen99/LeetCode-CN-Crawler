@@ -41,4 +41,4 @@
 </ol>
 </div>
 
-**Related Topics	**[Heap](https://leetcode-cn.com/tag/heap) [Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search) 
+**Related Topics**  [Heap](https://leetcode-cn.com/tag/heap) [Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search) 

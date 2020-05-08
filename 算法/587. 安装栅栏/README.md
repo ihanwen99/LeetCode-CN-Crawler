@@ -34,4 +34,4 @@
 	<li>所有树的坐标都是不同的。</li>
 	<li>输入的点<strong>没有</strong>顺序。输出顺序也没有要求。</li>
 </ol>
-**标签:	**[几何](https://leetcode-cn.com/tag/geometry) 
+**标签:**  [几何](https://leetcode-cn.com/tag/geometry) 

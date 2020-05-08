@@ -43,4 +43,4 @@ In the second move, we move the 3rd character (&quot;c&quot;) to the end, obtain
 </div>
 </div>
 
-**Related Topics	**[Math](https://leetcode-cn.com/tag/math) [String](https://leetcode-cn.com/tag/string) 
+**Related Topics**  [Math](https://leetcode-cn.com/tag/math) [String](https://leetcode-cn.com/tag/string) 

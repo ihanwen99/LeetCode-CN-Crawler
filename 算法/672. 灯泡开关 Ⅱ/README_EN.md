@@ -47,7 +47,7 @@
 
 <p><b>Note:</b> <code>n</code> and <code>m</code> both fit in range [0, 1000].</p>
 
-**Related Topic	**[Math](https://leetcode-cn.com/tag/math) 
+**Related Topic**  [Math](https://leetcode-cn.com/tag/math) 
 
 ### Similar Question
  - Medium:	[Bulb Switcher](https://leetcode-cn.com/problems/bulb-switcher) 

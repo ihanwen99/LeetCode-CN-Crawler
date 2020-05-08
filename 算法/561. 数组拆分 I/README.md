@@ -20,4 +20,4 @@
 	<li>数组中的元素范围在 [-10000, 10000].</li>
 </ol>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) 

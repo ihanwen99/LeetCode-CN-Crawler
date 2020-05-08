@@ -41,7 +41,7 @@ Return an edge that can be removed so that the resulting graph is a tree of N no
 <b><font color="red">Update (2017-09-26):</font></b><br>
 We have overhauled the problem description + test cases and specified clearly the graph is an <b><i>undirected</i></b> graph. For the <b><i>directed</i></b> graph follow up please see <b><a href="https://leetcode.com/problems/redundant-connection-ii/description/">Redundant Connection II</a></b>). We apologize for any inconvenience caused.
 </p>
-**Related Topics	**[Tree](https://leetcode-cn.com/tag/tree) [Union Find](https://leetcode-cn.com/tag/union-find) [Graph](https://leetcode-cn.com/tag/graph) 
+**Related Topics**  [Tree](https://leetcode-cn.com/tag/tree) [Union Find](https://leetcode-cn.com/tag/union-find) [Graph](https://leetcode-cn.com/tag/graph) 
 
 ### Similar Questions
  - Hard:	[Redundant Connection II](https://leetcode-cn.com/problems/redundant-connection-ii) 

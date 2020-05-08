@@ -62,4 +62,4 @@ Opening Only the second tap will water the whole garden [0,5]
 	<li><code>ranges.length == n + 1</code></li>
 	<li><code>0 &lt;= ranges[i] &lt;= 100</code></li>
 </ul>
-**Related Topics	**[Greedy](https://leetcode-cn.com/tag/greedy) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topics**  [Greedy](https://leetcode-cn.com/tag/greedy) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 

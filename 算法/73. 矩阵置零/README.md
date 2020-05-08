@@ -43,6 +43,6 @@
 	<li>你能想出一个常数空间的解决方案吗？</li>
 </ul>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) 
  ### 相似题目
 - 中等:	[生命游戏](https://leetcode-cn.com/problems/game-of-life) 

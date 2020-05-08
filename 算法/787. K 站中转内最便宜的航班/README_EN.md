@@ -41,7 +41,7 @@ The cheapest price from city <code>0</code> to city <code>2</code> with at most 
 	<li>There&nbsp;will&nbsp;not&nbsp;be&nbsp;any&nbsp;duplicated&nbsp;flights or&nbsp;self&nbsp;cycles.</li>
 </ul>
 
-**Related Topics	**[Heap](https://leetcode-cn.com/tag/heap) [Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topics**  [Heap](https://leetcode-cn.com/tag/heap) [Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
 
 ### Similar Question
  - Hard:	[Maximum Vacation Days](https://leetcode-cn.com/problems/maximum-vacation-days) 

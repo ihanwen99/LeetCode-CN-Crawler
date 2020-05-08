@@ -21,7 +21,7 @@
 ]
 </pre>
 
-**Related Topics	**[Array](https://leetcode-cn.com/tag/array) [Backtracking](https://leetcode-cn.com/tag/backtracking) 
+**Related Topics**  [Array](https://leetcode-cn.com/tag/array) [Backtracking](https://leetcode-cn.com/tag/backtracking) 
 
 ### Similar Question
  - Medium:	[Subsets](https://leetcode-cn.com/problems/subsets) 

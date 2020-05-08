@@ -23,7 +23,7 @@ return 13.
 
 <p><b>Note: </b><br>
 You may assume k is always valid, 1 &le; k &le; n<sup>2</sup>.</p>
-**Related Topics	**[Heap](https://leetcode-cn.com/tag/heap) [Binary Search](https://leetcode-cn.com/tag/binary-search) 
+**Related Topics**  [Heap](https://leetcode-cn.com/tag/heap) [Binary Search](https://leetcode-cn.com/tag/binary-search) 
 
 ### Similar Questions
  - Medium:	[Find K Pairs with Smallest Sums](https://leetcode-cn.com/problems/find-k-pairs-with-smallest-sums) 

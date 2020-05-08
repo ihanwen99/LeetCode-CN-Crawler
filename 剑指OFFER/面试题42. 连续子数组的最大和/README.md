@@ -27,4 +27,4 @@
 
 <p>&nbsp;</p>
 
-**标签:	**[分治算法](https://leetcode-cn.com/tag/divide-and-conquer) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [分治算法](https://leetcode-cn.com/tag/divide-and-conquer) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 

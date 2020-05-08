@@ -59,4 +59,4 @@ The difficulty of the schedule = 6 + 1 = 7
 	<li><code>0 &lt;=&nbsp;jobDifficulty[i] &lt;= 1000</code></li>
 	<li><code>1 &lt;= d &lt;= 10</code></li>
 </ul>
-**Related Topic	**[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topic**  [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 

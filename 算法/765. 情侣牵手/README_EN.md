@@ -27,7 +27,7 @@ The couples' initial seating is given by <code>row[i]</code> being the value of 
 <li> <code>len(row)</code> is even and in the range of <code>[4, 60]</code>.</li>
 <li> <code>row</code> is guaranteed to be a permutation of <code>0...len(row)-1</code>.</li>
 </ol>
-**Related Topics	**[Greedy](https://leetcode-cn.com/tag/greedy) [Union Find](https://leetcode-cn.com/tag/union-find) [Graph](https://leetcode-cn.com/tag/graph) 
+**Related Topics**  [Greedy](https://leetcode-cn.com/tag/greedy) [Union Find](https://leetcode-cn.com/tag/union-find) [Graph](https://leetcode-cn.com/tag/graph) 
 
 ### Similar Questions
  - Hard:	[First Missing Positive](https://leetcode-cn.com/problems/first-missing-positive) 

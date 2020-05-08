@@ -15,7 +15,7 @@
 
 <p>A linked list can be reversed either iteratively or recursively. Could you implement both?</p>
 
-**Related Topic	**[Linked List](https://leetcode-cn.com/tag/linked-list) 
+**Related Topic**  [Linked List](https://leetcode-cn.com/tag/linked-list) 
 
 ### Similar Questions
  - Medium:	[Reverse Linked List II](https://leetcode-cn.com/problems/reverse-linked-list-ii) 

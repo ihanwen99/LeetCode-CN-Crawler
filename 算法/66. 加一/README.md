@@ -22,7 +22,7 @@
 <strong>解释:</strong> 输入数组表示数字 4321。
 </pre>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) 
  ### 相似题目
 - 中等:	[字符串相乘](https://leetcode-cn.com/problems/multiply-strings) 
 - 简单:	[二进制求和](https://leetcode-cn.com/problems/add-binary) 

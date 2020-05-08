@@ -43,4 +43,4 @@
 	<li><code>0 &lt;= nums[i] &lt;= 100</code></li>
 </ul>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) [哈希表](https://leetcode-cn.com/tag/hash-table) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) [哈希表](https://leetcode-cn.com/tag/hash-table) 

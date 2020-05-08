@@ -50,7 +50,7 @@
 	<li><code>1 &lt;= grid.length * grid[0].length &lt;= 20</code></li>
 </ol>
 
-**标签:	**[深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) [回溯算法](https://leetcode-cn.com/tag/backtracking) 
+**标签:**  [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) [回溯算法](https://leetcode-cn.com/tag/backtracking) 
  ### 相似题目
 - 困难:	[解数独](https://leetcode-cn.com/problems/sudoku-solver) 
 - 中等:	[不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii) 

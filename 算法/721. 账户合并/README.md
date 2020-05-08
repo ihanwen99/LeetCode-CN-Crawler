@@ -30,7 +30,7 @@ accounts = [[&quot;John&quot;, &quot;johnsmith@mail.com&quot;, &quot;john00@mail
 	<li><code>accounts[i][j]</code>的长度将在<code>[1，30]</code>的范围内。</li>
 </ul>
 
-**标签:	**[深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) [并查集](https://leetcode-cn.com/tag/union-find) 
+**标签:**  [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) [并查集](https://leetcode-cn.com/tag/union-find) 
  ### 相似题目
 - 中等:	[冗余连接](https://leetcode-cn.com/problems/redundant-connection) 
 - 简单:	[句子相似性](https://leetcode-cn.com/problems/sentence-similarity) 

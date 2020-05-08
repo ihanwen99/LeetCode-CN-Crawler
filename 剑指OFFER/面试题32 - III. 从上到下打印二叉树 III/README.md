@@ -33,4 +33,4 @@
 	<li><code>节点总数 &lt;= 1000</code></li>
 </ol>
 
-**标签:	**[树](https://leetcode-cn.com/tag/tree) [广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search) 
+**标签:**  [树](https://leetcode-cn.com/tag/tree) [广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search) 

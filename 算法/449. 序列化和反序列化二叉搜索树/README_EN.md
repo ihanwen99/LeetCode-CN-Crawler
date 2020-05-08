@@ -10,7 +10,7 @@
 
 <p><b>Note:</b> Do not use class member/global/static variables to store states. Your serialize and deserialize algorithms should be stateless.</p>
 
-**Related Topic	**[Tree](https://leetcode-cn.com/tag/tree) 
+**Related Topic**  [Tree](https://leetcode-cn.com/tag/tree) 
 
 ### Similar Questions
  - Hard:	[Serialize and Deserialize Binary Tree](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree) 

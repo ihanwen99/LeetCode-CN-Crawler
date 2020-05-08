@@ -20,7 +20,7 @@
 <strong>Output:</strong> [1,2]
 <strong>Explanation:</strong> The sum of 2 and 7 is 9. Therefore index1 = 1, index2 = 2.</pre>
 
-**Related Topics	**[Array](https://leetcode-cn.com/tag/array) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) [Binary Search](https://leetcode-cn.com/tag/binary-search) 
+**Related Topics**  [Array](https://leetcode-cn.com/tag/array) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) [Binary Search](https://leetcode-cn.com/tag/binary-search) 
 
 ### Similar Questions
  - Easy:	[Two Sum](https://leetcode-cn.com/problems/two-sum) 

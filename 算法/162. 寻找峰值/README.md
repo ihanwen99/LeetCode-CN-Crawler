@@ -28,6 +28,6 @@
 
 <p>你的解法应该是&nbsp;<em>O</em>(<em>logN</em>)<em>&nbsp;</em>时间复杂度的。</p>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) [二分查找](https://leetcode-cn.com/tag/binary-search) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) [二分查找](https://leetcode-cn.com/tag/binary-search) 
  ### 相似题目
 - 简单:	[山脉数组的峰顶索引](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array) 

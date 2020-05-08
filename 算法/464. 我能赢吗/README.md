@@ -29,7 +29,7 @@ false
 同样地，第一个玩家选择任意其他整数，第二个玩家都会赢。
 </pre>
 
-**标签:	**[极小化极大](https://leetcode-cn.com/tag/minimax) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [极小化极大](https://leetcode-cn.com/tag/minimax) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
  ### 相似题目
 - 中等:	[翻转游戏 II](https://leetcode-cn.com/problems/flip-game-ii) 
 - 中等:	[猜数字大小 II](https://leetcode-cn.com/problems/guess-number-higher-or-lower-ii) 

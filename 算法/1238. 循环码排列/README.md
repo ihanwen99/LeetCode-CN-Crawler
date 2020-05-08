@@ -36,4 +36,4 @@
 	<li><code>0 &lt;= start&nbsp;&lt;&nbsp;2^n</code></li>
 </ul>
 
-**标签:	**[数学](https://leetcode-cn.com/tag/math) 
+**标签:**  [数学](https://leetcode-cn.com/tag/math) 

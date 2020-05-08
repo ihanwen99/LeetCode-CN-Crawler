@@ -44,4 +44,4 @@
 	<li><code>beforeItems[i]&nbsp;</code>does not contain&nbsp;duplicates elements.</li>
 </ul>
 
-**Related Topics	**[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) [Graph](https://leetcode-cn.com/tag/graph) [Topological Sort](https://leetcode-cn.com/tag/topological-sort) 
+**Related Topics**  [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) [Graph](https://leetcode-cn.com/tag/graph) [Topological Sort](https://leetcode-cn.com/tag/topological-sort) 

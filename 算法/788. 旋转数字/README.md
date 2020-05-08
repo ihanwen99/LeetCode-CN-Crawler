@@ -27,4 +27,4 @@
 	<li>N&nbsp;的取值范围是&nbsp;<code>[1, 10000]</code>。</li>
 </ul>
 
-**标签:	**[字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [字符串](https://leetcode-cn.com/tag/string) 

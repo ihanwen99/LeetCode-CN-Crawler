@@ -28,4 +28,4 @@
 	<li>There are no more than&nbsp;19 operators in <code>s</code>.</li>
 </ul>
 
-**Related Topics	**[Stack](https://leetcode-cn.com/tag/stack) [String](https://leetcode-cn.com/tag/string) 
+**Related Topics**  [Stack](https://leetcode-cn.com/tag/stack) [String](https://leetcode-cn.com/tag/string) 

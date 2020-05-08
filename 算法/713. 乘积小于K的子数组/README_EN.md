@@ -19,7 +19,7 @@ Note that [10, 5, 2] is not included as the product of 100 is not strictly less 
 <li><code>0 < nums[i] < 1000</code>.</li>
 <li><code>0 <= k < 10^6</code>.</li>
 </p>
-**Related Topics	**[Array](https://leetcode-cn.com/tag/array) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) 
+**Related Topics**  [Array](https://leetcode-cn.com/tag/array) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) 
 
 ### Similar Questions
  - Medium:	[Maximum Product Subarray](https://leetcode-cn.com/problems/maximum-product-subarray) 

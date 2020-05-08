@@ -18,7 +18,7 @@
 <strong>解释:</strong> 因为路径 1&rarr;3&rarr;1&rarr;1&rarr;1 的总和最小。
 </pre>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
  ### 相似题目
 - 中等:	[不同路径](https://leetcode-cn.com/problems/unique-paths) 
 - 困难:	[地下城游戏](https://leetcode-cn.com/problems/dungeon-game) 

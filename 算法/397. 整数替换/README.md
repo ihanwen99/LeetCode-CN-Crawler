@@ -36,4 +36,4 @@
 7 -&gt; 6 -&gt; 3 -&gt; 2 -&gt; 1
 </pre>
 
-**标签:	**[位运算](https://leetcode-cn.com/tag/bit-manipulation) [数学](https://leetcode-cn.com/tag/math) 
+**标签:**  [位运算](https://leetcode-cn.com/tag/bit-manipulation) [数学](https://leetcode-cn.com/tag/math) 

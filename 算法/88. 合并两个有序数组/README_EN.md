@@ -20,7 +20,7 @@ nums2 = [2,5,6],       n = 3
 
 <strong>Output:</strong>&nbsp;[1,2,2,3,5,6]
 </pre>
-**Related Topics	**[Array](https://leetcode-cn.com/tag/array) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) 
+**Related Topics**  [Array](https://leetcode-cn.com/tag/array) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) 
 
 ### Similar Questions
  - Easy:	[Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists) 

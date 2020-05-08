@@ -28,7 +28,7 @@
 	<li><strong>n</strong> 是非负整数，且不会超过输入数组的大小。</li>
 </ol>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) 
  ### 相似题目
 - 中等:	[提莫攻击](https://leetcode-cn.com/problems/teemo-attacking) 
 - 中等:	[行星碰撞](https://leetcode-cn.com/problems/asteroid-collision) 

@@ -20,6 +20,6 @@ Solution solution = new Solution(head);
 solution.getRandom();
 </pre>
 
-**标签:	**[蓄水池抽样](https://leetcode-cn.com/tag/reservoir-sampling) 
+**标签:**  [蓄水池抽样](https://leetcode-cn.com/tag/reservoir-sampling) 
  ### 相似题目
 - 中等:	[随机数索引](https://leetcode-cn.com/problems/random-pick-index) 

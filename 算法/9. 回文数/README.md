@@ -28,6 +28,6 @@
 
 <p>你能不将整数转为字符串来解决这个问题吗？</p>
 
-**标签:	**[数学](https://leetcode-cn.com/tag/math) 
+**标签:**  [数学](https://leetcode-cn.com/tag/math) 
  ### 相似题目
 - 简单:	[回文链表](https://leetcode-cn.com/problems/palindrome-linked-list) 

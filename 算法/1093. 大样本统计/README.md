@@ -38,4 +38,4 @@
 	<li>答案与真实值误差在&nbsp;<code>10^-5</code>&nbsp;以内就会被视为正确答案</li>
 </ol>
 
-**标签:	**[数学](https://leetcode-cn.com/tag/math) [双指针](https://leetcode-cn.com/tag/two-pointers) 
+**标签:**  [数学](https://leetcode-cn.com/tag/math) [双指针](https://leetcode-cn.com/tag/two-pointers) 

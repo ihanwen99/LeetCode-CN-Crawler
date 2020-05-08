@@ -26,7 +26,7 @@
 	<li><code>n</code> 的取值范围为 <code>[0, 100]</code>。</li>
 </ol>
 
-**标签:	**[贪心算法](https://leetcode-cn.com/tag/greedy) [队列](https://leetcode-cn.com/tag/queue) [数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [贪心算法](https://leetcode-cn.com/tag/greedy) [队列](https://leetcode-cn.com/tag/queue) [数组](https://leetcode-cn.com/tag/array) 
  ### 相似题目
 - 困难:	[K 距离间隔重排字符串](https://leetcode-cn.com/problems/rearrange-string-k-distance-apart) 
 - 中等:	[重构字符串](https://leetcode-cn.com/problems/reorganize-string) 

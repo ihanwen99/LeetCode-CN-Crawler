@@ -49,4 +49,4 @@ You have id = 0 (green color in the figure) and the only friend of your friends 
 	<li>if&nbsp;<code>friends[i]</code> contains <code>j</code>, then <code>friends[j]</code> contains <code>i</code></li>
 </ul>
 
-**Related Topics	**[Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search) [Hash Table](https://leetcode-cn.com/tag/hash-table) [String](https://leetcode-cn.com/tag/string) 
+**Related Topics**  [Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search) [Hash Table](https://leetcode-cn.com/tag/hash-table) [String](https://leetcode-cn.com/tag/string) 

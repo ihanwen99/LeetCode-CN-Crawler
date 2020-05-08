@@ -35,6 +35,6 @@ hashMap.get(2); &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;// 返回 -1 (未找到
 	<li>不要使用内建的哈希库。</li>
 </ul>
 
-**标签:	**[设计](https://leetcode-cn.com/tag/design) [哈希表](https://leetcode-cn.com/tag/hash-table) 
+**标签:**  [设计](https://leetcode-cn.com/tag/design) [哈希表](https://leetcode-cn.com/tag/hash-table) 
  ### 相似题目
 - 简单:	[设计哈希集合](https://leetcode-cn.com/problems/design-hashset) 

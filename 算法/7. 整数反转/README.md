@@ -26,7 +26,7 @@
 
 <p>假设我们的环境只能存储得下 32 位的有符号整数，则其数值范围为&nbsp;[&minus;2<sup>31</sup>,&nbsp; 2<sup>31&nbsp;</sup>&minus; 1]。请根据这个假设，如果反转后整数溢出那么就返回 0。</p>
 
-**标签:	**[数学](https://leetcode-cn.com/tag/math) 
+**标签:**  [数学](https://leetcode-cn.com/tag/math) 
  ### 相似题目
 - 中等:	[字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi) 
 - 简单:	[颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits) 

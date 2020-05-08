@@ -31,7 +31,7 @@ Input: search("leetcoded"), Output: False
 <li>Please remember to <b>RESET</b> your class variables declared in class MagicDictionary, as static/class variables are <b>persisted across multiple test cases</b>. Please see <a href="https://leetcode.com/faq/#different-output">here</a> for more details.</li>
 </ol>
 </p>
-**Related Topics	**[Trie](https://leetcode-cn.com/tag/trie) [Hash Table](https://leetcode-cn.com/tag/hash-table) 
+**Related Topics**  [Trie](https://leetcode-cn.com/tag/trie) [Hash Table](https://leetcode-cn.com/tag/hash-table) 
 
 ### Similar Questions
  - Medium:	[Implement Trie (Prefix Tree)](https://leetcode-cn.com/problems/implement-trie-prefix-tree) 

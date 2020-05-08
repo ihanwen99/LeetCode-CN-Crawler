@@ -35,6 +35,6 @@ hashSet.contains(2); &nbsp;&nbsp;&nbsp;// 返回  false (已经被删除)
 	<li>不要使用内建的哈希集合库。</li>
 </ul>
 
-**标签:	**[设计](https://leetcode-cn.com/tag/design) [哈希表](https://leetcode-cn.com/tag/hash-table) 
+**标签:**  [设计](https://leetcode-cn.com/tag/design) [哈希表](https://leetcode-cn.com/tag/hash-table) 
  ### 相似题目
 - 简单:	[设计哈希映射](https://leetcode-cn.com/problems/design-hashmap) 

@@ -47,4 +47,4 @@
 	<li><code>1 &lt;= x &lt;= n&nbsp;&lt;= 100</code></li>
 </ul>
 
-**标签:	**[树](https://leetcode-cn.com/tag/tree) [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) 
+**标签:**  [树](https://leetcode-cn.com/tag/tree) [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) 

@@ -44,4 +44,4 @@
 	<li><code>0 &lt;= K &lt;= 10000</code></li>
 </ol>
 
-**标签:	**[贪心算法](https://leetcode-cn.com/tag/greedy) [数学](https://leetcode-cn.com/tag/math) 
+**标签:**  [贪心算法](https://leetcode-cn.com/tag/greedy) [数学](https://leetcode-cn.com/tag/math) 

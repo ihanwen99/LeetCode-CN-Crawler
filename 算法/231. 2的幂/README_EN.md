@@ -25,7 +25,7 @@
 <strong>Input:</strong> 218
 <strong>Output:</strong> false</pre>
 
-**Related Topics	**[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) [Math](https://leetcode-cn.com/tag/math) 
+**Related Topics**  [Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) [Math](https://leetcode-cn.com/tag/math) 
 
 ### Similar Questions
  - Easy:	[Number of 1 Bits](https://leetcode-cn.com/problems/number-of-1-bits) 

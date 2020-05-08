@@ -10,7 +10,7 @@
 <strong>输出:</strong> 6 
 <strong>解释: </strong>数字 1 出现在以下数字中: 1, 10, 11, 12, 13 。</pre>
 
-**标签:	**[数学](https://leetcode-cn.com/tag/math) 
+**标签:**  [数学](https://leetcode-cn.com/tag/math) 
  ### 相似题目
 - 简单:	[阶乘后的零](https://leetcode-cn.com/problems/factorial-trailing-zeroes) 
 - 困难:	[范围内的数字计数](https://leetcode-cn.com/problems/digit-count-in-range) 

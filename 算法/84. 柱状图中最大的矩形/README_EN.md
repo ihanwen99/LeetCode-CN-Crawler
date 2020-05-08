@@ -23,7 +23,7 @@
 <strong>Output:</strong> 10
 </pre>
 
-**Related Topics	**[Stack](https://leetcode-cn.com/tag/stack) [Array](https://leetcode-cn.com/tag/array) 
+**Related Topics**  [Stack](https://leetcode-cn.com/tag/stack) [Array](https://leetcode-cn.com/tag/array) 
 
 ### Similar Question
  - Hard:	[Maximal Rectangle](https://leetcode-cn.com/problems/maximal-rectangle) 

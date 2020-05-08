@@ -35,6 +35,6 @@
 <p><strong>更新于 2015-02-10:</strong><br>
 <code>C++</code>函数的形式已经更新了。如果你仍然看见你的函数接收&nbsp;<code>const char *</code> 类型的参数，请点击重载按钮重置你的代码。</p>
 
-**标签:	**[数学](https://leetcode-cn.com/tag/math) [字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [数学](https://leetcode-cn.com/tag/math) [字符串](https://leetcode-cn.com/tag/string) 
  ### 相似题目
 - 中等:	[字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi) 

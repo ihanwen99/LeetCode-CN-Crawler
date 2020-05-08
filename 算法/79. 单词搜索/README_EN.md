@@ -31,7 +31,7 @@ Given word = &quot;<strong>ABCB</strong>&quot;, return <strong>false</strong>.
 	<li><code>1 &lt;= word.length &lt;= 10^3</code></li>
 </ul>
 
-**Related Topics	**[Array](https://leetcode-cn.com/tag/array) [Backtracking](https://leetcode-cn.com/tag/backtracking) 
+**Related Topics**  [Array](https://leetcode-cn.com/tag/array) [Backtracking](https://leetcode-cn.com/tag/backtracking) 
 
 ### Similar Question
  - Hard:	[Word Search II](https://leetcode-cn.com/problems/word-search-ii) 

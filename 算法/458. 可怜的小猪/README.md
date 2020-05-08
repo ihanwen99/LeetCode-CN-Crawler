@@ -24,4 +24,4 @@
 	<li>任何给定的桶都可以无限次采样（无限数量的猪）。</li>
 </ol>
 
-**标签:	**[数学](https://leetcode-cn.com/tag/math) 
+**标签:**  [数学](https://leetcode-cn.com/tag/math) 

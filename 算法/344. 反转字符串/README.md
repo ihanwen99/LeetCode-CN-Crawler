@@ -21,7 +21,7 @@
 <pre><strong>输入：</strong>[&quot;H&quot;,&quot;a&quot;,&quot;n&quot;,&quot;n&quot;,&quot;a&quot;,&quot;h&quot;]
 <strong>输出：</strong>[&quot;h&quot;,&quot;a&quot;,&quot;n&quot;,&quot;n&quot;,&quot;a&quot;,&quot;H&quot;]</pre>
 
-**标签:	**[双指针](https://leetcode-cn.com/tag/two-pointers) [字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [双指针](https://leetcode-cn.com/tag/two-pointers) [字符串](https://leetcode-cn.com/tag/string) 
  ### 相似题目
 - 简单:	[反转字符串中的元音字母](https://leetcode-cn.com/problems/reverse-vowels-of-a-string) 
 - 简单:	[反转字符串 II](https://leetcode-cn.com/problems/reverse-string-ii) 

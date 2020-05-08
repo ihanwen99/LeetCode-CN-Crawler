@@ -67,7 +67,7 @@ Then we can insert &quot;abc&quot; before the last letter, resulting in &quot;ab
 </div>
 </div>
 </div>
-**Related Topics	**[Stack](https://leetcode-cn.com/tag/stack) [String](https://leetcode-cn.com/tag/string) 
+**Related Topics**  [Stack](https://leetcode-cn.com/tag/stack) [String](https://leetcode-cn.com/tag/string) 
 
 ### Similar Question
  - Easy:	[Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses) 

@@ -45,4 +45,4 @@
 	<li><code>2 &lt;= B&nbsp;&lt;= 40000</code></li>
 </ol>
 
-**标签:	**[数学](https://leetcode-cn.com/tag/math) [二分查找](https://leetcode-cn.com/tag/binary-search) 
+**标签:**  [数学](https://leetcode-cn.com/tag/math) [二分查找](https://leetcode-cn.com/tag/binary-search) 

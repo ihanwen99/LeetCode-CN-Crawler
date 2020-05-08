@@ -41,7 +41,7 @@
 	<li>In this question, we represent the board using a 2D array. In principle, the board is infinite, which would cause problems when the active area encroaches the border of the array. How would you address these problems?</li>
 </ol>
 
-**Related Topic	**[Array](https://leetcode-cn.com/tag/array) 
+**Related Topic**  [Array](https://leetcode-cn.com/tag/array) 
 
 ### Similar Question
  - Medium:	[Set Matrix Zeroes](https://leetcode-cn.com/problems/set-matrix-zeroes) 

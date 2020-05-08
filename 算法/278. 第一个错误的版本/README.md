@@ -18,7 +18,7 @@
 
 所以，4 是第一个错误的版本。&nbsp;</code></pre>
 
-**标签:	**[二分查找](https://leetcode-cn.com/tag/binary-search) 
+**标签:**  [二分查找](https://leetcode-cn.com/tag/binary-search) 
  ### 相似题目
 - 中等:	[在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array) 
 - 简单:	[搜索插入位置](https://leetcode-cn.com/problems/search-insert-position) 

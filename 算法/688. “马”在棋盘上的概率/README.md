@@ -40,6 +40,6 @@
 	<li>开始时，&ldquo;马&rdquo; 总是位于棋盘上</li>
 </ul>
 
-**标签:	**[动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
  ### 相似题目
 - 中等:	[出界的路径数](https://leetcode-cn.com/problems/out-of-boundary-paths) 

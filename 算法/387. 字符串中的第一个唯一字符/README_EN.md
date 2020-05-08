@@ -18,7 +18,7 @@ return 2.
 <p>
 <b>Note:</b> You may assume the string contain only lowercase letters.
 </p>
-**Related Topics	**[Hash Table](https://leetcode-cn.com/tag/hash-table) [String](https://leetcode-cn.com/tag/string) 
+**Related Topics**  [Hash Table](https://leetcode-cn.com/tag/hash-table) [String](https://leetcode-cn.com/tag/string) 
 
 ### Similar Question
  - Medium:	[Sort Characters By Frequency](https://leetcode-cn.com/problems/sort-characters-by-frequency) 

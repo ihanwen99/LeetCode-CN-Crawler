@@ -26,7 +26,7 @@
 ]
 <strong>Output:</strong> [1,2,3,4,8,12,11,10,9,5,6,7]
 </pre>
-**Related Topic	**[Array](https://leetcode-cn.com/tag/array) 
+**Related Topic**  [Array](https://leetcode-cn.com/tag/array) 
 
 ### Similar Question
  - Medium:	[Spiral Matrix II](https://leetcode-cn.com/problems/spiral-matrix-ii) 

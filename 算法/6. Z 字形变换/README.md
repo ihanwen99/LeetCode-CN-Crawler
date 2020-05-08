@@ -34,4 +34,4 @@ E   O E   I I
 E C   I H   N
 T     S     G</pre>
 
-**标签:	**[字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [字符串](https://leetcode-cn.com/tag/string) 

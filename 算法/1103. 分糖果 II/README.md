@@ -47,4 +47,4 @@
 	<li><code>1 &lt;= num_people &lt;= 1000</code></li>
 </ul>
 
-**标签:	**[数学](https://leetcode-cn.com/tag/math) 
+**标签:**  [数学](https://leetcode-cn.com/tag/math) 

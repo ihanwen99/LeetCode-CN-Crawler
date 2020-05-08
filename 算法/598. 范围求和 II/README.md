@@ -42,6 +42,6 @@ M 中最大的整数是 2, 而且 M 中有4个值为2的元素。因此返回 4�
 	<li>操作数目不超过 10000。</li>
 </ol>
 
-**标签:	**[数学](https://leetcode-cn.com/tag/math) 
+**标签:**  [数学](https://leetcode-cn.com/tag/math) 
  ### 相似题目
 - 中等:	[区间加法](https://leetcode-cn.com/problems/range-addition) 

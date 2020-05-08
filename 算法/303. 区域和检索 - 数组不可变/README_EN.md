@@ -20,7 +20,7 @@ sumRange(0, 5) -> -3
 <li>There are many calls to <i>sumRange</i> function.</li>
 </ol>
 </p>
-**Related Topic	**[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topic**  [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
 
 ### Similar Questions
  - Medium:	[Range Sum Query 2D - Immutable](https://leetcode-cn.com/problems/range-sum-query-2d-immutable) 

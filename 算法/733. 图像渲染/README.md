@@ -32,6 +32,6 @@ sr = 1, sc = 1, newColor = 2
 	<li><code>image[i][j]</code> 和&nbsp;<code>newColor</code>&nbsp;表示的颜色值在范围&nbsp;<code>[0, 65535]</code>内。</li>
 </ul>
 
-**标签:	**[深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) 
+**标签:**  [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) 
  ### 相似题目
 - 简单:	[岛屿的周长](https://leetcode-cn.com/problems/island-perimeter) 

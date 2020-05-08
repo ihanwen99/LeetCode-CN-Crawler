@@ -50,4 +50,4 @@ It satisfies the conditions, 2 unique letters and size 3 (between minSize and ma
 	<li><code>1 &lt;= minSize &lt;= maxSize &lt;= min(26, s.length)</code></li>
 	<li><code>s</code> only contains lowercase English letters.</li>
 </ul>
-**Related Topics	**[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) [String](https://leetcode-cn.com/tag/string) 
+**Related Topics**  [Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) [String](https://leetcode-cn.com/tag/string) 

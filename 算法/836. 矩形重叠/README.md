@@ -33,6 +33,6 @@
 	<li>你可以仅考虑矩形是正放的情况。</li>
 </ol>
 
-**标签:	**[数学](https://leetcode-cn.com/tag/math) 
+**标签:**  [数学](https://leetcode-cn.com/tag/math) 
  ### 相似题目
 - 中等:	[矩形面积](https://leetcode-cn.com/problems/rectangle-area) 

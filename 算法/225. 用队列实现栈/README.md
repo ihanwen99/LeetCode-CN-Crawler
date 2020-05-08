@@ -19,6 +19,6 @@
 	<li>你可以假设所有操作都是有效的（例如, 对一个空的栈不会调用 pop 或者 top 操作）。</li>
 </ul>
 
-**标签:	**[栈](https://leetcode-cn.com/tag/stack) [设计](https://leetcode-cn.com/tag/design) 
+**标签:**  [栈](https://leetcode-cn.com/tag/stack) [设计](https://leetcode-cn.com/tag/design) 
  ### 相似题目
 - 简单:	[用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks) 

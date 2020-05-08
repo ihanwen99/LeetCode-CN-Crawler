@@ -21,7 +21,7 @@
 <strong>Explanation: </strong></code>nums = [3,1,5,8] --&gt; [3,5,8] --&gt;   [3,8]   --&gt;  [8]  --&gt; []
 &nbsp;            coins =  3*1*5      +  3*5*8    +  1*3*8      + 1*8*1   = 167
 </pre>
-**Related Topics	**[Divide and Conquer](https://leetcode-cn.com/tag/divide-and-conquer) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topics**  [Divide and Conquer](https://leetcode-cn.com/tag/divide-and-conquer) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
 
 ### Similar Question
  - Hard:	[Minimum Cost to Merge Stones](https://leetcode-cn.com/problems/minimum-cost-to-merge-stones) 

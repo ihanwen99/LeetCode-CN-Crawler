@@ -28,4 +28,4 @@
 	<li>node.val 为&nbsp;<code>0</code> 或&nbsp;<code>1</code>&nbsp;。</li>
 </ol>
 
-**标签:	**[树](https://leetcode-cn.com/tag/tree) 
+**标签:**  [树](https://leetcode-cn.com/tag/tree) 

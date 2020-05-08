@@ -45,4 +45,4 @@
 	<li>Can you solve it in <code>O(1)</code> space?</li>
 </ul>
 
-**Related Topic	**[Two Pointers](https://leetcode-cn.com/tag/two-pointers) 
+**Related Topic**  [Two Pointers](https://leetcode-cn.com/tag/two-pointers) 

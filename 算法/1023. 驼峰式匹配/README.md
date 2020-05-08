@@ -45,4 +45,4 @@
 	<li>所有字符串都仅由大写和小写英文字母组成。</li>
 </ol>
 
-**标签:	**[字典树](https://leetcode-cn.com/tag/trie) [字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [字典树](https://leetcode-cn.com/tag/trie) [字符串](https://leetcode-cn.com/tag/string) 

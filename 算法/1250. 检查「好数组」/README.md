@@ -39,4 +39,4 @@
 	<li><code>1 &lt;= nums[i] &lt;= 10^9</code></li>
 </ul>
 
-**标签:	**[数学](https://leetcode-cn.com/tag/math) 
+**标签:**  [数学](https://leetcode-cn.com/tag/math) 

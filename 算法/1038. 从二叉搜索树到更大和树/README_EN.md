@@ -41,4 +41,4 @@
 </div>
 </div>
 
-**Related Topic	**[Binary Search Tree](https://leetcode-cn.com/tag/binary-search-tree) 
+**Related Topic**  [Binary Search Tree](https://leetcode-cn.com/tag/binary-search-tree) 

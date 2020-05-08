@@ -57,4 +57,4 @@ cashier.getBill([2,3,5],[5,3,2]);                    // 返回 2500.0
 	<li>返回结果与标准答案误差在&nbsp;<code>10^-5</code>&nbsp;以内都视为正确结果。</li>
 </ul>
 
-**标签:	**[设计](https://leetcode-cn.com/tag/design) 
+**标签:**  [设计](https://leetcode-cn.com/tag/design) 

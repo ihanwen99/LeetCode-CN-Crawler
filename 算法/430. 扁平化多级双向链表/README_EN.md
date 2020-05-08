@@ -86,7 +86,7 @@ After flattening the multilevel linked list it becomes:
 	<li><code>1 &lt;= Node.val &lt;= 10^5</code></li>
 </ul>
 
-**Related Topics	**[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) [Linked List](https://leetcode-cn.com/tag/linked-list) 
+**Related Topics**  [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) [Linked List](https://leetcode-cn.com/tag/linked-list) 
 
 ### Similar Question
  - Medium:	[Flatten Binary Tree to Linked List](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list) 

@@ -26,6 +26,6 @@
 <p><strong>进阶:</strong><br>
 你如何处理一个溢出的过大的整数输入?</p>
 
-**标签:	**[回溯算法](https://leetcode-cn.com/tag/backtracking) 
+**标签:**  [回溯算法](https://leetcode-cn.com/tag/backtracking) 
  ### 相似题目
 - 中等:	[将数组拆分成斐波那契序列](https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence) 

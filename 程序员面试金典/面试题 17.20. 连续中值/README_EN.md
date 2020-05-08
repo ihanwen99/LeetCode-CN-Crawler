@@ -29,4 +29,4 @@ addNum(3)
 findMedian() -&gt; 2
 </pre>
 
-**Related Topic	**[Heap](https://leetcode-cn.com/tag/heap) 
+**Related Topic**  [Heap](https://leetcode-cn.com/tag/heap) 

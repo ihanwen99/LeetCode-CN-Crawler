@@ -18,4 +18,4 @@
 <strong>解释:</strong> 最大的结果是 <strong>5</strong> ^ <strong>25</strong> = 28.
 </pre>
 
-**标签:	**[位运算](https://leetcode-cn.com/tag/bit-manipulation) [字典树](https://leetcode-cn.com/tag/trie) 
+**标签:**  [位运算](https://leetcode-cn.com/tag/bit-manipulation) [字典树](https://leetcode-cn.com/tag/trie) 

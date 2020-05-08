@@ -24,4 +24,4 @@
 	<li><code>intervals[i] != intervals[j]</code>&nbsp;for all&nbsp;<code>i != j</code></li>
 </ul>
 
-**Related Topic	**[Line Sweep](https://leetcode-cn.com/tag/line-sweep) 
+**Related Topic**  [Line Sweep](https://leetcode-cn.com/tag/line-sweep) 

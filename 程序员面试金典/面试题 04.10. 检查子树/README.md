@@ -24,4 +24,4 @@
 	<li>树的节点数目范围为[0, 20000]。</li>
 </ol>
 
-**标签:	**[树](https://leetcode-cn.com/tag/tree) 
+**标签:**  [树](https://leetcode-cn.com/tag/tree) 

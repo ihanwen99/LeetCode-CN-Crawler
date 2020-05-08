@@ -24,4 +24,4 @@
 	<li>The result will not overflow.</li>
 </ol>
 
-**Related Topic	**[Recursion](https://leetcode-cn.com/tag/recursion) 
+**Related Topic**  [Recursion](https://leetcode-cn.com/tag/recursion) 

@@ -40,7 +40,7 @@ minStack.getMin(); // return -2
 	<li>Methods <code>pop</code>, <code>top</code> and <code>getMin</code> operations will always be called on <strong>non-empty</strong> stacks.</li>
 </ul>
 
-**Related Topics	**[Stack](https://leetcode-cn.com/tag/stack) [Design](https://leetcode-cn.com/tag/design) 
+**Related Topics**  [Stack](https://leetcode-cn.com/tag/stack) [Design](https://leetcode-cn.com/tag/design) 
 
 ### Similar Questions
  - Hard:	[Sliding Window Maximum](https://leetcode-cn.com/problems/sliding-window-maximum) 

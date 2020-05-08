@@ -25,4 +25,4 @@
 	<li>请尝试在线性时间复杂度和空间复杂度的条件下解决此问题。</li>
 </ul>
 
-**标签:	**[排序](https://leetcode-cn.com/tag/sort) 
+**标签:**  [排序](https://leetcode-cn.com/tag/sort) 

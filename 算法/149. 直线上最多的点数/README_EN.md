@@ -37,7 +37,7 @@
 
 <p><strong>NOTE:</strong>&nbsp;input types have been changed on April 15, 2019. Please reset to default code definition to get new method signature.</p>
 
-**Related Topics	**[Hash Table](https://leetcode-cn.com/tag/hash-table) [Math](https://leetcode-cn.com/tag/math) 
+**Related Topics**  [Hash Table](https://leetcode-cn.com/tag/hash-table) [Math](https://leetcode-cn.com/tag/math) 
 
 ### Similar Question
  - Medium:	[Line Reflection](https://leetcode-cn.com/problems/line-reflection) 

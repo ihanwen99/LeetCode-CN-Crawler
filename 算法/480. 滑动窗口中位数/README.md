@@ -40,6 +40,6 @@
 	<li>与真实值误差在 <code>10 ^ -5</code> 以内的答案将被视作正确答案。</li>
 </ul>
 
-**标签:	**[None](https://leetcode-cn.com/tag/sliding-window) 
+**标签:**  [None](https://leetcode-cn.com/tag/sliding-window) 
  ### 相似题目
 - 困难:	[数据流的中位数](https://leetcode-cn.com/problems/find-median-from-data-stream) 

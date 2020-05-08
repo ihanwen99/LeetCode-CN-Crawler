@@ -25,7 +25,7 @@
 </pre>
 </div>
 
-**Related Topic	**[Binary Search](https://leetcode-cn.com/tag/binary-search) 
+**Related Topic**  [Binary Search](https://leetcode-cn.com/tag/binary-search) 
 
 ### Similar Questions
  - Easy:	[First Bad Version](https://leetcode-cn.com/problems/first-bad-version) 

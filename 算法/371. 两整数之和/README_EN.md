@@ -22,7 +22,7 @@
 </div>
 </div>
 
-**Related Topic	**[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) 
+**Related Topic**  [Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) 
 
 ### Similar Question
  - Medium:	[Add Two Numbers](https://leetcode-cn.com/problems/add-two-numbers) 

@@ -30,7 +30,7 @@
 </div>
 </div>
 </div>
-**Related Topics	**[Sort](https://leetcode-cn.com/tag/sort) [Ordered Map](https://leetcode-cn.com/tag/ordered-map) 
+**Related Topics**  [Sort](https://leetcode-cn.com/tag/sort) [Ordered Map](https://leetcode-cn.com/tag/ordered-map) 
 
 ### Similar Questions
  - Easy:	[Contains Duplicate](https://leetcode-cn.com/problems/contains-duplicate) 

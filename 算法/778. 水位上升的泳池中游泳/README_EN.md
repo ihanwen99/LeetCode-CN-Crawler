@@ -44,4 +44,4 @@ We need to wait until time 16 so that (0, 0) and (4, 4) are connected.
 	<li>grid[i][j] is a permutation of [0, ..., N*N - 1].</li>
 </ol>
 
-**Related Topics	**[Heap](https://leetcode-cn.com/tag/heap) [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) [Union Find](https://leetcode-cn.com/tag/union-find) [Binary Search](https://leetcode-cn.com/tag/binary-search) 
+**Related Topics**  [Heap](https://leetcode-cn.com/tag/heap) [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) [Union Find](https://leetcode-cn.com/tag/union-find) [Binary Search](https://leetcode-cn.com/tag/binary-search) 

@@ -34,4 +34,4 @@ words = [&quot;hello&quot;, &quot;hi&quot;, &quot;helo&quot;]
 	<li><code>S</code>&nbsp;和所有在&nbsp;<code>words</code>&nbsp;中的单词都只由小写字母组成。</li>
 </ul>
 
-**标签:	**[字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [字符串](https://leetcode-cn.com/tag/string) 

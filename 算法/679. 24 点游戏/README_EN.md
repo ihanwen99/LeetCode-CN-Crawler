@@ -29,4 +29,4 @@ You have 4 cards each containing a number from 1 to 9.  You need to judge whethe
 </ol>
 </p>
 </p>
-**Related Topic	**[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) 
+**Related Topic**  [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) 

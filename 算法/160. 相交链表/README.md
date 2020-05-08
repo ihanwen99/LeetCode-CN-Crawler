@@ -55,6 +55,6 @@
 	<li>程序尽量满足 O(<em>n</em>) 时间复杂度，且仅用 O(<em>1</em>) 内存。</li>
 </ul>
 
-**标签:	**[链表](https://leetcode-cn.com/tag/linked-list) 
+**标签:**  [链表](https://leetcode-cn.com/tag/linked-list) 
  ### 相似题目
 - 简单:	[两个列表的最小索引总和](https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists) 

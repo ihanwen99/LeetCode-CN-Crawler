@@ -41,4 +41,4 @@ answer[7] = 7，
 	<li>对&nbsp;<code>richer</code>&nbsp;的观察在逻辑上是一致的。</li>
 </ol>
 
-**标签:	**[深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) 
+**标签:**  [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) 

@@ -39,7 +39,7 @@ the time [40, 50) will be single booked, and the time [50, 55) will be double bo
 </ul>
 
 <p>&nbsp;</p>
-**Related Topic	**[Ordered Map](https://leetcode-cn.com/tag/ordered-map) 
+**Related Topic**  [Ordered Map](https://leetcode-cn.com/tag/ordered-map) 
 
 ### Similar Questions
  - Medium:	[My Calendar I](https://leetcode-cn.com/problems/my-calendar-i) 

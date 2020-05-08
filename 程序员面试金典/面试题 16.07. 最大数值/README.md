@@ -8,4 +8,4 @@
 <strong>输出：</strong> 2
 </pre>
 
-**标签:	**[位运算](https://leetcode-cn.com/tag/bit-manipulation) [数学](https://leetcode-cn.com/tag/math) 
+**标签:**  [位运算](https://leetcode-cn.com/tag/bit-manipulation) [数学](https://leetcode-cn.com/tag/math) 

@@ -39,7 +39,7 @@ From the top-left corner, there are a total of 3 ways to reach the bottom-right 
 	<li>It&#39;s guaranteed that the answer will be less than or equal to <code>2 * 10 ^ 9</code>.</li>
 </ul>
 
-**Related Topics	**[Array](https://leetcode-cn.com/tag/array) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topics**  [Array](https://leetcode-cn.com/tag/array) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
 
 ### Similar Questions
  - Medium:	[Unique Paths II](https://leetcode-cn.com/problems/unique-paths-ii) 

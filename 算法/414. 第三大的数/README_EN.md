@@ -34,7 +34,7 @@
 Both numbers with value 2 are both considered as second maximum.
 </pre>
 </p>
-**Related Topic	**[Array](https://leetcode-cn.com/tag/array) 
+**Related Topic**  [Array](https://leetcode-cn.com/tag/array) 
 
 ### Similar Question
  - Medium:	[Kth Largest Element in an Array](https://leetcode-cn.com/problems/kth-largest-element-in-an-array) 

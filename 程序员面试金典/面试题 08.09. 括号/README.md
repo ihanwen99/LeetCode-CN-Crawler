@@ -18,4 +18,4 @@
 ]
 </pre>
 
-**标签:	**[字符串](https://leetcode-cn.com/tag/string) [回溯算法](https://leetcode-cn.com/tag/backtracking) 
+**标签:**  [字符串](https://leetcode-cn.com/tag/string) [回溯算法](https://leetcode-cn.com/tag/backtracking) 

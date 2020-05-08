@@ -10,7 +10,7 @@
 <b>Output:</b> 1->1->2->3->4->4
 </pre>
 </p>
-**Related Topic	**[Linked List](https://leetcode-cn.com/tag/linked-list) 
+**Related Topic**  [Linked List](https://leetcode-cn.com/tag/linked-list) 
 
 ### Similar Questions
  - Hard:	[Merge k Sorted Lists](https://leetcode-cn.com/problems/merge-k-sorted-lists) 

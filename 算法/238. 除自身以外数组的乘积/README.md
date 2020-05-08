@@ -20,7 +20,7 @@
 <p><strong>进阶：</strong><br>
 你可以在常数空间复杂度内完成这个题目吗？（ 出于对空间复杂度分析的目的，输出数组<strong>不被视为</strong>额外空间。）</p>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) 
  ### 相似题目
 - 困难:	[接雨水](https://leetcode-cn.com/problems/trapping-rain-water) 
 - 中等:	[乘积最大子数组](https://leetcode-cn.com/problems/maximum-product-subarray) 

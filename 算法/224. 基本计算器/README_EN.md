@@ -31,7 +31,7 @@
 	<li><b>Do not</b> use the <code>eval</code> built-in library function.</li>
 </ul>
 
-**Related Topics	**[Stack](https://leetcode-cn.com/tag/stack) [Math](https://leetcode-cn.com/tag/math) 
+**Related Topics**  [Stack](https://leetcode-cn.com/tag/stack) [Math](https://leetcode-cn.com/tag/math) 
 
 ### Similar Questions
  - Medium:	[Evaluate Reverse Polish Notation](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation) 

@@ -28,7 +28,7 @@ Given a set of pairs, find the length longest chain which can be formed. You nee
 <li>The number of given pairs will be in the range [1, 1000].</li>
 </ol>
 </p>
-**Related Topic	**[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topic**  [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
 
 ### Similar Questions
  - Medium:	[Longest Increasing Subsequence](https://leetcode-cn.com/problems/longest-increasing-subsequence) 

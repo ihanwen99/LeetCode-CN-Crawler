@@ -26,7 +26,7 @@
 	<li><code>2 &lt;= K &lt;= 10000</code></li>
 </ol>
 </div>
-**Related Topics	**[Array](https://leetcode-cn.com/tag/array) [Hash Table](https://leetcode-cn.com/tag/hash-table) 
+**Related Topics**  [Array](https://leetcode-cn.com/tag/array) [Hash Table](https://leetcode-cn.com/tag/hash-table) 
 
 ### Similar Question
  - Medium:	[Subarray Sum Equals K](https://leetcode-cn.com/problems/subarray-sum-equals-k) 

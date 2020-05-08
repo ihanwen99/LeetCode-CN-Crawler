@@ -22,4 +22,4 @@
 	<li>如果你不使用额外的数据结构，会很加分。</li>
 </ul>
     
-**标签:	**[数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) 

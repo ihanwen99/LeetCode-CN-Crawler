@@ -59,4 +59,4 @@ Notice you can have extra video after the event ends.
 	<li><code>0 &lt;= T &lt;= 100</code></li>
 </ol>
 
-**Related Topic	**[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topic**  [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 

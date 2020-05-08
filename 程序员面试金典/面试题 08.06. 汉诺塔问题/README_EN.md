@@ -30,4 +30,4 @@
 	<li><code>A.length &lt;= 14</code></li>
 </ol>
 
-**Related Topic	**[Recursion](https://leetcode-cn.com/tag/recursion) 
+**Related Topic**  [Recursion](https://leetcode-cn.com/tag/recursion) 

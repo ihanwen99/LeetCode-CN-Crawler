@@ -42,4 +42,4 @@
 	<li><code>1 &lt;= S.length &lt;= 150</code>。</li>
 </ul>
 
-**标签:	**[字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [字符串](https://leetcode-cn.com/tag/string) 

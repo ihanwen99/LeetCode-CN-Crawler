@@ -72,7 +72,7 @@ class Node {
 	<li>The Graph is connected and all nodes can be visited starting from the given node.</li>
 </ul>
 
-**Related Topics	**[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) [Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search) [Graph](https://leetcode-cn.com/tag/graph) 
+**Related Topics**  [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) [Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search) [Graph](https://leetcode-cn.com/tag/graph) 
 
 ### Similar Question
  - Medium:	[Copy List with Random Pointer](https://leetcode-cn.com/problems/copy-list-with-random-pointer) 

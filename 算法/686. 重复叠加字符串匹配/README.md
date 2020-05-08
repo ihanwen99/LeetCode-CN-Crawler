@@ -12,6 +12,6 @@
 
 <p>&nbsp;<code>A</code>&nbsp;与&nbsp;<code>B</code>&nbsp;字符串的长度在1和10000区间范围内。</p>
 
-**标签:	**[字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [字符串](https://leetcode-cn.com/tag/string) 
  ### 相似题目
 - 简单:	[重复的子字符串](https://leetcode-cn.com/problems/repeated-substring-pattern) 

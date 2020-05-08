@@ -20,7 +20,7 @@
 <strong>Explanation:</strong> The longest valid parentheses substring is <code>&quot;()()&quot;</code>
 </pre>
 
-**Related Topics	**[String](https://leetcode-cn.com/tag/string) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topics**  [String](https://leetcode-cn.com/tag/string) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
 
 ### Similar Question
  - Easy:	[Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses) 

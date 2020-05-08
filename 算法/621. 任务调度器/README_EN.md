@@ -26,7 +26,7 @@
 	<li>The integer <code>n</code> is in the range <code>[0, 100]</code>.</li>
 </ul>
 
-**Related Topics	**[Greedy](https://leetcode-cn.com/tag/greedy) [Queue](https://leetcode-cn.com/tag/queue) [Array](https://leetcode-cn.com/tag/array) 
+**Related Topics**  [Greedy](https://leetcode-cn.com/tag/greedy) [Queue](https://leetcode-cn.com/tag/queue) [Array](https://leetcode-cn.com/tag/array) 
 
 ### Similar Questions
  - Hard:	[Rearrange String k Distance Apart](https://leetcode-cn.com/problems/rearrange-string-k-distance-apart) 

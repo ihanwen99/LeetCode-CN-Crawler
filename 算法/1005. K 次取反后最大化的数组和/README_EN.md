@@ -46,4 +46,4 @@
 	<li><code>-100 &lt;= A[i] &lt;= 100</code></li>
 </ol>
 
-**Related Topic	**[Greedy](https://leetcode-cn.com/tag/greedy) 
+**Related Topic**  [Greedy](https://leetcode-cn.com/tag/greedy) 

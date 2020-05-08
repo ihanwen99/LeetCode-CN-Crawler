@@ -63,4 +63,4 @@ Remember that both play optimally so here Alice will choose the scenario that ma
 	<li><code>1 &lt;= values.length &lt;= 50000</code></li>
 	<li><code>-1000&nbsp;&lt;= values[i] &lt;= 1000</code></li>
 </ul>
-**Related Topic	**[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topic**  [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 

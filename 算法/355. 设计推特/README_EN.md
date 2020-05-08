@@ -41,4 +41,4 @@ twitter.unfollow(1, 2);
 twitter.getNewsFeed(1);
 </pre>
 </p>
-**Related Topics	**[Heap](https://leetcode-cn.com/tag/heap) [Design](https://leetcode-cn.com/tag/design) [Hash Table](https://leetcode-cn.com/tag/hash-table) 
+**Related Topics**  [Heap](https://leetcode-cn.com/tag/heap) [Design](https://leetcode-cn.com/tag/design) [Hash Table](https://leetcode-cn.com/tag/hash-table) 

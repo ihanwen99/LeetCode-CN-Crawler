@@ -21,7 +21,7 @@
 ]
 </pre>
 
-**Related Topic	**[Array](https://leetcode-cn.com/tag/array) 
+**Related Topic**  [Array](https://leetcode-cn.com/tag/array) 
 
 ### Similar Question
  - Easy:	[Pascal's Triangle II](https://leetcode-cn.com/problems/pascals-triangle-ii) 

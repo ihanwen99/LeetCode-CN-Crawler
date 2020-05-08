@@ -28,4 +28,4 @@
 	<li><code>There are no number 0 and 1 in num</code>.</li>
 </ul>
 
-**Related Topic	**[Array](https://leetcode-cn.com/tag/array) 
+**Related Topic**  [Array](https://leetcode-cn.com/tag/array) 

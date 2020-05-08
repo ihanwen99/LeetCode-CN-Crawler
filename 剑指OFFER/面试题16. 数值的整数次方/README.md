@@ -35,4 +35,4 @@
 
 <p>注意：本题与主站 50 题相同：<a href="https://leetcode-cn.com/problems/powx-n/">https://leetcode-cn.com/problems/powx-n/</a></p>
 
-**标签:	**[递归](https://leetcode-cn.com/tag/recursion) 
+**标签:**  [递归](https://leetcode-cn.com/tag/recursion) 

@@ -35,7 +35,7 @@
 	<li><code>1 &lt;= A[i] &lt;= A.length</code></li>
 	<li><code>1 &lt;= K &lt;= A.length</code></li>
 </ol>
-**Related Topics	**[Hash Table](https://leetcode-cn.com/tag/hash-table) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) [Sliding Window](https://leetcode-cn.com/tag/sliding-window) 
+**Related Topics**  [Hash Table](https://leetcode-cn.com/tag/hash-table) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) [Sliding Window](https://leetcode-cn.com/tag/sliding-window) 
 
 ### Similar Questions
  - Medium:	[Longest Substring Without Repeating Characters](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters) 

@@ -59,7 +59,7 @@ table.dungeon, .dungeon th, .dungeon td {
 	</li>
 	<li>任何房间都可能对骑士的健康点数造成威胁，也可能增加骑士的健康点数，包括骑士进入的左上角房间以及公主被监禁的右下角房间。</li>
 </ul>
-**标签:	**[二分查找](https://leetcode-cn.com/tag/binary-search) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [二分查找](https://leetcode-cn.com/tag/binary-search) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
  ### 相似题目
 - 中等:	[不同路径](https://leetcode-cn.com/problems/unique-paths) 
 - 中等:	[最小路径和](https://leetcode-cn.com/problems/minimum-path-sum) 

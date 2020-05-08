@@ -47,7 +47,7 @@ We can't form the target "basicbasic" from cutting letters from the given sticke
 <li>In all test cases, all words were chosen <u>randomly</u> from the 1000 most common US English words, and the target was chosen as a concatenation of two random words.</li>
 <li>The time limit may be more challenging than usual.  It is expected that a 50 sticker test case can be solved within 35ms on average.</li>
 </p>
-**Related Topics	**[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) [Backtracking](https://leetcode-cn.com/tag/backtracking) 
+**Related Topics**  [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) [Backtracking](https://leetcode-cn.com/tag/backtracking) 
 
 ### Similar Question
  - Easy:	[Ransom Note](https://leetcode-cn.com/problems/ransom-note) 

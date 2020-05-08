@@ -42,4 +42,4 @@
 	<li><code>grid[i][j]</code> 为&nbsp;<code>0</code> 或&nbsp;<code>1</code></li>
 </ol>
 
-**标签:	**[广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search) 
+**标签:**  [广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search) 

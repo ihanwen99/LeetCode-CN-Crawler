@@ -60,4 +60,4 @@ Notice we cannot move 10 -&gt; 2 to finish the game, because that would be an il
 </div>
 </div>
 
-**Related Topics	**[Array](https://leetcode-cn.com/tag/array) [Sliding Window](https://leetcode-cn.com/tag/sliding-window) 
+**Related Topics**  [Array](https://leetcode-cn.com/tag/array) [Sliding Window](https://leetcode-cn.com/tag/sliding-window) 

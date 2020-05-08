@@ -27,6 +27,6 @@
 <p><strong>说明:</strong><br>
 你可以假设&nbsp;<em><strong>s&nbsp;</strong></em>和 <strong><em>t </em></strong>具有相同的长度。</p>
 
-**标签:	**[哈希表](https://leetcode-cn.com/tag/hash-table) 
+**标签:**  [哈希表](https://leetcode-cn.com/tag/hash-table) 
  ### 相似题目
 - 简单:	[单词规律](https://leetcode-cn.com/problems/word-pattern) 

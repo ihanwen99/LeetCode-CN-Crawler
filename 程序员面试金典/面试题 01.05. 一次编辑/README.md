@@ -23,4 +23,4 @@ second = &quot;pal&quot;
 <strong>输出:</strong> False
 </pre>
 
-**标签:	**[字符串](https://leetcode-cn.com/tag/string) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [字符串](https://leetcode-cn.com/tag/string) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 

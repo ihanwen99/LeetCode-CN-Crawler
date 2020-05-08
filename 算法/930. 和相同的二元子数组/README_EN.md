@@ -28,4 +28,4 @@ The 4 subarrays are bolded below:
 	<li><code>0 &lt;= S &lt;= A.length</code></li>
 	<li><code>A[i]</code>&nbsp;is either <code>0</code>&nbsp;or <code>1</code>.</li>
 </ol>
-**Related Topics	**[Hash Table](https://leetcode-cn.com/tag/hash-table) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) 
+**Related Topics**  [Hash Table](https://leetcode-cn.com/tag/hash-table) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) 

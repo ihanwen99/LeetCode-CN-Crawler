@@ -42,7 +42,7 @@ rotate 2 steps to the right: [3,99,-1,-100]
 	<li><code>k &gt;= 0</code></li>
 </ul>
 
-**Related Topic	**[Array](https://leetcode-cn.com/tag/array) 
+**Related Topic**  [Array](https://leetcode-cn.com/tag/array) 
 
 ### Similar Questions
  - Medium:	[Rotate List](https://leetcode-cn.com/problems/rotate-list) 

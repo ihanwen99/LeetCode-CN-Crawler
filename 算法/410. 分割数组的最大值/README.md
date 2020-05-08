@@ -28,4 +28,4 @@
 因为此时这两个子数组各自的和的最大值为18，在所有情况中最小。
 </pre>
 
-**标签:	**[二分查找](https://leetcode-cn.com/tag/binary-search) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [二分查找](https://leetcode-cn.com/tag/binary-search) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 

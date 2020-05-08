@@ -26,7 +26,7 @@ The third fraction is 2/5.
 	<li>Each <code>A[i]</code> will be between <code>1</code> and <code>30000</code>.</li>
 	<li><code>K</code> will be between <code>1</code> and <code>A.length * (A.length - 1) / 2</code>.</li>
 </ul>
-**Related Topics	**[Heap](https://leetcode-cn.com/tag/heap) [Binary Search](https://leetcode-cn.com/tag/binary-search) 
+**Related Topics**  [Heap](https://leetcode-cn.com/tag/heap) [Binary Search](https://leetcode-cn.com/tag/binary-search) 
 
 ### Similar Questions
  - Medium:	[Kth Smallest Element in a Sorted Matrix](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix) 

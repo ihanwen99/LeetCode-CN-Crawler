@@ -15,7 +15,7 @@
 <pre><strong>输入: </strong><code>&quot;abcd&quot;</code>
 <strong>输出:</strong> <code>&quot;dcbabcd&quot;</code></pre>
 
-**标签:	**[字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [字符串](https://leetcode-cn.com/tag/string) 
  ### 相似题目
 - 中等:	[最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring) 
 - 简单:	[实现 strStr()](https://leetcode-cn.com/problems/implement-strstr) 

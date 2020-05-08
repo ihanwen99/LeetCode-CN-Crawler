@@ -45,7 +45,7 @@
 </div>
 </div>
 </div>
-**Related Topic	**[Math](https://leetcode-cn.com/tag/math) 
+**Related Topic**  [Math](https://leetcode-cn.com/tag/math) 
 
 ### Similar Question
  - Medium:	[Encode Number](https://leetcode-cn.com/problems/encode-number) 

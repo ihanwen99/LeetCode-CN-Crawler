@@ -31,7 +31,7 @@
 <b>Output:</b> &quot;One Billion Two Hundred Thirty Four Million Five Hundred Sixty Seven Thousand Eight Hundred Ninety One&quot;
 </pre>
 
-**Related Topics	**[Math](https://leetcode-cn.com/tag/math) [String](https://leetcode-cn.com/tag/string) 
+**Related Topics**  [Math](https://leetcode-cn.com/tag/math) [String](https://leetcode-cn.com/tag/string) 
 
 ### Similar Question
  - Medium:	[Integer to Roman](https://leetcode-cn.com/problems/integer-to-roman) 

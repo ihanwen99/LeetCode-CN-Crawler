@@ -64,7 +64,7 @@
 	<li><code>1 &lt;= len(chars) &lt;= 1000</code>。</li>
 </ol>
 
-**标签:	**[字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [字符串](https://leetcode-cn.com/tag/string) 
  ### 相似题目
 - 简单:	[外观数列](https://leetcode-cn.com/problems/count-and-say) 
 - 中等:	[字符串的编码与解码](https://leetcode-cn.com/problems/encode-and-decode-strings) 

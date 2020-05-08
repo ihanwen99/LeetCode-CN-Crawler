@@ -44,6 +44,6 @@
 	<li>&nbsp;<code>board[i][j]</code>&nbsp;是集合&nbsp;<code>{&quot; &quot;, &quot;X&quot;, &quot;O&quot;}</code>&nbsp;中的一个字符。</li>
 </ul>
 
-**标签:	**[递归](https://leetcode-cn.com/tag/recursion) [数学](https://leetcode-cn.com/tag/math) 
+**标签:**  [递归](https://leetcode-cn.com/tag/recursion) [数学](https://leetcode-cn.com/tag/math) 
  ### 相似题目
 - 中等:	[判定井字棋胜负](https://leetcode-cn.com/problems/design-tic-tac-toe) 

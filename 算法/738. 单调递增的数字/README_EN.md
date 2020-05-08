@@ -32,7 +32,7 @@ Given a non-negative integer <code>N</code>, find the largest number that is les
 <p><b>Note:</b>
 <code>N</code> is an integer in the range <code>[0, 10^9]</code>.
 </p>
-**Related Topic	**[Greedy](https://leetcode-cn.com/tag/greedy) 
+**Related Topic**  [Greedy](https://leetcode-cn.com/tag/greedy) 
 
 ### Similar Question
  - Medium:	[Remove K Digits](https://leetcode-cn.com/problems/remove-k-digits) 

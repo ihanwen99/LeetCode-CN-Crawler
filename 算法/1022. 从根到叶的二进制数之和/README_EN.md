@@ -30,4 +30,4 @@
 	<li>The answer will not exceed <code>2^31 - 1</code>.</li>
 </ol>
 
-**Related Topic	**[Tree](https://leetcode-cn.com/tag/tree) 
+**Related Topic**  [Tree](https://leetcode-cn.com/tag/tree) 

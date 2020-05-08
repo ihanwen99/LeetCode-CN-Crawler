@@ -27,4 +27,4 @@ small = [4]</code>
 	<li><code>1 &lt;= small.length&nbsp;&lt;= 100000</code></li>
 </ul>
 
-**标签:	**[None](https://leetcode-cn.com/tag/sliding-window) 
+**标签:**  [None](https://leetcode-cn.com/tag/sliding-window) 

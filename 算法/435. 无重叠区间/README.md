@@ -41,6 +41,6 @@
 <strong>解释:</strong> 你不需要移除任何区间，因为它们已经是无重叠的了。
 </pre>
 
-**标签:	**[贪心算法](https://leetcode-cn.com/tag/greedy) 
+**标签:**  [贪心算法](https://leetcode-cn.com/tag/greedy) 
  ### 相似题目
 - 中等:	[用最少数量的箭引爆气球](https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons) 

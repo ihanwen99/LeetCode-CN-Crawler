@@ -27,4 +27,4 @@
 	<li><code>1 &lt;= N &lt;= 10^9</code></li>
 </ol>
 
-**标签:	**[字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [字符串](https://leetcode-cn.com/tag/string) 

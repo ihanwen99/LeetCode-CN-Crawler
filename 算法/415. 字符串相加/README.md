@@ -13,7 +13,7 @@
 	<li><strong>你不能使用任何內建 BigInteger 库，&nbsp;也不能直接将输入的字符串转换为整数形式。</strong></li>
 </ol>
 
-**标签:	**[字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [字符串](https://leetcode-cn.com/tag/string) 
  ### 相似题目
 - 中等:	[两数相加](https://leetcode-cn.com/problems/add-two-numbers) 
 - 中等:	[字符串相乘](https://leetcode-cn.com/problems/multiply-strings) 

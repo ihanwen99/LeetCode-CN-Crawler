@@ -55,4 +55,4 @@
 	<li><code>s</code> consists of only lowercase English letters and/or digits.</li>
 </ul>
 
-**Related Topic	**[String](https://leetcode-cn.com/tag/string) 
+**Related Topic**  [String](https://leetcode-cn.com/tag/string) 

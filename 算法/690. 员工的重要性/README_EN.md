@@ -28,7 +28,7 @@ Employee 1 has importance value 5, and he has two direct subordinates: employee 
 
 <p>&nbsp;</p>
 
-**Related Topics	**[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) [Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search) [Hash Table](https://leetcode-cn.com/tag/hash-table) 
+**Related Topics**  [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) [Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search) [Hash Table](https://leetcode-cn.com/tag/hash-table) 
 
 ### Similar Question
  - Easy:	[Nested List Weight Sum](https://leetcode-cn.com/problems/nested-list-weight-sum) 

@@ -28,7 +28,7 @@
 
 <p>&nbsp;</p>
 
-**Related Topics	**[Heap](https://leetcode-cn.com/tag/heap) [Greedy](https://leetcode-cn.com/tag/greedy) [Sort](https://leetcode-cn.com/tag/sort) [String](https://leetcode-cn.com/tag/string) 
+**Related Topics**  [Heap](https://leetcode-cn.com/tag/heap) [Greedy](https://leetcode-cn.com/tag/greedy) [Sort](https://leetcode-cn.com/tag/sort) [String](https://leetcode-cn.com/tag/string) 
 
 ### Similar Questions
  - Hard:	[Rearrange String k Distance Apart](https://leetcode-cn.com/problems/rearrange-string-k-distance-apart) 

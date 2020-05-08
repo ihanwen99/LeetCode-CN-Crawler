@@ -33,7 +33,7 @@
 <p><b>Notes:</b><br />
 You may assume <code>pattern</code> contains only lowercase letters, and <code>str</code> contains lowercase letters that may be separated by a single space.</p>
 
-**Related Topic	**[Hash Table](https://leetcode-cn.com/tag/hash-table) 
+**Related Topic**  [Hash Table](https://leetcode-cn.com/tag/hash-table) 
 
 ### Similar Questions
  - Easy:	[Isomorphic Strings](https://leetcode-cn.com/problems/isomorphic-strings) 

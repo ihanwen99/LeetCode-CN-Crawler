@@ -23,7 +23,7 @@
 	<li><code>0 &lt;= k &lt; 10^6</code></li>
 </ul>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) [双指针](https://leetcode-cn.com/tag/two-pointers) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) [双指针](https://leetcode-cn.com/tag/two-pointers) 
  ### 相似题目
 - 中等:	[乘积最大子数组](https://leetcode-cn.com/problems/maximum-product-subarray) 
 - 中等:	[和等于 k 的最长子数组长度](https://leetcode-cn.com/problems/maximum-size-subarray-sum-equals-k) 

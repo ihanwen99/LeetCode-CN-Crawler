@@ -54,4 +54,4 @@ Choosing set {2,7} is not possible as it will make the new array [3,3,3,3,5,5,5]
 	<li><code>arr.length</code> is even.</li>
 	<li><code>1 &lt;= arr[i] &lt;= 10^5</code></li>
 </ul>
-**Related Topics	**[Greedy](https://leetcode-cn.com/tag/greedy) [Array](https://leetcode-cn.com/tag/array) 
+**Related Topics**  [Greedy](https://leetcode-cn.com/tag/greedy) [Array](https://leetcode-cn.com/tag/array) 

@@ -21,7 +21,7 @@
 <strong>解释: </strong>通过重复调用&nbsp;<em>next&nbsp;</em>直到&nbsp;<em>hasNex</em>t 返回 false，<em>next&nbsp;</em>返回的元素的顺序应该是: <code>[1,4,6]</code>。
 </pre>
 
-**标签:	**[栈](https://leetcode-cn.com/tag/stack) [设计](https://leetcode-cn.com/tag/design) 
+**标签:**  [栈](https://leetcode-cn.com/tag/stack) [设计](https://leetcode-cn.com/tag/design) 
  ### 相似题目
 - 中等:	[展开二维向量](https://leetcode-cn.com/problems/flatten-2d-vector) 
 - 中等:	[锯齿迭代器](https://leetcode-cn.com/problems/zigzag-iterator) 

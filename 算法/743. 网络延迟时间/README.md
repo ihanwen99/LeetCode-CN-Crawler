@@ -29,4 +29,4 @@
 	<li>所有的边&nbsp;<code>times[i] = (u, v, w)</code>&nbsp;都有&nbsp;<code>1 &lt;= u, v &lt;= N</code>&nbsp;且&nbsp;<code>0 &lt;= w &lt;= 100</code>。</li>
 </ol>
 
-**标签:	**[堆](https://leetcode-cn.com/tag/heap) [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) [广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search) [图](https://leetcode-cn.com/tag/graph) 
+**标签:**  [堆](https://leetcode-cn.com/tag/heap) [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) [广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search) [图](https://leetcode-cn.com/tag/graph) 

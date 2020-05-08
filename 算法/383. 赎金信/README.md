@@ -17,6 +17,6 @@ canConstruct(&quot;aa&quot;, &quot;ab&quot;) -&gt; false
 canConstruct(&quot;aa&quot;, &quot;aab&quot;) -&gt; true
 </pre>
 
-**标签:	**[字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [字符串](https://leetcode-cn.com/tag/string) 
  ### 相似题目
 - 困难:	[贴纸拼词](https://leetcode-cn.com/problems/stickers-to-spell-word) 

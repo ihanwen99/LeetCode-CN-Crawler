@@ -49,4 +49,4 @@
 	<li><code>1 &lt;= target[i] &lt;= 10^9</code></li>
 </ul>
 
-**Related Topic	**[Greedy](https://leetcode-cn.com/tag/greedy) 
+**Related Topic**  [Greedy](https://leetcode-cn.com/tag/greedy) 

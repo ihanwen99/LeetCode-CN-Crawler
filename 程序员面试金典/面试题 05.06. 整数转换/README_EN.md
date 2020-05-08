@@ -24,4 +24,4 @@
 	<li><code>-2147483648 &lt;= A, B &lt;= 2147483647</code></li>
 </ol>
 
-**Related Topic	**[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) 
+**Related Topic**  [Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) 

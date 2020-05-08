@@ -55,6 +55,6 @@
 	<li><code>1 &lt;=&nbsp;capacity &lt;= 100000</code></li>
 </ol>
 
-**标签:	**[贪心算法](https://leetcode-cn.com/tag/greedy) 
+**标签:**  [贪心算法](https://leetcode-cn.com/tag/greedy) 
  ### 相似题目
 - 中等:	[会议室 II](https://leetcode-cn.com/problems/meeting-rooms-ii) 

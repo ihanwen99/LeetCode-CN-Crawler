@@ -33,7 +33,7 @@
 <br/><b>Explanation:</b> Almost the same as the first example, <br/>except we can't omit the first parenthesis pair to break the one-to-one mapping relationship between the input and the output.
 </pre>
 </p>
-**Related Topics	**[Tree](https://leetcode-cn.com/tag/tree) [String](https://leetcode-cn.com/tag/string) 
+**Related Topics**  [Tree](https://leetcode-cn.com/tag/tree) [String](https://leetcode-cn.com/tag/string) 
 
 ### Similar Questions
  - Medium:	[Construct Binary Tree from String](https://leetcode-cn.com/problems/construct-binary-tree-from-string) 

@@ -26,4 +26,4 @@
 	<li><code>num</code>中不会出现 0, 1 这两个数字</li>
 </ul>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) 

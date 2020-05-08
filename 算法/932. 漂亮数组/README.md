@@ -35,4 +35,4 @@
 
 <p>&nbsp;</p>
 
-**标签:	**[分治算法](https://leetcode-cn.com/tag/divide-and-conquer) 
+**标签:**  [分治算法](https://leetcode-cn.com/tag/divide-and-conquer) 

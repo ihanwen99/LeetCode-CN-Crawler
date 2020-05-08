@@ -12,6 +12,6 @@
 <strong>输出:</strong> 4
 <strong>解释:</strong> 最长连续序列是 <code>[1, 2, 3, 4]。它的长度为 4。</code></pre>
 
-**标签:	**[并查集](https://leetcode-cn.com/tag/union-find) [数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [并查集](https://leetcode-cn.com/tag/union-find) [数组](https://leetcode-cn.com/tag/array) 
  ### 相似题目
 - 中等:	[二叉树最长连续序列](https://leetcode-cn.com/problems/binary-tree-longest-consecutive-sequence) 

@@ -37,7 +37,7 @@ findMedian() -&gt; 2
 	<li>If 99% of all integer numbers from the stream are between 0 and 100, how would you optimize it?</li>
 </ol>
 
-**Related Topics	**[Heap](https://leetcode-cn.com/tag/heap) [Design](https://leetcode-cn.com/tag/design) 
+**Related Topics**  [Heap](https://leetcode-cn.com/tag/heap) [Design](https://leetcode-cn.com/tag/design) 
 
 ### Similar Question
  - Hard:	[Sliding Window Median](https://leetcode-cn.com/problems/sliding-window-median) 

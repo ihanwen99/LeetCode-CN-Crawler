@@ -27,4 +27,4 @@
 	<li><code>difficulty[i], profit[i], worker[i]</code>&nbsp; are in range&nbsp;<code>[1, 10^5]</code></li>
 </ul>
 
-**Related Topic	**[Two Pointers](https://leetcode-cn.com/tag/two-pointers) 
+**Related Topic**  [Two Pointers](https://leetcode-cn.com/tag/two-pointers) 

@@ -34,4 +34,4 @@
 	<li>对于给定的 <code>A</code> 和 <code>B</code>，保证存在满足要求的 <code>S</code>。</li>
 </ol>
 
-**标签:	**[贪心算法](https://leetcode-cn.com/tag/greedy) 
+**标签:**  [贪心算法](https://leetcode-cn.com/tag/greedy) 

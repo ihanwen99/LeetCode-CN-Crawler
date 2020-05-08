@@ -50,4 +50,4 @@
 	<li>所有 <code>id<sub>i</sub></code> 各不相同。</li>
 </ul>
 
-**标签:	**[排序](https://leetcode-cn.com/tag/sort) [数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [排序](https://leetcode-cn.com/tag/sort) [数组](https://leetcode-cn.com/tag/array) 

@@ -16,4 +16,4 @@
 
 <p>If you have figured out the O(n) solution, try coding another solution using the divide and conquer approach, which is more subtle.</p>
 
-**Related Topics	**[Array](https://leetcode-cn.com/tag/array) [Divide and Conquer](https://leetcode-cn.com/tag/divide-and-conquer) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topics**  [Array](https://leetcode-cn.com/tag/array) [Divide and Conquer](https://leetcode-cn.com/tag/divide-and-conquer) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 

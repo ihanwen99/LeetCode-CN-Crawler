@@ -35,7 +35,7 @@ k = <code>3</code>
 <strong>输出:</strong>
 <code>[9, 8, 9]</code></pre>
 
-**标签:	**[贪心算法](https://leetcode-cn.com/tag/greedy) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [贪心算法](https://leetcode-cn.com/tag/greedy) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
  ### 相似题目
 - 中等:	[移掉K位数字](https://leetcode-cn.com/problems/remove-k-digits) 
 - 中等:	[最大交换](https://leetcode-cn.com/problems/maximum-swap) 

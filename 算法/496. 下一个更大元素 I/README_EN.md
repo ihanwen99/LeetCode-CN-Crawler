@@ -38,7 +38,7 @@ The Next Greater Number of a number <b>x</b> in <code>nums1</code> is the first 
 <li>The length of both <code>nums1</code> and <code>nums2</code> would not exceed 1000.</li>
 </ol>
 </p>
-**Related Topic	**[Stack](https://leetcode-cn.com/tag/stack) 
+**Related Topic**  [Stack](https://leetcode-cn.com/tag/stack) 
 
 ### Similar Questions
  - Medium:	[Next Greater Element II](https://leetcode-cn.com/problems/next-greater-element-ii) 

@@ -16,7 +16,7 @@
 	<li>如果 S 中存在这样的子串，我们保证它是唯一的答案。</li>
 </ul>
 
-**标签:	**[哈希表](https://leetcode-cn.com/tag/hash-table) [双指针](https://leetcode-cn.com/tag/two-pointers) [字符串](https://leetcode-cn.com/tag/string) [None](https://leetcode-cn.com/tag/sliding-window) 
+**标签:**  [哈希表](https://leetcode-cn.com/tag/hash-table) [双指针](https://leetcode-cn.com/tag/two-pointers) [字符串](https://leetcode-cn.com/tag/string) [None](https://leetcode-cn.com/tag/sliding-window) 
  ### 相似题目
 - 困难:	[串联所有单词的子串](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words) 
 - 中等:	[长度最小的子数组](https://leetcode-cn.com/problems/minimum-size-subarray-sum) 

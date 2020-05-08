@@ -30,7 +30,7 @@
 
 <p>你的算法的时间复杂度应为O(<em>n</em>)，并且只能使用常数级别的额外空间。</p>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) 
  ### 相似题目
 - 简单:	[缺失数字](https://leetcode-cn.com/problems/missing-number) 
 - 中等:	[寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number) 

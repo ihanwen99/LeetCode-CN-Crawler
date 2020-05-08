@@ -30,7 +30,7 @@ The 4th course cannot be taken now, since you will finish it on the 3300th day, 
 
 <p>&nbsp;</p>
 
-**Related Topic	**[Greedy](https://leetcode-cn.com/tag/greedy) 
+**Related Topic**  [Greedy](https://leetcode-cn.com/tag/greedy) 
 
 ### Similar Questions
  - Medium:	[Course Schedule](https://leetcode-cn.com/problems/course-schedule) 

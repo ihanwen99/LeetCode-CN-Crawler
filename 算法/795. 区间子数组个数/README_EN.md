@@ -23,4 +23,4 @@ R = 3
 	<li>The length of <code>A</code> will be in the range of <code>[1, 50000]</code>.</li>
 </ul>
 
-**Related Topic	**[Array](https://leetcode-cn.com/tag/array) 
+**Related Topic**  [Array](https://leetcode-cn.com/tag/array) 

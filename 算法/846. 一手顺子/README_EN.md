@@ -37,4 +37,4 @@
 	<li><code>1 &lt;= W &lt;= hand.length</code></li>
 </ol>
 
-**Related Topic	**[Ordered Map](https://leetcode-cn.com/tag/ordered-map) 
+**Related Topic**  [Ordered Map](https://leetcode-cn.com/tag/ordered-map) 

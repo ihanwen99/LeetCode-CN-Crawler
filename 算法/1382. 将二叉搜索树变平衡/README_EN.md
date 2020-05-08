@@ -26,4 +26,4 @@
 	<li>The number of nodes in the tree is between&nbsp;<code>1</code>&nbsp;and&nbsp;<code>10^4</code>.</li>
 	<li>The tree nodes will have distinct values between&nbsp;<code>1</code>&nbsp;and&nbsp;<code>10^5</code>.</li>
 </ul>
-**Related Topic	**[Binary Search Tree](https://leetcode-cn.com/tag/binary-search-tree) 
+**Related Topic**  [Binary Search Tree](https://leetcode-cn.com/tag/binary-search-tree) 

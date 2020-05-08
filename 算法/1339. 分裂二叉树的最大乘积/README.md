@@ -47,4 +47,4 @@
 	<li>每个节点的值在&nbsp;<code>[1, 10000]</code>&nbsp;之间。</li>
 </ul>
 
-**标签:	**[树](https://leetcode-cn.com/tag/tree) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [树](https://leetcode-cn.com/tag/tree) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 

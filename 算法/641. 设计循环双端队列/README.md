@@ -41,6 +41,6 @@ circularDeque.getFront();				// 返回 4
 	<li>请不要使用内置的双端队列库。</li>
 </ul>
 
-**标签:	**[设计](https://leetcode-cn.com/tag/design) [队列](https://leetcode-cn.com/tag/queue) 
+**标签:**  [设计](https://leetcode-cn.com/tag/design) [队列](https://leetcode-cn.com/tag/queue) 
  ### 相似题目
 - 中等:	[设计循环队列](https://leetcode-cn.com/problems/design-circular-queue) 

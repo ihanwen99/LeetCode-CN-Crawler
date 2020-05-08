@@ -67,4 +67,4 @@ The total cost = 3.
 	<li><code>1 &lt;= m, n &lt;= 100</code></li>
 </ul>
 
-**Related Topic	**[Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search) 
+**Related Topic**  [Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search) 

@@ -23,4 +23,4 @@
 	<li><code>0 &lt;= len(s2) &lt;= 100 </code></li>
 </ul>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) [字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) [字符串](https://leetcode-cn.com/tag/string) 

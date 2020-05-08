@@ -32,6 +32,6 @@ findMedian() -&gt; 2</pre>
 	<li>如果数据流中 99% 的整数都在 0 到 100 范围内，你将如何优化你的算法？</li>
 </ol>
 
-**标签:	**[堆](https://leetcode-cn.com/tag/heap) [设计](https://leetcode-cn.com/tag/design) 
+**标签:**  [堆](https://leetcode-cn.com/tag/heap) [设计](https://leetcode-cn.com/tag/design) 
  ### 相似题目
 - 困难:	[滑动窗口中位数](https://leetcode-cn.com/problems/sliding-window-median) 

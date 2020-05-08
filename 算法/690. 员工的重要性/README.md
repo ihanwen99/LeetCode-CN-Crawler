@@ -24,6 +24,6 @@
 	<li>员工数量不超过2000。</li>
 </ol>
 
-**标签:	**[深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) [广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search) [哈希表](https://leetcode-cn.com/tag/hash-table) 
+**标签:**  [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) [广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search) [哈希表](https://leetcode-cn.com/tag/hash-table) 
  ### 相似题目
 - 简单:	[嵌套列表权重和](https://leetcode-cn.com/problems/nested-list-weight-sum) 

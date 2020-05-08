@@ -30,7 +30,7 @@
 	<li>如果&nbsp;<em>nums2&nbsp;</em>的元素存储在磁盘上，磁盘内存是有限的，并且你不能一次加载所有的元素到内存中，你该怎么办？</li>
 </ul>
 
-**标签:	**[排序](https://leetcode-cn.com/tag/sort) [哈希表](https://leetcode-cn.com/tag/hash-table) [双指针](https://leetcode-cn.com/tag/two-pointers) [二分查找](https://leetcode-cn.com/tag/binary-search) 
+**标签:**  [排序](https://leetcode-cn.com/tag/sort) [哈希表](https://leetcode-cn.com/tag/hash-table) [双指针](https://leetcode-cn.com/tag/two-pointers) [二分查找](https://leetcode-cn.com/tag/binary-search) 
  ### 相似题目
 - 简单:	[两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays) 
 - 简单:	[查找常用字符](https://leetcode-cn.com/problems/find-common-characters) 

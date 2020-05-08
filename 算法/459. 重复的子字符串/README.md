@@ -32,7 +32,7 @@
 <strong>解释:</strong> 可由子字符串 &quot;abc&quot; 重复四次构成。 (或者子字符串 &quot;abcabc&quot; 重复两次构成。)
 </pre>
 
-**标签:	**[字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [字符串](https://leetcode-cn.com/tag/string) 
  ### 相似题目
 - 简单:	[实现 strStr()](https://leetcode-cn.com/problems/implement-strstr) 
 - 简单:	[重复叠加字符串匹配](https://leetcode-cn.com/problems/repeated-string-match) 

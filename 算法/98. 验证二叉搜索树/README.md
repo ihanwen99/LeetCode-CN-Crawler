@@ -34,7 +34,7 @@
 &nbsp;    根节点的值为 5 ，但是其右子节点值为 4 。
 </pre>
 
-**标签:	**[树](https://leetcode-cn.com/tag/tree) [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) 
+**标签:**  [树](https://leetcode-cn.com/tag/tree) [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) 
  ### 相似题目
 - 中等:	[二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal) 
 - 简单:	[二叉搜索树中的众数](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree) 

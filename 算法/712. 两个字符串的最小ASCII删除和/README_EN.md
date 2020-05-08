@@ -29,7 +29,7 @@ If instead we turned both strings into "lee" or "eet", we would get answers of 4
 <li><code>0 < s1.length, s2.length <= 1000</code>.</li>
 <li>All elements of each string will have an ASCII value in <code>[97, 122]</code>.</li> 
 </p>
-**Related Topic	**[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topic**  [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
 
 ### Similar Questions
  - Hard:	[Edit Distance](https://leetcode-cn.com/problems/edit-distance) 

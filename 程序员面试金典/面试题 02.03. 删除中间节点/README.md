@@ -13,4 +13,4 @@
 <strong>结果：</strong>不返回任何数据，但该链表变为a->b->d->e->f
 </pre>
 
-**标签:	**[链表](https://leetcode-cn.com/tag/linked-list) 
+**标签:**  [链表](https://leetcode-cn.com/tag/linked-list) 

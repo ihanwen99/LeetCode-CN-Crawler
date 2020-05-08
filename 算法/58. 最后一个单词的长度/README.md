@@ -16,4 +16,4 @@
 <strong>输出:</strong> 5
 </pre>
 
-**标签:	**[字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [字符串](https://leetcode-cn.com/tag/string) 

@@ -17,7 +17,7 @@
 <p><strong>说明:</strong><br>
 尽管上面的答案是按字典序排列的，但是你可以任意选择答案输出的顺序。</p>
 
-**标签:	**[字符串](https://leetcode-cn.com/tag/string) [回溯算法](https://leetcode-cn.com/tag/backtracking) 
+**标签:**  [字符串](https://leetcode-cn.com/tag/string) [回溯算法](https://leetcode-cn.com/tag/backtracking) 
  ### 相似题目
 - 中等:	[括号生成](https://leetcode-cn.com/problems/generate-parentheses) 
 - 中等:	[组合总和](https://leetcode-cn.com/problems/combination-sum) 

@@ -27,6 +27,6 @@
 
 <p><strong>说明:</strong>&nbsp;<code>1 &lt;= N &lt;= 10000</code></p>
 
-**标签:	**[树](https://leetcode-cn.com/tag/tree) [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) 
+**标签:**  [树](https://leetcode-cn.com/tag/tree) [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) 
  ### 相似题目
 - 中等:	[在二叉树中分配硬币](https://leetcode-cn.com/problems/distribute-coins-in-binary-tree) 

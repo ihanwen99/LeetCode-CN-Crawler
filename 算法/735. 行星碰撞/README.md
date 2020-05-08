@@ -56,6 +56,6 @@ asteroids = [-2, -1, 1, 2]
 	<li>每一颗行星的大小都是非零整数，范围是&nbsp;<code>[-1000, 1000]</code>&nbsp;。</li>
 </ul>
 
-**标签:	**[栈](https://leetcode-cn.com/tag/stack) 
+**标签:**  [栈](https://leetcode-cn.com/tag/stack) 
  ### 相似题目
 - 简单:	[种花问题](https://leetcode-cn.com/problems/can-place-flowers) 

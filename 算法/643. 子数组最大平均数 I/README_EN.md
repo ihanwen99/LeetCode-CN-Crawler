@@ -23,7 +23,7 @@
 
 <p>&nbsp;</p>
 
-**Related Topic	**[Array](https://leetcode-cn.com/tag/array) 
+**Related Topic**  [Array](https://leetcode-cn.com/tag/array) 
 
 ### Similar Question
  - Hard:	[Maximum Average Subarray II](https://leetcode-cn.com/problems/maximum-average-subarray-ii) 

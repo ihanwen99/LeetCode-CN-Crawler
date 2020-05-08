@@ -34,4 +34,4 @@ iterator.hasNext(); // returns false
 	<li>It&#39;s guaranteed that all&nbsp;calls&nbsp;of the function <code>next</code>&nbsp;are valid.</li>
 </ul>
 
-**Related Topics	**[Design](https://leetcode-cn.com/tag/design) [Backtracking](https://leetcode-cn.com/tag/backtracking) 
+**Related Topics**  [Design](https://leetcode-cn.com/tag/design) [Backtracking](https://leetcode-cn.com/tag/backtracking) 

@@ -36,4 +36,4 @@
 	<li><code>0 &lt;= queries[i][1] &lt; A.length</code></li>
 </ol>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) 

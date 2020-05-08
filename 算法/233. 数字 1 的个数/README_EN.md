@@ -12,7 +12,7 @@
 <strong>Explanation: </strong>Digit 1 occurred in the following numbers: 1, 10, 11, 12, 13.
 </pre>
 
-**Related Topic	**[Math](https://leetcode-cn.com/tag/math) 
+**Related Topic**  [Math](https://leetcode-cn.com/tag/math) 
 
 ### Similar Questions
  - Easy:	[Factorial Trailing Zeroes](https://leetcode-cn.com/problems/factorial-trailing-zeroes) 

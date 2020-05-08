@@ -33,6 +33,6 @@
 	<li>本题与 530：<a href="https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/">https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/</a> 相同</li>
 </ol>
 
-**标签:	**[树](https://leetcode-cn.com/tag/tree) [递归](https://leetcode-cn.com/tag/recursion) 
+**标签:**  [树](https://leetcode-cn.com/tag/tree) [递归](https://leetcode-cn.com/tag/recursion) 
  ### 相似题目
 - 中等:	[二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal) 

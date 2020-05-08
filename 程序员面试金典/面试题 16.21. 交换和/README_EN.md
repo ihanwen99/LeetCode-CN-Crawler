@@ -25,4 +25,4 @@
 	<li><code>1 &lt;= array1.length, array2.length &lt;= 100000</code></li>
 </ul>
 
-**Related Topics	**[Sort](https://leetcode-cn.com/tag/sort) [Array](https://leetcode-cn.com/tag/array) 
+**Related Topics**  [Sort](https://leetcode-cn.com/tag/sort) [Array](https://leetcode-cn.com/tag/array) 

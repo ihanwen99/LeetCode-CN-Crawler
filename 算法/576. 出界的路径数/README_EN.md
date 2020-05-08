@@ -34,7 +34,7 @@
 	<li>N is in range [0,50].</li>
 </ol>
 
-**Related Topics	**[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topics**  [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
 
 ### Similar Question
  - Medium:	[Knight Probability in Chessboard](https://leetcode-cn.com/problems/knight-probability-in-chessboard) 

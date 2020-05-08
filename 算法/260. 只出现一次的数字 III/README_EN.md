@@ -16,7 +16,7 @@
 	<li>The order of the result is not important. So in the above example, <code>[5, 3]</code> is also correct.</li>
 	<li>Your algorithm should run in linear runtime complexity. Could you implement it using only constant space complexity?</li>
 </ol>
-**Related Topic	**[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) 
+**Related Topic**  [Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) 
 
 ### Similar Questions
  - Easy:	[Single Number](https://leetcode-cn.com/problems/single-number) 

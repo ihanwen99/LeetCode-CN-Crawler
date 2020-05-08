@@ -16,7 +16,7 @@
 <pre>
 <strong>Input: </strong><code>&quot;abcd&quot;</code>
 <strong>Output:</strong> <code>&quot;dcbabcd&quot;</code></pre>
-**Related Topic	**[String](https://leetcode-cn.com/tag/string) 
+**Related Topic**  [String](https://leetcode-cn.com/tag/string) 
 
 ### Similar Questions
  - Medium:	[Longest Palindromic Substring](https://leetcode-cn.com/problems/longest-palindromic-substring) 

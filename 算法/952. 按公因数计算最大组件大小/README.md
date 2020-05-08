@@ -46,4 +46,4 @@
 	<li><code>1 &lt;= A[i] &lt;= 100000</code></li>
 </ol>
 
-**标签:	**[并查集](https://leetcode-cn.com/tag/union-find) [数学](https://leetcode-cn.com/tag/math) 
+**标签:**  [并查集](https://leetcode-cn.com/tag/union-find) [数学](https://leetcode-cn.com/tag/math) 

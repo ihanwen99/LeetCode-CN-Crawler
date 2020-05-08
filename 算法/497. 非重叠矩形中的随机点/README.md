@@ -45,7 +45,7 @@
 
 <p>&nbsp;</p>
 
-**标签:	**[二分查找](https://leetcode-cn.com/tag/binary-search) [None](https://leetcode-cn.com/tag/random) 
+**标签:**  [二分查找](https://leetcode-cn.com/tag/binary-search) [None](https://leetcode-cn.com/tag/random) 
  ### 相似题目
 - 中等:	[按权重随机选择](https://leetcode-cn.com/problems/random-pick-with-weight) 
 - 中等:	[在圆内随机生成点](https://leetcode-cn.com/problems/generate-random-point-in-a-circle) 

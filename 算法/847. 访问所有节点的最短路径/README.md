@@ -35,4 +35,4 @@
 	<li><code>0 &lt;= graph[i].length &lt;&nbsp;graph.length</code></li>
 </ol>
 
-**标签:	**[广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 

@@ -67,7 +67,7 @@ p = &quot;mis*is*p*.&quot;
 <strong>Output:</strong> false
 </pre>
 
-**Related Topics	**[String](https://leetcode-cn.com/tag/string) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) [Backtracking](https://leetcode-cn.com/tag/backtracking) 
+**Related Topics**  [String](https://leetcode-cn.com/tag/string) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) [Backtracking](https://leetcode-cn.com/tag/backtracking) 
 
 ### Similar Question
  - Hard:	[Wildcard Matching](https://leetcode-cn.com/problems/wildcard-matching) 

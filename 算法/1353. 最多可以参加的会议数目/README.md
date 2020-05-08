@@ -57,4 +57,4 @@
 	<li><code>1 &lt;= events[i][0] &lt;= events[i][1] &lt;= 10^5</code></li>
 </ul>
 
-**标签:	**[贪心算法](https://leetcode-cn.com/tag/greedy) [排序](https://leetcode-cn.com/tag/sort) [线段树](https://leetcode-cn.com/tag/segment-tree) 
+**标签:**  [贪心算法](https://leetcode-cn.com/tag/greedy) [排序](https://leetcode-cn.com/tag/sort) [线段树](https://leetcode-cn.com/tag/segment-tree) 

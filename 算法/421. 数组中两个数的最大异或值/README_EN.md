@@ -20,4 +20,4 @@
 
 <p>&nbsp;</p>
 
-**Related Topics	**[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) [Trie](https://leetcode-cn.com/tag/trie) 
+**Related Topics**  [Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) [Trie](https://leetcode-cn.com/tag/trie) 

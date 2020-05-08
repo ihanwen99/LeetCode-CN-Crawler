@@ -39,4 +39,4 @@ Total time = 7 seconds</pre>
 	<li><code>-1000&nbsp;&lt;= points[i][0], points[i][1]&nbsp;&lt;= 1000</code></li>
 </ul>
 
-**Related Topics	**[Geometry](https://leetcode-cn.com/tag/geometry) [Array](https://leetcode-cn.com/tag/array) 
+**Related Topics**  [Geometry](https://leetcode-cn.com/tag/geometry) [Array](https://leetcode-cn.com/tag/array) 

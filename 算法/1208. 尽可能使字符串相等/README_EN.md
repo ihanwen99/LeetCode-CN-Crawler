@@ -43,4 +43,4 @@
 	<li><code>s</code> and&nbsp;<code>t</code> only contain lower case English letters.</li>
 </ul>
 
-**Related Topics	**[Array](https://leetcode-cn.com/tag/array) [Sliding Window](https://leetcode-cn.com/tag/sliding-window) 
+**Related Topics**  [Array](https://leetcode-cn.com/tag/array) [Sliding Window](https://leetcode-cn.com/tag/sliding-window) 

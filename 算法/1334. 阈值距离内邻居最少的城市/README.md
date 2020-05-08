@@ -54,4 +54,4 @@
 	<li>所有 <code>(from<sub>i</sub>, to<sub>i</sub>)</code>&nbsp;都是不同的。</li>
 </ul>
 
-**标签:	**[图](https://leetcode-cn.com/tag/graph) 
+**标签:**  [图](https://leetcode-cn.com/tag/graph) 

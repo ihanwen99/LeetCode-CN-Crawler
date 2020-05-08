@@ -18,7 +18,7 @@
 	<li>If there is such window, you are guaranteed that there will always be only one unique minimum window in S.</li>
 </ul>
 
-**Related Topics	**[Hash Table](https://leetcode-cn.com/tag/hash-table) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) [String](https://leetcode-cn.com/tag/string) [Sliding Window](https://leetcode-cn.com/tag/sliding-window) 
+**Related Topics**  [Hash Table](https://leetcode-cn.com/tag/hash-table) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) [String](https://leetcode-cn.com/tag/string) [Sliding Window](https://leetcode-cn.com/tag/sliding-window) 
 
 ### Similar Questions
  - Hard:	[Substring with Concatenation of All Words](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words) 

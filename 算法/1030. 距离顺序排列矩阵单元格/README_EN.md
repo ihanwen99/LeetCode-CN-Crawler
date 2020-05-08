@@ -53,4 +53,4 @@ There are other answers that would also be accepted as correct, such as [[1,2],[
 </div>
 </div>
 
-**Related Topic	**[Sort](https://leetcode-cn.com/tag/sort) 
+**Related Topic**  [Sort](https://leetcode-cn.com/tag/sort) 

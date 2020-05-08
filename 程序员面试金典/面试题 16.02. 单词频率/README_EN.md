@@ -31,4 +31,4 @@ wordsFrequency.get(&quot;pen&quot;); //returns 1
 	<li><code>get</code>&nbsp;function will not be called more than&nbsp;100000 times.</li>
 </ul>
 
-**Related Topics	**[Design](https://leetcode-cn.com/tag/design) [Hash Table](https://leetcode-cn.com/tag/hash-table) 
+**Related Topics**  [Design](https://leetcode-cn.com/tag/design) [Hash Table](https://leetcode-cn.com/tag/hash-table) 

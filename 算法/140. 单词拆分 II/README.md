@@ -46,7 +46,7 @@ wordDict = [&quot;cats&quot;, &quot;dog&quot;, &quot;sand&quot;, &quot;and&quot;
 </strong>[]
 </pre>
 
-**标签:	**[动态规划](https://leetcode-cn.com/tag/dynamic-programming) [回溯算法](https://leetcode-cn.com/tag/backtracking) 
+**标签:**  [动态规划](https://leetcode-cn.com/tag/dynamic-programming) [回溯算法](https://leetcode-cn.com/tag/backtracking) 
  ### 相似题目
 - 中等:	[单词拆分](https://leetcode-cn.com/problems/word-break) 
 - 困难:	[连接词](https://leetcode-cn.com/problems/concatenated-words) 

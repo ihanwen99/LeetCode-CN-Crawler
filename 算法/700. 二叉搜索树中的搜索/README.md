@@ -28,7 +28,7 @@
 
 <p>在上述示例中，如果要找的值是 <code>5</code>，但因为没有节点值为 <code>5</code>，我们应该返回 <code>NULL</code>。</p>
 
-**标签:	**[树](https://leetcode-cn.com/tag/tree) 
+**标签:**  [树](https://leetcode-cn.com/tag/tree) 
  ### 相似题目
 - 简单:	[最接近的二叉搜索树值](https://leetcode-cn.com/problems/closest-binary-search-tree-value) 
 - 中等:	[二叉搜索树中的插入操作](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree) 

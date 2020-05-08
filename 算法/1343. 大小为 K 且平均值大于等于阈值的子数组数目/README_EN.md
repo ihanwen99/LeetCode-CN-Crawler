@@ -53,4 +53,4 @@
 	<li><code>1 &lt;= k &lt;= arr.length</code></li>
 	<li><code>0 &lt;= threshold &lt;= 10^4</code></li>
 </ul>
-**Related Topic	**[Array](https://leetcode-cn.com/tag/array) 
+**Related Topic**  [Array](https://leetcode-cn.com/tag/array) 

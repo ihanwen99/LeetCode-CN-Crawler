@@ -31,4 +31,4 @@
 	<li>矩形叠加覆盖后的总面积不会超越&nbsp;<code>2^63 - 1</code>&nbsp;，这意味着可以用一个&nbsp;64 位有符号整数来保存面积结果。</li>
 </ul>
 
-**标签:	**[线段树](https://leetcode-cn.com/tag/segment-tree) [None](https://leetcode-cn.com/tag/line-sweep) 
+**标签:**  [线段树](https://leetcode-cn.com/tag/segment-tree) [None](https://leetcode-cn.com/tag/line-sweep) 

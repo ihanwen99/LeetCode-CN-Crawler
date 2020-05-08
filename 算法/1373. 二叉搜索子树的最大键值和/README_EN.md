@@ -62,4 +62,4 @@
 	<li>Each tree has at most <code>40000</code> nodes..</li>
 	<li>Each node&#39;s value is between <code>[-4 * 10^4&nbsp;, 4 * 10^4]</code>.</li>
 </ul>
-**Related Topics	**[Binary Search Tree](https://leetcode-cn.com/tag/binary-search-tree) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topics**  [Binary Search Tree](https://leetcode-cn.com/tag/binary-search-tree) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 

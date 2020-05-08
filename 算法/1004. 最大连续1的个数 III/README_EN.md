@@ -40,7 +40,7 @@ Bolded numbers were flipped from 0 to 1.  The longest subarray is underlined.
 </ol>
 </div>
 </div>
-**Related Topics	**[Two Pointers](https://leetcode-cn.com/tag/two-pointers) [Sliding Window](https://leetcode-cn.com/tag/sliding-window) 
+**Related Topics**  [Two Pointers](https://leetcode-cn.com/tag/two-pointers) [Sliding Window](https://leetcode-cn.com/tag/sliding-window) 
 
 ### Similar Questions
  - Hard:	[Longest Substring with At Most K Distinct Characters](https://leetcode-cn.com/problems/longest-substring-with-at-most-k-distinct-characters) 

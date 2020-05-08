@@ -39,7 +39,7 @@ eg. [10, 20), [10, 40), and [5, 15) are still triple booked.
 </ul>
 
 <p>&nbsp;</p>
-**Related Topics	**[Segment Tree](https://leetcode-cn.com/tag/segment-tree) [Ordered Map](https://leetcode-cn.com/tag/ordered-map) 
+**Related Topics**  [Segment Tree](https://leetcode-cn.com/tag/segment-tree) [Ordered Map](https://leetcode-cn.com/tag/ordered-map) 
 
 ### Similar Questions
  - Medium:	[My Calendar I](https://leetcode-cn.com/problems/my-calendar-i) 

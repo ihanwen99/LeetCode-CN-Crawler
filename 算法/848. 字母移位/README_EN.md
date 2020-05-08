@@ -31,4 +31,4 @@ After shifting the first 3 letters of S by 9, we have &quot;rpl&quot;, the answe
 	<li><code>0 &lt;= shifts[i] &lt;= 10 ^ 9</code></li>
 </ol>
 
-**Related Topic	**[String](https://leetcode-cn.com/tag/string) 
+**Related Topic**  [String](https://leetcode-cn.com/tag/string) 

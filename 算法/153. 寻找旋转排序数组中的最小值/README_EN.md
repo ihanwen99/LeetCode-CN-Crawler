@@ -24,7 +24,7 @@
 <strong>Output:</strong> 0
 </pre>
 
-**Related Topics	**[Array](https://leetcode-cn.com/tag/array) [Binary Search](https://leetcode-cn.com/tag/binary-search) 
+**Related Topics**  [Array](https://leetcode-cn.com/tag/array) [Binary Search](https://leetcode-cn.com/tag/binary-search) 
 
 ### Similar Questions
  - Medium:	[Search in Rotated Sorted Array](https://leetcode-cn.com/problems/search-in-rotated-sorted-array) 

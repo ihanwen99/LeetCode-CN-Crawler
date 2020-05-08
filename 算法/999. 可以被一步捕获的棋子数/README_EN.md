@@ -53,4 +53,4 @@ The rook can capture the pawns at positions b5, d6 and f5.
 	<li>There is exactly one cell with <code>board[i][j] == &#39;R&#39;</code></li>
 </ol>
 
-**Related Topic	**[Array](https://leetcode-cn.com/tag/array) 
+**Related Topic**  [Array](https://leetcode-cn.com/tag/array) 

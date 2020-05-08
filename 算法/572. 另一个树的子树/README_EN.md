@@ -48,7 +48,7 @@ Return <b>false</b>.
 
 <p>&nbsp;</p>
 
-**Related Topic	**[Tree](https://leetcode-cn.com/tag/tree) 
+**Related Topic**  [Tree](https://leetcode-cn.com/tag/tree) 
 
 ### Similar Questions
  - Medium:	[Count Univalue Subtrees](https://leetcode-cn.com/problems/count-univalue-subtrees) 

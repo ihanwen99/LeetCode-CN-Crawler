@@ -37,4 +37,4 @@ G = [0, 3, 1, 4]
 	<li><code>G</code> 是链表中所有结点的值的一个子集.</li>
 </ul>
 
-**标签:	**[链表](https://leetcode-cn.com/tag/linked-list) 
+**标签:**  [链表](https://leetcode-cn.com/tag/linked-list) 

@@ -20,4 +20,4 @@
 	<li>如果有多个结果，返回最小的那个。</li>
 </ol>
 
-**标签:	**[字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [字符串](https://leetcode-cn.com/tag/string) 

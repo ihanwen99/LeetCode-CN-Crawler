@@ -51,4 +51,4 @@ For the table 12: James, Ratesh and Amadeus order &quot;Fried Chicken&quot;.
 	<li><code>tableNumber<sub>i</sub>&nbsp;</code>is a valid integer between <code>1</code> and <code>500</code>.</li>
 </ul>
 
-**Related Topic	**[Hash Table](https://leetcode-cn.com/tag/hash-table) 
+**Related Topic**  [Hash Table](https://leetcode-cn.com/tag/hash-table) 

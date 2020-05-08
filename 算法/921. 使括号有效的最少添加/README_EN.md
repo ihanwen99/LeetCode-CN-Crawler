@@ -65,4 +65,4 @@
 </div>
 </div>
 </div>
-**Related Topics	**[Stack](https://leetcode-cn.com/tag/stack) [Greedy](https://leetcode-cn.com/tag/greedy) 
+**Related Topics**  [Stack](https://leetcode-cn.com/tag/stack) [Greedy](https://leetcode-cn.com/tag/greedy) 

@@ -38,4 +38,4 @@
 	<li>It is guaranteed such an <code>S</code> exists for the given <code>A</code> and <code>B</code>.</li>
 </ol>
 
-**Related Topic	**[Greedy](https://leetcode-cn.com/tag/greedy) 
+**Related Topic**  [Greedy](https://leetcode-cn.com/tag/greedy) 

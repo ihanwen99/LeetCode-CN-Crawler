@@ -58,4 +58,4 @@
 	<li><code>slices.length % 3 == 0</code></li>
 	<li><code>1 &lt;= slices[i] &lt;= 1000</code></li>
 </ul>
-**Related Topic	**[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topic**  [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 

@@ -33,7 +33,7 @@ s = "abpcplea", d = ["a","b","c"]
 <li>The length of all the strings in the input won't exceed 1,000.</li>
 </ol>
 </p>
-**Related Topics	**[Sort](https://leetcode-cn.com/tag/sort) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) 
+**Related Topics**  [Sort](https://leetcode-cn.com/tag/sort) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) 
 
 ### Similar Question
  - Easy:	[Longest Word in Dictionary](https://leetcode-cn.com/problems/longest-word-in-dictionary) 

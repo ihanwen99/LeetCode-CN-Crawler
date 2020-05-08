@@ -42,6 +42,6 @@
 	<li><strong>最终结果</strong>的分子与分母保证是 32 位整数范围内的有效整数。</li>
 </ol>
 
-**标签:	**[数学](https://leetcode-cn.com/tag/math) 
+**标签:**  [数学](https://leetcode-cn.com/tag/math) 
  ### 相似题目
 - 中等:	[求解方程](https://leetcode-cn.com/problems/solve-the-equation) 

@@ -30,7 +30,7 @@
 	<li>给定数独永远是&nbsp;<code>9x9</code>&nbsp;形式的。</li>
 </ul>
 
-**标签:	**[哈希表](https://leetcode-cn.com/tag/hash-table) [回溯算法](https://leetcode-cn.com/tag/backtracking) 
+**标签:**  [哈希表](https://leetcode-cn.com/tag/hash-table) [回溯算法](https://leetcode-cn.com/tag/backtracking) 
  ### 相似题目
 - 中等:	[有效的数独](https://leetcode-cn.com/problems/valid-sudoku) 
 - 困难:	[不同路径 III](https://leetcode-cn.com/problems/unique-paths-iii) 

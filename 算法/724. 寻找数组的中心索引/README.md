@@ -35,6 +35,6 @@ nums = [1, 2, 3]
 	<li>任何一个&nbsp;<code>nums[i]</code> 将会是一个范围在&nbsp;<code>[-1000, 1000]</code>的整数。</li>
 </ul>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) 
  ### 相似题目
 - 中等:	[和为K的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k) 

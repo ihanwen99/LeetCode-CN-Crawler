@@ -63,7 +63,7 @@
 	<li><code>1 &lt;=&nbsp;capacity &lt;= 100000</code></li>
 </ol>
 
-**Related Topic	**[Greedy](https://leetcode-cn.com/tag/greedy) 
+**Related Topic**  [Greedy](https://leetcode-cn.com/tag/greedy) 
 
 ### Similar Question
  - Medium:	[Meeting Rooms II](https://leetcode-cn.com/problems/meeting-rooms-ii) 

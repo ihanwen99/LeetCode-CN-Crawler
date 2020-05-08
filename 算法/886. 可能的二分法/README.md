@@ -46,4 +46,4 @@
 	<li>对于&nbsp;<code>dislikes[i] == dislikes[j]</code>&nbsp;不存在&nbsp;<code>i != j</code>&nbsp;</li>
 </ol>
 
-**标签:	**[深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) 
+**标签:**  [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) 

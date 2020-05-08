@@ -33,7 +33,7 @@ If there are multiple answers, print any of them.
 <li>The <code>n</code> and <code>k</code> are in the range 1 <= k < n <= 10<sup>4</sup>.</li>
 </ol>
 </p>
-**Related Topic	**[Array](https://leetcode-cn.com/tag/array) 
+**Related Topic**  [Array](https://leetcode-cn.com/tag/array) 
 
 ### Similar Question
  - Medium:	[Beautiful Arrangement](https://leetcode-cn.com/problems/beautiful-arrangement) 

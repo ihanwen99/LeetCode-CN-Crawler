@@ -32,7 +32,7 @@
 	<li>输入不会超过 32 位有符号整数的范围:&nbsp;[&minus;2<sup>31</sup>,&nbsp; 2<sup>31&nbsp;</sup>&minus; 1]。</li>
 </ol>
 
-**标签:	**[数学](https://leetcode-cn.com/tag/math) 
+**标签:**  [数学](https://leetcode-cn.com/tag/math) 
  ### 相似题目
 - 简单:	[快乐数](https://leetcode-cn.com/problems/happy-number) 
 - 简单:	[计数质数](https://leetcode-cn.com/problems/count-primes) 

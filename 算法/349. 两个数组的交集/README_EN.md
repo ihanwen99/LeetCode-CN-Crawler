@@ -28,7 +28,7 @@
 
 <p>&nbsp;</p>
 
-**Related Topics	**[Sort](https://leetcode-cn.com/tag/sort) [Hash Table](https://leetcode-cn.com/tag/hash-table) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) [Binary Search](https://leetcode-cn.com/tag/binary-search) 
+**Related Topics**  [Sort](https://leetcode-cn.com/tag/sort) [Hash Table](https://leetcode-cn.com/tag/hash-table) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) [Binary Search](https://leetcode-cn.com/tag/binary-search) 
 
 ### Similar Questions
  - Easy:	[Intersection of Two Arrays II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii) 

@@ -34,4 +34,4 @@
 
 <p>1 &le; k &le; 二叉搜索树元素个数</p>
 
-**标签:	**[树](https://leetcode-cn.com/tag/tree) 
+**标签:**  [树](https://leetcode-cn.com/tag/tree) 

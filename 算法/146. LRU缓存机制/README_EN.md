@@ -30,7 +30,7 @@ cache.get(4);       // returns 4
 
 <p>&nbsp;</p>
 
-**Related Topic	**[Design](https://leetcode-cn.com/tag/design) 
+**Related Topic**  [Design](https://leetcode-cn.com/tag/design) 
 
 ### Similar Questions
  - Hard:	[LFU Cache](https://leetcode-cn.com/problems/lfu-cache) 

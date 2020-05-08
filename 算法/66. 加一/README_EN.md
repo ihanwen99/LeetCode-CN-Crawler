@@ -23,7 +23,7 @@
 <strong>Output:</strong> [4,3,2,2]
 <strong>Explanation:</strong> The array represents the integer 4321.
 </pre>
-**Related Topic	**[Array](https://leetcode-cn.com/tag/array) 
+**Related Topic**  [Array](https://leetcode-cn.com/tag/array) 
 
 ### Similar Questions
  - Medium:	[Multiply Strings](https://leetcode-cn.com/problems/multiply-strings) 

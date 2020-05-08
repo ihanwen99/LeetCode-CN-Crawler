@@ -25,4 +25,4 @@
 <li>字符串长度在[0, 50000]范围内。</li>
 </ol>
 
-**标签:	**[字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [字符串](https://leetcode-cn.com/tag/string) 

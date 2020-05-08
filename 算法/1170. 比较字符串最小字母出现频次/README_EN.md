@@ -33,4 +33,4 @@
 	<li><code>queries[i][j]</code>, <code>words[i][j]</code> are English lowercase letters.</li>
 </ul>
 
-**Related Topics	**[Array](https://leetcode-cn.com/tag/array) [String](https://leetcode-cn.com/tag/string) 
+**Related Topics**  [Array](https://leetcode-cn.com/tag/array) [String](https://leetcode-cn.com/tag/string) 

@@ -28,4 +28,4 @@
 	<li><code>1 &lt;= N &lt;= 20</code></li>
 </ul>
 
-**标签:	**[树](https://leetcode-cn.com/tag/tree) [递归](https://leetcode-cn.com/tag/recursion) 
+**标签:**  [树](https://leetcode-cn.com/tag/tree) [递归](https://leetcode-cn.com/tag/recursion) 

@@ -68,7 +68,7 @@
 </div>
 </div>
 
-**Related Topic	**[String](https://leetcode-cn.com/tag/string) 
+**Related Topic**  [String](https://leetcode-cn.com/tag/string) 
 
 ### Similar Question
  - Medium:	[Brace Expansion](https://leetcode-cn.com/problems/brace-expansion) 

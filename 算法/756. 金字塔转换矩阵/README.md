@@ -48,4 +48,4 @@ B   C   D
 	<li>方块的标记字母范围为<code>{&#39;A&#39;, &#39;B&#39;, &#39;C&#39;, &#39;D&#39;, &#39;E&#39;, &#39;F&#39;, &#39;G&#39;}</code>。</li>
 </ol>
 
-**标签:	**[位运算](https://leetcode-cn.com/tag/bit-manipulation) [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) 
+**标签:**  [位运算](https://leetcode-cn.com/tag/bit-manipulation) [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) 

@@ -33,7 +33,7 @@ cache.get(1);       // 返回 -1 (未找到 key 1)
 cache.get(3);       // 返回 3
 cache.get(4);       // 返回 4</pre>
 
-**标签:	**[设计](https://leetcode-cn.com/tag/design) 
+**标签:**  [设计](https://leetcode-cn.com/tag/design) 
  ### 相似题目
 - 中等:	[LRU缓存机制](https://leetcode-cn.com/problems/lru-cache) 
 - 困难:	[设计内存文件系统](https://leetcode-cn.com/problems/design-in-memory-file-system) 

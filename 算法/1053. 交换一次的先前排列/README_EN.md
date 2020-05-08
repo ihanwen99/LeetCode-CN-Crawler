@@ -47,4 +47,4 @@
 	<li><code>1 &lt;= A[i] &lt;= 10000</code></li>
 </ol>
 
-**Related Topics	**[Greedy](https://leetcode-cn.com/tag/greedy) [Array](https://leetcode-cn.com/tag/array) 
+**Related Topics**  [Greedy](https://leetcode-cn.com/tag/greedy) [Array](https://leetcode-cn.com/tag/array) 

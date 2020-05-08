@@ -29,4 +29,4 @@
 	<li><code>text</code>&nbsp;has only lowercase English letters.</li>
 </ul>
 
-**Related Topic	**[String](https://leetcode-cn.com/tag/string) 
+**Related Topic**  [String](https://leetcode-cn.com/tag/string) 

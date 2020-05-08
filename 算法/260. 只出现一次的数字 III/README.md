@@ -16,7 +16,7 @@
 	<li>你的算法应该具有线性时间复杂度。你能否仅使用常数空间复杂度来实现？</li>
 </ol>
 
-**标签:	**[位运算](https://leetcode-cn.com/tag/bit-manipulation) 
+**标签:**  [位运算](https://leetcode-cn.com/tag/bit-manipulation) 
  ### 相似题目
 - 简单:	[只出现一次的数字](https://leetcode-cn.com/problems/single-number) 
 - 中等:	[只出现一次的数字 II](https://leetcode-cn.com/problems/single-number-ii) 

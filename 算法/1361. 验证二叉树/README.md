@@ -54,4 +54,4 @@
 	<li><code>-1 &lt;= leftChild[i], rightChild[i] &lt;= n - 1</code></li>
 </ul>
 
-**标签:	**[图](https://leetcode-cn.com/tag/graph) 
+**标签:**  [图](https://leetcode-cn.com/tag/graph) 

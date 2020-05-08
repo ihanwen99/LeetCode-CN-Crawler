@@ -24,7 +24,7 @@
 </div>
 </div>
 
-**Related Topics	**[Trie](https://leetcode-cn.com/tag/trie) [Hash Table](https://leetcode-cn.com/tag/hash-table) [String](https://leetcode-cn.com/tag/string) 
+**Related Topics**  [Trie](https://leetcode-cn.com/tag/trie) [Hash Table](https://leetcode-cn.com/tag/hash-table) [String](https://leetcode-cn.com/tag/string) 
 
 ### Similar Questions
  - Medium:	[Longest Palindromic Substring](https://leetcode-cn.com/problems/longest-palindromic-substring) 

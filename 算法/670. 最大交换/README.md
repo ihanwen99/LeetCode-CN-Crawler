@@ -26,6 +26,6 @@
 	<li>给定数字的范围是&nbsp;[0, 10<sup>8</sup>]</li>
 </ol>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) [数学](https://leetcode-cn.com/tag/math) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) [数学](https://leetcode-cn.com/tag/math) 
  ### 相似题目
 - 困难:	[拼接最大数](https://leetcode-cn.com/problems/create-maximum-number) 

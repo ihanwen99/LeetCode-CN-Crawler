@@ -15,7 +15,7 @@
 <strong>原因：</strong>342 + 465 = 807
 </pre>
 
-**标签:	**[链表](https://leetcode-cn.com/tag/linked-list) [数学](https://leetcode-cn.com/tag/math) 
+**标签:**  [链表](https://leetcode-cn.com/tag/linked-list) [数学](https://leetcode-cn.com/tag/math) 
  ### 相似题目
 - 中等:	[字符串相乘](https://leetcode-cn.com/problems/multiply-strings) 
 - 简单:	[二进制求和](https://leetcode-cn.com/problems/add-binary) 

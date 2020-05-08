@@ -29,4 +29,4 @@
 	<li><code>0 &lt;=&nbsp;A[i][j], B[i][j] &lt;= 1</code></li>
 </ol>
 
-**Related Topic	**[Array](https://leetcode-cn.com/tag/array) 
+**Related Topic**  [Array](https://leetcode-cn.com/tag/array) 

@@ -36,4 +36,4 @@ This continues for 3 more queries at time 15, 24, and 8.
 </ol>
 </div>
 
-**Related Topic	**[Binary Search](https://leetcode-cn.com/tag/binary-search) 
+**Related Topic**  [Binary Search](https://leetcode-cn.com/tag/binary-search) 

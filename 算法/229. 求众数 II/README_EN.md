@@ -18,7 +18,7 @@
 <strong>Input:</strong> [1,1,1,3,3,2,2,2]
 <strong>Output:</strong> [1,2]</pre>
 
-**Related Topic	**[Array](https://leetcode-cn.com/tag/array) 
+**Related Topic**  [Array](https://leetcode-cn.com/tag/array) 
 
 ### Similar Questions
  - Easy:	[Majority Element](https://leetcode-cn.com/problems/majority-element) 

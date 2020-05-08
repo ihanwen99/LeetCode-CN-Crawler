@@ -42,7 +42,7 @@
 	<li><code>0 &lt;= prices[i]&nbsp;&lt;= 10 ^ 4</code></li>
 </ul>
 
-**标签:	**[贪心算法](https://leetcode-cn.com/tag/greedy) [数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [贪心算法](https://leetcode-cn.com/tag/greedy) [数组](https://leetcode-cn.com/tag/array) 
  ### 相似题目
 - 简单:	[买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock) 
 - 困难:	[买卖股票的最佳时机 III](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii) 

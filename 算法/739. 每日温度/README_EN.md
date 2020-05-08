@@ -12,7 +12,7 @@ For example, given the list of temperatures <code>T = [73, 74, 75, 71, 69, 72, 7
 The length of <code>temperatures</code> will be in the range <code>[1, 30000]</code>.
 Each temperature will be an integer in the range <code>[30, 100]</code>.
 </p>
-**Related Topics	**[Stack](https://leetcode-cn.com/tag/stack) [Hash Table](https://leetcode-cn.com/tag/hash-table) 
+**Related Topics**  [Stack](https://leetcode-cn.com/tag/stack) [Hash Table](https://leetcode-cn.com/tag/hash-table) 
 
 ### Similar Question
  - Easy:	[Next Greater Element I](https://leetcode-cn.com/problems/next-greater-element-i) 

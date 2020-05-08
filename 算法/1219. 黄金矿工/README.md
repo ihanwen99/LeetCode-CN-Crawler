@@ -50,4 +50,4 @@
 	<li>最多 <strong>25 </strong>个单元格中有黄金。</li>
 </ul>
 
-**标签:	**[回溯算法](https://leetcode-cn.com/tag/backtracking) 
+**标签:**  [回溯算法](https://leetcode-cn.com/tag/backtracking) 

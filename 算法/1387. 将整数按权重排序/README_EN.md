@@ -69,4 +69,4 @@ The fourth number in the sorted array is 7.
 	<li><code>1 &lt;= lo &lt;= hi &lt;= 1000</code></li>
 	<li><code>1 &lt;= k &lt;= hi - lo + 1</code></li>
 </ul>
-**Related Topics	**[Sort](https://leetcode-cn.com/tag/sort) [Graph](https://leetcode-cn.com/tag/graph) 
+**Related Topics**  [Sort](https://leetcode-cn.com/tag/sort) [Graph](https://leetcode-cn.com/tag/graph) 

@@ -45,4 +45,4 @@
 	<li><code>1 &lt;= stamp.length &lt;= target.length &lt;= 1000</code></li>
 	<li><code>stamp</code> and <code>target</code> only contain lowercase letters.</li>
 </ol>
-**Related Topics	**[Greedy](https://leetcode-cn.com/tag/greedy) [String](https://leetcode-cn.com/tag/string) 
+**Related Topics**  [Greedy](https://leetcode-cn.com/tag/greedy) [String](https://leetcode-cn.com/tag/string) 

@@ -34,4 +34,4 @@ The sum of these widths is 6.
 </ul>
 </div>
 
-**Related Topics	**[Array](https://leetcode-cn.com/tag/array) [Math](https://leetcode-cn.com/tag/math) 
+**Related Topics**  [Array](https://leetcode-cn.com/tag/array) [Math](https://leetcode-cn.com/tag/math) 

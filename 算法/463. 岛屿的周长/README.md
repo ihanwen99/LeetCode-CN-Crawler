@@ -25,7 +25,7 @@
 <img src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2018/10/12/island.png">
 </pre>
 
-**标签:	**[哈希表](https://leetcode-cn.com/tag/hash-table) 
+**标签:**  [哈希表](https://leetcode-cn.com/tag/hash-table) 
  ### 相似题目
 - 中等:	[岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island) 
 - 简单:	[图像渲染](https://leetcode-cn.com/problems/flood-fill) 

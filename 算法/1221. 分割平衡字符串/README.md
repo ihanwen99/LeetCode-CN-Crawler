@@ -41,4 +41,4 @@
 	<li>分割得到的每个字符串都必须是平衡字符串。</li>
 </ul>
 
-**标签:	**[贪心算法](https://leetcode-cn.com/tag/greedy) [字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [贪心算法](https://leetcode-cn.com/tag/greedy) [字符串](https://leetcode-cn.com/tag/string) 

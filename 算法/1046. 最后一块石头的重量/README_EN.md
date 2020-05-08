@@ -35,4 +35,4 @@ we combine 1 and 1 to get 0 so the array converts to [1] then that&#39;s the val
 	<li><code>1 &lt;= stones[i] &lt;= 1000</code></li>
 </ol>
 
-**Related Topics	**[Heap](https://leetcode-cn.com/tag/heap) [Greedy](https://leetcode-cn.com/tag/greedy) 
+**Related Topics**  [Heap](https://leetcode-cn.com/tag/heap) [Greedy](https://leetcode-cn.com/tag/greedy) 

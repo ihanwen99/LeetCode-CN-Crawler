@@ -29,4 +29,4 @@
 
 <p>How would you solve this problem if a temporary buffer is not allowed?</p>
 
-**Related Topic	**[Linked List](https://leetcode-cn.com/tag/linked-list) 
+**Related Topic**  [Linked List](https://leetcode-cn.com/tag/linked-list) 

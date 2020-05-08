@@ -36,4 +36,4 @@
 <div>
 <div>&nbsp;</div>
 </div>
-**Related Topic	**[Divide and Conquer](https://leetcode-cn.com/tag/divide-and-conquer) 
+**Related Topic**  [Divide and Conquer](https://leetcode-cn.com/tag/divide-and-conquer) 

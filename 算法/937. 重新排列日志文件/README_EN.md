@@ -31,4 +31,4 @@
 	<li><code>logs[i]</code> is guaranteed to have an identifier, and a word after the identifier.</li>
 </ol>
 
-**Related Topic	**[String](https://leetcode-cn.com/tag/string) 
+**Related Topic**  [String](https://leetcode-cn.com/tag/string) 

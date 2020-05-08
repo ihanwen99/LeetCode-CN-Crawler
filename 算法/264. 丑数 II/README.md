@@ -19,7 +19,7 @@
 	<li><code>n</code>&nbsp;<strong>不超过</strong>1690。</li>
 </ol>
 
-**标签:	**[堆](https://leetcode-cn.com/tag/heap) [数学](https://leetcode-cn.com/tag/math) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [堆](https://leetcode-cn.com/tag/heap) [数学](https://leetcode-cn.com/tag/math) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
  ### 相似题目
 - 困难:	[合并K个排序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists) 
 - 简单:	[计数质数](https://leetcode-cn.com/problems/count-primes) 

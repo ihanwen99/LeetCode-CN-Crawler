@@ -53,7 +53,7 @@ The diagonal &quot;[1, 2]&quot; has different elements.
 	<li>What if the matrix is so large that you can only load up a partial row into the memory at once?</li>
 </ol>
 
-**Related Topic	**[Array](https://leetcode-cn.com/tag/array) 
+**Related Topic**  [Array](https://leetcode-cn.com/tag/array) 
 
 ### Similar Question
  - Easy:	[Valid Word Square](https://leetcode-cn.com/problems/valid-word-square) 

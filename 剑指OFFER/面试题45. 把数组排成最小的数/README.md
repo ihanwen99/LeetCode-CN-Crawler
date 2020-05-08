@@ -31,4 +31,4 @@
 	<li>拼接起来的数字可能会有前导 0，最后结果不需要去掉前导 0</li>
 </ul>
 
-**标签:	**[排序](https://leetcode-cn.com/tag/sort) 
+**标签:**  [排序](https://leetcode-cn.com/tag/sort) 

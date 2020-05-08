@@ -19,7 +19,7 @@
 	<li><code>1</code> is typically treated as an ugly number.</li>
 	<li><code>n</code> <b>does not exceed 1690</b>.</li>
 </ol>
-**Related Topics	**[Heap](https://leetcode-cn.com/tag/heap) [Math](https://leetcode-cn.com/tag/math) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topics**  [Heap](https://leetcode-cn.com/tag/heap) [Math](https://leetcode-cn.com/tag/math) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
 
 ### Similar Questions
  - Hard:	[Merge k Sorted Lists](https://leetcode-cn.com/problems/merge-k-sorted-lists) 

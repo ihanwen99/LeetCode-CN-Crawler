@@ -30,7 +30,7 @@ The second player will win by choosing 10 and get a total = 11, which is >= desi
 Same with other integers chosen by the first player, the second player will always win.
 </pre>
 </p>
-**Related Topics	**[Minimax](https://leetcode-cn.com/tag/minimax) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topics**  [Minimax](https://leetcode-cn.com/tag/minimax) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
 
 ### Similar Questions
  - Medium:	[Flip Game II](https://leetcode-cn.com/problems/flip-game-ii) 

@@ -29,4 +29,4 @@
 	<li><code>0 &lt;= points[i][j] &lt;= 100</code></li>
 </ol>
 
-**标签:	**[数学](https://leetcode-cn.com/tag/math) 
+**标签:**  [数学](https://leetcode-cn.com/tag/math) 

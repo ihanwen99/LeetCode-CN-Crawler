@@ -59,6 +59,6 @@ s = &quot;acdcb&quot;
 p = &quot;a*c?b&quot;
 <strong>输入:</strong> false</pre>
 
-**标签:	**[贪心算法](https://leetcode-cn.com/tag/greedy) [字符串](https://leetcode-cn.com/tag/string) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) [回溯算法](https://leetcode-cn.com/tag/backtracking) 
+**标签:**  [贪心算法](https://leetcode-cn.com/tag/greedy) [字符串](https://leetcode-cn.com/tag/string) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) [回溯算法](https://leetcode-cn.com/tag/backtracking) 
  ### 相似题目
 - 困难:	[正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching) 

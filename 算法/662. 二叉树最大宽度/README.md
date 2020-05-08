@@ -69,4 +69,4 @@
 
 <p><strong>注意:</strong> 答案在32位有符号整数的表示范围内。</p>
 
-**标签:	**[树](https://leetcode-cn.com/tag/tree) 
+**标签:**  [树](https://leetcode-cn.com/tag/tree) 

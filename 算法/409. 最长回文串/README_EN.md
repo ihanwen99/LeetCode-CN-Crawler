@@ -22,7 +22,7 @@ Explanation:
 One longest palindrome that can be built is "dccaccd", whose length is 7.
 </pre>
 </p>
-**Related Topic	**[Hash Table](https://leetcode-cn.com/tag/hash-table) 
+**Related Topic**  [Hash Table](https://leetcode-cn.com/tag/hash-table) 
 
 ### Similar Question
  - Easy:	[Palindrome Permutation](https://leetcode-cn.com/problems/palindrome-permutation) 

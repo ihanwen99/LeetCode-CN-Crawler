@@ -50,7 +50,7 @@
 
 <p>&nbsp;</p>
 
-**Related Topics	**[Segment Tree](https://leetcode-cn.com/tag/segment-tree) [Ordered Map](https://leetcode-cn.com/tag/ordered-map) 
+**Related Topics**  [Segment Tree](https://leetcode-cn.com/tag/segment-tree) [Ordered Map](https://leetcode-cn.com/tag/ordered-map) 
 
 ### Similar Question
  - Hard:	[The Skyline Problem](https://leetcode-cn.com/problems/the-skyline-problem) 

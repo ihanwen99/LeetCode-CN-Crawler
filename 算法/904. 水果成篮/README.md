@@ -57,4 +57,4 @@
 	<li><code>0 &lt;= tree[i] &lt; tree.length</code></li>
 </ol>
 
-**标签:	**[双指针](https://leetcode-cn.com/tag/two-pointers) 
+**标签:**  [双指针](https://leetcode-cn.com/tag/two-pointers) 

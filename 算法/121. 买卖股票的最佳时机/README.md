@@ -25,7 +25,7 @@
 <strong>解释: </strong>在这种情况下, 没有交易完成, 所以最大利润为 0。
 </pre>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
  ### 相似题目
 - 简单:	[最大子序和](https://leetcode-cn.com/problems/maximum-subarray) 
 - 简单:	[买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii) 

@@ -57,4 +57,4 @@
 	<li><code>hats[i]</code>&nbsp;包含一个数字互不相同的整数列表。</li>
 </ul>
 
-**标签:	**[位运算](https://leetcode-cn.com/tag/bit-manipulation) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [位运算](https://leetcode-cn.com/tag/bit-manipulation) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 

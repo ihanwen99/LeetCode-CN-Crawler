@@ -28,4 +28,4 @@ The compressed string is &quot;a1b2c2d1&quot;, which is longer than the original
 	<li><code>0 &lt;= S.length &lt;= 50000</code></li>
 </ol>
 
-**Related Topic	**[String](https://leetcode-cn.com/tag/string) 
+**Related Topic**  [String](https://leetcode-cn.com/tag/string) 

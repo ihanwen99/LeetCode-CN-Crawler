@@ -52,4 +52,4 @@
 	<li>每个文件夹名都是唯一的</li>
 </ul>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) [字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) [字符串](https://leetcode-cn.com/tag/string) 

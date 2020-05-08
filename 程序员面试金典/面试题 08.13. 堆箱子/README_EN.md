@@ -26,4 +26,4 @@
 	<li><code>box.length &lt;= 3000</code></li>
 </ol>
 
-**Related Topics	**[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) [Backtracking](https://leetcode-cn.com/tag/backtracking) 
+**Related Topics**  [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) [Backtracking](https://leetcode-cn.com/tag/backtracking) 

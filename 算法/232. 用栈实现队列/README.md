@@ -29,6 +29,6 @@ queue.empty(); // 返回 false</pre>
 	<li>假设所有操作都是有效的 （例如，一个空的队列不会调用 pop 或者 peek 操作）。</li>
 </ul>
 
-**标签:	**[栈](https://leetcode-cn.com/tag/stack) [设计](https://leetcode-cn.com/tag/design) 
+**标签:**  [栈](https://leetcode-cn.com/tag/stack) [设计](https://leetcode-cn.com/tag/design) 
  ### 相似题目
 - 简单:	[用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues) 

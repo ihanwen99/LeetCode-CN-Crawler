@@ -49,4 +49,4 @@ target = "k"
 <li><code>target</code> is a lowercase letter.</li>
 </ol>
 </p>
-**Related Topic	**[Binary Search](https://leetcode-cn.com/tag/binary-search) 
+**Related Topic**  [Binary Search](https://leetcode-cn.com/tag/binary-search) 

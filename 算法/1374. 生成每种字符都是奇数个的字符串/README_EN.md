@@ -36,4 +36,4 @@
 <ul>
 	<li><code>1 &lt;= n &lt;= 500</code></li>
 </ul>
-**Related Topic	**[String](https://leetcode-cn.com/tag/string) 
+**Related Topic**  [String](https://leetcode-cn.com/tag/string) 

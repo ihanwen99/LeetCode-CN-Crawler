@@ -76,4 +76,4 @@ The third minute they will inform the rest of employees.
 	<li>It is <strong>guaranteed</strong> that all the employees can be informed.</li>
 </ul>
 
-**Related Topic	**[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) 
+**Related Topic**  [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) 

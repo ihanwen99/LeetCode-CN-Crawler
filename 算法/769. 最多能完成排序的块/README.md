@@ -31,6 +31,6 @@
 	<li><code>arr[i]</code>是 <code>[0, 1, ..., arr.length - 1]</code>的一种排列。</li>
 </ul>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) 
  ### 相似题目
 - 困难:	[最多能完成排序的块 II](https://leetcode-cn.com/problems/max-chunks-to-make-sorted-ii) 

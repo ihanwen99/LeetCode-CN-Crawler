@@ -18,7 +18,7 @@
 
 <p><strong>Note:&nbsp;</strong>If there are several possible values for <em>h</em>, the maximum one is taken as the h-index.</p>
 
-**Related Topics	**[Sort](https://leetcode-cn.com/tag/sort) [Hash Table](https://leetcode-cn.com/tag/hash-table) 
+**Related Topics**  [Sort](https://leetcode-cn.com/tag/sort) [Hash Table](https://leetcode-cn.com/tag/hash-table) 
 
 ### Similar Question
  - Medium:	[H-Index II](https://leetcode-cn.com/problems/h-index-ii) 

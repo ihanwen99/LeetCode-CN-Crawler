@@ -53,4 +53,4 @@ The queen at [2,4] can&#39;t attack the king cause it&#39;s not in the same row/
 	<li>At most one piece is allowed in a cell.</li>
 </ul>
 
-**Related Topic	**[Array](https://leetcode-cn.com/tag/array) 
+**Related Topic**  [Array](https://leetcode-cn.com/tag/array) 

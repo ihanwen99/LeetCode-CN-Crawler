@@ -34,4 +34,4 @@
 	<li>0 &lt;= n&nbsp;&lt;= 1000000</li>
 </ul>
 
-**Related Topic	**[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topic**  [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 

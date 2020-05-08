@@ -20,6 +20,6 @@
     /  \
    15   7</pre>
 
-**标签:	**[树](https://leetcode-cn.com/tag/tree) [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) [数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [树](https://leetcode-cn.com/tag/tree) [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) [数组](https://leetcode-cn.com/tag/array) 
  ### 相似题目
 - 中等:	[从中序与后序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal) 

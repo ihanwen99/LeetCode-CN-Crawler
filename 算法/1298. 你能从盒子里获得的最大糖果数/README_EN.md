@@ -73,4 +73,4 @@ Total number of candies collected = 7 + 4 + 5 = 16 candy.
 	<li><code>0 &lt;= initialBoxes.length&nbsp;&lt;= status.length</code></li>
 	<li><code><font face="monospace">0 &lt;= initialBoxes[i] &lt; status.length</font></code></li>
 </ul>
-**Related Topic	**[Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search) 
+**Related Topic**  [Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search) 

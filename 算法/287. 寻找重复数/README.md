@@ -25,7 +25,7 @@
 	<li>数组中只有一个重复的数字，但它可能不止重复出现一次。</li>
 </ol>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) [双指针](https://leetcode-cn.com/tag/two-pointers) [二分查找](https://leetcode-cn.com/tag/binary-search) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) [双指针](https://leetcode-cn.com/tag/two-pointers) [二分查找](https://leetcode-cn.com/tag/binary-search) 
  ### 相似题目
 - 困难:	[缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive) 
 - 简单:	[只出现一次的数字](https://leetcode-cn.com/problems/single-number) 

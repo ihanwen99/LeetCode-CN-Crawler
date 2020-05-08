@@ -14,7 +14,7 @@
 ]
 <strong>输出:</strong> 1-&gt;1-&gt;2-&gt;3-&gt;4-&gt;4-&gt;5-&gt;6</pre>
 
-**标签:	**[堆](https://leetcode-cn.com/tag/heap) [链表](https://leetcode-cn.com/tag/linked-list) [分治算法](https://leetcode-cn.com/tag/divide-and-conquer) 
+**标签:**  [堆](https://leetcode-cn.com/tag/heap) [链表](https://leetcode-cn.com/tag/linked-list) [分治算法](https://leetcode-cn.com/tag/divide-and-conquer) 
  ### 相似题目
 - 简单:	[合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists) 
 - 中等:	[丑数 II](https://leetcode-cn.com/problems/ugly-number-ii) 

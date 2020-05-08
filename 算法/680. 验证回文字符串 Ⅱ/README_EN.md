@@ -27,7 +27,7 @@ Given a non-empty string <code>s</code>, you may delete <b>at most</b> one chara
 The maximum length of the string is 50000.</li>
 </ol>
 </p>
-**Related Topic	**[String](https://leetcode-cn.com/tag/string) 
+**Related Topic**  [String](https://leetcode-cn.com/tag/string) 
 
 ### Similar Question
  - Easy:	[Valid Palindrome](https://leetcode-cn.com/problems/valid-palindrome) 

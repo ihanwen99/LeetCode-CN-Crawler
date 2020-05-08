@@ -12,7 +12,7 @@
 <strong>Explanation:</strong> There are 4 prime numbers less than 10, they are 2, 3, 5, 7.
 </pre>
 
-**Related Topics	**[Hash Table](https://leetcode-cn.com/tag/hash-table) [Math](https://leetcode-cn.com/tag/math) 
+**Related Topics**  [Hash Table](https://leetcode-cn.com/tag/hash-table) [Math](https://leetcode-cn.com/tag/math) 
 
 ### Similar Questions
  - Easy:	[Ugly Number](https://leetcode-cn.com/problems/ugly-number) 

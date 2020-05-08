@@ -36,6 +36,6 @@
 	<li>输入的字符串只会包含字符 &#39;*&#39; 和 数字&#39;0&#39; - &#39;9&#39;。</li>
 </ol>
 
-**标签:	**[动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
  ### 相似题目
 - 中等:	[解码方法](https://leetcode-cn.com/problems/decode-ways) 

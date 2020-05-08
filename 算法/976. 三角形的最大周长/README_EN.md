@@ -55,7 +55,7 @@
 </div>
 </div>
 </div>
-**Related Topics	**[Sort](https://leetcode-cn.com/tag/sort) [Math](https://leetcode-cn.com/tag/math) 
+**Related Topics**  [Sort](https://leetcode-cn.com/tag/sort) [Math](https://leetcode-cn.com/tag/math) 
 
 ### Similar Question
  - Easy:	[Largest Triangle Area](https://leetcode-cn.com/problems/largest-triangle-area) 

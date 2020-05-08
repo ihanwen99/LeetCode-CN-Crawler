@@ -72,7 +72,7 @@
 	<li><code>1 &lt;= trust[i][0], trust[i][1] &lt;= N</code></li>
 </ol>
 
-**Related Topic	**[Graph](https://leetcode-cn.com/tag/graph) 
+**Related Topic**  [Graph](https://leetcode-cn.com/tag/graph) 
 
 ### Similar Question
  - Medium:	[Find the Celebrity](https://leetcode-cn.com/problems/find-the-celebrity) 

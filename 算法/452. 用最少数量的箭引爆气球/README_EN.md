@@ -21,7 +21,7 @@ One way is to shoot one arrow for example at x = 6 (bursting the balloons [2,8] 
 
 <p>&nbsp;</p>
 
-**Related Topic	**[Greedy](https://leetcode-cn.com/tag/greedy) 
+**Related Topic**  [Greedy](https://leetcode-cn.com/tag/greedy) 
 
 ### Similar Questions
  - Medium:	[Meeting Rooms II](https://leetcode-cn.com/problems/meeting-rooms-ii) 

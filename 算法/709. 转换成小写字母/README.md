@@ -25,4 +25,4 @@
 <strong>输出: </strong>&quot;lovely&quot;
 </pre>
 
-**标签:	**[字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [字符串](https://leetcode-cn.com/tag/string) 

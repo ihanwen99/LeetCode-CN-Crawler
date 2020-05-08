@@ -30,7 +30,7 @@ to the starting pixel.
 <li>The given starting pixel will satisfy <code>0 <= sr < image.length</code> and <code>0 <= sc < image[0].length</code>.</li>
 <li>The value of each color in <code>image[i][j]</code> and <code>newColor</code> will be an integer in <code>[0, 65535]</code>.</li>
 </p>
-**Related Topic	**[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) 
+**Related Topic**  [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) 
 
 ### Similar Question
  - Easy:	[Island Perimeter](https://leetcode-cn.com/problems/island-perimeter) 

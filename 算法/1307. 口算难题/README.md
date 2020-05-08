@@ -54,4 +54,4 @@
 	<li>表达式中使用的不同字符数最大为&nbsp;10</li>
 </ul>
 
-**标签:	**[数学](https://leetcode-cn.com/tag/math) [回溯算法](https://leetcode-cn.com/tag/backtracking) 
+**标签:**  [数学](https://leetcode-cn.com/tag/math) [回溯算法](https://leetcode-cn.com/tag/backtracking) 

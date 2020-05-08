@@ -20,7 +20,7 @@ One possible answer is: [0,-3,9,-10,null,5], which represents the following heig
  -10  5
 </pre>
 
-**Related Topics	**[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) [Linked List](https://leetcode-cn.com/tag/linked-list) 
+**Related Topics**  [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) [Linked List](https://leetcode-cn.com/tag/linked-list) 
 
 ### Similar Question
  - Easy:	[Convert Sorted Array to Binary Search Tree](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree) 

@@ -14,4 +14,4 @@
 <strong>Input:</strong> [0,1,0,2,1,0,1,3,2,1,2,1]
 <strong>Output:</strong> 6</pre>
 
-**Related Topics	**[Stack](https://leetcode-cn.com/tag/stack) [Array](https://leetcode-cn.com/tag/array) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) 
+**Related Topics**  [Stack](https://leetcode-cn.com/tag/stack) [Array](https://leetcode-cn.com/tag/array) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) 

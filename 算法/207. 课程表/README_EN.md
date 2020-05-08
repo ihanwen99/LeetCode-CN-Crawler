@@ -37,7 +37,7 @@
 	<li><code>1 &lt;=&nbsp;numCourses &lt;= 10^5</code></li>
 </ul>
 
-**Related Topics	**[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) [Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search) [Graph](https://leetcode-cn.com/tag/graph) [Topological Sort](https://leetcode-cn.com/tag/topological-sort) 
+**Related Topics**  [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) [Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search) [Graph](https://leetcode-cn.com/tag/graph) [Topological Sort](https://leetcode-cn.com/tag/topological-sort) 
 
 ### Similar Questions
  - Medium:	[Course Schedule II](https://leetcode-cn.com/problems/course-schedule-ii) 

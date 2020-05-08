@@ -59,4 +59,4 @@
 	<li><code>0 &lt;= cheeseSlices &lt;= 10^7</code></li>
 </ul>
 
-**标签:	**[贪心算法](https://leetcode-cn.com/tag/greedy) [数学](https://leetcode-cn.com/tag/math) 
+**标签:**  [贪心算法](https://leetcode-cn.com/tag/greedy) [数学](https://leetcode-cn.com/tag/math) 

@@ -36,7 +36,7 @@
 	<li>你可以假定提莫攻击时间序列中的数字和提莫攻击的中毒持续时间都是非负整数，并且不超过 10,000,000。</li>
 </ol>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) 
  ### 相似题目
 - 中等:	[合并区间](https://leetcode-cn.com/problems/merge-intervals) 
 - 简单:	[种花问题](https://leetcode-cn.com/problems/can-place-flowers) 

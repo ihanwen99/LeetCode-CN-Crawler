@@ -29,4 +29,4 @@ small = [4]</code>
 	<li><code>1 &lt;= small.length&nbsp;&lt;= 100000</code></li>
 </ul>
 
-**Related Topic	**[Sliding Window](https://leetcode-cn.com/tag/sliding-window) 
+**Related Topic**  [Sliding Window](https://leetcode-cn.com/tag/sliding-window) 

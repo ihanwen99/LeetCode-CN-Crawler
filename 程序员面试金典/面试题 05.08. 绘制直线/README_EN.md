@@ -21,4 +21,4 @@
 <strong> Output</strong>: [-1, -1, -1]
 </pre>
 
-**Related Topic	**[Array](https://leetcode-cn.com/tag/array) 
+**Related Topic**  [Array](https://leetcode-cn.com/tag/array) 

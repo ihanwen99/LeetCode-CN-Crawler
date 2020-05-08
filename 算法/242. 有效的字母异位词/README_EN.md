@@ -24,7 +24,7 @@ You may assume the string contains only lowercase alphabets.</p>
 <p><strong>Follow up:</strong><br />
 What if the inputs contain unicode characters? How would you adapt your solution to such case?</p>
 
-**Related Topics	**[Sort](https://leetcode-cn.com/tag/sort) [Hash Table](https://leetcode-cn.com/tag/hash-table) 
+**Related Topics**  [Sort](https://leetcode-cn.com/tag/sort) [Hash Table](https://leetcode-cn.com/tag/hash-table) 
 
 ### Similar Questions
  - Medium:	[Group Anagrams](https://leetcode-cn.com/problems/group-anagrams) 

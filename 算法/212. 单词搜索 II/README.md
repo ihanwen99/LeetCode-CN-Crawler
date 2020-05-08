@@ -29,7 +29,7 @@
 	<li>如果当前单词不存在于所有单词的前缀中，则可以立即停止回溯。什么样的数据结构可以有效地执行这样的操作？散列表是否可行？为什么？ 前缀树如何？如果你想学习如何实现一个基本的前缀树，请先查看这个问题： <a href="/problems/implement-trie-prefix-tree/description/">实现Trie（前缀树）</a>。</li>
 </ul>
 
-**标签:	**[字典树](https://leetcode-cn.com/tag/trie) [回溯算法](https://leetcode-cn.com/tag/backtracking) 
+**标签:**  [字典树](https://leetcode-cn.com/tag/trie) [回溯算法](https://leetcode-cn.com/tag/backtracking) 
  ### 相似题目
 - 中等:	[单词搜索](https://leetcode-cn.com/problems/word-search) 
 - 困难:	[不同路径 III](https://leetcode-cn.com/problems/unique-paths-iii) 

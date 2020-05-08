@@ -14,4 +14,4 @@
 <li><code>1 <= len(words[i]) <= 100</code></li>
 </ul>
 
-**标签:	**[字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [字符串](https://leetcode-cn.com/tag/string) 

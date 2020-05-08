@@ -29,7 +29,7 @@
 	<li>请<strong>不要</strong>使用内置的库函数 <code>eval</code>。</li>
 </ul>
 
-**标签:	**[栈](https://leetcode-cn.com/tag/stack) [数学](https://leetcode-cn.com/tag/math) 
+**标签:**  [栈](https://leetcode-cn.com/tag/stack) [数学](https://leetcode-cn.com/tag/math) 
  ### 相似题目
 - 中等:	[逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation) 
 - 中等:	[基本计算器 II](https://leetcode-cn.com/problems/basic-calculator-ii) 

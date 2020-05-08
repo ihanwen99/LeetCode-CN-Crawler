@@ -64,4 +64,4 @@ Similarly You cannot jump from index 3 to index 2 or index 1.
 	<li><code>1 &lt;= arr[i] &lt;= 10^5</code></li>
 	<li><code>1 &lt;= d &lt;= arr.length</code></li>
 </ul>
-**Related Topic	**[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topic**  [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 

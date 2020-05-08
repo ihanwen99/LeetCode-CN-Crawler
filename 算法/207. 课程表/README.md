@@ -32,7 +32,7 @@
 	<li><code>1 &lt;=&nbsp;numCourses &lt;= 10^5</code></li>
 </ol>
 
-**标签:	**[深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) [广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search) [图](https://leetcode-cn.com/tag/graph) [拓扑排序](https://leetcode-cn.com/tag/topological-sort) 
+**标签:**  [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) [广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search) [图](https://leetcode-cn.com/tag/graph) [拓扑排序](https://leetcode-cn.com/tag/topological-sort) 
  ### 相似题目
 - 中等:	[课程表 II](https://leetcode-cn.com/problems/course-schedule-ii) 
 - 中等:	[以图判树](https://leetcode-cn.com/problems/graph-valid-tree) 

@@ -36,6 +36,6 @@
 <p><strong>致谢：</strong><br>
 特别感谢&nbsp;<a href="http://leetcode.com/discuss/user/ts">@ts</a>&nbsp;添加此问题并创建所有测试用例。</p>
 
-**标签:	**[数学](https://leetcode-cn.com/tag/math) 
+**标签:**  [数学](https://leetcode-cn.com/tag/math) 
  ### 相似题目
 - 简单:	[Excel表列名称](https://leetcode-cn.com/problems/excel-sheet-column-title) 

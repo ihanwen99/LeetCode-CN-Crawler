@@ -50,4 +50,4 @@
 
 <p>&nbsp;</p>
 
-**标签:	**[栈](https://leetcode-cn.com/tag/stack) [贪心算法](https://leetcode-cn.com/tag/greedy) 
+**标签:**  [栈](https://leetcode-cn.com/tag/stack) [贪心算法](https://leetcode-cn.com/tag/greedy) 

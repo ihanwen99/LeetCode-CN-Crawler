@@ -50,4 +50,4 @@
 	<li><code>1 &lt;= text.length &lt;= 20000</code></li>
 	<li><code>text</code> consist of lowercase English characters only.</li>
 </ul>
-**Related Topic	**[String](https://leetcode-cn.com/tag/string) 
+**Related Topic**  [String](https://leetcode-cn.com/tag/string) 

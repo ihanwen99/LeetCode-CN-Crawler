@@ -45,7 +45,7 @@ The 6-th smallest number is 6 (1, 2, 2, 3, 4, 6).
 <li>The <code>k</code> will be in the range [1, m * n]</li>
 </ol>
 </p>
-**Related Topic	**[Binary Search](https://leetcode-cn.com/tag/binary-search) 
+**Related Topic**  [Binary Search](https://leetcode-cn.com/tag/binary-search) 
 
 ### Similar Questions
  - Medium:	[Kth Smallest Element in a Sorted Matrix](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix) 

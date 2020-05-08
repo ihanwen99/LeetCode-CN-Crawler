@@ -50,4 +50,4 @@
 	<li>版本字符串不以点开始或结束，并且其中不会有两个连续的点。</li>
 </ol>
 
-**标签:	**[字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [字符串](https://leetcode-cn.com/tag/string) 

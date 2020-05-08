@@ -32,7 +32,7 @@ iterator.hasNext(); // 返回 false</pre>
 	<li>你可以假设&nbsp;<code>next()</code>&nbsp;调用总是有效的，也就是说，当调用 <code>next()</code>&nbsp;时，BST 中至少存在一个下一个最小的数。</li>
 </ul>
 
-**标签:	**[栈](https://leetcode-cn.com/tag/stack) [树](https://leetcode-cn.com/tag/tree) [设计](https://leetcode-cn.com/tag/design) 
+**标签:**  [栈](https://leetcode-cn.com/tag/stack) [树](https://leetcode-cn.com/tag/tree) [设计](https://leetcode-cn.com/tag/design) 
  ### 相似题目
 - 中等:	[二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal) 
 - 中等:	[展开二维向量](https://leetcode-cn.com/problems/flatten-2d-vector) 

@@ -81,6 +81,6 @@
 	<li><code>1 &lt;= Node.val &lt;= 10^5</code></li>
 </ul>
 
-**标签:	**[深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) [链表](https://leetcode-cn.com/tag/linked-list) 
+**标签:**  [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) [链表](https://leetcode-cn.com/tag/linked-list) 
  ### 相似题目
 - 中等:	[二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list) 

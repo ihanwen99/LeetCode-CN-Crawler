@@ -17,7 +17,7 @@
 <b>Input:</b> <i>n</i> = <code>13</code>
 <b>Output:</b> 2
 <strong>Explanation: </strong><code>13 = 4 + 9.</code></pre>
-**Related Topics	**[Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search) [Math](https://leetcode-cn.com/tag/math) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topics**  [Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search) [Math](https://leetcode-cn.com/tag/math) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
 
 ### Similar Questions
  - Easy:	[Count Primes](https://leetcode-cn.com/problems/count-primes) 

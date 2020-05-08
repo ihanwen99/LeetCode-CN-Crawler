@@ -50,4 +50,4 @@
 	<li>Each node&#39;s value is between <code>[-10^5, 10^5]</code>.</li>
 </ul>
 
-**Related Topics	**[Sort](https://leetcode-cn.com/tag/sort) [Tree](https://leetcode-cn.com/tag/tree) 
+**Related Topics**  [Sort](https://leetcode-cn.com/tag/sort) [Tree](https://leetcode-cn.com/tag/tree) 

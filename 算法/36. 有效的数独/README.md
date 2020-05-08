@@ -60,6 +60,6 @@
 	<li>给定数独永远是&nbsp;<code>9x9</code>&nbsp;形式的。</li>
 </ul>
 
-**标签:	**[哈希表](https://leetcode-cn.com/tag/hash-table) 
+**标签:**  [哈希表](https://leetcode-cn.com/tag/hash-table) 
  ### 相似题目
 - 困难:	[解数独](https://leetcode-cn.com/problems/sudoku-solver) 

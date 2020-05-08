@@ -38,4 +38,4 @@
 	<li>两个字符串中都只有小写字符，并且均可能存在重复字符；</li>
 	<li>字符串&nbsp;<strong>key</strong>&nbsp;一定可以由字符串 <strong>ring</strong>&nbsp;旋转拼出。</li>
 </ol>
-**标签:	**[深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) [分治算法](https://leetcode-cn.com/tag/divide-and-conquer) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) [分治算法](https://leetcode-cn.com/tag/divide-and-conquer) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 

@@ -36,6 +36,6 @@
 	<li>给定的数组的大小在 [1, 1000] 之间。</li>
 </ol>
 
-**标签:	**[树](https://leetcode-cn.com/tag/tree) 
+**标签:**  [树](https://leetcode-cn.com/tag/tree) 
  ### 相似题目
 - 中等:	[最大二叉树 II](https://leetcode-cn.com/problems/maximum-binary-tree-ii) 

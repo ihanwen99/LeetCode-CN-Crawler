@@ -23,7 +23,7 @@
 向右旋转 3 步:&nbsp;<code>0-&gt;1-&gt;2-&gt;NULL</code>
 向右旋转 4 步:&nbsp;<code>2-&gt;0-&gt;1-&gt;NULL</code></pre>
 
-**标签:	**[链表](https://leetcode-cn.com/tag/linked-list) [双指针](https://leetcode-cn.com/tag/two-pointers) 
+**标签:**  [链表](https://leetcode-cn.com/tag/linked-list) [双指针](https://leetcode-cn.com/tag/two-pointers) 
  ### 相似题目
 - 简单:	[旋转数组](https://leetcode-cn.com/problems/rotate-array) 
 - 中等:	[分隔链表](https://leetcode-cn.com/problems/split-linked-list-in-parts) 

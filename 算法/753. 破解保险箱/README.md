@@ -40,4 +40,4 @@
 
 <p>&nbsp;</p>
 
-**标签:	**[深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) [数学](https://leetcode-cn.com/tag/math) 
+**标签:**  [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) [数学](https://leetcode-cn.com/tag/math) 

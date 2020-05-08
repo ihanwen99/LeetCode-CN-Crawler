@@ -35,4 +35,4 @@
 	<li><code>-10^8 &lt;= target &lt;= 10^8</code></li>
 </ol>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) [None](https://leetcode-cn.com/tag/sliding-window) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) [None](https://leetcode-cn.com/tag/sliding-window) 

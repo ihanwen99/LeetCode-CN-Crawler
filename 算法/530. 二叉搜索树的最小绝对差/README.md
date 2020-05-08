@@ -32,6 +32,6 @@
 	<li>本题与 783 <a href="https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/">https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/</a> 相同</li>
 </ul>
 
-**标签:	**[树](https://leetcode-cn.com/tag/tree) 
+**标签:**  [树](https://leetcode-cn.com/tag/tree) 
  ### 相似题目
 - 简单:	[数组中的K-diff数对](https://leetcode-cn.com/problems/k-diff-pairs-in-an-array) 

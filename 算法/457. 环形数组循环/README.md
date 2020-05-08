@@ -43,4 +43,4 @@
 
 <p>你能写出时间时间复杂度为 <strong>O(n)</strong>&nbsp;和额外空间复杂度为 <strong>O(1)</strong> 的算法吗？</p>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) [双指针](https://leetcode-cn.com/tag/two-pointers) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) [双指针](https://leetcode-cn.com/tag/two-pointers) 

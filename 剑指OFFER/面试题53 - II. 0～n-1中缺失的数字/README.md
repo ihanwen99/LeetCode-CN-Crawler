@@ -23,4 +23,4 @@
 
 <p><code>1 &lt;= 数组长度 &lt;= 10000</code></p>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) [二分查找](https://leetcode-cn.com/tag/binary-search) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) [二分查找](https://leetcode-cn.com/tag/binary-search) 

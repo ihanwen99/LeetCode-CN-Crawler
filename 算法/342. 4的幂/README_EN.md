@@ -20,7 +20,7 @@
 </div>
 
 <p><b>Follow up</b>: Could you solve it without loops/recursion?</p>
-**Related Topic	**[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) 
+**Related Topic**  [Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) 
 
 ### Similar Questions
  - Easy:	[Power of Two](https://leetcode-cn.com/problems/power-of-two) 

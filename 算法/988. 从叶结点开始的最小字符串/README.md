@@ -46,7 +46,7 @@
 	<li>树中的每个结点都有一个介于&nbsp;<code>0</code>&nbsp;和&nbsp;<code>25</code>&nbsp;之间的值。</li>
 </ol>
 
-**标签:	**[树](https://leetcode-cn.com/tag/tree) [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) 
+**标签:**  [树](https://leetcode-cn.com/tag/tree) [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) 
  ### 相似题目
 - 中等:	[求根到叶子节点数字之和](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers) 
 - 简单:	[二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths) 

@@ -20,6 +20,6 @@
 	<li><code>0 &lt; nums[i] &lt; 10000</code></li>
 </ul>
 
-**标签:	**[递归](https://leetcode-cn.com/tag/recursion) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [递归](https://leetcode-cn.com/tag/recursion) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
  ### 相似题目
 - 中等:	[分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum) 

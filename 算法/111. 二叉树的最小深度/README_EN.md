@@ -21,7 +21,7 @@
 
 <p>return its minimum&nbsp;depth = 2.</p>
 
-**Related Topics	**[Tree](https://leetcode-cn.com/tag/tree) [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) [Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search) 
+**Related Topics**  [Tree](https://leetcode-cn.com/tag/tree) [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) [Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search) 
 
 ### Similar Questions
  - Medium:	[Binary Tree Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal) 

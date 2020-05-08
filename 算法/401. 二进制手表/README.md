@@ -28,7 +28,7 @@
 	<li>分钟必须由两位数组成，可能会以零开头，比如 &ldquo;10:2&rdquo;&nbsp;是无效的，应为 &ldquo;10:02&rdquo;。</li>
 </ul>
 
-**标签:	**[位运算](https://leetcode-cn.com/tag/bit-manipulation) [回溯算法](https://leetcode-cn.com/tag/backtracking) 
+**标签:**  [位运算](https://leetcode-cn.com/tag/bit-manipulation) [回溯算法](https://leetcode-cn.com/tag/backtracking) 
  ### 相似题目
 - 中等:	[电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number) 
 - 简单:	[位1的个数](https://leetcode-cn.com/problems/number-of-1-bits) 

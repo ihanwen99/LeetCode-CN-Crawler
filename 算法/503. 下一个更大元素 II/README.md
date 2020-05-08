@@ -16,7 +16,7 @@
 
 <p><strong>注意:</strong> 输入数组的长度不会超过 10000。</p>
 
-**标签:	**[栈](https://leetcode-cn.com/tag/stack) 
+**标签:**  [栈](https://leetcode-cn.com/tag/stack) 
  ### 相似题目
 - 简单:	[下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i) 
 - 中等:	[下一个更大元素 III](https://leetcode-cn.com/problems/next-greater-element-iii) 

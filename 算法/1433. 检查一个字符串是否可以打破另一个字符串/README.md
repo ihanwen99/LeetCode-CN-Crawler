@@ -39,4 +39,4 @@
 	<li>所有字符串都只包含小写英文字母。</li>
 </ul>
 
-**标签:	**[贪心算法](https://leetcode-cn.com/tag/greedy) [字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [贪心算法](https://leetcode-cn.com/tag/greedy) [字符串](https://leetcode-cn.com/tag/string) 

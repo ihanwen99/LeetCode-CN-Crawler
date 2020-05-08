@@ -32,7 +32,7 @@
 <strong>输出: </strong>[]
 </pre>
 
-**标签:	**[分治算法](https://leetcode-cn.com/tag/divide-and-conquer) 
+**标签:**  [分治算法](https://leetcode-cn.com/tag/divide-and-conquer) 
  ### 相似题目
 - 中等:	[逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation) 
 - 困难:	[基本计算器](https://leetcode-cn.com/problems/basic-calculator) 

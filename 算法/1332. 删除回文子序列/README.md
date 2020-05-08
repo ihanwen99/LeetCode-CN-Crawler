@@ -50,4 +50,4 @@
 	<li><code>s</code> 仅包含字母&nbsp;&#39;a&#39;&nbsp; 和 &#39;b&#39;</li>
 </ul>
 
-**标签:	**[字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [字符串](https://leetcode-cn.com/tag/string) 

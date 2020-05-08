@@ -38,4 +38,4 @@
 	<li><code>1 &lt;= arr.length &lt;= 10^4</code></li>
 	<li><code>1 &lt;= arr[i], target &lt;= 10^5</code></li>
 </ul>
-**Related Topics	**[Array](https://leetcode-cn.com/tag/array) [Binary Search](https://leetcode-cn.com/tag/binary-search) 
+**Related Topics**  [Array](https://leetcode-cn.com/tag/array) [Binary Search](https://leetcode-cn.com/tag/binary-search) 

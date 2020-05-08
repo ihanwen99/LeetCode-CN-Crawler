@@ -41,4 +41,4 @@
 
 <p>&nbsp;</p>
 
-**标签:	**[贪心算法](https://leetcode-cn.com/tag/greedy) [数学](https://leetcode-cn.com/tag/math) [二分查找](https://leetcode-cn.com/tag/binary-search) 
+**标签:**  [贪心算法](https://leetcode-cn.com/tag/greedy) [数学](https://leetcode-cn.com/tag/math) [二分查找](https://leetcode-cn.com/tag/binary-search) 

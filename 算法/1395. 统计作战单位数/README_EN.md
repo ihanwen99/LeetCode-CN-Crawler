@@ -45,4 +45,4 @@
 	<li><code>1 &lt;= n &lt;= 200</code></li>
 	<li><code>1 &lt;= rating[i] &lt;= 10^5</code></li>
 </ul>
-**Related Topic	**[Array](https://leetcode-cn.com/tag/array) 
+**Related Topic**  [Array](https://leetcode-cn.com/tag/array) 

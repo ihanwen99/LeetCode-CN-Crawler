@@ -21,4 +21,4 @@ Given an array of <b>2n</b> integers, your task is to group these integers into 
 <li>All the integers in the array will be in the range of [-10000, 10000].</li>
 </ol>
 </p>
-**Related Topic	**[Array](https://leetcode-cn.com/tag/array) 
+**Related Topic**  [Array](https://leetcode-cn.com/tag/array) 

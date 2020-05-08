@@ -39,4 +39,4 @@
 	<li><code>1 &lt;= n &lt;= 10^5</code></li>
 	<li>All strings consist of lowercase English letters.</li>
 </ul>
-**Related Topics	**[Greedy](https://leetcode-cn.com/tag/greedy) [String](https://leetcode-cn.com/tag/string) 
+**Related Topics**  [Greedy](https://leetcode-cn.com/tag/greedy) [String](https://leetcode-cn.com/tag/string) 

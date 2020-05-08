@@ -23,7 +23,7 @@
 	<li><strong>不能使用任何标准库的大数类型（比如 BigInteger）</strong>或<strong>直接将输入转换为整数来处理</strong>。</li>
 </ol>
 
-**标签:	**[数学](https://leetcode-cn.com/tag/math) [字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [数学](https://leetcode-cn.com/tag/math) [字符串](https://leetcode-cn.com/tag/string) 
  ### 相似题目
 - 中等:	[两数相加](https://leetcode-cn.com/problems/add-two-numbers) 
 - 简单:	[加一](https://leetcode-cn.com/problems/plus-one) 

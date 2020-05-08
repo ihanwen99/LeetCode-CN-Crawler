@@ -50,4 +50,4 @@
 	<li>你能否尽量少调用 <code>rand7()</code> ?</li>
 </ol>
 
-**标签:	**[None](https://leetcode-cn.com/tag/random) [None](https://leetcode-cn.com/tag/rejection-sampling) 
+**标签:**  [None](https://leetcode-cn.com/tag/random) [None](https://leetcode-cn.com/tag/rejection-sampling) 

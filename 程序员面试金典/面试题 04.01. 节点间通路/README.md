@@ -24,4 +24,4 @@
 	<li>图中可能存在自环和平行边。</li>
 </ol>
 
-**标签:	**[图](https://leetcode-cn.com/tag/graph) 
+**标签:**  [图](https://leetcode-cn.com/tag/graph) 

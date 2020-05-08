@@ -17,4 +17,4 @@
 
 <p>你能够以 O(1) 的时间复杂度实现所有操作吗？</p>
 
-**标签:	**[设计](https://leetcode-cn.com/tag/design) 
+**标签:**  [设计](https://leetcode-cn.com/tag/design) 

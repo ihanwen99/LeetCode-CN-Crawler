@@ -35,7 +35,7 @@
 	<li><code>nums1</code>和<code>nums2</code>&nbsp;的数组大小都不超过1000。</li>
 </ol>
 
-**标签:	**[栈](https://leetcode-cn.com/tag/stack) 
+**标签:**  [栈](https://leetcode-cn.com/tag/stack) 
  ### 相似题目
 - 中等:	[下一个更大元素 II](https://leetcode-cn.com/problems/next-greater-element-ii) 
 - 中等:	[下一个更大元素 III](https://leetcode-cn.com/problems/next-greater-element-iii) 

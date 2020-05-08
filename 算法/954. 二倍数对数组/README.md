@@ -40,4 +40,4 @@
 	<li><code>-100000 &lt;= A[i] &lt;= 100000</code></li>
 </ol>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) [哈希表](https://leetcode-cn.com/tag/hash-table) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) [哈希表](https://leetcode-cn.com/tag/hash-table) 

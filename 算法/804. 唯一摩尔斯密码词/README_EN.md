@@ -35,4 +35,4 @@ There are 2 different transformations, &quot;--...-.&quot; and &quot;--...--.&qu
 	<li><code>words[i]</code> will only consist of lowercase letters.</li>
 </ul>
 
-**Related Topic	**[String](https://leetcode-cn.com/tag/string) 
+**Related Topic**  [String](https://leetcode-cn.com/tag/string) 

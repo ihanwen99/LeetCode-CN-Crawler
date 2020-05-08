@@ -55,4 +55,4 @@ target = &quot;k&quot;
 	<li>目标字母<code>target</code> 是一个小写字母。</li>
 </ol>
 
-**标签:	**[二分查找](https://leetcode-cn.com/tag/binary-search) 
+**标签:**  [二分查找](https://leetcode-cn.com/tag/binary-search) 

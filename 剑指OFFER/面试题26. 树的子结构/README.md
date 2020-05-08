@@ -36,4 +36,4 @@
 
 <p><code>0 &lt;= 节点个数 &lt;= 10000</code></p>
 
-**标签:	**[树](https://leetcode-cn.com/tag/tree) 
+**标签:**  [树](https://leetcode-cn.com/tag/tree) 

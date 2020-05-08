@@ -21,7 +21,7 @@
 <p><strong>提示：</strong><br>
 特别感谢 <a href="https://discuss.leetcode.com/user/yunhong">@yunhong</a> 提供了本问题和其测试用例。</p>
 
-**标签:	**[二分查找](https://leetcode-cn.com/tag/binary-search) [None](https://leetcode-cn.com/tag/ordered-map) 
+**标签:**  [二分查找](https://leetcode-cn.com/tag/binary-search) [None](https://leetcode-cn.com/tag/ordered-map) 
  ### 相似题目
 - 中等:	[汇总区间](https://leetcode-cn.com/problems/summary-ranges) 
 - 中等:	[寻找右区间](https://leetcode-cn.com/problems/find-right-interval) 

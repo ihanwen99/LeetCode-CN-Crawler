@@ -16,7 +16,7 @@
 ]
 </pre>
 
-**Related Topic	**[Array](https://leetcode-cn.com/tag/array) 
+**Related Topic**  [Array](https://leetcode-cn.com/tag/array) 
 
 ### Similar Question
  - Medium:	[Spiral Matrix](https://leetcode-cn.com/problems/spiral-matrix) 

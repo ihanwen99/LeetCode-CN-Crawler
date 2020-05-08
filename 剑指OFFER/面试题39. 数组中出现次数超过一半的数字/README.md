@@ -27,4 +27,4 @@
 
 <p>&nbsp;</p>
 
-**标签:	**[位运算](https://leetcode-cn.com/tag/bit-manipulation) [分治算法](https://leetcode-cn.com/tag/divide-and-conquer) 
+**标签:**  [位运算](https://leetcode-cn.com/tag/bit-manipulation) [分治算法](https://leetcode-cn.com/tag/divide-and-conquer) 

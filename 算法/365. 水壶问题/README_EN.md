@@ -27,4 +27,4 @@ Output: True
 Input: x = 2, y = 6, z = 5
 Output: False
 </pre>
-**Related Topic	**[Math](https://leetcode-cn.com/tag/math) 
+**Related Topic**  [Math](https://leetcode-cn.com/tag/math) 

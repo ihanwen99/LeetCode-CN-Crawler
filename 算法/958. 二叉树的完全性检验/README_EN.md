@@ -39,4 +39,4 @@ In a complete binary tree every level, except possibly the last, is completely f
 	<li>The tree will have between 1 and 100 nodes.</li>
 </ol>
 
-**Related Topic	**[Tree](https://leetcode-cn.com/tag/tree) 
+**Related Topic**  [Tree](https://leetcode-cn.com/tag/tree) 

@@ -27,6 +27,6 @@
 	<li>不需要考虑答案输出的顺序。</li>
 </ol>
 
-**标签:	**[深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) [字典树](https://leetcode-cn.com/tag/trie) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) [字典树](https://leetcode-cn.com/tag/trie) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
  ### 相似题目
 - 困难:	[单词拆分 II](https://leetcode-cn.com/problems/word-break-ii) 

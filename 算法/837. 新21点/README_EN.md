@@ -40,4 +40,4 @@ In 6 out of W = 10 possibilities, she is at or below N = 6 points.
 	<li>The judging time limit has been reduced for this question.</li>
 </ol>
 
-**Related Topic	**[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topic**  [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 

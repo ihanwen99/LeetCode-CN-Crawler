@@ -30,4 +30,4 @@
 	<li><code>arr2[i]</code> is <code>0</code> or <code>1</code></li>
 </ol>
 
-**Related Topic	**[Math](https://leetcode-cn.com/tag/math) 
+**Related Topic**  [Math](https://leetcode-cn.com/tag/math) 

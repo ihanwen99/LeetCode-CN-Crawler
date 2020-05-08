@@ -28,4 +28,4 @@
 	<li>Try to solve it in linear time/space.</li>
 </ul>
 
-**Related Topic	**[Sort](https://leetcode-cn.com/tag/sort) 
+**Related Topic**  [Sort](https://leetcode-cn.com/tag/sort) 

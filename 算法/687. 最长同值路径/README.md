@@ -44,7 +44,7 @@
 
 <p><strong>注意:</strong> 给定的二叉树不超过10000个结点。&nbsp;树的高度不超过1000。</p>
 
-**标签:	**[树](https://leetcode-cn.com/tag/tree) [递归](https://leetcode-cn.com/tag/recursion) 
+**标签:**  [树](https://leetcode-cn.com/tag/tree) [递归](https://leetcode-cn.com/tag/recursion) 
  ### 相似题目
 - 困难:	[二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum) 
 - 中等:	[统计同值子树](https://leetcode-cn.com/problems/count-univalue-subtrees) 

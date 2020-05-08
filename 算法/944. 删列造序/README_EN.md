@@ -47,4 +47,4 @@ If we chose D = {}, then a column [&quot;b&quot;,&quot;a&quot;,&quot;h&quot;] wo
 	<li><code>1 &lt;= A[i].length &lt;= 1000</code></li>
 </ul>
 
-**Related Topic	**[Greedy](https://leetcode-cn.com/tag/greedy) 
+**Related Topic**  [Greedy](https://leetcode-cn.com/tag/greedy) 

@@ -18,7 +18,7 @@
 [5,6]
 </pre>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) 
  ### 相似题目
 - 困难:	[缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive) 
 - 中等:	[数组中重复的数据](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array) 

@@ -37,7 +37,7 @@ iterator.hasNext(); // return false
 	<li>You may assume that&nbsp;<code>next()</code>&nbsp;call&nbsp;will always be valid, that is, there will be at least a next smallest number in the BST when <code>next()</code> is called.</li>
 </ul>
 
-**Related Topics	**[Stack](https://leetcode-cn.com/tag/stack) [Tree](https://leetcode-cn.com/tag/tree) [Design](https://leetcode-cn.com/tag/design) 
+**Related Topics**  [Stack](https://leetcode-cn.com/tag/stack) [Tree](https://leetcode-cn.com/tag/tree) [Design](https://leetcode-cn.com/tag/design) 
 
 ### Similar Questions
  - Medium:	[Binary Tree Inorder Traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal) 

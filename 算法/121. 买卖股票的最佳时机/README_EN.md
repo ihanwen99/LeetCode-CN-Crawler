@@ -25,7 +25,7 @@
 <strong>Explanation:</strong> In this case, no transaction is done, i.e. max profit = 0.
 </pre>
 
-**Related Topics	**[Array](https://leetcode-cn.com/tag/array) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topics**  [Array](https://leetcode-cn.com/tag/array) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
 
 ### Similar Questions
  - Easy:	[Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray) 

@@ -44,7 +44,7 @@
 <p><strong>Follow up:</strong></p>
 
 <p>For C programmers, try to solve it <em>in-place</em> in <em>O</em>(1) extra space.</p>
-**Related Topic	**[String](https://leetcode-cn.com/tag/string) 
+**Related Topic**  [String](https://leetcode-cn.com/tag/string) 
 
 ### Similar Question
  - Medium:	[Reverse Words in a String II](https://leetcode-cn.com/problems/reverse-words-in-a-string-ii) 

@@ -23,4 +23,4 @@
 <p><strong>进阶：</strong><br>
 你能否用 O(n) 时间复杂度和 O(1) 空间复杂度解决此题？</p>
 
-**标签:	**[链表](https://leetcode-cn.com/tag/linked-list) 
+**标签:**  [链表](https://leetcode-cn.com/tag/linked-list) 

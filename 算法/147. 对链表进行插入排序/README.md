@@ -32,7 +32,7 @@
 <strong>输出:</strong> -1-&gt;0-&gt;3-&gt;4-&gt;5
 </pre>
 
-**标签:	**[排序](https://leetcode-cn.com/tag/sort) [链表](https://leetcode-cn.com/tag/linked-list) 
+**标签:**  [排序](https://leetcode-cn.com/tag/sort) [链表](https://leetcode-cn.com/tag/linked-list) 
  ### 相似题目
 - 中等:	[排序链表](https://leetcode-cn.com/problems/sort-list) 
 - 中等:	[循环有序列表的插入](https://leetcode-cn.com/problems/insert-into-a-sorted-circular-linked-list) 

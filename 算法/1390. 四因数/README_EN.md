@@ -27,4 +27,4 @@ The answer is the sum of divisors of 21 only.
 	<li><code>1 &lt;= nums[i] &lt;= 10^5</code></li>
 </ul>
 
-**Related Topic	**[Math](https://leetcode-cn.com/tag/math) 
+**Related Topic**  [Math](https://leetcode-cn.com/tag/math) 

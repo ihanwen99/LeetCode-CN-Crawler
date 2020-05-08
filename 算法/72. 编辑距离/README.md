@@ -36,7 +36,7 @@ exention -&gt; exection (将 &#39;n&#39; 替换为 &#39;c&#39;)
 exection -&gt; execution (插入 &#39;u&#39;)
 </pre>
 
-**标签:	**[字符串](https://leetcode-cn.com/tag/string) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [字符串](https://leetcode-cn.com/tag/string) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
  ### 相似题目
 - 中等:	[相隔为 1 的编辑距离](https://leetcode-cn.com/problems/one-edit-distance) 
 - 中等:	[两个字符串的删除操作](https://leetcode-cn.com/problems/delete-operation-for-two-strings) 

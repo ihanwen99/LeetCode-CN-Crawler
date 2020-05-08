@@ -25,4 +25,4 @@
 <p><b>Follow up:</b><br />
 Could you do it in O(n) time and O(1) space?</p>
 
-**Related Topic	**[Linked List](https://leetcode-cn.com/tag/linked-list) 
+**Related Topic**  [Linked List](https://leetcode-cn.com/tag/linked-list) 

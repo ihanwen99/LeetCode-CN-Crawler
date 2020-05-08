@@ -57,4 +57,4 @@
 	<li><code>1 &lt;= slices[i] &lt;= 1000</code></li>
 </ul>
 
-**标签:	**[动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 

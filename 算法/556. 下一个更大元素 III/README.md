@@ -18,7 +18,7 @@
 <strong>输出:</strong> -1
 </pre>
 
-**标签:	**[字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [字符串](https://leetcode-cn.com/tag/string) 
  ### 相似题目
 - 简单:	[下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i) 
 - 中等:	[下一个更大元素 II](https://leetcode-cn.com/problems/next-greater-element-ii) 

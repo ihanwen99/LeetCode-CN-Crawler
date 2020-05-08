@@ -49,4 +49,4 @@
 	<li>The answer is guaranteed to exist and be less than <code>2 * 10^8</code>.</li>
 </ul>
 
-**Related Topic	**[Math](https://leetcode-cn.com/tag/math) 
+**Related Topic**  [Math](https://leetcode-cn.com/tag/math) 

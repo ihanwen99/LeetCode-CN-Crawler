@@ -44,7 +44,7 @@
 	<li>树的高度是指根节点和叶子节点之间最长向下路径上边的数量。</li>
 </ul>
 
-**标签:	**[广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search) [图](https://leetcode-cn.com/tag/graph) 
+**标签:**  [广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search) [图](https://leetcode-cn.com/tag/graph) 
  ### 相似题目
 - 中等:	[课程表](https://leetcode-cn.com/problems/course-schedule) 
 - 中等:	[课程表 II](https://leetcode-cn.com/problems/course-schedule-ii) 

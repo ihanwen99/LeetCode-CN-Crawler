@@ -19,4 +19,4 @@
 <li>If there is a tie, return the smaller one as answer.</li>
 </ol>
 </p>
-**Related Topic	**[String](https://leetcode-cn.com/tag/string) 
+**Related Topic**  [String](https://leetcode-cn.com/tag/string) 

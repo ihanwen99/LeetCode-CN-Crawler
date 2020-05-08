@@ -27,4 +27,4 @@ Input: "fviefuro"
 Output: "45"
 </pre>
 </p>
-**Related Topic	**[Math](https://leetcode-cn.com/tag/math) 
+**Related Topic**  [Math](https://leetcode-cn.com/tag/math) 

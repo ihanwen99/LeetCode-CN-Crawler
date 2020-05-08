@@ -54,7 +54,7 @@
 
 <p>输入是两个列表：调用成员函数名和调用的参数。<code>Solution</code>的构造函数有两个参数，<code>N</code>&nbsp;和黑名单&nbsp;<code>B</code>。<code>pick</code>&nbsp;没有参数，输入参数是一个列表，即使参数为空，也会输入一个 [] 空列表。</p>
 
-**标签:	**[排序](https://leetcode-cn.com/tag/sort) [哈希表](https://leetcode-cn.com/tag/hash-table) [二分查找](https://leetcode-cn.com/tag/binary-search) [None](https://leetcode-cn.com/tag/random) 
+**标签:**  [排序](https://leetcode-cn.com/tag/sort) [哈希表](https://leetcode-cn.com/tag/hash-table) [二分查找](https://leetcode-cn.com/tag/binary-search) [None](https://leetcode-cn.com/tag/random) 
  ### 相似题目
 - 中等:	[随机数索引](https://leetcode-cn.com/problems/random-pick-index) 
 - 中等:	[按权重随机选择](https://leetcode-cn.com/problems/random-pick-with-weight) 

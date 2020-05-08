@@ -46,4 +46,4 @@
 <div>
 <div>&nbsp;</div>
 </div>
-**Related Topics	**[Greedy](https://leetcode-cn.com/tag/greedy) [Math](https://leetcode-cn.com/tag/math) [Binary Search](https://leetcode-cn.com/tag/binary-search) 
+**Related Topics**  [Greedy](https://leetcode-cn.com/tag/greedy) [Math](https://leetcode-cn.com/tag/math) [Binary Search](https://leetcode-cn.com/tag/binary-search) 

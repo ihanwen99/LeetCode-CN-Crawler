@@ -22,7 +22,7 @@
 
 <p><strong>说明:&nbsp;</strong>不要使用类的成员 / 全局 / 静态变量来存储状态，你的序列化和反序列化算法应该是无状态的。</p>
 
-**标签:	**[树](https://leetcode-cn.com/tag/tree) [设计](https://leetcode-cn.com/tag/design) 
+**标签:**  [树](https://leetcode-cn.com/tag/tree) [设计](https://leetcode-cn.com/tag/design) 
  ### 相似题目
 - 中等:	[字符串的编码与解码](https://leetcode-cn.com/problems/encode-and-decode-strings) 
 - 中等:	[序列化和反序列化二叉搜索树](https://leetcode-cn.com/problems/serialize-and-deserialize-bst) 

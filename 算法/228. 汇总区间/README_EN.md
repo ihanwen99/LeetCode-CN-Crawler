@@ -20,7 +20,7 @@
 <strong>Explanation: </strong>2,3,4 form a continuous range;&nbsp;8,9 form a continuous range.
 </pre>
 
-**Related Topic	**[Array](https://leetcode-cn.com/tag/array) 
+**Related Topic**  [Array](https://leetcode-cn.com/tag/array) 
 
 ### Similar Questions
  - Medium:	[Missing Ranges](https://leetcode-cn.com/problems/missing-ranges) 

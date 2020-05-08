@@ -42,4 +42,4 @@
 	<li>String&nbsp;<code>dominoes</code> contains only&nbsp;<code>&#39;L</code>&#39;, <code>&#39;R&#39;</code> and <code>&#39;.&#39;</code></li>
 </ol>
 
-**Related Topics	**[Two Pointers](https://leetcode-cn.com/tag/two-pointers) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topics**  [Two Pointers](https://leetcode-cn.com/tag/two-pointers) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 

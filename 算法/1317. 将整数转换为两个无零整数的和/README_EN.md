@@ -56,4 +56,4 @@
 <ul>
 	<li><code>2 &lt;= n &lt;= 10^4</code></li>
 </ul>
-**Related Topic	**[Math](https://leetcode-cn.com/tag/math) 
+**Related Topic**  [Math](https://leetcode-cn.com/tag/math) 

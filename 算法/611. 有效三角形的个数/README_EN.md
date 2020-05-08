@@ -23,7 +23,7 @@ Valid combinations are:
 </ol>
 </p>
 
-**Related Topic	**[Array](https://leetcode-cn.com/tag/array) 
+**Related Topic**  [Array](https://leetcode-cn.com/tag/array) 
 
 ### Similar Question
  - Medium:	[3Sum Smaller](https://leetcode-cn.com/problems/3sum-smaller) 

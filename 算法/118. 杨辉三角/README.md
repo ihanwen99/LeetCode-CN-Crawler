@@ -20,6 +20,6 @@
  [1,4,6,4,1]
 ]</pre>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) 
  ### 相似题目
 - 简单:	[杨辉三角 II](https://leetcode-cn.com/problems/pascals-triangle-ii) 

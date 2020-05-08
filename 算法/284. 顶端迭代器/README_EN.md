@@ -17,7 +17,7 @@ Calling <strong><code>hasNext()</code></strong> after that should return <strong
 
 <p><b>Follow up</b>: How would you extend your design to be generic and work with all types, not just integer?</p>
 
-**Related Topic	**[Design](https://leetcode-cn.com/tag/design) 
+**Related Topic**  [Design](https://leetcode-cn.com/tag/design) 
 
 ### Similar Questions
  - Medium:	[Binary Search Tree Iterator](https://leetcode-cn.com/problems/binary-search-tree-iterator) 

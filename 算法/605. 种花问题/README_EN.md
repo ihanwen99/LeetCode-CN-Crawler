@@ -27,7 +27,7 @@
 <li><b>n</b> is a non-negative integer which won't exceed the input array size.</li>
 </ol>
 </p>
-**Related Topic	**[Array](https://leetcode-cn.com/tag/array) 
+**Related Topic**  [Array](https://leetcode-cn.com/tag/array) 
 
 ### Similar Questions
  - Medium:	[Teemo Attacking](https://leetcode-cn.com/problems/teemo-attacking) 

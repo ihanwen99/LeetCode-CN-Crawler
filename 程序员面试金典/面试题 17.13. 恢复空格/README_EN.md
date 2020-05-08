@@ -26,4 +26,4 @@ sentence = &quot;jesslookedjustliketimherbrother&quot;
 	<li>There are only lowercase letters in&nbsp;<code>dictionary</code>&nbsp;and&nbsp;<code>sentence</code>.</li>
 </ul>
 
-**Related Topics	**[Memoization](https://leetcode-cn.com/tag/memoization) [String](https://leetcode-cn.com/tag/string) 
+**Related Topics**  [Memoization](https://leetcode-cn.com/tag/memoization) [String](https://leetcode-cn.com/tag/string) 

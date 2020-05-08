@@ -39,6 +39,6 @@
 	<li>字符串中的字符仅含有&nbsp;<code>&#39;a&#39;~&#39;z&#39;</code> 。</li>
 </ol>
 
-**标签:	**[字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [字符串](https://leetcode-cn.com/tag/string) 
  ### 相似题目
 - 中等:	[最长特殊序列 II](https://leetcode-cn.com/problems/longest-uncommon-subsequence-ii) 

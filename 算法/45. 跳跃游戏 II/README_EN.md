@@ -20,7 +20,7 @@
 
 <p>You can assume that you can always reach the last index.</p>
 
-**Related Topics	**[Greedy](https://leetcode-cn.com/tag/greedy) [Array](https://leetcode-cn.com/tag/array) 
+**Related Topics**  [Greedy](https://leetcode-cn.com/tag/greedy) [Array](https://leetcode-cn.com/tag/array) 
 
 ### Similar Question
  - Medium:	[Jump Game](https://leetcode-cn.com/problems/jump-game) 

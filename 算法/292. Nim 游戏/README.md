@@ -14,6 +14,6 @@
 &nbsp;    因为无论你拿走 1 块、2 块 还是 3 块石头，最后一块石头总是会被你的朋友拿走。
 </pre>
 
-**标签:	**[脑筋急转弯](https://leetcode-cn.com/tag/brainteaser) [极小化极大](https://leetcode-cn.com/tag/minimax) 
+**标签:**  [脑筋急转弯](https://leetcode-cn.com/tag/brainteaser) [极小化极大](https://leetcode-cn.com/tag/minimax) 
  ### 相似题目
 - 中等:	[翻转游戏 II](https://leetcode-cn.com/problems/flip-game-ii) 

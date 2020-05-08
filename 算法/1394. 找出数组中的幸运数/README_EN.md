@@ -52,4 +52,4 @@
 	<li><code>1 &lt;= arr.length &lt;= 500</code></li>
 	<li><code>1 &lt;= arr[i] &lt;= 500</code></li>
 </ul>
-**Related Topic	**[Array](https://leetcode-cn.com/tag/array) 
+**Related Topic**  [Array](https://leetcode-cn.com/tag/array) 

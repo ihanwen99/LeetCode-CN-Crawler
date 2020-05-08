@@ -23,7 +23,7 @@
 	<li>The given array may contain duplicates, and two equal integers should also be considered as a special case of increasing sequence.</li>
 </ol>
 
-**Related Topic	**[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) 
+**Related Topic**  [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) 
 
 ### Similar Question
  - Medium:	[Maximum Length of Pair Chain](https://leetcode-cn.com/problems/maximum-length-of-pair-chain) 

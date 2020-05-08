@@ -24,4 +24,4 @@
 	<li>每个输入保证至少有一个答案。如果有多个答案，可以返回其中一个。</li>
 </ul>
 
-**标签:	**[树](https://leetcode-cn.com/tag/tree) 
+**标签:**  [树](https://leetcode-cn.com/tag/tree) 

@@ -50,4 +50,4 @@
 	<li><code>1 &lt;= seq.size &lt;= 10000</code></li>
 </ul>
 
-**Related Topics	**[Greedy](https://leetcode-cn.com/tag/greedy) [Binary Search](https://leetcode-cn.com/tag/binary-search) 
+**Related Topics**  [Greedy](https://leetcode-cn.com/tag/greedy) [Binary Search](https://leetcode-cn.com/tag/binary-search) 

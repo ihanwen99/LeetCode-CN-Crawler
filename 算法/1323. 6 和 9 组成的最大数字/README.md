@@ -43,4 +43,4 @@
 	<li><code>num</code>&nbsp;每一位上的数字都是 6 或者&nbsp;9 。</li>
 </ul>
 
-**标签:	**[数学](https://leetcode-cn.com/tag/math) 
+**标签:**  [数学](https://leetcode-cn.com/tag/math) 

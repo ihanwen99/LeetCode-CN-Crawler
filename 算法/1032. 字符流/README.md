@@ -39,4 +39,4 @@ streamChecker.query(&#39;l&#39;);          // 返回 true，因为 &#39;kl&#39; 
 	<li>待查项最多 40000 个。</li>
 </ul>
 
-**标签:	**[字典树](https://leetcode-cn.com/tag/trie) 
+**标签:**  [字典树](https://leetcode-cn.com/tag/trie) 

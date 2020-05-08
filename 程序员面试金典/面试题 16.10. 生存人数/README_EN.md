@@ -22,4 +22,4 @@ death = {1948, 1951, 2000}
 	<li><code>birth[i] &lt;= death[i]</code></li>
 </ul>
 
-**Related Topic	**[Array](https://leetcode-cn.com/tag/array) 
+**Related Topic**  [Array](https://leetcode-cn.com/tag/array) 

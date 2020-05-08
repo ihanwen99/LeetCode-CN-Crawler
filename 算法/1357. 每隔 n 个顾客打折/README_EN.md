@@ -52,4 +52,4 @@ cashier.getBill([2,3,5],[5,3,2]);                    // return 2500.0
 	<li>At most <code>1000</code> calls will be made to <code>getBill</code>.</li>
 	<li>Answers within&nbsp;<code>10^-5</code>&nbsp;of the actual value will be accepted as correct.</li>
 </ul>
-**Related Topic	**[Design](https://leetcode-cn.com/tag/design) 
+**Related Topic**  [Design](https://leetcode-cn.com/tag/design) 

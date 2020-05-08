@@ -23,4 +23,4 @@
 	<li>words的长度在[1, 1000000]之间</li>
 </ol>
 
-**标签:	**[二分查找](https://leetcode-cn.com/tag/binary-search) 
+**标签:**  [二分查找](https://leetcode-cn.com/tag/binary-search) 

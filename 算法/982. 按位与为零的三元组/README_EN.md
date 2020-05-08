@@ -42,4 +42,4 @@
 	<li><code>0 &lt;= A[i] &lt; 2^16</code></li>
 </ol>
 
-**Related Topic	**[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topic**  [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 

@@ -29,7 +29,7 @@
 
 <strong>输出:</strong> 42</pre>
 
-**标签:	**[树](https://leetcode-cn.com/tag/tree) [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) 
+**标签:**  [树](https://leetcode-cn.com/tag/tree) [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) 
  ### 相似题目
 - 简单:	[路径总和](https://leetcode-cn.com/problems/path-sum) 
 - 中等:	[求根到叶子节点数字之和](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers) 

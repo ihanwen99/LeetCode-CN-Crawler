@@ -22,6 +22,6 @@ words = [&quot;a&quot;, &quot;bb&quot;, &quot;acd&quot;, &quot;ace&quot;]
 	<li><code>words[i]</code>的长度在<code>[1, 50]</code>。</li>
 </ul>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) 
  ### 相似题目
 - 简单:	[判断子序列](https://leetcode-cn.com/problems/is-subsequence) 

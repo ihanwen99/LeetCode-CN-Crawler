@@ -47,7 +47,7 @@ You can split them into two consecutive subsequences :
 
 <p>&nbsp;</p>
 
-**Related Topics	**[Heap](https://leetcode-cn.com/tag/heap) [Greedy](https://leetcode-cn.com/tag/greedy) 
+**Related Topics**  [Heap](https://leetcode-cn.com/tag/heap) [Greedy](https://leetcode-cn.com/tag/greedy) 
 
 ### Similar Question
  - Medium:	[Top K Frequent Elements](https://leetcode-cn.com/problems/top-k-frequent-elements) 

@@ -59,4 +59,4 @@
 	<li>每一个节点值的范围是&nbsp;<code>[1, 1000]</code>&nbsp;。</li>
 </ul>
 
-**标签:	**[树](https://leetcode-cn.com/tag/tree) 
+**标签:**  [树](https://leetcode-cn.com/tag/tree) 

@@ -31,7 +31,7 @@
 <strong>解释: </strong>每座岛屿只能由水平和/或竖直方向上相邻的陆地连接而成。
 </pre>
 
-**标签:	**[深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) [广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search) [并查集](https://leetcode-cn.com/tag/union-find) 
+**标签:**  [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) [广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search) [并查集](https://leetcode-cn.com/tag/union-find) 
  ### 相似题目
 - 中等:	[被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions) 
 - 中等:	[墙与门](https://leetcode-cn.com/problems/walls-and-gates) 

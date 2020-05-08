@@ -22,7 +22,7 @@
 
 <p>&nbsp;</p>
 
-**Related Topic	**[String](https://leetcode-cn.com/tag/string) 
+**Related Topic**  [String](https://leetcode-cn.com/tag/string) 
 
 ### Similar Questions
  - Easy:	[Next Greater Element I](https://leetcode-cn.com/problems/next-greater-element-i) 

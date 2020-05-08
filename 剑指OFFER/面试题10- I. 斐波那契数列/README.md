@@ -35,4 +35,4 @@ F(N) = F(N - 1) + F(N - 2), 其中 N &gt; 1.</pre>
 
 <p>注意：本题与主站 509 题相同：<a href="https://leetcode-cn.com/problems/fibonacci-number/">https://leetcode-cn.com/problems/fibonacci-number/</a></p>
 
-**标签:	**[递归](https://leetcode-cn.com/tag/recursion) 
+**标签:**  [递归](https://leetcode-cn.com/tag/recursion) 

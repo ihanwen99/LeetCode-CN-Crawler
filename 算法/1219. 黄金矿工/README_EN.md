@@ -49,4 +49,4 @@ Path to get the maximum gold, 1 -&gt; 2 -&gt; 3 -&gt; 4 -&gt; 5 -&gt; 6 -&gt; 7.
 	<li><code>0 &lt;= grid[i][j] &lt;= 100</code></li>
 	<li>There are at most <strong>25&nbsp;</strong>cells containing gold.</li>
 </ul>
-**Related Topic	**[Backtracking](https://leetcode-cn.com/tag/backtracking) 
+**Related Topic**  [Backtracking](https://leetcode-cn.com/tag/backtracking) 

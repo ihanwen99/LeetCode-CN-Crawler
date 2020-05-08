@@ -35,4 +35,4 @@ Can you do it in O(<i>n</i>) time?</p>
 </div>
 </div>
 
-**Related Topics	**[Greedy](https://leetcode-cn.com/tag/greedy) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topics**  [Greedy](https://leetcode-cn.com/tag/greedy) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 

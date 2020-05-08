@@ -28,4 +28,4 @@
 	<li><code>1 &lt;= palindrome.length &lt;= 1000</code></li>
 	<li><code>palindrome</code>&nbsp;consists of only lowercase English letters.</li>
 </ul>
-**Related Topic	**[String](https://leetcode-cn.com/tag/string) 
+**Related Topic**  [String](https://leetcode-cn.com/tag/string) 

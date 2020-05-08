@@ -39,4 +39,4 @@ It can be shown with 5 or less moves that it is impossible for the array to have
 <div>
 <div>&nbsp;</div>
 </div>
-**Related Topic	**[Array](https://leetcode-cn.com/tag/array) 
+**Related Topic**  [Array](https://leetcode-cn.com/tag/array) 

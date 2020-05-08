@@ -8,6 +8,6 @@
 
 <p><strong>提示：</strong><code>气温</code> 列表长度的范围是&nbsp;<code>[1, 30000]</code>。每个气温的值的均为华氏度，都是在&nbsp;<code>[30, 100]</code>&nbsp;范围内的整数。</p>
 
-**标签:	**[栈](https://leetcode-cn.com/tag/stack) [哈希表](https://leetcode-cn.com/tag/hash-table) 
+**标签:**  [栈](https://leetcode-cn.com/tag/stack) [哈希表](https://leetcode-cn.com/tag/hash-table) 
  ### 相似题目
 - 简单:	[下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i) 

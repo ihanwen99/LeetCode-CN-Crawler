@@ -36,7 +36,7 @@ If there is a tie,  the smaller elements are always preferred.
 <b><font color="red">UPDATE (2017/9/19):</font></b><br />
 The <i>arr</i> parameter had been changed to an <b>array of integers</b> (instead of a list of integers). <b><i>Please reload the code definition to get the latest changes</i></b>.
 </p>
-**Related Topic	**[Binary Search](https://leetcode-cn.com/tag/binary-search) 
+**Related Topic**  [Binary Search](https://leetcode-cn.com/tag/binary-search) 
 
 ### Similar Questions
  - Easy:	[Guess Number Higher or Lower](https://leetcode-cn.com/problems/guess-number-higher-or-lower) 

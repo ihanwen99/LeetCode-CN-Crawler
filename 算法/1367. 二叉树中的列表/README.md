@@ -44,4 +44,4 @@
 	<li>二叉树包含的节点数目在&nbsp;<code>1</code>&nbsp;到&nbsp;<code>2500</code>&nbsp;之间。</li>
 </ul>
 
-**标签:	**[树](https://leetcode-cn.com/tag/tree) [链表](https://leetcode-cn.com/tag/linked-list) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [树](https://leetcode-cn.com/tag/tree) [链表](https://leetcode-cn.com/tag/linked-list) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 

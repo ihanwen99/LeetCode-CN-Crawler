@@ -19,7 +19,7 @@
 <pre>
 <strong>Input:</strong> [1,8,6,2,5,4,8,3,7]
 <strong>Output:</strong> 49</pre>
-**Related Topics	**[Array](https://leetcode-cn.com/tag/array) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) 
+**Related Topics**  [Array](https://leetcode-cn.com/tag/array) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) 
 
 ### Similar Question
  - Hard:	[Trapping Rain Water](https://leetcode-cn.com/problems/trapping-rain-water) 

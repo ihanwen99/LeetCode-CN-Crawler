@@ -35,7 +35,7 @@
 </div>
 </div>
 
-**Related Topics	**[Hash Table](https://leetcode-cn.com/tag/hash-table) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) [String](https://leetcode-cn.com/tag/string) [Sliding Window](https://leetcode-cn.com/tag/sliding-window) 
+**Related Topics**  [Hash Table](https://leetcode-cn.com/tag/hash-table) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) [String](https://leetcode-cn.com/tag/string) [Sliding Window](https://leetcode-cn.com/tag/sliding-window) 
 
 ### Similar Questions
  - Medium:	[Longest Substring with At Most Two Distinct Characters](https://leetcode-cn.com/problems/longest-substring-with-at-most-two-distinct-characters) 

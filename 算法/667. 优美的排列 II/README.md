@@ -36,6 +36,6 @@
 
 <p>&nbsp;</p>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) 
  ### 相似题目
 - 中等:	[优美的排列](https://leetcode-cn.com/problems/beautiful-arrangement) 

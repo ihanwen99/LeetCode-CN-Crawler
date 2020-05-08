@@ -24,6 +24,6 @@ D = [ 0, 2]
 2. (1, 1, 0, 0) -&gt; A[1] + B[1] + C[0] + D[0] = 2 + (-1) + (-1) + 0 = 0
 </pre>
 
-**标签:	**[哈希表](https://leetcode-cn.com/tag/hash-table) [二分查找](https://leetcode-cn.com/tag/binary-search) 
+**标签:**  [哈希表](https://leetcode-cn.com/tag/hash-table) [二分查找](https://leetcode-cn.com/tag/binary-search) 
  ### 相似题目
 - 中等:	[四数之和](https://leetcode-cn.com/problems/4sum) 

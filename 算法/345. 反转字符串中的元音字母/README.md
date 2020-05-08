@@ -18,7 +18,7 @@
 <p><strong>说明:</strong><br>
 元音字母不包含字母&quot;y&quot;。</p>
 
-**标签:	**[双指针](https://leetcode-cn.com/tag/two-pointers) [字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [双指针](https://leetcode-cn.com/tag/two-pointers) [字符串](https://leetcode-cn.com/tag/string) 
  ### 相似题目
 - 简单:	[反转字符串](https://leetcode-cn.com/problems/reverse-string) 
 - 简单:	[删去字符串中的元音](https://leetcode-cn.com/problems/remove-vowels-from-a-string) 

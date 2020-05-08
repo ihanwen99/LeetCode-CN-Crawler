@@ -59,6 +59,6 @@
 	<li><code>1 &lt;= trust[i][0], trust[i][1] &lt;= N</code></li>
 </ol>
 
-**标签:	**[图](https://leetcode-cn.com/tag/graph) 
+**标签:**  [图](https://leetcode-cn.com/tag/graph) 
  ### 相似题目
 - 中等:	[搜寻名人](https://leetcode-cn.com/problems/find-the-celebrity) 

@@ -33,6 +33,6 @@
 	<li><strong>N</strong> 是一个正整数，并且不会超过15。</li>
 </ol>
 
-**标签:	**[回溯算法](https://leetcode-cn.com/tag/backtracking) 
+**标签:**  [回溯算法](https://leetcode-cn.com/tag/backtracking) 
  ### 相似题目
 - 中等:	[优美的排列 II](https://leetcode-cn.com/problems/beautiful-arrangement-ii) 

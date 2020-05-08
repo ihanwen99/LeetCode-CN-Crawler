@@ -30,6 +30,6 @@
 	<li>你可以优化你的算法到对数时间复杂度吗？</li>
 </ul>
 
-**标签:	**[二分查找](https://leetcode-cn.com/tag/binary-search) 
+**标签:**  [二分查找](https://leetcode-cn.com/tag/binary-search) 
  ### 相似题目
 - 中等:	[H 指数](https://leetcode-cn.com/problems/h-index) 

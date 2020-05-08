@@ -20,7 +20,7 @@ solution.pick(3);
 solution.pick(1);
 </pre>
 
-**Related Topic	**[Reservoir Sampling](https://leetcode-cn.com/tag/reservoir-sampling) 
+**Related Topic**  [Reservoir Sampling](https://leetcode-cn.com/tag/reservoir-sampling) 
 
 ### Similar Questions
  - Medium:	[Linked List Random Node](https://leetcode-cn.com/problems/linked-list-random-node) 

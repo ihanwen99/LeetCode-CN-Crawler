@@ -27,6 +27,6 @@
 	<li><strong>你不能只是单纯的改变节点内部的值</strong>，而是需要实际进行节点交换。</li>
 </ul>
 
-**标签:	**[链表](https://leetcode-cn.com/tag/linked-list) 
+**标签:**  [链表](https://leetcode-cn.com/tag/linked-list) 
  ### 相似题目
 - 中等:	[两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs) 

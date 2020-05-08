@@ -31,7 +31,7 @@
 <strong>解释: </strong>也可能序列中所有的数对都被返回:[1,3],[2,3]
 </pre>
 
-**标签:	**[堆](https://leetcode-cn.com/tag/heap) 
+**标签:**  [堆](https://leetcode-cn.com/tag/heap) 
  ### 相似题目
 - 中等:	[有序矩阵中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix) 
 - 困难:	[找出第 k 小的距离对](https://leetcode-cn.com/problems/find-k-th-smallest-pair-distance) 

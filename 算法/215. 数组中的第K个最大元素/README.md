@@ -19,7 +19,7 @@
 
 <p>你可以假设 k 总是有效的，且 1 &le; k &le; 数组的长度。</p>
 
-**标签:	**[堆](https://leetcode-cn.com/tag/heap) [分治算法](https://leetcode-cn.com/tag/divide-and-conquer) 
+**标签:**  [堆](https://leetcode-cn.com/tag/heap) [分治算法](https://leetcode-cn.com/tag/divide-and-conquer) 
  ### 相似题目
 - 中等:	[摆动排序 II](https://leetcode-cn.com/problems/wiggle-sort-ii) 
 - 中等:	[前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements) 

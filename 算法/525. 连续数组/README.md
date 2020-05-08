@@ -22,6 +22,6 @@
 
 <p><strong>注意:&nbsp;</strong>给定的二进制数组的长度不会超过50000。</p>
 
-**标签:	**[哈希表](https://leetcode-cn.com/tag/hash-table) 
+**标签:**  [哈希表](https://leetcode-cn.com/tag/hash-table) 
  ### 相似题目
 - 中等:	[和等于 k 的最长子数组长度](https://leetcode-cn.com/problems/maximum-size-subarray-sum-equals-k) 

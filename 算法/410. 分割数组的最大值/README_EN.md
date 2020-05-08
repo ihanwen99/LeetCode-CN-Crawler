@@ -28,4 +28,4 @@ The best way is to split it into <b>[7,2,5]</b> and <b>[10,8]</b>,
 where the largest sum among the two subarrays is only 18.
 </pre>
 </p>
-**Related Topics	**[Binary Search](https://leetcode-cn.com/tag/binary-search) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topics**  [Binary Search](https://leetcode-cn.com/tag/binary-search) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 

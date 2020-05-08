@@ -24,4 +24,4 @@ wordsFrequency.get("pen"); //返回1
 <li><code>get</code>函数的调用次数不会超过100000</li>
 </ul>
 
-**标签:	**[设计](https://leetcode-cn.com/tag/design) [哈希表](https://leetcode-cn.com/tag/hash-table) 
+**标签:**  [设计](https://leetcode-cn.com/tag/design) [哈希表](https://leetcode-cn.com/tag/hash-table) 

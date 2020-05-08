@@ -36,4 +36,4 @@
 
 <p><strong>注意：</strong>该题目与 538:&nbsp;<a href="https://leetcode-cn.com/problems/convert-bst-to-greater-tree/">https://leetcode-cn.com/problems/convert-bst-to-greater-tree/&nbsp; </a>相同</p>
 
-**标签:	**[二叉搜索树](https://leetcode-cn.com/tag/binary-search-tree) 
+**标签:**  [二叉搜索树](https://leetcode-cn.com/tag/binary-search-tree) 

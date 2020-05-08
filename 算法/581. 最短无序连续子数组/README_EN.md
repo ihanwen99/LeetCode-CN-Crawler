@@ -20,4 +20,4 @@
 <li>The input array may contain duplicates, so ascending order here means <b><=</b>. </li>
 </ol>
 </p>
-**Related Topic	**[Array](https://leetcode-cn.com/tag/array) 
+**Related Topic**  [Array](https://leetcode-cn.com/tag/array) 

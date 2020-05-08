@@ -36,4 +36,4 @@
 	<li><code>0 &lt;= grid[i][j] &lt;= 15</code></li>
 </ol>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) 

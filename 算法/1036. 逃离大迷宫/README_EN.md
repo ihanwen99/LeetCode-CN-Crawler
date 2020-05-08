@@ -41,4 +41,4 @@ Because there are no blocked cells, it&#39;s possible to reach the target square
 	<li><code>source != target</code></li>
 </ol>
 
-**Related Topic	**[Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search) 
+**Related Topic**  [Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search) 

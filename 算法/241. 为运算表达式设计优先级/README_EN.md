@@ -25,7 +25,7 @@
 (2*((3-4)*5)) = -10 
 (((2*3)-4)*5) = 10<strong>
 </strong></pre>
-**Related Topic	**[Divide and Conquer](https://leetcode-cn.com/tag/divide-and-conquer) 
+**Related Topic**  [Divide and Conquer](https://leetcode-cn.com/tag/divide-and-conquer) 
 
 ### Similar Questions
  - Medium:	[Unique Binary Search Trees II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii) 

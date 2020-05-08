@@ -39,4 +39,4 @@
 	<li>给定列表的长度在 <code>[0, 10000]</code>&nbsp;范围内</li>
 </ol>
 
-**标签:	**[栈](https://leetcode-cn.com/tag/stack) [链表](https://leetcode-cn.com/tag/linked-list) 
+**标签:**  [栈](https://leetcode-cn.com/tag/stack) [链表](https://leetcode-cn.com/tag/linked-list) 

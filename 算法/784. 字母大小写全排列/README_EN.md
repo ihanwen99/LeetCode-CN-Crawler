@@ -23,7 +23,7 @@
 	<li><code>S</code> will consist only of letters or digits.</li>
 </ul>
 
-**Related Topics	**[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) [Backtracking](https://leetcode-cn.com/tag/backtracking) 
+**Related Topics**  [Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) [Backtracking](https://leetcode-cn.com/tag/backtracking) 
 
 ### Similar Questions
  - Medium:	[Subsets](https://leetcode-cn.com/problems/subsets) 

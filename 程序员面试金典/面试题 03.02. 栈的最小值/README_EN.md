@@ -16,4 +16,4 @@ minStack.pop();
 minStack.top();      --&gt; return 0.
 minStack.getMin();   --&gt; return -2.</pre>
 
-**Related Topic	**[Stack](https://leetcode-cn.com/tag/stack) 
+**Related Topic**  [Stack](https://leetcode-cn.com/tag/stack) 

@@ -66,4 +66,4 @@
 	<li>Answers within <code>10^-5</code> of the actual value will be accepted as correct.</li>
 </ol>
 
-**Related Topics	**[Geometry](https://leetcode-cn.com/tag/geometry) [Math](https://leetcode-cn.com/tag/math) 
+**Related Topics**  [Geometry](https://leetcode-cn.com/tag/geometry) [Math](https://leetcode-cn.com/tag/math) 

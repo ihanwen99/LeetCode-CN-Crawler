@@ -24,4 +24,4 @@ cache.get(3);       // 返回  3
 cache.get(4);       // 返回  4
 </pre>
 
-**标签:	**[设计](https://leetcode-cn.com/tag/design) 
+**标签:**  [设计](https://leetcode-cn.com/tag/design) 

@@ -47,4 +47,4 @@
 	<li><code>1 &lt;= queries[i] &lt;= m</code></li>
 </ul>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) 

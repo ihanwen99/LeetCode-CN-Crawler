@@ -32,6 +32,6 @@
 
 <p><strong>提示：</strong>&nbsp;假设任意子树元素和均可以用 32 位有符号整数表示。</p>
 
-**标签:	**[树](https://leetcode-cn.com/tag/tree) [哈希表](https://leetcode-cn.com/tag/hash-table) 
+**标签:**  [树](https://leetcode-cn.com/tag/tree) [哈希表](https://leetcode-cn.com/tag/hash-table) 
  ### 相似题目
 - 简单:	[另一个树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree) 

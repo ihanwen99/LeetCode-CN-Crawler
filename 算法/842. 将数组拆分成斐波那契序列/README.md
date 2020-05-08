@@ -56,7 +56,7 @@
 	<li>字符串 <code>S</code> 中只含有数字。</li>
 </ol>
 
-**标签:	**[贪心算法](https://leetcode-cn.com/tag/greedy) [字符串](https://leetcode-cn.com/tag/string) [回溯算法](https://leetcode-cn.com/tag/backtracking) 
+**标签:**  [贪心算法](https://leetcode-cn.com/tag/greedy) [字符串](https://leetcode-cn.com/tag/string) [回溯算法](https://leetcode-cn.com/tag/backtracking) 
  ### 相似题目
 - 中等:	[累加数](https://leetcode-cn.com/problems/additive-number) 
 - 简单:	[斐波那契数](https://leetcode-cn.com/problems/fibonacci-number) 

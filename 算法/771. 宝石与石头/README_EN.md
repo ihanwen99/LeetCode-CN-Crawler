@@ -27,4 +27,4 @@
 	<li>The characters in <code>J</code> are distinct.</li>
 </ul>
 
-**Related Topic	**[Hash Table](https://leetcode-cn.com/tag/hash-table) 
+**Related Topic**  [Hash Table](https://leetcode-cn.com/tag/hash-table) 

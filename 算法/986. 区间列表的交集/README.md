@@ -29,7 +29,7 @@
 	<li><code>0 &lt;= A[i].start, A[i].end, B[i].start, B[i].end &lt; 10^9</code></li>
 </ol>
 
-**标签:	**[双指针](https://leetcode-cn.com/tag/two-pointers) 
+**标签:**  [双指针](https://leetcode-cn.com/tag/two-pointers) 
  ### 相似题目
 - 中等:	[合并区间](https://leetcode-cn.com/problems/merge-intervals) 
 - 简单:	[合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array) 

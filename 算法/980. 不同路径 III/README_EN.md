@@ -58,7 +58,7 @@ Note that the starting and ending square can be anywhere in the grid.
 <ol>
 	<li><code>1 &lt;= grid.length * grid[0].length &lt;= 20</code></li>
 </ol>
-**Related Topics	**[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) [Backtracking](https://leetcode-cn.com/tag/backtracking) 
+**Related Topics**  [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) [Backtracking](https://leetcode-cn.com/tag/backtracking) 
 
 ### Similar Questions
  - Hard:	[Sudoku Solver](https://leetcode-cn.com/problems/sudoku-solver) 

@@ -25,7 +25,7 @@
    2     1         2                 3
 </pre>
 
-**标签:	**[树](https://leetcode-cn.com/tag/tree) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [树](https://leetcode-cn.com/tag/tree) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
  ### 相似题目
 - 中等:	[不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees) 
 - 中等:	[为运算表达式设计优先级](https://leetcode-cn.com/problems/different-ways-to-add-parentheses) 

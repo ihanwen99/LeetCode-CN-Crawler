@@ -21,6 +21,6 @@
 	<li><code>S</code>只包含小写字母<code>&#39;a&#39;</code>到<code>&#39;z&#39;</code>。</li>
 </ol>
 
-**标签:	**[贪心算法](https://leetcode-cn.com/tag/greedy) [双指针](https://leetcode-cn.com/tag/two-pointers) 
+**标签:**  [贪心算法](https://leetcode-cn.com/tag/greedy) [双指针](https://leetcode-cn.com/tag/two-pointers) 
  ### 相似题目
 - 中等:	[合并区间](https://leetcode-cn.com/problems/merge-intervals) 

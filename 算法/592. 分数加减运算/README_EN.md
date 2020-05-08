@@ -41,7 +41,7 @@
 <li>The numerator and denominator of the <b>final result</b> are guaranteed to be valid and in the range of 32-bit int.</li>
 </ol>
 </p>
-**Related Topic	**[Math](https://leetcode-cn.com/tag/math) 
+**Related Topic**  [Math](https://leetcode-cn.com/tag/math) 
 
 ### Similar Question
  - Medium:	[Solve the Equation](https://leetcode-cn.com/problems/solve-the-equation) 

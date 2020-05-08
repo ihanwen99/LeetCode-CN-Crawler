@@ -28,4 +28,4 @@
 	<li>给出的&nbsp;<code>address</code>&nbsp;是一个有效的 IPv4 地址</li>
 </ul>
 
-**标签:	**[字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [字符串](https://leetcode-cn.com/tag/string) 

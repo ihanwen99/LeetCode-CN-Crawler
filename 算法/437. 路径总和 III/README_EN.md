@@ -30,7 +30,7 @@ Return 3. The paths that sum to 8 are:
 3. -3 -> 11
 </pre>
 </p>
-**Related Topic	**[Tree](https://leetcode-cn.com/tag/tree) 
+**Related Topic**  [Tree](https://leetcode-cn.com/tag/tree) 
 
 ### Similar Questions
  - Easy:	[Path Sum](https://leetcode-cn.com/problems/path-sum) 

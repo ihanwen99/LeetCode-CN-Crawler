@@ -36,7 +36,7 @@ For example, [0,2,3,1] is also a valid gray code sequence.
 &nbsp;            Therefore, for <em>n</em> = 0 the gray code sequence is [0].</code>
 </pre>
 
-**Related Topic	**[Backtracking](https://leetcode-cn.com/tag/backtracking) 
+**Related Topic**  [Backtracking](https://leetcode-cn.com/tag/backtracking) 
 
 ### Similar Question
  - Easy:	[1-bit and 2-bit Characters](https://leetcode-cn.com/problems/1-bit-and-2-bit-characters) 

@@ -39,4 +39,4 @@
 	<li><code>钢筋的长度总和最多为 5000</code></li>
 </ol>
 
-**标签:	**[动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 

@@ -27,7 +27,7 @@
 </div>
 </div>
 
-**Related Topics	**[Stack](https://leetcode-cn.com/tag/stack) [Design](https://leetcode-cn.com/tag/design) 
+**Related Topics**  [Stack](https://leetcode-cn.com/tag/stack) [Design](https://leetcode-cn.com/tag/design) 
 
 ### Similar Questions
  - Medium:	[Flatten 2D Vector](https://leetcode-cn.com/problems/flatten-2d-vector) 

@@ -54,4 +54,4 @@
 	<li><code>y1 &lt; y2</code></li>
 </ul>
 
-**Related Topic	**[Geometry](https://leetcode-cn.com/tag/geometry) 
+**Related Topic**  [Geometry](https://leetcode-cn.com/tag/geometry) 

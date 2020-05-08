@@ -25,7 +25,7 @@ search(&quot;b..&quot;) -&gt; true
 
 <p>你可以假设所有单词都是由小写字母 <code>a-z</code>&nbsp;组成的。</p>
 
-**标签:	**[设计](https://leetcode-cn.com/tag/design) [字典树](https://leetcode-cn.com/tag/trie) [回溯算法](https://leetcode-cn.com/tag/backtracking) 
+**标签:**  [设计](https://leetcode-cn.com/tag/design) [字典树](https://leetcode-cn.com/tag/trie) [回溯算法](https://leetcode-cn.com/tag/backtracking) 
  ### 相似题目
 - 中等:	[实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree) 
 - 困难:	[前缀和后缀搜索](https://leetcode-cn.com/problems/prefix-and-suffix-search) 

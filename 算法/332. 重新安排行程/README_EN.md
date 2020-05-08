@@ -28,4 +28,4 @@
 &nbsp;            But it is larger in lexical order.
 </pre>
 
-**Related Topics	**[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) [Graph](https://leetcode-cn.com/tag/graph) 
+**Related Topics**  [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) [Graph](https://leetcode-cn.com/tag/graph) 

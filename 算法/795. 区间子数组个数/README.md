@@ -22,4 +22,4 @@ R = 3
 	<li>数组&nbsp;<code>A</code>&nbsp;的长度范围在<code>[1, 50000]</code>。</li>
 </ul>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) 

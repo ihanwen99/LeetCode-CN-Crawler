@@ -39,4 +39,4 @@
 	<li><code>1 &lt;= K &lt;= 10 ^ 9</code></li>
 </ol>
 
-**标签:	**[队列](https://leetcode-cn.com/tag/queue) [二分查找](https://leetcode-cn.com/tag/binary-search) 
+**标签:**  [队列](https://leetcode-cn.com/tag/queue) [二分查找](https://leetcode-cn.com/tag/binary-search) 

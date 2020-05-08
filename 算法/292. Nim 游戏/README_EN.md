@@ -14,7 +14,7 @@
 <strong>Explanation: </strong>If there are 4 stones in the heap, then you will never win the game;
 &nbsp;            No matter 1, 2, or 3 stones you remove, the last stone will always be 
 &nbsp;            removed by your friend.</pre>
-**Related Topics	**[Brainteaser](https://leetcode-cn.com/tag/brainteaser) [Minimax](https://leetcode-cn.com/tag/minimax) 
+**Related Topics**  [Brainteaser](https://leetcode-cn.com/tag/brainteaser) [Minimax](https://leetcode-cn.com/tag/minimax) 
 
 ### Similar Question
  - Medium:	[Flip Game II](https://leetcode-cn.com/problems/flip-game-ii) 

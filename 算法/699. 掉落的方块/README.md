@@ -73,6 +73,6 @@ _aa___a
 
 <p>&nbsp;</p>
 
-**标签:	**[线段树](https://leetcode-cn.com/tag/segment-tree) [None](https://leetcode-cn.com/tag/ordered-map) 
+**标签:**  [线段树](https://leetcode-cn.com/tag/segment-tree) [None](https://leetcode-cn.com/tag/ordered-map) 
  ### 相似题目
 - 困难:	[天际线问题](https://leetcode-cn.com/problems/the-skyline-problem) 

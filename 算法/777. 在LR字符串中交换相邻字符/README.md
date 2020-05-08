@@ -28,4 +28,4 @@ XRLXXRRLX
 	<li><code>start</code>和<code>end</code>中的字符串仅限于<code>&#39;L&#39;</code>, <code>&#39;R&#39;</code>和<code>&#39;X&#39;</code>。</li>
 </ul>
 
-**标签:	**[脑筋急转弯](https://leetcode-cn.com/tag/brainteaser) 
+**标签:**  [脑筋急转弯](https://leetcode-cn.com/tag/brainteaser) 

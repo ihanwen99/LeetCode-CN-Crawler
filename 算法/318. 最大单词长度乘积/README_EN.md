@@ -26,4 +26,4 @@
 <strong>Explanation: </strong></code>No such pair of words.
 </pre>
 
-**Related Topic	**[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) 
+**Related Topic**  [Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) 

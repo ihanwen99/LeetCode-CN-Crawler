@@ -21,4 +21,4 @@
 	<li><code>A[i]</code> 的数据范围为 <code>[0, 10000]</code>.</li>
 </ul>
 
-**标签:	**[数学](https://leetcode-cn.com/tag/math) 
+**标签:**  [数学](https://leetcode-cn.com/tag/math) 

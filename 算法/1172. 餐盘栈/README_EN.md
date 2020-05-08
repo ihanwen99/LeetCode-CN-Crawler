@@ -67,4 +67,4 @@ D.pop()            // Returns -1.  There are still no stacks.
 	<li>At most <code>200000</code>&nbsp;calls will be made to <code>push</code>, <code>pop</code>, and <code>popAtStack</code>.</li>
 </ul>
 
-**Related Topic	**[Design](https://leetcode-cn.com/tag/design) 
+**Related Topic**  [Design](https://leetcode-cn.com/tag/design) 

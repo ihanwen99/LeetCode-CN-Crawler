@@ -50,7 +50,7 @@
 
 <p>Can you solve it using <em>O(1)</em> (i.e. constant) memory?</p>
 
-**Related Topics	**[Linked List](https://leetcode-cn.com/tag/linked-list) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) 
+**Related Topics**  [Linked List](https://leetcode-cn.com/tag/linked-list) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) 
 
 ### Similar Questions
  - Medium:	[Linked List Cycle II](https://leetcode-cn.com/problems/linked-list-cycle-ii) 

@@ -43,4 +43,4 @@ For k = 7 we can use 2 + 5 = 7.</pre>
 <ul>
 	<li><code>1 &lt;= k &lt;= 10^9</code></li>
 </ul>
-**Related Topics	**[Greedy](https://leetcode-cn.com/tag/greedy) [Array](https://leetcode-cn.com/tag/array) 
+**Related Topics**  [Greedy](https://leetcode-cn.com/tag/greedy) [Array](https://leetcode-cn.com/tag/array) 

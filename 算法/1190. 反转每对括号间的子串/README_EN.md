@@ -48,4 +48,4 @@
 	<li>It&#39;s guaranteed that all parentheses are balanced.</li>
 </ul>
 
-**Related Topic	**[Stack](https://leetcode-cn.com/tag/stack) 
+**Related Topic**  [Stack](https://leetcode-cn.com/tag/stack) 

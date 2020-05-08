@@ -41,4 +41,4 @@
 	<li><code>-1000&nbsp;&lt;= points[i][0], points[i][1]&nbsp;&lt;= 1000</code></li>
 </ul>
 
-**标签:	**[几何](https://leetcode-cn.com/tag/geometry) [数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [几何](https://leetcode-cn.com/tag/geometry) [数组](https://leetcode-cn.com/tag/array) 

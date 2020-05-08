@@ -12,4 +12,4 @@
 <strong>输出:</strong> 1-&gt;2-&gt;2-&gt;4-&gt;3-&gt;5
 </pre>
 
-**标签:	**[链表](https://leetcode-cn.com/tag/linked-list) [双指针](https://leetcode-cn.com/tag/two-pointers) 
+**标签:**  [链表](https://leetcode-cn.com/tag/linked-list) [双指针](https://leetcode-cn.com/tag/two-pointers) 

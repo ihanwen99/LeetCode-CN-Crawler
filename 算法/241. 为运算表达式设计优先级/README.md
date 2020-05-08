@@ -23,7 +23,7 @@
 (2*((3-4)*5)) = -10 
 (((2*3)-4)*5) = 10</pre>
 
-**标签:	**[分治算法](https://leetcode-cn.com/tag/divide-and-conquer) 
+**标签:**  [分治算法](https://leetcode-cn.com/tag/divide-and-conquer) 
  ### 相似题目
 - 中等:	[不同的二叉搜索树 II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii) 
 - 困难:	[基本计算器](https://leetcode-cn.com/problems/basic-calculator) 

@@ -29,7 +29,7 @@
 3.  -3 -&gt; 11
 </pre>
 
-**标签:	**[树](https://leetcode-cn.com/tag/tree) 
+**标签:**  [树](https://leetcode-cn.com/tag/tree) 
  ### 相似题目
 - 简单:	[路径总和](https://leetcode-cn.com/problems/path-sum) 
 - 中等:	[路径总和 II](https://leetcode-cn.com/problems/path-sum-ii) 

@@ -28,7 +28,7 @@
 <p><strong>进阶：</strong><br>
 你能不使用循环或者递归来完成本题吗？</p>
 
-**标签:	**[数学](https://leetcode-cn.com/tag/math) 
+**标签:**  [数学](https://leetcode-cn.com/tag/math) 
  ### 相似题目
 - 简单:	[2的幂](https://leetcode-cn.com/problems/power-of-two) 
 - 简单:	[4的幂](https://leetcode-cn.com/problems/power-of-four) 

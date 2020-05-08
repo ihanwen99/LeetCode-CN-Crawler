@@ -23,7 +23,7 @@
 	<li><code>0 &lt; nums[i] &lt; 10000</code>.</li>
 </ul>
 
-**Related Topics	**[Recursion](https://leetcode-cn.com/tag/recursion) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topics**  [Recursion](https://leetcode-cn.com/tag/recursion) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
 
 ### Similar Question
  - Medium:	[Partition Equal Subset Sum](https://leetcode-cn.com/problems/partition-equal-subset-sum) 

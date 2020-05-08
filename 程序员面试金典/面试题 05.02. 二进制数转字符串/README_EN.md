@@ -25,4 +25,4 @@
 	<li>This two charaters &quot;0.&quot; should be counted into 32 characters.</li>
 </ol>
 
-**Related Topic	**[String](https://leetcode-cn.com/tag/string) 
+**Related Topic**  [String](https://leetcode-cn.com/tag/string) 

@@ -31,7 +31,7 @@
 
 <p>&nbsp;</p>
 
-**Related Topics	**[Array](https://leetcode-cn.com/tag/array) [Math](https://leetcode-cn.com/tag/math) 
+**Related Topics**  [Array](https://leetcode-cn.com/tag/array) [Math](https://leetcode-cn.com/tag/math) 
 
 ### Similar Question
  - Medium:	[Maximum Product Subarray](https://leetcode-cn.com/problems/maximum-product-subarray) 

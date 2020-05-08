@@ -30,4 +30,4 @@ The maximum number of customers that can be satisfied = 1 + 1 + 1 + 1 + 7 + 5 = 
 	<li><code>0 &lt;=&nbsp;customers[i] &lt;= 1000</code></li>
 	<li><code>0 &lt;=&nbsp;grumpy[i] &lt;= 1</code></li>
 </ul>
-**Related Topics	**[Array](https://leetcode-cn.com/tag/array) [Sliding Window](https://leetcode-cn.com/tag/sliding-window) 
+**Related Topics**  [Array](https://leetcode-cn.com/tag/array) [Sliding Window](https://leetcode-cn.com/tag/sliding-window) 

@@ -45,4 +45,4 @@ Given a binary search tree and the lowest and highest boundaries as <code>L</cod
  1
 </pre>
 </p>
-**Related Topic	**[Tree](https://leetcode-cn.com/tag/tree) 
+**Related Topic**  [Tree](https://leetcode-cn.com/tag/tree) 

@@ -19,7 +19,7 @@
 <pre><strong>输入: </strong>n = 10, pick = 6
 <strong>输出: </strong>6</pre>
 
-**标签:	**[二分查找](https://leetcode-cn.com/tag/binary-search) 
+**标签:**  [二分查找](https://leetcode-cn.com/tag/binary-search) 
  ### 相似题目
 - 简单:	[第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version) 
 - 中等:	[猜数字大小 II](https://leetcode-cn.com/problems/guess-number-higher-or-lower-ii) 

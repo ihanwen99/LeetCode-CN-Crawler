@@ -42,7 +42,7 @@
 	<li><code>0 &lt;= prices[i]&nbsp;&lt;= 10 ^ 4</code></li>
 </ul>
 
-**Related Topics	**[Greedy](https://leetcode-cn.com/tag/greedy) [Array](https://leetcode-cn.com/tag/array) 
+**Related Topics**  [Greedy](https://leetcode-cn.com/tag/greedy) [Array](https://leetcode-cn.com/tag/array) 
 
 ### Similar Questions
  - Easy:	[Best Time to Buy and Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock) 

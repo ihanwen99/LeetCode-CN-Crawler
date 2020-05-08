@@ -45,7 +45,7 @@ Note that "cacaca" is incorrect, as the same characters must be together.
 Note that 'A' and 'a' are treated as two different characters.
 </pre>
 </p>
-**Related Topics	**[Heap](https://leetcode-cn.com/tag/heap) [Hash Table](https://leetcode-cn.com/tag/hash-table) 
+**Related Topics**  [Heap](https://leetcode-cn.com/tag/heap) [Hash Table](https://leetcode-cn.com/tag/hash-table) 
 
 ### Similar Questions
  - Medium:	[Top K Frequent Elements](https://leetcode-cn.com/problems/top-k-frequent-elements) 

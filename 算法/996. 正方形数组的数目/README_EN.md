@@ -32,7 +32,7 @@
 	<li><code>1 &lt;= A.length &lt;= 12</code></li>
 	<li><code>0 &lt;= A[i] &lt;= 1e9</code></li>
 </ol>
-**Related Topics	**[Graph](https://leetcode-cn.com/tag/graph) [Math](https://leetcode-cn.com/tag/math) [Backtracking](https://leetcode-cn.com/tag/backtracking) 
+**Related Topics**  [Graph](https://leetcode-cn.com/tag/graph) [Math](https://leetcode-cn.com/tag/math) [Backtracking](https://leetcode-cn.com/tag/backtracking) 
 
 ### Similar Question
  - Medium:	[Permutations II](https://leetcode-cn.com/problems/permutations-ii) 

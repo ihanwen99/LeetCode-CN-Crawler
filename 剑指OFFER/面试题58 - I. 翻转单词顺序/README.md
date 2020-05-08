@@ -40,4 +40,4 @@
 
 <p><strong>注意：</strong>此题对比原题有改动</p>
 
-**标签:	**[字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [字符串](https://leetcode-cn.com/tag/string) 

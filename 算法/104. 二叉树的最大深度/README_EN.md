@@ -21,7 +21,7 @@
 
 <p>return its depth = 3.</p>
 
-**Related Topics	**[Tree](https://leetcode-cn.com/tag/tree) [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) 
+**Related Topics**  [Tree](https://leetcode-cn.com/tag/tree) [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) 
 
 ### Similar Questions
  - Easy:	[Balanced Binary Tree](https://leetcode-cn.com/problems/balanced-binary-tree) 

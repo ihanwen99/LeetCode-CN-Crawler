@@ -23,4 +23,4 @@ k = 3
 	<li>0 &lt;= k &lt;= 100000</li>
 </ul>
 
-**Related Topics	**[Recursion](https://leetcode-cn.com/tag/recursion) [Memoization](https://leetcode-cn.com/tag/memoization) 
+**Related Topics**  [Recursion](https://leetcode-cn.com/tag/recursion) [Memoization](https://leetcode-cn.com/tag/memoization) 

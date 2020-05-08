@@ -13,4 +13,4 @@
 <pre><strong>输入:</strong> [0,1,0,2,1,0,1,3,2,1,2,1]
 <strong>输出:</strong> 6</pre>
 
-**标签:	**[栈](https://leetcode-cn.com/tag/stack) [数组](https://leetcode-cn.com/tag/array) [双指针](https://leetcode-cn.com/tag/two-pointers) 
+**标签:**  [栈](https://leetcode-cn.com/tag/stack) [数组](https://leetcode-cn.com/tag/array) [双指针](https://leetcode-cn.com/tag/two-pointers) 

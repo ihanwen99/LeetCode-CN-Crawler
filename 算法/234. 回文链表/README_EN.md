@@ -19,7 +19,7 @@
 <p><b>Follow up:</b><br />
 Could you do it in O(n) time and O(1) space?</p>
 
-**Related Topics	**[Linked List](https://leetcode-cn.com/tag/linked-list) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) 
+**Related Topics**  [Linked List](https://leetcode-cn.com/tag/linked-list) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) 
 
 ### Similar Questions
  - Easy:	[Palindrome Number](https://leetcode-cn.com/problems/palindrome-number) 

@@ -19,6 +19,6 @@
 
 <strong>输出:</strong> 6</pre>
 
-**标签:	**[树](https://leetcode-cn.com/tag/tree) [二分查找](https://leetcode-cn.com/tag/binary-search) 
+**标签:**  [树](https://leetcode-cn.com/tag/tree) [二分查找](https://leetcode-cn.com/tag/binary-search) 
  ### 相似题目
 - 简单:	[最接近的二叉搜索树值](https://leetcode-cn.com/problems/closest-binary-search-tree-value) 

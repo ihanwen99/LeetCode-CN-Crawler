@@ -25,4 +25,4 @@ square2 = {0, -1, 2}
 	<li><code>square[2] &gt; 0</code></li>
 </ul>
 
-**Related Topic	**[Geometry](https://leetcode-cn.com/tag/geometry) 
+**Related Topic**  [Geometry](https://leetcode-cn.com/tag/geometry) 

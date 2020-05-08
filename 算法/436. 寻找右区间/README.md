@@ -43,6 +43,6 @@
 对于[2,3]，区间[3,4]有最小的&ldquo;右&rdquo;起点。
 </pre>
 
-**标签:	**[二分查找](https://leetcode-cn.com/tag/binary-search) 
+**标签:**  [二分查找](https://leetcode-cn.com/tag/binary-search) 
  ### 相似题目
 - 困难:	[将数据流变为多个不相交区间](https://leetcode-cn.com/problems/data-stream-as-disjoint-intervals) 

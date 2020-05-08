@@ -80,4 +80,4 @@ There aren&#39;t any consecutive pairs of 1&#39;s in the binary representation o
 </div>
 </div>
 
-**Related Topic	**[Math](https://leetcode-cn.com/tag/math) 
+**Related Topic**  [Math](https://leetcode-cn.com/tag/math) 

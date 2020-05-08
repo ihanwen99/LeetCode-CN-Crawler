@@ -47,7 +47,7 @@ Flip A[5],A[6],A[7]:&nbsp;A becomes [1,1,1,1,1,1,1,1]
 	<li><code>1 &lt;= A.length &lt;=&nbsp;30000</code></li>
 	<li><code>1 &lt;= K &lt;= A.length</code></li>
 </ol>
-**Related Topics	**[Greedy](https://leetcode-cn.com/tag/greedy) [Sliding Window](https://leetcode-cn.com/tag/sliding-window) 
+**Related Topics**  [Greedy](https://leetcode-cn.com/tag/greedy) [Sliding Window](https://leetcode-cn.com/tag/sliding-window) 
 
 ### Similar Question
  - Medium:	[Bulb Switcher](https://leetcode-cn.com/problems/bulb-switcher) 

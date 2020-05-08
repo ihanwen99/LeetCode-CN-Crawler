@@ -33,7 +33,7 @@
 	<li><code>0 &lt;= nums[i][j] &lt;= 10^5</code></li>
 </ul>
 
-**Related Topics	**[Greedy](https://leetcode-cn.com/tag/greedy) [Array](https://leetcode-cn.com/tag/array) 
+**Related Topics**  [Greedy](https://leetcode-cn.com/tag/greedy) [Array](https://leetcode-cn.com/tag/array) 
 
 ### Similar Question
  - Hard:	[Jump Game II](https://leetcode-cn.com/problems/jump-game-ii) 

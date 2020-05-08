@@ -35,7 +35,7 @@
 解释: 从原数字移除所有的数字，剩余为空就是0。
 </pre>
 
-**标签:	**[栈](https://leetcode-cn.com/tag/stack) [贪心算法](https://leetcode-cn.com/tag/greedy) 
+**标签:**  [栈](https://leetcode-cn.com/tag/stack) [贪心算法](https://leetcode-cn.com/tag/greedy) 
  ### 相似题目
 - 困难:	[拼接最大数](https://leetcode-cn.com/problems/create-maximum-number) 
 - 中等:	[单调递增的数字](https://leetcode-cn.com/problems/monotone-increasing-digits) 

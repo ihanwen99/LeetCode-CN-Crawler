@@ -49,4 +49,4 @@ Note that there could be allowed triples (A, B, C) and (A, B, D) with C != D.
 
 <p>&nbsp;</p>
 
-**Related Topics	**[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) 
+**Related Topics**  [Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) 

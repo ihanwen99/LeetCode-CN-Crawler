@@ -40,4 +40,4 @@ A[i] = 1，A[j] = A[k] = 2 出现 12 次：
 	<li><code>0 &lt;= target &lt;= 300</code></li>
 </ol>
 
-**标签:	**[双指针](https://leetcode-cn.com/tag/two-pointers) 
+**标签:**  [双指针](https://leetcode-cn.com/tag/two-pointers) 

@@ -20,7 +20,7 @@ s = &quot;2[abc]3[cd]ef&quot;, return &quot;abcabccdcdcdef&quot;.
 
 <p>&nbsp;</p>
 
-**Related Topics	**[Stack](https://leetcode-cn.com/tag/stack) [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) 
+**Related Topics**  [Stack](https://leetcode-cn.com/tag/stack) [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) 
 
 ### Similar Questions
  - Hard:	[Encode String with Shortest Length](https://leetcode-cn.com/problems/encode-string-with-shortest-length) 

@@ -22,7 +22,7 @@
 &nbsp;    由于返回类型是整数，小数部分将被舍去。
 </pre>
 
-**标签:	**[数学](https://leetcode-cn.com/tag/math) [二分查找](https://leetcode-cn.com/tag/binary-search) 
+**标签:**  [数学](https://leetcode-cn.com/tag/math) [二分查找](https://leetcode-cn.com/tag/binary-search) 
  ### 相似题目
 - 中等:	[Pow(x, n)](https://leetcode-cn.com/problems/powx-n) 
 - 简单:	[有效的完全平方数](https://leetcode-cn.com/problems/valid-perfect-square) 

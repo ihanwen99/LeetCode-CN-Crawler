@@ -42,4 +42,4 @@ Sum of lengths of all substring is 1 + 1 + 1 + 2 + 2 + 3 = 10
 	<li><code>s</code>&nbsp;contain upper-case English letters only.</li>
 </ul>
 
-**Related Topic	**[Two Pointers](https://leetcode-cn.com/tag/two-pointers) 
+**Related Topic**  [Two Pointers](https://leetcode-cn.com/tag/two-pointers) 

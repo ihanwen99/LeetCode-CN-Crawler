@@ -30,6 +30,6 @@
 	<li><code>A[i][j]</code> 是小写字母</li>
 </ol>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) [哈希表](https://leetcode-cn.com/tag/hash-table) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) [哈希表](https://leetcode-cn.com/tag/hash-table) 
  ### 相似题目
 - 简单:	[两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii) 

@@ -75,4 +75,4 @@
 	<li><code>0 &lt;= initialBoxes[i] &lt; status.length</code></li>
 </ul>
 
-**标签:	**[广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search) 
+**标签:**  [广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search) 

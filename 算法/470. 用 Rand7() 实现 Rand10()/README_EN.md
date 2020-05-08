@@ -56,4 +56,4 @@
 </div>
 </div>
 
-**Related Topics	**[Random](https://leetcode-cn.com/tag/random) [Rejection Sampling](https://leetcode-cn.com/tag/rejection-sampling) 
+**Related Topics**  [Random](https://leetcode-cn.com/tag/random) [Rejection Sampling](https://leetcode-cn.com/tag/rejection-sampling) 

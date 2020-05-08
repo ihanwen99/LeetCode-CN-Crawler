@@ -44,4 +44,4 @@
 	<li>我们确保所有括号都是成对出现的</li>
 </ul>
 
-**标签:	**[栈](https://leetcode-cn.com/tag/stack) 
+**标签:**  [栈](https://leetcode-cn.com/tag/stack) 

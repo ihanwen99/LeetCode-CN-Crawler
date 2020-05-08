@@ -15,7 +15,7 @@
 
 <strong>输出: </strong>4</pre>
 
-**标签:	**[动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
  ### 相似题目
 - 困难:	[最大矩形](https://leetcode-cn.com/problems/maximal-rectangle) 
 - 中等:	[最大加号标志](https://leetcode-cn.com/problems/largest-plus-sign) 

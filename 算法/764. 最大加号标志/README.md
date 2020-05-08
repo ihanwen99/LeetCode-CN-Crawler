@@ -93,6 +93,6 @@
 
 <p>&nbsp;</p>
 
-**标签:	**[动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
  ### 相似题目
 - 中等:	[最大正方形](https://leetcode-cn.com/problems/maximal-square) 

@@ -19,7 +19,7 @@
 <pre><strong>输入:</strong> [0,1,0,1,0,1,99]
 <strong>输出:</strong> 99</pre>
 
-**标签:	**[位运算](https://leetcode-cn.com/tag/bit-manipulation) 
+**标签:**  [位运算](https://leetcode-cn.com/tag/bit-manipulation) 
  ### 相似题目
 - 简单:	[只出现一次的数字](https://leetcode-cn.com/problems/single-number) 
 - 中等:	[只出现一次的数字 III](https://leetcode-cn.com/problems/single-number-iii) 

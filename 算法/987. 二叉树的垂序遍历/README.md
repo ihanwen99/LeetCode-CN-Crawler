@@ -48,4 +48,4 @@
 	<li>每个结点值介于&nbsp;<code>0</code>&nbsp;和&nbsp;<code>1000</code>&nbsp;之间。</li>
 </ol>
 
-**标签:	**[树](https://leetcode-cn.com/tag/tree) [哈希表](https://leetcode-cn.com/tag/hash-table) 
+**标签:**  [树](https://leetcode-cn.com/tag/tree) [哈希表](https://leetcode-cn.com/tag/hash-table) 

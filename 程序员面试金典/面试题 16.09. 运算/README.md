@@ -22,4 +22,4 @@ operations.divide(5, -2); //返回-2
 <li>单个用例的函数调用次数不会超过1000次</li>
 </ul>
 
-**标签:	**[设计](https://leetcode-cn.com/tag/design) 
+**标签:**  [设计](https://leetcode-cn.com/tag/design) 

@@ -42,4 +42,4 @@
 	<li><code>date[4] == date[7] == &#39;-&#39;</code>, and all other <code>date[i]</code>&#39;s are digits</li>
 	<li><code>date</code> represents a calendar date between Jan 1st, 1900 and Dec 31, 2019.</li>
 </ul>
-**Related Topic	**[Math](https://leetcode-cn.com/tag/math) 
+**Related Topic**  [Math](https://leetcode-cn.com/tag/math) 

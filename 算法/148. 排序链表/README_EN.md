@@ -17,7 +17,7 @@
 <strong>Input:</strong> -1-&gt;5-&gt;3-&gt;4-&gt;0
 <strong>Output:</strong> -1-&gt;0-&gt;3-&gt;4-&gt;5</pre>
 
-**Related Topics	**[Sort](https://leetcode-cn.com/tag/sort) [Linked List](https://leetcode-cn.com/tag/linked-list) 
+**Related Topics**  [Sort](https://leetcode-cn.com/tag/sort) [Linked List](https://leetcode-cn.com/tag/linked-list) 
 
 ### Similar Questions
  - Easy:	[Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists) 

@@ -20,7 +20,7 @@
 
 <p>What if there are lots of merges and the number of disjoint intervals are small compared to the data stream&#39;s size?</p>
 
-**Related Topics	**[Binary Search](https://leetcode-cn.com/tag/binary-search) [Ordered Map](https://leetcode-cn.com/tag/ordered-map) 
+**Related Topics**  [Binary Search](https://leetcode-cn.com/tag/binary-search) [Ordered Map](https://leetcode-cn.com/tag/ordered-map) 
 
 ### Similar Questions
  - Medium:	[Summary Ranges](https://leetcode-cn.com/problems/summary-ranges) 

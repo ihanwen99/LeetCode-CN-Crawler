@@ -73,4 +73,4 @@
 </div>
 </div>
 
-**Related Topics	**[Geometry](https://leetcode-cn.com/tag/geometry) [Math](https://leetcode-cn.com/tag/math) 
+**Related Topics**  [Geometry](https://leetcode-cn.com/tag/geometry) [Math](https://leetcode-cn.com/tag/math) 

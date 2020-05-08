@@ -64,4 +64,4 @@
 </div>
 </div>
 </div>
-**Related Topics	**[Greedy](https://leetcode-cn.com/tag/greedy) [Hash Table](https://leetcode-cn.com/tag/hash-table) 
+**Related Topics**  [Greedy](https://leetcode-cn.com/tag/greedy) [Hash Table](https://leetcode-cn.com/tag/hash-table) 

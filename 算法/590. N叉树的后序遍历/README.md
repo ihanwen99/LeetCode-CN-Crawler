@@ -17,7 +17,7 @@
 <p>&nbsp;</p>
 
 <p><strong>说明:</strong>&nbsp;递归法很简单，你可以使用迭代法完成此题吗?</p>
-**标签:	**[树](https://leetcode-cn.com/tag/tree) 
+**标签:**  [树](https://leetcode-cn.com/tag/tree) 
  ### 相似题目
 - 困难:	[二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal) 
 - 中等:	[N叉树的层序遍历](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal) 

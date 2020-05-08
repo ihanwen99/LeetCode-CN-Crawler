@@ -31,4 +31,4 @@
 	<li><code>1 &lt;= n &lt;= 100</code></li>
 </ul>
 
-**Related Topic	**[Math](https://leetcode-cn.com/tag/math) 
+**Related Topic**  [Math](https://leetcode-cn.com/tag/math) 

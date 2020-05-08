@@ -60,4 +60,4 @@
 	<li>每个节点的键值在&nbsp;<code>[-4 * 10^4&nbsp;, 4 * 10^4]</code> 之间。</li>
 </ul>
 
-**标签:	**[二叉搜索树](https://leetcode-cn.com/tag/binary-search-tree) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [二叉搜索树](https://leetcode-cn.com/tag/binary-search-tree) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 

@@ -33,6 +33,6 @@
 	<li><code>s</code>&nbsp;只包含&ldquo;0&rdquo;或&ldquo;1&rdquo;字符。</li>
 </ul>
 
-**标签:	**[字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [字符串](https://leetcode-cn.com/tag/string) 
  ### 相似题目
 - 中等:	[字符串的编码与解码](https://leetcode-cn.com/problems/encode-and-decode-strings) 

@@ -32,7 +32,7 @@
 <p><strong>进阶：</strong><br>
 如果二叉搜索树经常被修改（插入/删除操作）并且你需要频繁地查找第 k 小的值，你将如何优化&nbsp;<code>kthSmallest</code>&nbsp;函数？</p>
 
-**标签:	**[树](https://leetcode-cn.com/tag/tree) [二分查找](https://leetcode-cn.com/tag/binary-search) 
+**标签:**  [树](https://leetcode-cn.com/tag/tree) [二分查找](https://leetcode-cn.com/tag/binary-search) 
  ### 相似题目
 - 中等:	[二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal) 
 - 简单:	[二叉树中第二小的节点](https://leetcode-cn.com/problems/second-minimum-node-in-a-binary-tree) 

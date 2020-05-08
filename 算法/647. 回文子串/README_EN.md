@@ -33,7 +33,7 @@
 </ol>
 
 <p>&nbsp;</p>
-**Related Topics	**[String](https://leetcode-cn.com/tag/string) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topics**  [String](https://leetcode-cn.com/tag/string) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
 
 ### Similar Questions
  - Medium:	[Longest Palindromic Substring](https://leetcode-cn.com/problems/longest-palindromic-substring) 

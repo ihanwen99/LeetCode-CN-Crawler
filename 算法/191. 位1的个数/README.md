@@ -40,7 +40,7 @@
 <p><strong>进阶</strong>:<br>
 如果多次调用这个函数，你将如何优化你的算法？</p>
 
-**标签:	**[位运算](https://leetcode-cn.com/tag/bit-manipulation) 
+**标签:**  [位运算](https://leetcode-cn.com/tag/bit-manipulation) 
  ### 相似题目
 - 简单:	[颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits) 
 - 简单:	[2的幂](https://leetcode-cn.com/problems/power-of-two) 

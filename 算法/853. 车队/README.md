@@ -42,4 +42,4 @@
 	<li>所有车的初始位置各不相同。</li>
 </ol>
 
-**标签:	**[排序](https://leetcode-cn.com/tag/sort) 
+**标签:**  [排序](https://leetcode-cn.com/tag/sort) 

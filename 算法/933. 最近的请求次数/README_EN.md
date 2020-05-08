@@ -33,4 +33,4 @@
 <div>
 <p>&nbsp;</p>
 </div>
-**Related Topic	**[Queue](https://leetcode-cn.com/tag/queue) 
+**Related Topic**  [Queue](https://leetcode-cn.com/tag/queue) 

@@ -8,4 +8,4 @@
 
 <p>注意：本题与主站 65 题相同：<a href="https://leetcode-cn.com/problems/valid-number/">https://leetcode-cn.com/problems/valid-number/</a></p>
 
-**标签:	**[数学](https://leetcode-cn.com/tag/math) 
+**标签:**  [数学](https://leetcode-cn.com/tag/math) 

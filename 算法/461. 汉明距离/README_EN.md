@@ -24,7 +24,7 @@
 The above arrows point to positions where the corresponding bits are different.
 </pre>
 </p>
-**Related Topic	**[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) 
+**Related Topic**  [Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) 
 
 ### Similar Questions
  - Easy:	[Number of 1 Bits](https://leetcode-cn.com/problems/number-of-1-bits) 

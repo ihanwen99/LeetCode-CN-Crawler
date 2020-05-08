@@ -46,4 +46,4 @@ Stay, Stay
 	<li><code>1 &lt;= arrLen&nbsp;&lt;= 10^6</code></li>
 </ul>
 
-**Related Topic	**[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topic**  [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 

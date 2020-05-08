@@ -37,4 +37,4 @@ All 1s are either on the boundary or can reach the boundary.
 	<li><code>0 &lt;= A[i][j] &lt;= 1</code></li>
 	<li>All rows have the same size.</li>
 </ol>
-**Related Topic	**[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) 
+**Related Topic**  [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) 

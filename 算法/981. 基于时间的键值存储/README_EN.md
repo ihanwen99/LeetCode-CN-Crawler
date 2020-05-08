@@ -59,4 +59,4 @@ kv.get(&quot;foo&quot;, 5); //output &quot;bar2&quot; &nbsp;
 	<li><code>TimeMap.set</code> and <code>TimeMap.get</code>&nbsp;functions will be called a total of <code>120000</code> times (combined) per test case.</li>
 </ol>
 
-**Related Topics	**[Hash Table](https://leetcode-cn.com/tag/hash-table) [Binary Search](https://leetcode-cn.com/tag/binary-search) 
+**Related Topics**  [Hash Table](https://leetcode-cn.com/tag/hash-table) [Binary Search](https://leetcode-cn.com/tag/binary-search) 

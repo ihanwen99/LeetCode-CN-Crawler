@@ -23,4 +23,4 @@ Input: sum("ap"), Output: 5
 </pre>
 </p>
 
-**Related Topic	**[Trie](https://leetcode-cn.com/tag/trie) 
+**Related Topic**  [Trie](https://leetcode-cn.com/tag/trie) 

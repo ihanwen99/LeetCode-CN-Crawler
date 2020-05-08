@@ -40,7 +40,7 @@ Given a <b>N*N</b> matrix <b>M</b> representing the friend relationship between 
 <li>If M[i][j] = 1, then M[j][i] = 1.</li>
 </ol>
 </p>
-**Related Topics	**[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) [Union Find](https://leetcode-cn.com/tag/union-find) 
+**Related Topics**  [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) [Union Find](https://leetcode-cn.com/tag/union-find) 
 
 ### Similar Questions
  - Medium:	[Number of Connected Components in an Undirected Graph](https://leetcode-cn.com/problems/number-of-connected-components-in-an-undirected-graph) 

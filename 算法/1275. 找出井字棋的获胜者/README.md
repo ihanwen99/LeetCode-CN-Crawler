@@ -75,4 +75,4 @@
 	<li><code>moves</code> 遵循井字棋的规则。</li>
 </ul>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) 

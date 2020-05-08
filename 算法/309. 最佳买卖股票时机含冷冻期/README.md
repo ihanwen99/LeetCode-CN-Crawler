@@ -17,7 +17,7 @@
 <strong>输出: </strong>3 
 <strong>解释:</strong> 对应的交易状态为: [买入, 卖出, 冷冻期, 买入, 卖出]</pre>
 
-**标签:	**[动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
  ### 相似题目
 - 简单:	[买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock) 
 - 简单:	[买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii) 

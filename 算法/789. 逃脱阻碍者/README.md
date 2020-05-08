@@ -44,4 +44,4 @@ target = [1, 0]
 	<li>阻碍者的数量不会超过&nbsp;<code>100</code>。</li>
 </ul>
 
-**标签:	**[数学](https://leetcode-cn.com/tag/math) 
+**标签:**  [数学](https://leetcode-cn.com/tag/math) 

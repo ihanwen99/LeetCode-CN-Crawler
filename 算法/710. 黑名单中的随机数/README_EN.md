@@ -54,7 +54,7 @@
 
 <p>The input is two lists:&nbsp;the subroutines called&nbsp;and their&nbsp;arguments.&nbsp;<code>Solution</code>&#39;s&nbsp;constructor has two arguments,&nbsp;<code>N</code> and the blacklist <code>B</code>. <code>pick</code> has no arguments.&nbsp;Arguments&nbsp;are&nbsp;always wrapped with a list, even if there aren&#39;t any.</p>
 
-**Related Topics	**[Sort](https://leetcode-cn.com/tag/sort) [Hash Table](https://leetcode-cn.com/tag/hash-table) [Binary Search](https://leetcode-cn.com/tag/binary-search) [Random](https://leetcode-cn.com/tag/random) 
+**Related Topics**  [Sort](https://leetcode-cn.com/tag/sort) [Hash Table](https://leetcode-cn.com/tag/hash-table) [Binary Search](https://leetcode-cn.com/tag/binary-search) [Random](https://leetcode-cn.com/tag/random) 
 
 ### Similar Questions
  - Medium:	[Random Pick Index](https://leetcode-cn.com/problems/random-pick-index) 

@@ -47,7 +47,7 @@ Also, since the answer may be very large, you should return the output mod 10<su
 <li>The input string will only contain the character '*' and digits '0' - '9'.</li>
 </ol>
 </p>
-**Related Topic	**[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topic**  [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
 
 ### Similar Question
  - Medium:	[Decode Ways](https://leetcode-cn.com/problems/decode-ways) 

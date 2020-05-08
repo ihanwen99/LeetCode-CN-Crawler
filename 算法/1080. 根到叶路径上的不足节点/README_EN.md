@@ -53,4 +53,4 @@ Output: </strong><span>[1,null,-3,4]</span></pre>
 <div>&nbsp;</div>
 </div>
 
-**Related Topic	**[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) 
+**Related Topic**  [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) 

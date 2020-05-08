@@ -23,7 +23,7 @@ sumRange(0, 2) -&gt; 8
 	<li>You may assume the number of calls to <i>update</i> and <i>sumRange</i> function is distributed evenly.</li>
 </ol>
 
-**Related Topics	**[Binary Indexed Tree](https://leetcode-cn.com/tag/binary-indexed-tree) [Segment Tree](https://leetcode-cn.com/tag/segment-tree) 
+**Related Topics**  [Binary Indexed Tree](https://leetcode-cn.com/tag/binary-indexed-tree) [Segment Tree](https://leetcode-cn.com/tag/segment-tree) 
 
 ### Similar Questions
  - Easy:	[Range Sum Query - Immutable](https://leetcode-cn.com/problems/range-sum-query-immutable) 

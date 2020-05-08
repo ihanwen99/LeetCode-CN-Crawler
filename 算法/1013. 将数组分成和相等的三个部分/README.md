@@ -37,4 +37,4 @@
 	<li><code>-10^4&nbsp;&lt;= A[i] &lt;= 10^4</code></li>
 </ol>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) 

@@ -43,7 +43,7 @@ Number at the 2nd position (i=2) is 1, and i (i=2) is divisible by 1.
 
 <p>&nbsp;</p>
 
-**Related Topic	**[Backtracking](https://leetcode-cn.com/tag/backtracking) 
+**Related Topic**  [Backtracking](https://leetcode-cn.com/tag/backtracking) 
 
 ### Similar Question
  - Medium:	[Beautiful Arrangement II](https://leetcode-cn.com/problems/beautiful-arrangement-ii) 

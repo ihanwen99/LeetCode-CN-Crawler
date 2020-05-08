@@ -21,7 +21,7 @@
 &nbsp; []
 ]</pre>
 
-**标签:	**[位运算](https://leetcode-cn.com/tag/bit-manipulation) [数组](https://leetcode-cn.com/tag/array) [回溯算法](https://leetcode-cn.com/tag/backtracking) 
+**标签:**  [位运算](https://leetcode-cn.com/tag/bit-manipulation) [数组](https://leetcode-cn.com/tag/array) [回溯算法](https://leetcode-cn.com/tag/backtracking) 
  ### 相似题目
 - 中等:	[子集 II](https://leetcode-cn.com/problems/subsets-ii) 
 - 中等:	[列举单词的全部缩写](https://leetcode-cn.com/problems/generalized-abbreviation) 

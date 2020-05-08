@@ -25,4 +25,4 @@
 	<li>你不能将数字连接在一起。例如，输入为&nbsp;<code>[1, 2, 1, 2]</code>&nbsp;时，不能写成 12 + 12 。</li>
 </ol>
 
-**标签:	**[深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) 
+**标签:**  [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) 

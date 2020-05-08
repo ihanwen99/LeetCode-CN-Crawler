@@ -26,7 +26,7 @@
 	<li>There is only one duplicate number in the array, but it could be repeated more than once.</li>
 </ol>
 
-**Related Topics	**[Array](https://leetcode-cn.com/tag/array) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) [Binary Search](https://leetcode-cn.com/tag/binary-search) 
+**Related Topics**  [Array](https://leetcode-cn.com/tag/array) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) [Binary Search](https://leetcode-cn.com/tag/binary-search) 
 
 ### Similar Questions
  - Hard:	[First Missing Positive](https://leetcode-cn.com/problems/first-missing-positive) 

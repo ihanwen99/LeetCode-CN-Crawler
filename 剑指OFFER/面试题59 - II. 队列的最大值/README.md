@@ -31,4 +31,4 @@
 	<li><code>1 &lt;= value &lt;= 10^5</code></li>
 </ul>
 
-**标签:	**[栈](https://leetcode-cn.com/tag/stack) [None](https://leetcode-cn.com/tag/sliding-window) 
+**标签:**  [栈](https://leetcode-cn.com/tag/stack) [None](https://leetcode-cn.com/tag/sliding-window) 

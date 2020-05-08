@@ -29,4 +29,4 @@
 	<li><code>S</code> 由小写英文字母组成。</li>
 </ol>
 
-**标签:	**[哈希表](https://leetcode-cn.com/tag/hash-table) [二分查找](https://leetcode-cn.com/tag/binary-search) 
+**标签:**  [哈希表](https://leetcode-cn.com/tag/hash-table) [二分查找](https://leetcode-cn.com/tag/binary-search) 

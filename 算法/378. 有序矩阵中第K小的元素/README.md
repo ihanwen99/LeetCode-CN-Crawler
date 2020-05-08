@@ -24,7 +24,7 @@ k = 8,
 <p><strong>提示：</strong><br>
 你可以假设 k 的值永远是有效的, 1 &le; k &le; n<sup>2&nbsp;</sup>。</p>
 
-**标签:	**[堆](https://leetcode-cn.com/tag/heap) [二分查找](https://leetcode-cn.com/tag/binary-search) 
+**标签:**  [堆](https://leetcode-cn.com/tag/heap) [二分查找](https://leetcode-cn.com/tag/binary-search) 
  ### 相似题目
 - 中等:	[查找和最小的K对数字](https://leetcode-cn.com/problems/find-k-pairs-with-smallest-sums) 
 - 困难:	[乘法表中第k小的数](https://leetcode-cn.com/problems/kth-smallest-number-in-multiplication-table) 

@@ -45,4 +45,4 @@
 	<li>所有字符串均由大小写英文字母和空格字符组成。</li>
 </ul>
 
-**标签:	**[字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [字符串](https://leetcode-cn.com/tag/string) 

@@ -40,4 +40,4 @@
 	<li><code>0 &lt;= bound&nbsp;&lt;= 10^6</code></li>
 </ul>
 
-**标签:	**[哈希表](https://leetcode-cn.com/tag/hash-table) [数学](https://leetcode-cn.com/tag/math) 
+**标签:**  [哈希表](https://leetcode-cn.com/tag/hash-table) [数学](https://leetcode-cn.com/tag/math) 

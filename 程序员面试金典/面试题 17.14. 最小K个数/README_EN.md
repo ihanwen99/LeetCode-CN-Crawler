@@ -18,4 +18,4 @@
 	<li><code>0 &lt;= k &lt;= min(100000, len(arr))</code></li>
 </ul>
 
-**Related Topics	**[Heap](https://leetcode-cn.com/tag/heap) [Sort](https://leetcode-cn.com/tag/sort) [Divide and Conquer](https://leetcode-cn.com/tag/divide-and-conquer) 
+**Related Topics**  [Heap](https://leetcode-cn.com/tag/heap) [Sort](https://leetcode-cn.com/tag/sort) [Divide and Conquer](https://leetcode-cn.com/tag/divide-and-conquer) 

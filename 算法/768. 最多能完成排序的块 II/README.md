@@ -35,6 +35,6 @@
 	<li><code>arr[i]</code>的大小在<code>[0, 10**8]</code>之间。</li>
 </ul>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) 
  ### 相似题目
 - 中等:	[最多能完成排序的块](https://leetcode-cn.com/problems/max-chunks-to-make-sorted) 

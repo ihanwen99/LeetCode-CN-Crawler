@@ -46,4 +46,4 @@
 	<li>列表中的每个整数都将介于-30000和30000之间。</li>
 </ul>
 
-**标签:	**[栈](https://leetcode-cn.com/tag/stack) 
+**标签:**  [栈](https://leetcode-cn.com/tag/stack) 

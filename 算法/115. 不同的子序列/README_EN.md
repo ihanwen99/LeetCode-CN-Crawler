@@ -46,4 +46,4 @@ As shown below, there are 5 ways you can generate &quot;bag&quot; from S.
     ^^^
 </pre>
 
-**Related Topics	**[String](https://leetcode-cn.com/tag/string) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topics**  [String](https://leetcode-cn.com/tag/string) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 

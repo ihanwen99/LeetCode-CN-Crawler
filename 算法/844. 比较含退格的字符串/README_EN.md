@@ -60,4 +60,4 @@
 </div>
 </div>
 
-**Related Topics	**[Stack](https://leetcode-cn.com/tag/stack) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) 
+**Related Topics**  [Stack](https://leetcode-cn.com/tag/stack) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) 

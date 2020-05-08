@@ -17,7 +17,7 @@ What if you cannot modify the input lists? In other words, reversing the lists i
 <b>Output:</b> 7 -> 8 -> 0 -> 7
 </pre>
 </p>
-**Related Topic	**[Linked List](https://leetcode-cn.com/tag/linked-list) 
+**Related Topic**  [Linked List](https://leetcode-cn.com/tag/linked-list) 
 
 ### Similar Question
  - Medium:	[Add Two Numbers](https://leetcode-cn.com/problems/add-two-numbers) 

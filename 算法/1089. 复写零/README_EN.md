@@ -34,4 +34,4 @@
 	<li><code>1 &lt;= arr.length &lt;= 10000</code></li>
 	<li><code>0 &lt;= arr[i] &lt;= 9</code></li>
 </ol>
-**Related Topic	**[Array](https://leetcode-cn.com/tag/array) 
+**Related Topic**  [Array](https://leetcode-cn.com/tag/array) 

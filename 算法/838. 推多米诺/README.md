@@ -38,4 +38,4 @@
 	<li>表示多米诺骨牌状态的字符串只含有 <code>&#39;L&#39;</code>，<code>&#39;R&#39;</code>; 以及 <code>&#39;.&#39;</code>;</li>
 </ol>
 
-**标签:	**[双指针](https://leetcode-cn.com/tag/two-pointers) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [双指针](https://leetcode-cn.com/tag/two-pointers) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 

@@ -31,6 +31,6 @@
 	<li><code>0 &lt;= A[i] &lt;= 1e9</code></li>
 </ol>
 
-**标签:	**[图](https://leetcode-cn.com/tag/graph) [数学](https://leetcode-cn.com/tag/math) [回溯算法](https://leetcode-cn.com/tag/backtracking) 
+**标签:**  [图](https://leetcode-cn.com/tag/graph) [数学](https://leetcode-cn.com/tag/math) [回溯算法](https://leetcode-cn.com/tag/backtracking) 
  ### 相似题目
 - 中等:	[全排列 II](https://leetcode-cn.com/problems/permutations-ii) 

@@ -16,4 +16,4 @@
 	<li><code>words.length &lt;= 100000</code></li>
 </ul>
 
-**Related Topics	**[Two Pointers](https://leetcode-cn.com/tag/two-pointers) [String](https://leetcode-cn.com/tag/string) 
+**Related Topics**  [Two Pointers](https://leetcode-cn.com/tag/two-pointers) [String](https://leetcode-cn.com/tag/string) 

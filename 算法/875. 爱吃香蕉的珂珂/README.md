@@ -43,6 +43,6 @@
 	<li><code>1 &lt;= piles[i] &lt;= 10^9</code></li>
 </ul>
 
-**标签:	**[二分查找](https://leetcode-cn.com/tag/binary-search) 
+**标签:**  [二分查找](https://leetcode-cn.com/tag/binary-search) 
  ### 相似题目
 - 困难:	[最小化去加油站的最大距离](https://leetcode-cn.com/problems/minimize-max-distance-to-gas-station) 

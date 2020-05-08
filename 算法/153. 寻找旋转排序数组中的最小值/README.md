@@ -20,7 +20,7 @@
 <pre><strong>输入:</strong> [4,5,6,7,0,1,2]
 <strong>输出:</strong> 0</pre>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) [二分查找](https://leetcode-cn.com/tag/binary-search) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) [二分查找](https://leetcode-cn.com/tag/binary-search) 
  ### 相似题目
 - 中等:	[搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array) 
 - 困难:	[寻找旋转排序数组中的最小值 II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii) 

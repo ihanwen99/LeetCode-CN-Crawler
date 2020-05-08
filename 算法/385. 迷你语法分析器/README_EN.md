@@ -36,7 +36,7 @@ Return a NestedInteger object containing a nested list with 2 elements:
          a. An integer containing value 789.
 </pre>
 </p>
-**Related Topics	**[Stack](https://leetcode-cn.com/tag/stack) [String](https://leetcode-cn.com/tag/string) 
+**Related Topics**  [Stack](https://leetcode-cn.com/tag/stack) [String](https://leetcode-cn.com/tag/string) 
 
 ### Similar Questions
  - Medium:	[Flatten Nested List Iterator](https://leetcode-cn.com/problems/flatten-nested-list-iterator) 

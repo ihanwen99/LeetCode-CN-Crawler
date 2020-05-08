@@ -26,4 +26,4 @@
 	<li><code>1 &lt;= k &lt; s.length &lt;= 10000</code></li>
 </ul>
 
-**标签:	**[字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [字符串](https://leetcode-cn.com/tag/string) 

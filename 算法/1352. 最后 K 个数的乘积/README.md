@@ -54,4 +54,4 @@ productOfNumbers.getProduct(2); // 返回 32 。最后 2 个数字的乘积是 4
 	<li><code>1 &lt;= k &lt;= 40000</code></li>
 </ul>
 
-**标签:	**[设计](https://leetcode-cn.com/tag/design) [数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [设计](https://leetcode-cn.com/tag/design) [数组](https://leetcode-cn.com/tag/array) 

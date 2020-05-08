@@ -50,4 +50,4 @@
 
 <p>&nbsp;</p>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) [None](https://leetcode-cn.com/tag/sliding-window) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) [None](https://leetcode-cn.com/tag/sliding-window) 

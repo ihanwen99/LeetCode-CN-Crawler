@@ -21,7 +21,7 @@
 <p><strong>进阶:</strong><br>
 如果输入字符串包含 unicode 字符怎么办？你能否调整你的解法来应对这种情况？</p>
 
-**标签:	**[排序](https://leetcode-cn.com/tag/sort) [哈希表](https://leetcode-cn.com/tag/hash-table) 
+**标签:**  [排序](https://leetcode-cn.com/tag/sort) [哈希表](https://leetcode-cn.com/tag/hash-table) 
  ### 相似题目
 - 中等:	[字母异位词分组](https://leetcode-cn.com/problems/group-anagrams) 
 - 简单:	[回文排列](https://leetcode-cn.com/problems/palindrome-permutation) 

@@ -35,4 +35,4 @@
 	<li><code>red_edges[i].length == blue_edges[i].length == 2</code></li>
 	<li><code>0 &lt;= red_edges[i][j], blue_edges[i][j] &lt; n</code></li>
 </ul>
-**Related Topics	**[Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search) [Graph](https://leetcode-cn.com/tag/graph) 
+**Related Topics**  [Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search) [Graph](https://leetcode-cn.com/tag/graph) 

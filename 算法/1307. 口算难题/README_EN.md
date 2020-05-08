@@ -56,4 +56,4 @@ Such that: &quot;SIX&quot; + &quot;SEVEN&quot; + &quot;SEVEN&quot; = &quot;TWENT
 	<li>Number of different characters used on the expression is at most&nbsp;10.</li>
 </ul>
 
-**Related Topics	**[Math](https://leetcode-cn.com/tag/math) [Backtracking](https://leetcode-cn.com/tag/backtracking) 
+**Related Topics**  [Math](https://leetcode-cn.com/tag/math) [Backtracking](https://leetcode-cn.com/tag/backtracking) 

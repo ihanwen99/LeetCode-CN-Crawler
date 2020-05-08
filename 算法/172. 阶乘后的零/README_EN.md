@@ -20,7 +20,7 @@
 
 <p><b>Note: </b>Your solution should be in logarithmic time complexity.</p>
 
-**Related Topic	**[Math](https://leetcode-cn.com/tag/math) 
+**Related Topic**  [Math](https://leetcode-cn.com/tag/math) 
 
 ### Similar Questions
  - Hard:	[Number of Digit One](https://leetcode-cn.com/problems/number-of-digit-one) 

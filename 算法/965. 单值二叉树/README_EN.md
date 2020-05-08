@@ -33,4 +33,4 @@
 	<li>Each node&#39;s value will be an integer in the range <code>[0, 99]</code>.</li>
 </ol>
 
-**Related Topic	**[Tree](https://leetcode-cn.com/tag/tree) 
+**Related Topic**  [Tree](https://leetcode-cn.com/tag/tree) 

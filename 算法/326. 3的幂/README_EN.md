@@ -31,7 +31,7 @@
 
 <p><b>Follow up:</b><br />
 Could you do it without using any loop / recursion?</p>
-**Related Topic	**[Math](https://leetcode-cn.com/tag/math) 
+**Related Topic**  [Math](https://leetcode-cn.com/tag/math) 
 
 ### Similar Questions
  - Easy:	[Power of Two](https://leetcode-cn.com/problems/power-of-two) 

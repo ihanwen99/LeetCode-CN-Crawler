@@ -50,4 +50,4 @@
 	<li><code>1 &lt;= ages[i] &lt;= 120</code>.</li>
 </ul>
 
-**Related Topic	**[Array](https://leetcode-cn.com/tag/array) 
+**Related Topic**  [Array](https://leetcode-cn.com/tag/array) 

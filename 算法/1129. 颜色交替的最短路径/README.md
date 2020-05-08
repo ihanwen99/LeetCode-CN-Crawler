@@ -52,4 +52,4 @@
 	<li><code>0 &lt;= red_edges[i][j], blue_edges[i][j] &lt; n</code></li>
 </ul>
 
-**标签:	**[广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search) [图](https://leetcode-cn.com/tag/graph) 
+**标签:**  [广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search) [图](https://leetcode-cn.com/tag/graph) 

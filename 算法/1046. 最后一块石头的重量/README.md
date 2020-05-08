@@ -34,4 +34,4 @@
 	<li><code>1 &lt;= stones[i] &lt;= 1000</code></li>
 </ol>
 
-**标签:	**[堆](https://leetcode-cn.com/tag/heap) [贪心算法](https://leetcode-cn.com/tag/greedy) 
+**标签:**  [堆](https://leetcode-cn.com/tag/heap) [贪心算法](https://leetcode-cn.com/tag/greedy) 

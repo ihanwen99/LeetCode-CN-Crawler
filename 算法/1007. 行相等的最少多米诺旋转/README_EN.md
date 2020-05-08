@@ -42,4 +42,4 @@ In this case, it is not possible to rotate the dominoes to make one row of value
 	<li><code>2 &lt;= A.length == B.length &lt;= 20000</code></li>
 </ol>
 
-**Related Topics	**[Greedy](https://leetcode-cn.com/tag/greedy) [Array](https://leetcode-cn.com/tag/array) 
+**Related Topics**  [Greedy](https://leetcode-cn.com/tag/greedy) [Array](https://leetcode-cn.com/tag/array) 

@@ -40,4 +40,4 @@ This is an invalid order (P1,D2,P2,D1) because Pickup 2 is after of Delivery 2.
 <ul>
 	<li><code>1 &lt;= n &lt;= 500</code></li>
 </ul>
-**Related Topics	**[Math](https://leetcode-cn.com/tag/math) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topics**  [Math](https://leetcode-cn.com/tag/math) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 

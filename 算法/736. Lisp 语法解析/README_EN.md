@@ -64,7 +64,7 @@ of the final x in the add-expression.  That final x will equal 2.
 <li>The length of <code>expression</code> is at most 2000.  (It is also non-empty, as that would not be a legal expression.)</li>
 <li>The answer and all intermediate calculations of that answer are guaranteed to fit in a 32-bit integer.</li>
 </p>
-**Related Topic	**[String](https://leetcode-cn.com/tag/string) 
+**Related Topic**  [String](https://leetcode-cn.com/tag/string) 
 
 ### Similar Questions
  - Medium:	[Ternary Expression Parser](https://leetcode-cn.com/problems/ternary-expression-parser) 

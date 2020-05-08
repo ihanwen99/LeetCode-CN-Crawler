@@ -52,4 +52,4 @@ For arr1[2]=8 we have:
 	<li><code>-10^3 &lt;= arr1[i], arr2[j] &lt;= 10^3</code></li>
 	<li><code>0 &lt;= d &lt;= 100</code></li>
 </ul>
-**Related Topic	**[Array](https://leetcode-cn.com/tag/array) 
+**Related Topic**  [Array](https://leetcode-cn.com/tag/array) 

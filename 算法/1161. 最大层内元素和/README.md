@@ -30,4 +30,4 @@
 	<li><code>-10^5 &lt;= node.val &lt;= 10^5</code></li>
 </ol>
 
-**标签:	**[图](https://leetcode-cn.com/tag/graph) 
+**标签:**  [图](https://leetcode-cn.com/tag/graph) 

@@ -19,7 +19,7 @@
 
 <p><strong>Follow up:</strong> Recursive solution is trivial, could you do it iteratively?</p>
 
-**Related Topics	**[Stack](https://leetcode-cn.com/tag/stack) [Tree](https://leetcode-cn.com/tag/tree) 
+**Related Topics**  [Stack](https://leetcode-cn.com/tag/stack) [Tree](https://leetcode-cn.com/tag/tree) 
 
 ### Similar Questions
  - Medium:	[Binary Tree Inorder Traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal) 

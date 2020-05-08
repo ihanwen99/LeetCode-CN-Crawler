@@ -32,4 +32,4 @@
 <strong>Explanation: </strong>The longest increasing path is <code>[3, 4, 5, 6]</code>. Moving diagonally is not allowed.
 </pre>
 
-**Related Topics	**[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) [Topological Sort](https://leetcode-cn.com/tag/topological-sort) [Memoization](https://leetcode-cn.com/tag/memoization) 
+**Related Topics**  [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) [Topological Sort](https://leetcode-cn.com/tag/topological-sort) [Memoization](https://leetcode-cn.com/tag/memoization) 

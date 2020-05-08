@@ -18,6 +18,6 @@
 	<li>给定数组中可能包含重复数字，相等的数字应该被视为递增的一种情况。</li>
 </ol>
 
-**标签:	**[深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) 
+**标签:**  [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) 
  ### 相似题目
 - 中等:	[最长数对链](https://leetcode-cn.com/problems/maximum-length-of-pair-chain) 

@@ -27,4 +27,4 @@
 <ul>
 	<li><code>2 &lt;= board.length == board[i].length &lt;= 100</code></li>
 </ul>
-**Related Topic	**[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topic**  [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 

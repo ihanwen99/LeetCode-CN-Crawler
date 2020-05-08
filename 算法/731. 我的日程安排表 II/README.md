@@ -40,7 +40,7 @@ MyCalendar.book(25, 55); // returns true
 	<li>调用函数&nbsp;<code>MyCalendar.book(start, end)</code>时，&nbsp;<code>start</code> 和&nbsp;<code>end</code> 的取值范围为&nbsp;<code>[0, 10^9]</code>。</li>
 </ul>
 
-**标签:	**[None](https://leetcode-cn.com/tag/ordered-map) 
+**标签:**  [None](https://leetcode-cn.com/tag/ordered-map) 
  ### 相似题目
 - 中等:	[我的日程安排表 I](https://leetcode-cn.com/problems/my-calendar-i) 
 - 困难:	[我的日程安排表 III](https://leetcode-cn.com/problems/my-calendar-iii) 

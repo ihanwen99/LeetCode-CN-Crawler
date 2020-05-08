@@ -28,7 +28,7 @@
 	<li>输入的字符串长度不会超过1000。</li>
 </ol>
 
-**标签:	**[字符串](https://leetcode-cn.com/tag/string) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [字符串](https://leetcode-cn.com/tag/string) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
  ### 相似题目
 - 中等:	[最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring) 
 - 中等:	[最长回文子序列](https://leetcode-cn.com/problems/longest-palindromic-subsequence) 

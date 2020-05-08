@@ -39,6 +39,6 @@
 	<li>字符串大小将在 [1，100] 范围内。</li>
 </ol>
 
-**标签:	**[字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [字符串](https://leetcode-cn.com/tag/string) 
  ### 相似题目
 - 困难:	[特殊的二进制序列](https://leetcode-cn.com/problems/special-binary-string) 

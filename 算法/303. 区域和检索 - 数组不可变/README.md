@@ -19,7 +19,7 @@ sumRange(0, 5) -&gt; -3</pre>
 	<li>会多次调用&nbsp;<em>sumRange</em>&nbsp;方法。</li>
 </ol>
 
-**标签:	**[动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
  ### 相似题目
 - 中等:	[二维区域和检索 - 矩阵不可变](https://leetcode-cn.com/problems/range-sum-query-2d-immutable) 
 - 中等:	[区域和检索 - 数组可修改](https://leetcode-cn.com/problems/range-sum-query-mutable) 

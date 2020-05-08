@@ -39,4 +39,4 @@
 	<li><code>1 &lt;= text.length &lt;= 10^4</code></li>
 	<li><code>text</code>&nbsp;consists of lower case English letters only.</li>
 </ul>
-**Related Topics	**[Hash Table](https://leetcode-cn.com/tag/hash-table) [String](https://leetcode-cn.com/tag/string) 
+**Related Topics**  [Hash Table](https://leetcode-cn.com/tag/hash-table) [String](https://leetcode-cn.com/tag/string) 

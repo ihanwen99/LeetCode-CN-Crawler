@@ -69,4 +69,4 @@ Since not every customer received correct change, the answer is false.
 </div>
 </div>
 
-**Related Topic	**[Greedy](https://leetcode-cn.com/tag/greedy) 
+**Related Topic**  [Greedy](https://leetcode-cn.com/tag/greedy) 

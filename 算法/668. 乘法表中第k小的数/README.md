@@ -40,7 +40,7 @@
 	<li><code>k</code> 的范围在 [1, m * n] 之间。</li>
 </ol>
 
-**标签:	**[二分查找](https://leetcode-cn.com/tag/binary-search) 
+**标签:**  [二分查找](https://leetcode-cn.com/tag/binary-search) 
  ### 相似题目
 - 中等:	[有序矩阵中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix) 
 - 困难:	[找出第 k 小的距离对](https://leetcode-cn.com/problems/find-k-th-smallest-pair-distance) 

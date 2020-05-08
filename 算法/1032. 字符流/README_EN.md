@@ -41,4 +41,4 @@ streamChecker.query(&#39;l&#39;);          // return true, because &#39;kl&#39; 
 	<li>The number of queries is at most&nbsp;40000.</li>
 </ul>
 
-**Related Topic	**[Trie](https://leetcode-cn.com/tag/trie) 
+**Related Topic**  [Trie](https://leetcode-cn.com/tag/trie) 

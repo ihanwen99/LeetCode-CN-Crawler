@@ -34,4 +34,4 @@
 	<li>每个结点的值都是独一无二的。</li>
 </ul>
 
-**标签:	**[树](https://leetcode-cn.com/tag/tree) 
+**标签:**  [树](https://leetcode-cn.com/tag/tree) 

@@ -49,4 +49,4 @@ skiplist.search(1);   // return false, 1 has already been erased.</pre>
 	<li><code>0 &lt;= num, target&nbsp;&lt;= 20000</code></li>
 	<li>At most <code>50000</code>&nbsp;calls will be made to <code>search</code>, <code>add</code>, and <code>erase</code>.</li>
 </ul>
-**Related Topic	**[Design](https://leetcode-cn.com/tag/design) 
+**Related Topic**  [Design](https://leetcode-cn.com/tag/design) 

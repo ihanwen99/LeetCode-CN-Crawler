@@ -43,7 +43,7 @@ We only want the closest K = 1 points from the origin, so the answer is just [[-
 </ol>
 </div>
 </div>
-**Related Topics	**[Heap](https://leetcode-cn.com/tag/heap) [Sort](https://leetcode-cn.com/tag/sort) [Divide and Conquer](https://leetcode-cn.com/tag/divide-and-conquer) 
+**Related Topics**  [Heap](https://leetcode-cn.com/tag/heap) [Sort](https://leetcode-cn.com/tag/sort) [Divide and Conquer](https://leetcode-cn.com/tag/divide-and-conquer) 
 
 ### Similar Questions
  - Medium:	[Kth Largest Element in an Array](https://leetcode-cn.com/problems/kth-largest-element-in-an-array) 

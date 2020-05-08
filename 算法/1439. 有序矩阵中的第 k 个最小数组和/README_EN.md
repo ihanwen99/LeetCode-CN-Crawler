@@ -50,4 +50,4 @@
 	<li><code>mat[i]</code> is a non decreasing array.</li>
 </ul>
 
-**Related Topic	**[Heap](https://leetcode-cn.com/tag/heap) 
+**Related Topic**  [Heap](https://leetcode-cn.com/tag/heap) 

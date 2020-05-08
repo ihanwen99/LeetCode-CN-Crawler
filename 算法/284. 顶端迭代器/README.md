@@ -15,7 +15,7 @@
 
 <p><strong>进阶：</strong>你将如何拓展你的设计？使之变得通用化，从而适应所有的类型，而不只是整数型？</p>
 
-**标签:	**[设计](https://leetcode-cn.com/tag/design) 
+**标签:**  [设计](https://leetcode-cn.com/tag/design) 
  ### 相似题目
 - 中等:	[二叉搜索树迭代器](https://leetcode-cn.com/problems/binary-search-tree-iterator) 
 - 中等:	[展开二维向量](https://leetcode-cn.com/problems/flatten-2d-vector) 

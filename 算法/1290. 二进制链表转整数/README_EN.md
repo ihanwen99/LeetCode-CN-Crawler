@@ -51,4 +51,4 @@
 	<li>Number of nodes&nbsp;will not exceed <code>30</code>.</li>
 	<li>Each node&#39;s value is either&nbsp;<code>0</code> or <code>1</code>.</li>
 </ul>
-**Related Topics	**[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) [Linked List](https://leetcode-cn.com/tag/linked-list) 
+**Related Topics**  [Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) [Linked List](https://leetcode-cn.com/tag/linked-list) 

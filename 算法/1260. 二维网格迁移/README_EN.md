@@ -48,4 +48,4 @@
 	<li><code>0 &lt;= k &lt;= 100</code></li>
 </ul>
 
-**Related Topic	**[Array](https://leetcode-cn.com/tag/array) 
+**Related Topic**  [Array](https://leetcode-cn.com/tag/array) 

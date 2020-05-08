@@ -28,6 +28,6 @@
 
 <p><strong>提示</strong>: 输入字符串的长度不会超过 100。</p>
 
-**标签:	**[深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
  ### 相似题目
 - 困难:	[移除盒子](https://leetcode-cn.com/problems/remove-boxes) 

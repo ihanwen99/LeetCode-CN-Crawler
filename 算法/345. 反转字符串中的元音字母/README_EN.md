@@ -24,7 +24,7 @@ The vowels does not include the letter &quot;y&quot;.</p>
 
 <p>&nbsp;</p>
 
-**Related Topics	**[Two Pointers](https://leetcode-cn.com/tag/two-pointers) [String](https://leetcode-cn.com/tag/string) 
+**Related Topics**  [Two Pointers](https://leetcode-cn.com/tag/two-pointers) [String](https://leetcode-cn.com/tag/string) 
 
 ### Similar Questions
  - Easy:	[Reverse String](https://leetcode-cn.com/problems/reverse-string) 

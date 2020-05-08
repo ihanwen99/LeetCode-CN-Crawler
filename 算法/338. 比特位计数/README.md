@@ -22,6 +22,6 @@
 	<li>你能进一步完善解法吗？要求在C++或任何其他语言中不使用任何内置函数（如 C++ 中的&nbsp;<strong>__builtin_popcount</strong>）来执行此操作。</li>
 </ul>
 
-**标签:	**[位运算](https://leetcode-cn.com/tag/bit-manipulation) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [位运算](https://leetcode-cn.com/tag/bit-manipulation) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
  ### 相似题目
 - 简单:	[位1的个数](https://leetcode-cn.com/problems/number-of-1-bits) 

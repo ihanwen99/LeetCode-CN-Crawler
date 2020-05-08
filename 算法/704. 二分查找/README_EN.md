@@ -32,7 +32,7 @@
 	<li>The value of each element in <code>nums</code> will be in the range <code>[-9999, 9999]</code>.</li>
 </ol>
 
-**Related Topic	**[Binary Search](https://leetcode-cn.com/tag/binary-search) 
+**Related Topic**  [Binary Search](https://leetcode-cn.com/tag/binary-search) 
 
 ### Similar Question
  - Medium:	[Search in a Sorted Array of Unknown Size](https://leetcode-cn.com/problems/search-in-a-sorted-array-of-unknown-size) 

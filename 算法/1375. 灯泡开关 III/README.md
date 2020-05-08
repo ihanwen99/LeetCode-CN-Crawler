@@ -63,4 +63,4 @@
 	<li><code>light</code> 是 <code>[1, 2, ..., n]</code> 的一个排列。</li>
 </ul>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) 

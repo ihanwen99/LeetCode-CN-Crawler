@@ -29,7 +29,7 @@
 <b>Explanation:</b> It&#39;s the substring &quot;abc&quot; four times. (And the substring &quot;abcabc&quot; twice.)
 </pre>
 
-**Related Topic	**[String](https://leetcode-cn.com/tag/string) 
+**Related Topic**  [String](https://leetcode-cn.com/tag/string) 
 
 ### Similar Questions
  - Easy:	[Implement strStr()](https://leetcode-cn.com/problems/implement-strstr) 

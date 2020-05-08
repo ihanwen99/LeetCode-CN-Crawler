@@ -29,4 +29,4 @@ Tilt of binary tree : 0 + 0 + 1 = 1
 <li>All the tilt values won't exceed the range of 32-bit integer.</li>
 </ol>
 </p>
-**Related Topic	**[Tree](https://leetcode-cn.com/tag/tree) 
+**Related Topic**  [Tree](https://leetcode-cn.com/tag/tree) 

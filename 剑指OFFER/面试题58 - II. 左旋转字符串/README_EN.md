@@ -4,4 +4,4 @@
  ### Description
 <p>English description is not available for the problem. Please switch to Chinese.</p>
 
-**Related Topic	**[String](https://leetcode-cn.com/tag/string) 
+**Related Topic**  [String](https://leetcode-cn.com/tag/string) 

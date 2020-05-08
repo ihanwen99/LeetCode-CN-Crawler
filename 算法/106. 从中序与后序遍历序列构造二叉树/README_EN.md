@@ -23,7 +23,7 @@ postorder = [9,15,7,20,3]</pre>
    15   7
 </pre>
 
-**Related Topics	**[Tree](https://leetcode-cn.com/tag/tree) [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) [Array](https://leetcode-cn.com/tag/array) 
+**Related Topics**  [Tree](https://leetcode-cn.com/tag/tree) [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) [Array](https://leetcode-cn.com/tag/array) 
 
 ### Similar Question
  - Medium:	[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) 

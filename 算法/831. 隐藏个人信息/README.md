@@ -82,4 +82,4 @@
 	<li>电话号码的长度至少是 10。</li>
 </ol>
 
-**标签:	**[字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [字符串](https://leetcode-cn.com/tag/string) 

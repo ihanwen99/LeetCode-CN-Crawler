@@ -32,4 +32,4 @@
 
 <p><strong>注意：</strong>此题对比原题有改动。</p>
 
-**标签:	**[分治算法](https://leetcode-cn.com/tag/divide-and-conquer) 
+**标签:**  [分治算法](https://leetcode-cn.com/tag/divide-and-conquer) 

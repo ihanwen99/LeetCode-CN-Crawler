@@ -27,7 +27,7 @@ This is the lexicographically largest string possible after some number of swaps
 <li><code>S</code> has length at most <code>50</code>.</li>
 <li><code>S</code> is guaranteed to be a <i>special</i> binary string as defined above.</li>
 </ol></p>
-**Related Topics	**[Recursion](https://leetcode-cn.com/tag/recursion) [String](https://leetcode-cn.com/tag/string) 
+**Related Topics**  [Recursion](https://leetcode-cn.com/tag/recursion) [String](https://leetcode-cn.com/tag/string) 
 
 ### Similar Question
  - Medium:	[Valid Parenthesis String](https://leetcode-cn.com/problems/valid-parenthesis-string) 

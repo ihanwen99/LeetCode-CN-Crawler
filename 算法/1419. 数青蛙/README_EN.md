@@ -48,4 +48,4 @@ The second frog could yell later &quot;cr<strong>c</strong>oak<strong>roak</stro
 	<li>All characters in the string are: <code>&#39;c&#39;</code>, <code>&#39;r&#39;</code>, <code>&#39;o&#39;</code>, <code>&#39;a&#39;</code> or <code>&#39;k&#39;</code>.</li>
 </ul>
 
-**Related Topic	**[String](https://leetcode-cn.com/tag/string) 
+**Related Topic**  [String](https://leetcode-cn.com/tag/string) 

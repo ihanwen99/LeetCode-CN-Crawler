@@ -54,4 +54,4 @@
 	<li><code>1 &lt;= A.length &lt;= 30000</code></li>
 </ol>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) 

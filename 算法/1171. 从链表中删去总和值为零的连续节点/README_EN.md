@@ -39,4 +39,4 @@
 	<li>Each node in the linked list has <code>-1000 &lt;= node.val &lt;= 1000</code>.</li>
 </ul>
 
-**Related Topic	**[Linked List](https://leetcode-cn.com/tag/linked-list) 
+**Related Topic**  [Linked List](https://leetcode-cn.com/tag/linked-list) 

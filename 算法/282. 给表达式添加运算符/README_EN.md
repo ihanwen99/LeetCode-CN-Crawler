@@ -37,7 +37,7 @@
 <b>Output: </b>[]
 </pre>
 
-**Related Topic	**[Divide and Conquer](https://leetcode-cn.com/tag/divide-and-conquer) 
+**Related Topic**  [Divide and Conquer](https://leetcode-cn.com/tag/divide-and-conquer) 
 
 ### Similar Questions
  - Medium:	[Evaluate Reverse Polish Notation](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation) 

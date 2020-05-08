@@ -61,4 +61,4 @@
 	<li><code>1 &lt;= &lt;RepeatingPart&gt;.length &lt;= 4</code></li>
 </ol>
 
-**Related Topic	**[Math](https://leetcode-cn.com/tag/math) 
+**Related Topic**  [Math](https://leetcode-cn.com/tag/math) 

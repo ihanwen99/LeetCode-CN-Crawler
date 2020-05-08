@@ -20,7 +20,7 @@ solution.pick(3);
 solution.pick(1);
 </pre>
 
-**标签:	**[蓄水池抽样](https://leetcode-cn.com/tag/reservoir-sampling) 
+**标签:**  [蓄水池抽样](https://leetcode-cn.com/tag/reservoir-sampling) 
  ### 相似题目
 - 中等:	[链表随机节点](https://leetcode-cn.com/problems/linked-list-random-node) 
 - 困难:	[黑名单中的随机数](https://leetcode-cn.com/problems/random-pick-with-blacklist) 

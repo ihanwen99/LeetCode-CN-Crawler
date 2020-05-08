@@ -37,4 +37,4 @@
 	<li><code>S</code> 中不包含&nbsp;<code>\</code> or <code>&quot;</code></li>
 </ol>
 
-**标签:	**[字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [字符串](https://leetcode-cn.com/tag/string) 

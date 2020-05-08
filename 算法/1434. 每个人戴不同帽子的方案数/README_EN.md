@@ -54,4 +54,4 @@ Number of Permutations of (1,2,3,4) = 24.
 	<li><code>1 &lt;= hats[i][j] &lt;= 40</code></li>
 	<li><code>hats[i]</code> contains a list of <strong>unique</strong> integers.</li>
 </ul>
-**Related Topics	**[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topics**  [Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 

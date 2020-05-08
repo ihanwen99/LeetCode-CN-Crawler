@@ -19,7 +19,7 @@
 <pre><strong>输入:</strong> [4,1,2,1,2]
 <strong>输出:</strong> 4</pre>
 
-**标签:	**[位运算](https://leetcode-cn.com/tag/bit-manipulation) [哈希表](https://leetcode-cn.com/tag/hash-table) 
+**标签:**  [位运算](https://leetcode-cn.com/tag/bit-manipulation) [哈希表](https://leetcode-cn.com/tag/hash-table) 
  ### 相似题目
 - 中等:	[只出现一次的数字 II](https://leetcode-cn.com/problems/single-number-ii) 
 - 中等:	[只出现一次的数字 III](https://leetcode-cn.com/problems/single-number-iii) 

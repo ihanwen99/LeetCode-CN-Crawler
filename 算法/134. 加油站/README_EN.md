@@ -53,4 +53,4 @@ You cannot travel back to station 2, as it requires 4 unit of gas but you only h
 Therefore, you can&#39;t travel around the circuit once no matter where you start.
 </pre>
 
-**Related Topic	**[Greedy](https://leetcode-cn.com/tag/greedy) 
+**Related Topic**  [Greedy](https://leetcode-cn.com/tag/greedy) 

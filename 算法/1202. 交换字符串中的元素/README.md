@@ -49,4 +49,4 @@
 	<li><code>s</code>&nbsp;中只含有小写英文字母</li>
 </ul>
 
-**标签:	**[并查集](https://leetcode-cn.com/tag/union-find) [数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [并查集](https://leetcode-cn.com/tag/union-find) [数组](https://leetcode-cn.com/tag/array) 

@@ -50,4 +50,4 @@
 	<li>The answer is guaranteed to be less than <code>2 ^ 31</code>.</li>
 </ol>
 
-**Related Topic	**[Greedy](https://leetcode-cn.com/tag/greedy) 
+**Related Topic**  [Greedy](https://leetcode-cn.com/tag/greedy) 

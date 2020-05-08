@@ -20,6 +20,6 @@
 	<li>所给数据范围 [-10,000，10,000]。</li>
 </ol>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) 
  ### 相似题目
 - 困难:	[最大平均子段和 II](https://leetcode-cn.com/problems/maximum-average-subarray-ii) 

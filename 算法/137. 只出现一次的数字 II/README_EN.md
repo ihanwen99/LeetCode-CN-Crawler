@@ -21,7 +21,7 @@
 <strong>Input:</strong> [0,1,0,1,0,1,99]
 <strong>Output:</strong> 99</pre>
 
-**Related Topic	**[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) 
+**Related Topic**  [Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) 
 
 ### Similar Questions
  - Easy:	[Single Number](https://leetcode-cn.com/problems/single-number) 

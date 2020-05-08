@@ -50,4 +50,4 @@
 	<li><code>1 &lt;= A[i].length &lt;= 1000</code></li>
 </ol>
 
-**标签:	**[贪心算法](https://leetcode-cn.com/tag/greedy) 
+**标签:**  [贪心算法](https://leetcode-cn.com/tag/greedy) 

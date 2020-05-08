@@ -25,4 +25,4 @@
 	<li>The result integer fits into 32-bit integer.</li>
 </ol>
 
-**Related Topic	**[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) 
+**Related Topic**  [Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) 

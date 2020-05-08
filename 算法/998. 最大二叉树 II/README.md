@@ -61,6 +61,6 @@
 
 <p>&nbsp;</p>
 
-**标签:	**[树](https://leetcode-cn.com/tag/tree) 
+**标签:**  [树](https://leetcode-cn.com/tag/tree) 
  ### 相似题目
 - 中等:	[最大二叉树](https://leetcode-cn.com/problems/maximum-binary-tree) 

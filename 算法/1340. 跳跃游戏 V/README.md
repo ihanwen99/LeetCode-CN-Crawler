@@ -64,4 +64,4 @@
 	<li><code>1 &lt;= d &lt;= arr.length</code></li>
 </ul>
 
-**标签:	**[动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 

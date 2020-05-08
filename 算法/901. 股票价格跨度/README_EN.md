@@ -42,4 +42,4 @@ Note that (for example) S.next(75) returned 4, because the last 4 prices
 </ol>
 </div>
 
-**Related Topic	**[Stack](https://leetcode-cn.com/tag/stack) 
+**Related Topic**  [Stack](https://leetcode-cn.com/tag/stack) 

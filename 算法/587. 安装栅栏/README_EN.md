@@ -38,4 +38,4 @@ Even you only have trees in a line, you need to use rope to enclose them.
 	<li>input types have been changed on April 15, 2019. Please reset to default code definition to get new method signature.</li>
 </ol>
 
-**Related Topic	**[Geometry](https://leetcode-cn.com/tag/geometry) 
+**Related Topic**  [Geometry](https://leetcode-cn.com/tag/geometry) 

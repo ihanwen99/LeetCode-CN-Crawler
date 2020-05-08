@@ -23,7 +23,7 @@
 &nbsp;            Total amount you can rob = 2 + 9 + 1 = 12.
 </pre>
 
-**Related Topic	**[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topic**  [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
 
 ### Similar Questions
  - Medium:	[Maximum Product Subarray](https://leetcode-cn.com/problems/maximum-product-subarray) 

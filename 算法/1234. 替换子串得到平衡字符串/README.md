@@ -55,4 +55,4 @@
 	<li><code>s</code>&nbsp;中只含有&nbsp;<code>&#39;Q&#39;</code>, <code>&#39;W&#39;</code>, <code>&#39;E&#39;</code>,&nbsp;<code>&#39;R&#39;</code>&nbsp;四种字符</li>
 </ul>
 
-**标签:	**[双指针](https://leetcode-cn.com/tag/two-pointers) [字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [双指针](https://leetcode-cn.com/tag/two-pointers) [字符串](https://leetcode-cn.com/tag/string) 

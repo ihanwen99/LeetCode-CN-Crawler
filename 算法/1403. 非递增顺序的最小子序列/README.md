@@ -41,4 +41,4 @@
 	<li><code>1 &lt;= nums[i] &lt;= 100</code></li>
 </ul>
 
-**标签:	**[贪心算法](https://leetcode-cn.com/tag/greedy) [排序](https://leetcode-cn.com/tag/sort) 
+**标签:**  [贪心算法](https://leetcode-cn.com/tag/greedy) [排序](https://leetcode-cn.com/tag/sort) 

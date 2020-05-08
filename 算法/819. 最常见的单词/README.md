@@ -37,4 +37,4 @@ banned = [&quot;hit&quot;]
 	<li>单词里只包含字母，不会出现省略号或者其他标点符号。</li>
 </ul>
 
-**标签:	**[字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [字符串](https://leetcode-cn.com/tag/string) 

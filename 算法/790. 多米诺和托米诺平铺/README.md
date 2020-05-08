@@ -32,4 +32,4 @@ XYZ YYZ XZZ XYY XXY</pre>
 
 <p>&nbsp;</p>
 
-**标签:	**[动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 

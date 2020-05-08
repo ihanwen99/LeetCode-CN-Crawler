@@ -31,4 +31,4 @@
 	<li>你能只调用一次检查子串的方法吗？</li>
 </ol>
 
-**标签:	**[字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [字符串](https://leetcode-cn.com/tag/string) 

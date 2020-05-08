@@ -36,4 +36,4 @@ queries[4] :&nbsp;substring = &quot;abcda&quot;,&nbsp;could be changed to &quot;
 	<li><code>s</code> only contains lowercase English letters.</li>
 </ul>
 
-**Related Topics	**[Array](https://leetcode-cn.com/tag/array) [String](https://leetcode-cn.com/tag/string) 
+**Related Topics**  [Array](https://leetcode-cn.com/tag/array) [String](https://leetcode-cn.com/tag/string) 

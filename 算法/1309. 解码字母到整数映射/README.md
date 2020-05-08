@@ -50,4 +50,4 @@
 	<li><code>s</code>&nbsp;是映射始终存在的有效字符串。</li>
 </ul>
 
-**标签:	**[字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [字符串](https://leetcode-cn.com/tag/string) 

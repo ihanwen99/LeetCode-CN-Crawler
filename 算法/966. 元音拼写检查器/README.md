@@ -54,4 +54,4 @@
 	<li><code>wordlist</code> 和&nbsp;<code>queries</code>&nbsp;中的所有字符串仅由<strong>英文</strong>字母组成。</li>
 </ol>
 
-**标签:	**[哈希表](https://leetcode-cn.com/tag/hash-table) [字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [哈希表](https://leetcode-cn.com/tag/hash-table) [字符串](https://leetcode-cn.com/tag/string) 

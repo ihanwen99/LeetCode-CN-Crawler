@@ -62,7 +62,7 @@
 	<li>The given board size is always <code>9x9</code>.</li>
 </ul>
 
-**Related Topic	**[Hash Table](https://leetcode-cn.com/tag/hash-table) 
+**Related Topic**  [Hash Table](https://leetcode-cn.com/tag/hash-table) 
 
 ### Similar Question
  - Hard:	[Sudoku Solver](https://leetcode-cn.com/problems/sudoku-solver) 

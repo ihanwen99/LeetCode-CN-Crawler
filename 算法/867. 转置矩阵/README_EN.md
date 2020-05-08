@@ -37,4 +37,4 @@
 </ol>
 </div>
 </div>
-**Related Topic	**[Array](https://leetcode-cn.com/tag/array) 
+**Related Topic**  [Array](https://leetcode-cn.com/tag/array) 

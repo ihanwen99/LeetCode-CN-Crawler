@@ -30,7 +30,7 @@
 	<li>The length of both given strings is in range [1, 10,000].</li>
 </ol>
 
-**Related Topics	**[Two Pointers](https://leetcode-cn.com/tag/two-pointers) [Sliding Window](https://leetcode-cn.com/tag/sliding-window) 
+**Related Topics**  [Two Pointers](https://leetcode-cn.com/tag/two-pointers) [Sliding Window](https://leetcode-cn.com/tag/sliding-window) 
 
 ### Similar Questions
  - Hard:	[Minimum Window Substring](https://leetcode-cn.com/problems/minimum-window-substring) 

@@ -42,4 +42,4 @@ Your position goes from 0-&gt;1-&gt;3-&gt;7-&gt;7-&gt;6.
 	<li><code>1 &lt;= target &lt;= 10000</code>.</li>
 </ul>
 
-**Related Topics	**[Heap](https://leetcode-cn.com/tag/heap) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topics**  [Heap](https://leetcode-cn.com/tag/heap) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 

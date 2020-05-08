@@ -53,4 +53,4 @@
 </div>
 </div>
 
-**Related Topics	**[Union Find](https://leetcode-cn.com/tag/union-find) [Math](https://leetcode-cn.com/tag/math) 
+**Related Topics**  [Union Find](https://leetcode-cn.com/tag/union-find) [Math](https://leetcode-cn.com/tag/math) 

@@ -28,4 +28,4 @@
 	<li>对于所有的&nbsp;<code>i != j</code>：<code>intervals[i] != intervals[j]</code></li>
 </ul>
 
-**标签:	**[None](https://leetcode-cn.com/tag/line-sweep) 
+**标签:**  [None](https://leetcode-cn.com/tag/line-sweep) 

@@ -36,4 +36,4 @@ The final matrix will be [[1,3,1],[1,3,1]] which contains 6 odd numbers.
 	<li><code>0 &lt;= indices[i][1] &lt;&nbsp;m</code></li>
 </ul>
 
-**Related Topic	**[Array](https://leetcode-cn.com/tag/array) 
+**Related Topic**  [Array](https://leetcode-cn.com/tag/array) 

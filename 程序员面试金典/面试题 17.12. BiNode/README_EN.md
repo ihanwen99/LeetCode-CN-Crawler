@@ -23,4 +23,4 @@
 	<li>The number of nodes will not exceed&nbsp;100000.</li>
 </ul>
 
-**Related Topics	**[Tree](https://leetcode-cn.com/tag/tree) [Binary Search Tree](https://leetcode-cn.com/tag/binary-search-tree) [Recursion](https://leetcode-cn.com/tag/recursion) 
+**Related Topics**  [Tree](https://leetcode-cn.com/tag/tree) [Binary Search Tree](https://leetcode-cn.com/tag/binary-search-tree) [Recursion](https://leetcode-cn.com/tag/recursion) 

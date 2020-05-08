@@ -35,7 +35,7 @@
 <li>Try to solve it in <i>O</i>(<i>n</i> log <i>k</i>) time and <i>O</i>(<i>n</i>) extra space.</li>
 </ol>
 </p>
-**Related Topics	**[Heap](https://leetcode-cn.com/tag/heap) [Trie](https://leetcode-cn.com/tag/trie) [Hash Table](https://leetcode-cn.com/tag/hash-table) 
+**Related Topics**  [Heap](https://leetcode-cn.com/tag/heap) [Trie](https://leetcode-cn.com/tag/trie) [Hash Table](https://leetcode-cn.com/tag/hash-table) 
 
 ### Similar Questions
  - Medium:	[Top K Frequent Elements](https://leetcode-cn.com/problems/top-k-frequent-elements) 

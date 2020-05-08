@@ -29,7 +29,7 @@ WordFilter.f(&quot;b&quot;, &quot;&quot;) // returns -1
 
 <p>&nbsp;</p>
 
-**Related Topic	**[Trie](https://leetcode-cn.com/tag/trie) 
+**Related Topic**  [Trie](https://leetcode-cn.com/tag/trie) 
 
 ### Similar Question
  - Medium:	[Add and Search Word - Data structure design](https://leetcode-cn.com/problems/add-and-search-word-data-structure-design) 

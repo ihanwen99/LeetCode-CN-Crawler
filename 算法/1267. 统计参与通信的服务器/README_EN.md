@@ -47,4 +47,4 @@ Return the number of servers&nbsp;that communicate with any other server.</p>
 	<li><code>grid[i][j] == 0 or 1</code></li>
 </ul>
 
-**Related Topics	**[Graph](https://leetcode-cn.com/tag/graph) [Array](https://leetcode-cn.com/tag/array) 
+**Related Topics**  [Graph](https://leetcode-cn.com/tag/graph) [Array](https://leetcode-cn.com/tag/array) 

@@ -44,4 +44,4 @@ On index 5 (0-based) we have 3 vs 4 so we have to move this student.
 	<li><code>1 &lt;= heights[i] &lt;= 100</code></li>
 </ul>
 
-**Related Topic	**[Array](https://leetcode-cn.com/tag/array) 
+**Related Topic**  [Array](https://leetcode-cn.com/tag/array) 

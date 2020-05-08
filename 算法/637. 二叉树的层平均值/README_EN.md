@@ -23,7 +23,7 @@ The average value of nodes on level 0 is 3,  on level 1 is 14.5, and on level 2 
 <li>The range of node's value is in the range of 32-bit signed integer.</li>
 </ol>
 </p>
-**Related Topic	**[Tree](https://leetcode-cn.com/tag/tree) 
+**Related Topic**  [Tree](https://leetcode-cn.com/tag/tree) 
 
 ### Similar Questions
  - Medium:	[Binary Tree Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal) 

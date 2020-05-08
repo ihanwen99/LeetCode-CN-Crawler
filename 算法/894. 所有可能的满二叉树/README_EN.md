@@ -29,4 +29,4 @@
 	<li><code>1 &lt;= N &lt;= 20</code></li>
 </ul>
 
-**Related Topics	**[Tree](https://leetcode-cn.com/tag/tree) [Recursion](https://leetcode-cn.com/tag/recursion) 
+**Related Topics**  [Tree](https://leetcode-cn.com/tag/tree) [Recursion](https://leetcode-cn.com/tag/recursion) 

@@ -32,4 +32,4 @@
 	<li>收纳所的最大容量为20000</li>
 </ol>
 
-**标签:	**[设计](https://leetcode-cn.com/tag/design) 
+**标签:**  [设计](https://leetcode-cn.com/tag/design) 

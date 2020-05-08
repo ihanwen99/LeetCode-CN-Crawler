@@ -40,4 +40,4 @@
 
 <p>&nbsp;</p>
 
-**Related Topics	**[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) [Math](https://leetcode-cn.com/tag/math) 
+**Related Topics**  [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) [Math](https://leetcode-cn.com/tag/math) 

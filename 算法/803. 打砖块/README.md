@@ -33,4 +33,4 @@ hits = [[1,1],[1,0]]
 	<li>一个消除的位置可能没有砖块，如果这样的话，就不会有砖块落下。</li>
 </ul>
 
-**标签:	**[并查集](https://leetcode-cn.com/tag/union-find) 
+**标签:**  [并查集](https://leetcode-cn.com/tag/union-find) 

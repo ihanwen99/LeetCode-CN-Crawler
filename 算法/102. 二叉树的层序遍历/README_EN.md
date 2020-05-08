@@ -25,7 +25,7 @@ return its level order traversal as:<br />
 ]
 </pre>
 </p>
-**Related Topics	**[Tree](https://leetcode-cn.com/tag/tree) [Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search) 
+**Related Topics**  [Tree](https://leetcode-cn.com/tag/tree) [Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search) 
 
 ### Similar Questions
  - Medium:	[Binary Tree Zigzag Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal) 

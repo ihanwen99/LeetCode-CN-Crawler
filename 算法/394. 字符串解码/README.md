@@ -18,7 +18,7 @@ s = &quot;3[a2[c]]&quot;, 返回 &quot;accaccacc&quot;.
 s = &quot;2[abc]3[cd]ef&quot;, 返回 &quot;abcabccdcdcdef&quot;.
 </pre>
 
-**标签:	**[栈](https://leetcode-cn.com/tag/stack) [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) 
+**标签:**  [栈](https://leetcode-cn.com/tag/stack) [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) 
  ### 相似题目
 - 困难:	[编码最短长度的字符串](https://leetcode-cn.com/problems/encode-string-with-shortest-length) 
 - 困难:	[原子的数量](https://leetcode-cn.com/problems/number-of-atoms) 

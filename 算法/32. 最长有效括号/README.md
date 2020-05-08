@@ -18,6 +18,6 @@
 <strong>解释:</strong> 最长有效括号子串为 <code>&quot;()()&quot;</code>
 </pre>
 
-**标签:	**[字符串](https://leetcode-cn.com/tag/string) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [字符串](https://leetcode-cn.com/tag/string) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
  ### 相似题目
 - 简单:	[有效的括号](https://leetcode-cn.com/problems/valid-parentheses) 

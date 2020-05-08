@@ -29,7 +29,7 @@
 <li>If the scores of both players are equal, then player 1 is still the winner.</li>
 </ol>
 </p>
-**Related Topics	**[Minimax](https://leetcode-cn.com/tag/minimax) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topics**  [Minimax](https://leetcode-cn.com/tag/minimax) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
 
 ### Similar Question
  - Medium:	[Can I Win](https://leetcode-cn.com/problems/can-i-win) 

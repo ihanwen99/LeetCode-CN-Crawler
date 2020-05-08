@@ -40,4 +40,4 @@
 	<li><code>words[i]</code> contains only lowercase English letters.</li>
 	<li>It&#39;s <strong>guaranteed</strong>&nbsp;that <code>words[i]</code>&nbsp;will be unique.</li>
 </ul>
-**Related Topic	**[String](https://leetcode-cn.com/tag/string) 
+**Related Topic**  [String](https://leetcode-cn.com/tag/string) 

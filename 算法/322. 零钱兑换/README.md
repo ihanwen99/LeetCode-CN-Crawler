@@ -22,6 +22,6 @@
 <p><strong>说明</strong>:<br>
 你可以认为每种硬币的数量是无限的。</p>
 
-**标签:	**[动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
  ### 相似题目
 - 中等:	[最低票价](https://leetcode-cn.com/problems/minimum-cost-for-tickets) 

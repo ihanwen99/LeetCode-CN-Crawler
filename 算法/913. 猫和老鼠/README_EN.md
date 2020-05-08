@@ -52,4 +52,4 @@
 </ol>
 </div>
 
-**Related Topics	**[Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search) [Minimax](https://leetcode-cn.com/tag/minimax) 
+**Related Topics**  [Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search) [Minimax](https://leetcode-cn.com/tag/minimax) 

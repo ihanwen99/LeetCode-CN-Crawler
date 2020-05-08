@@ -34,7 +34,7 @@ words = [&quot;a&quot;, &quot;banana&quot;, &quot;app&quot;, &quot;appl&quot;, &
 	<li><code>words[i]</code>的长度范围为<code>[1,30]</code>。</li>
 </ul>
 
-**标签:	**[字典树](https://leetcode-cn.com/tag/trie) [哈希表](https://leetcode-cn.com/tag/hash-table) 
+**标签:**  [字典树](https://leetcode-cn.com/tag/trie) [哈希表](https://leetcode-cn.com/tag/hash-table) 
  ### 相似题目
 - 中等:	[通过删除字母匹配到字典里最长单词](https://leetcode-cn.com/problems/longest-word-in-dictionary-through-deleting) 
 - 中等:	[实现一个魔法字典](https://leetcode-cn.com/problems/implement-magic-dictionary) 

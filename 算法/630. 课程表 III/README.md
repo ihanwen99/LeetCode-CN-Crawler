@@ -31,7 +31,7 @@
 
 <p>&nbsp;</p>
 
-**标签:	**[贪心算法](https://leetcode-cn.com/tag/greedy) 
+**标签:**  [贪心算法](https://leetcode-cn.com/tag/greedy) 
  ### 相似题目
 - 中等:	[课程表](https://leetcode-cn.com/problems/course-schedule) 
 - 中等:	[课程表 II](https://leetcode-cn.com/problems/course-schedule-ii) 

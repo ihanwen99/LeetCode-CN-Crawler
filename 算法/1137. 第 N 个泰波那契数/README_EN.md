@@ -33,7 +33,7 @@ T_4 = 1 + 1 + 2 = 4
 	<li><code>0 &lt;= n &lt;= 37</code></li>
 	<li>The answer is guaranteed to fit within a 32-bit integer, ie. <code>answer &lt;= 2^31 - 1</code>.</li>
 </ul>
-**Related Topic	**[Recursion](https://leetcode-cn.com/tag/recursion) 
+**Related Topic**  [Recursion](https://leetcode-cn.com/tag/recursion) 
 
 ### Similar Question
  - Easy:	[Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs) 

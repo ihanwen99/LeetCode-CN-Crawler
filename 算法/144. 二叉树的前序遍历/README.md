@@ -18,7 +18,7 @@
 
 <p><strong>进阶:</strong>&nbsp;递归算法很简单，你可以通过迭代算法完成吗？</p>
 
-**标签:	**[栈](https://leetcode-cn.com/tag/stack) [树](https://leetcode-cn.com/tag/tree) 
+**标签:**  [栈](https://leetcode-cn.com/tag/stack) [树](https://leetcode-cn.com/tag/tree) 
  ### 相似题目
 - 中等:	[二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal) 
 - 中等:	[验证前序遍历序列二叉搜索树](https://leetcode-cn.com/problems/verify-preorder-sequence-in-binary-search-tree) 

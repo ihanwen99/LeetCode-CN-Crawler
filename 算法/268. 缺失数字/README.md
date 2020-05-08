@@ -19,7 +19,7 @@
 <p><strong>说明:</strong><br>
 你的算法应具有线性时间复杂度。你能否仅使用额外常数空间来实现?</p>
 
-**标签:	**[位运算](https://leetcode-cn.com/tag/bit-manipulation) [数组](https://leetcode-cn.com/tag/array) [数学](https://leetcode-cn.com/tag/math) 
+**标签:**  [位运算](https://leetcode-cn.com/tag/bit-manipulation) [数组](https://leetcode-cn.com/tag/array) [数学](https://leetcode-cn.com/tag/math) 
  ### 相似题目
 - 困难:	[缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive) 
 - 简单:	[只出现一次的数字](https://leetcode-cn.com/problems/single-number) 

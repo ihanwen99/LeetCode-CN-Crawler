@@ -39,7 +39,7 @@ You need to help them find out their <b>common interest</b> with the <b>least li
 <li>No duplicates in both lists.</li>
 </ol>
 </p>
-**Related Topic	**[Hash Table](https://leetcode-cn.com/tag/hash-table) 
+**Related Topic**  [Hash Table](https://leetcode-cn.com/tag/hash-table) 
 
 ### Similar Question
  - Easy:	[Intersection of Two Linked Lists](https://leetcode-cn.com/problems/intersection-of-two-linked-lists) 

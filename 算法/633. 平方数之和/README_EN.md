@@ -23,7 +23,7 @@
 
 <p>&nbsp;</p>
 
-**Related Topic	**[Math](https://leetcode-cn.com/tag/math) 
+**Related Topic**  [Math](https://leetcode-cn.com/tag/math) 
 
 ### Similar Question
  - Easy:	[Valid Perfect Square](https://leetcode-cn.com/problems/valid-perfect-square) 

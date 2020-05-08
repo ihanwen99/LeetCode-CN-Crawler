@@ -37,4 +37,4 @@ and that &quot;hit&quot; isn&#39;t the answer even though it occurs more because
 	<li>Words only consist of letters, never apostrophes or other punctuation symbols.</li>
 </ul>
 
-**Related Topic	**[String](https://leetcode-cn.com/tag/string) 
+**Related Topic**  [String](https://leetcode-cn.com/tag/string) 

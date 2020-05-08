@@ -23,6 +23,6 @@ e
 &#39;e&#39; 是那个被添加的字母。
 </pre>
 
-**标签:	**[位运算](https://leetcode-cn.com/tag/bit-manipulation) [哈希表](https://leetcode-cn.com/tag/hash-table) 
+**标签:**  [位运算](https://leetcode-cn.com/tag/bit-manipulation) [哈希表](https://leetcode-cn.com/tag/hash-table) 
  ### 相似题目
 - 简单:	[只出现一次的数字](https://leetcode-cn.com/problems/single-number) 

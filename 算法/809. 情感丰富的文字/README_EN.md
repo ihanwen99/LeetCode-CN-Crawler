@@ -36,4 +36,4 @@ We can&#39;t extend &quot;helo&quot; to get &quot;heeellooo&quot; because the gr
 
 <p>&nbsp;</p>
 
-**Related Topic	**[String](https://leetcode-cn.com/tag/string) 
+**Related Topic**  [String](https://leetcode-cn.com/tag/string) 

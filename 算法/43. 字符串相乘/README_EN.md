@@ -26,7 +26,7 @@
 	<li>You <strong>must not use any built-in BigInteger library</strong> or <strong>convert the inputs to integer</strong> directly.</li>
 </ol>
 
-**Related Topics	**[Math](https://leetcode-cn.com/tag/math) [String](https://leetcode-cn.com/tag/string) 
+**Related Topics**  [Math](https://leetcode-cn.com/tag/math) [String](https://leetcode-cn.com/tag/string) 
 
 ### Similar Questions
  - Medium:	[Add Two Numbers](https://leetcode-cn.com/problems/add-two-numbers) 

@@ -20,6 +20,6 @@
 <strong>输出：</strong>7 -&gt; 8 -&gt; 0 -&gt; 7
 </pre>
 
-**标签:	**[链表](https://leetcode-cn.com/tag/linked-list) 
+**标签:**  [链表](https://leetcode-cn.com/tag/linked-list) 
  ### 相似题目
 - 中等:	[两数相加](https://leetcode-cn.com/problems/add-two-numbers) 

@@ -56,4 +56,4 @@ Some possible constructions &quot;anna&quot; + &quot;elble&quot;, &quot;anbna&qu
 	<li>All characters in <code>s</code> are lower-case English letters.</li>
 	<li><code>1 &lt;= k &lt;= 10^5</code></li>
 </ul>
-**Related Topic	**[Greedy](https://leetcode-cn.com/tag/greedy) 
+**Related Topic**  [Greedy](https://leetcode-cn.com/tag/greedy) 

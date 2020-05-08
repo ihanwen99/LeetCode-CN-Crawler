@@ -39,4 +39,4 @@ S.next(85) 被调用并返回 6。
 	<li>此问题的总时间限制减少了 50%。</li>
 </ol>
 
-**标签:	**[栈](https://leetcode-cn.com/tag/stack) 
+**标签:**  [栈](https://leetcode-cn.com/tag/stack) 

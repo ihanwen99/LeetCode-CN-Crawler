@@ -16,4 +16,4 @@
 
 <p><strong>说明: </strong>输出结果可能非常大，所以你需要返回一个字符串而不是整数。</p>
 
-**标签:	**[排序](https://leetcode-cn.com/tag/sort) 
+**标签:**  [排序](https://leetcode-cn.com/tag/sort) 

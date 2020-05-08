@@ -35,4 +35,4 @@
 	<li><code>-10^4 &lt;= arr[i], difference &lt;= 10^4</code></li>
 </ul>
 
-**标签:	**[数学](https://leetcode-cn.com/tag/math) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 
+**标签:**  [数学](https://leetcode-cn.com/tag/math) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) 

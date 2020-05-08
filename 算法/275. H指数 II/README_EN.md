@@ -27,7 +27,7 @@
 	<li>Could you solve it in logarithmic time complexity?</li>
 </ul>
 
-**Related Topic	**[Binary Search](https://leetcode-cn.com/tag/binary-search) 
+**Related Topic**  [Binary Search](https://leetcode-cn.com/tag/binary-search) 
 
 ### Similar Question
  - Medium:	[H-Index](https://leetcode-cn.com/problems/h-index) 

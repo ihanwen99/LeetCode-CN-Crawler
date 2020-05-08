@@ -43,7 +43,7 @@ wordList = [&quot;hot&quot;,&quot;dot&quot;,&quot;dog&quot;,&quot;lot&quot;,&quo
 
 <strong>解释:</strong>&nbsp;<em>endWord</em> &quot;cog&quot; 不在字典中，所以无法进行转换。</pre>
 
-**标签:	**[广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search) 
+**标签:**  [广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search) 
  ### 相似题目
 - 困难:	[单词接龙 II](https://leetcode-cn.com/problems/word-ladder-ii) 
 - 中等:	[最小基因变化](https://leetcode-cn.com/problems/minimum-genetic-mutation) 

@@ -41,4 +41,4 @@ The maximum number is 9969.
 	<li><code>1 &lt;= num &lt;= 10^4</code></li>
 	<li><code>num</code>&#39;s digits are 6 or 9.</li>
 </ul>
-**Related Topic	**[Math](https://leetcode-cn.com/tag/math) 
+**Related Topic**  [Math](https://leetcode-cn.com/tag/math) 

@@ -19,4 +19,4 @@
 <strong> 输出</strong>：[-1, -1, -1]
 </pre>
 
-**标签:	**[数组](https://leetcode-cn.com/tag/array) 
+**标签:**  [数组](https://leetcode-cn.com/tag/array) 

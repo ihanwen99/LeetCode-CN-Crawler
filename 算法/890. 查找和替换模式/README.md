@@ -32,4 +32,4 @@
 	<li><code>1 &lt;= pattern.length = words[i].length&nbsp;&lt;= 20</code></li>
 </ul>
 
-**标签:	**[字符串](https://leetcode-cn.com/tag/string) 
+**标签:**  [字符串](https://leetcode-cn.com/tag/string) 

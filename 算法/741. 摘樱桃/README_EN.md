@@ -57,7 +57,7 @@ The total number of cherries picked up is 5, and this is the maximum possible.
 	</li>
 </ul>
 
-**Related Topic	**[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
+**Related Topic**  [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) 
 
 ### Similar Questions
  - Medium:	[Minimum Path Sum](https://leetcode-cn.com/problems/minimum-path-sum) 
