@@ -1,22 +1,27 @@
 import os
 import requests
 import json
+import time
 from sqlalchemy import Column, String, create_engine, Integer, TEXT
 from sqlalchemy.orm import sessionmaker
 from sqlalchemy.sql import exists
 from sqlalchemy.ext.declarative import declarative_base
 
+from template import readme_adding, README_CN, README_EN
+
+if os.path.exists('leetcode-cn.db'): os.remove('leetcode-cn.db')
 f_config = open('config.json', 'r')
 user_config = json.load(f_config)
 
 DB_PATH = user_config["database"]
 USERNAME = user_config["username"]
 PASSWORD = user_config["password"]
+GITHUBURL = user_config["githubURL"]
 
 ROOT_PATH = os.getcwd()
 user_agent = r'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36'
 
-requests.packages.urllib3.disable_warnings()  # 为了避免弹出一万个warning，which is caused by 非验证的get请求
+requests.packages.urllib3.disable_warnings()
 leetcode_url = 'https://leetcode-cn.com/'
 sign_in_url = 'https://leetcode-cn.com/accounts/login/'
 submissions_url = 'https://leetcode-cn.com/submissions/'
@@ -50,17 +55,15 @@ class Question(Base):
 
     id = Column(Integer, primary_key=True, index=True, nullable=False)
     frontend_id = Column(TEXT, nullable=False)
-    title_en = Column(TEXT, nullable=False)
-    title_cn = Column(TEXT, nullable=False)
-    content_en = Column(TEXT, nullable=False)
-    content_cn = Column(TEXT, nullable=False)
     simple_url = Column(TEXT, nullable=False)
+    title_cn = Column(TEXT, nullable=False)
+    title_en = Column(TEXT, nullable=False)
     difficulty = Column(TEXT, nullable=False)
-    category_title = Column(TEXT, nullable=False)
-    tag = Column(TEXT, nullable=False)
+    category_title_cn = Column(TEXT, nullable=False)
+    tags = Column(TEXT)
 
 
-engine = create_engine('{}?check_same_thread=False?charset=utf8'.format(DB_PATH), echo=True)
+engine = create_engine('{}?check_same_thread=False?charset=utf8'.format(DB_PATH), echo=False)
 Base.metadata.create_all(engine, checkfirst=True)
 DBSession = sessionmaker(bind=engine)
 
@@ -90,13 +93,22 @@ def get_question_list(client):
     # print(information_json['user_name']) # Personal UserName
     # Smaple Information of Problems:
     # {'stat': {'question_id': 1000093, 'question__title': '寻宝', 'question__title_slug': 'xun-bao', 'question__hide': False, 'total_acs': 323, 'total_submitted': 1862, 'total_column_articles': 15, 'frontend_question_id': 'LCP 13', 'is_new_question': False}, 'status': None, 'difficulty': {'level': 3}, 'paid_only': False, 'is_favor': False, 'frequency': 0, 'progress': 0}
-    # print(information_json)
+    print(information_json)
+    global user_name
+    global num_solved
+    global num_total
+    global ac_easy
+    global ac_medium
+    global ac_hard
+    user_name = information_json['user_name']
+    num_solved = information_json['num_solved']
+    num_total = information_json['num_total']
     ac_easy = information_json['ac_easy']
     ac_medium = information_json['ac_medium']
     ac_hard = information_json['ac_hard']
     questions_list = information_json['stat_status_pairs']
     for question in questions_list:
-        # question_id = int(question['stat']['question_id'])  # 1000093
+        question_id = int(question['stat']['question_id'])  # 1000093
         # question_frontend_id = question['stat']['frontend_question_id']  # LCP 13 / 面试题 17.08 / 1
         # question_title = question['stat']['question__title']  # '寻宝'
         question_simple_url = question['stat']['question__title_slug']  # 'xun-bao'
@@ -112,16 +124,14 @@ def get_question_list(client):
         #     question_difficulty = "Hard"
 
         if question['paid_only']: continue
-        if not question_status: continue
-        # current_question_find = session.query(exists().where(Question.id == 1000090)).scalar()
-        # if current_question_find: continue
-
+        # if not question_status: continue
+        current_question_find = dbsession.query(exists().where(Question.id == question_id)).scalar()
+        if current_question_find: continue
         get_question_detail(question_simple_url)
 
 
 def get_question_detail(simple_url):
     session = requests.Session()
-    dbsession = DBSession()
     question_headers = {'User-Agent': user_agent,
                         'Connection': 'keep-alive',
                         'Content-Type': 'application/json',
@@ -157,20 +167,8 @@ def get_question_detail(simple_url):
     response = session.post(detailed_question_url, data=json_data, headers=question_headers, timeout=10)
     content = response.json()
     print(content)
-    question_orm = Question(id=content['data']['question']['questionId'],
-                            frontend_id=content['data']['question']['questionFrontendId'],
-                            title_en=content['data']['question']['title'],
-                            title_cn=content['data']['question']['translatedTitle'],
-                            content_en=content['data']['question']['translatedContent'],
-                            content_cn=content['data']['question']['content'],
-                            simple_url=simple_url,
-                            difficulty=content['data']['question']['difficulty'],
-                            category_title=content['data']['question']['categoryTitle'],
-                            tag=str(content['data']['question']['topicTags'])
-                            )
-    # dbsession.add(question_orm)
-    # dbsession.commit()
-    dbsession.close()
+    if content['data']['question']['translatedTitle'] == None: return
+
     process_writing_question(content)
 
 
@@ -192,17 +190,16 @@ def process_writing_question(content):
     category_title_cn = category[category_title]
 
     current_question_path = ROOT_PATH + "\{}\{}. {}".format(category_title_cn, frontend_id, title_cn)
-    print(current_question_path)
     if not os.path.exists(current_question_path):
         os.mkdir(current_question_path)
-    sample_cn = open(ROOT_PATH + "\Sample\README.md", 'r', encoding='UTF-8')
+    sample_cn = open(ROOT_PATH + "\Sample\Question\README.md", 'r', encoding='UTF-8')
     f_cn = open(current_question_path + "\README.md", 'w', encoding='UTF-8')
     for line in sample_cn.readlines():
         f_cn.write(line)
     f_cn.write("# [{}. {}]({})".format(frontend_id, title_cn, question_url + simple_url))
 
     f_cn.write("\n ### 题目描述\n")
-    f_cn.write(content_cn)
+    f_cn.write(content_cn if content_cn else "")
 
     if len(tags) > 0:
         f_cn.write("\n**标签:\t**")
@@ -218,15 +215,17 @@ def process_writing_question(content):
             f_cn.write("- {}:\t[{}]({}) \n".format(diff[similar_question["difficulty"]],
                                                    similar_question['translatedTitle'],
                                                    question_url + similar_question['titleSlug']))
+    sample_cn.close()
+    f_cn.close()
 
-    sample_en = open(ROOT_PATH + "\Sample\README_EN.md", 'r', encoding='UTF-8')
+    sample_en = open(ROOT_PATH + "\Sample\Question\README_EN.md", 'r', encoding='UTF-8')
     f_en = open(current_question_path + "\README_EN.md", 'w', encoding='UTF-8')
     for line in sample_en.readlines():
         f_en.write(line)
     f_en.write("# [{}. {}]({})".format(frontend_id, title_en, question_url + simple_url))
 
     f_en.write("\n ### Description\n")
-    f_en.write(content_en)
+    f_en.write(content_en if content_en else "")
 
     if len(tags) > 0:
         f_en.write("\n**Related Topic{}\t**".format("s" if len(tags) > 1 else ""))
@@ -241,14 +240,89 @@ def process_writing_question(content):
             f_en.write(" - {}:\t[{}]({}) \n".format(similar_question["difficulty"],
                                                     similar_question['title'],
                                                     question_url + similar_question['titleSlug']))
+    sample_en.close()
+    f_en.close()
+    add_this_new_question_to_db(id, frontend_id, simple_url, title_cn, title_en, difficulty, category_title_cn, tags)
+
+
+def add_this_new_question_to_db(id, frontend_id, simple_url, title_cn, title_en, difficulty, category_title_cn, tags):
+    question_orm = Question(id=id,
+                            frontend_id=frontend_id,
+                            simple_url=simple_url,
+                            title_cn=title_cn,
+                            title_en=title_en,
+                            difficulty=difficulty,
+                            category_title_cn=category_title_cn,
+                            tags=str(tags)
+                            )
+    dbsession.add(question_orm)
+    dbsession.commit()
+
+
+def write_main_readme():
+    main_readme_cn = open(ROOT_PATH + "\README.md", 'w', encoding='UTF-8')
+    main_readme_en = open(ROOT_PATH + "\README_EN.md", 'w', encoding='UTF-8')
+    main_readme_cn.write(README_CN.format(
+        user_name=user_name,
+        num_solved=num_solved,
+        num_total=num_total,
+        ac_easy=ac_easy,
+        ac_medium=ac_medium,
+        ac_hard=ac_hard,
+        time=curr_time
+    ))
+    main_readme_en.write(README_EN.format(
+        user_name=user_name,
+        num_solved=num_solved,
+        num_total=num_total,
+        ac_easy=ac_easy,
+        ac_medium=ac_medium,
+        ac_hard=ac_hard,
+        time=curr_time
+    ))
+
+    results = dbsession.query(Question).order_by(Question.id).all()
+    for result in results:
+        WebURL_cn = \
+            "{}/tree/master/{}/{}. {}".format(GITHUBURL, result.category_title_cn, result.frontend_id, result.title_cn)
+        WebURL_cn = WebURL_cn.replace(' ', '%20')
+        WebURL_en = \
+            "{}/tree/master/{}/{}. {}/README_EN.md".format(
+                GITHUBURL, result.category_title_cn, result.frontend_id, result.title_cn)
+        WebURL_en = WebURL_en.replace(' ', '%20')
+        tags_cn = ""
+        for tag in eval(result.tags):
+            tags_cn += "[{}]({}) ".format(tag['translatedName'], tag_url + tag['slug'])
+        main_readme_cn.write(readme_adding.format(
+            frontend_id=result.frontend_id,
+            formal_url=question_url + result.simple_url,
+            title=result.title_cn,
+            githubURL=WebURL_cn,
+            solution="",
+            difficulty=diff[result.difficulty],
+            tags=tags_cn
+        ))
+        tags_en = ""
+        for tag in eval(result.tags):
+            tags_en += "[{}]({}) ".format(tag['name'], tag_url + tag['slug'])
+        main_readme_en.write(readme_adding.format(
+            frontend_id=result.frontend_id,
+            formal_url=question_url + result.simple_url,
+            title=result.title_en,
+            githubURL=WebURL_en,
+            solution="",
+            difficulty=result.difficulty,
+            tags=tags_en
+        ))
+
+    main_readme_cn.close()
+    main_readme_en.close()
 
 
 if __name__ == '__main__':
+    dbsession = DBSession()
     client = login(USERNAME, PASSWORD)
-    # get_question_list(client)
-    get_question_detail(simple_url="xun-bao")
-    get_question_detail(simple_url="number-of-ways-to-wear-different-hats-to-each-other")
-    get_question_detail(simple_url="string-rotation-lcci")
-    get_question_detail(simple_url="department-highest-salary")
-    get_question_detail(simple_url="the-dining-philosophers")
-    get_question_detail(simple_url="first-unique-character-in-a-string")
+    get_question_list(client)
+    curr_time = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
+    write_main_readme()
+    dbsession.close()
