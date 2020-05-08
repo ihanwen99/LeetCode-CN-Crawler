@@ -1,7 +1,6 @@
 
 | English | [简体中文](README.md) |
 
-<p align="center"><img width="300" src=""></p>
 <p align="center">
     <img src="https://img.shields.io/badge/User-starky99-blue.svg?" alt="">
     <img src="https://img.shields.io/badge/Solved-399/1640-blue.svg?" alt="">
@@ -13,7 +12,7 @@
 
 <p align="center">
     <br>
-    <b>最近一次更新: 2020-05-08 15:55:53</b>
+    <b>最近一次更新: 2020-05-08 15:58:22</b>
     <br>
 </p>
 <p align="center">This crawler is powered by <a href="https://github.com/david990917/LeetCode-CN-Crawler">LeetCode-CN-Crawler</a>.</p>
