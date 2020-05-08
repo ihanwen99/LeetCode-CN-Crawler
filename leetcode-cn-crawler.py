@@ -2,23 +2,33 @@ import os
 import requests
 import json
 import time
+import argparse
 from sqlalchemy import Column, String, create_engine, Integer, TEXT
 from sqlalchemy.orm import sessionmaker
 from sqlalchemy.sql import exists
 from sqlalchemy.ext.declarative import declarative_base
-
 from template import readme_adding, README_CN, README_EN
 
-if os.path.exists('leetcode-cn.db'): os.remove('leetcode-cn.db')
+parser = argparse.ArgumentParser()
+parser.add_argument('-u', '--username', nargs='+', help="username")
+parser.add_argument('-p', '--password', nargs='+', help="password")
+parser.add_argument('-dp', '--database', nargs='+', help="database")
+parser.add_argument('-g', '--github', nargs='+', help="github")
+parser.add_argument('-r', '--output', nargs='+', help="output_directory_path")
+args = parser.parse_args()
+
+argsDict = vars(args)
+
+DB_PATH = args.database[0]
+USERNAME = args.username[0]
+PASSWORD = args.password[0]
+GITHUBURL = args.github[0]
+ROOT_PATH = args.output[0]
+
+# if os.path.exists(ROOT_PATH + DB_PATH): os.remove(ROOT_PATH + DB_PATH)
 f_config = open('config.json', 'r')
 user_config = json.load(f_config)
 
-DB_PATH = user_config["database"]
-USERNAME = user_config["username"]
-PASSWORD = user_config["password"]
-GITHUBURL = user_config["githubURL"]
-
-ROOT_PATH = os.getcwd()
 user_agent = r'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36'
 
 requests.packages.urllib3.disable_warnings()
@@ -44,9 +54,9 @@ diff = {
 }
 for key in category:
     path = category[key]
-    isExists = os.path.exists(path)
+    isExists = os.path.exists(ROOT_PATH + path)
     if not isExists:
-        os.mkdir(path)
+        os.mkdir(ROOT_PATH + path)
 Base = declarative_base()
 
 
@@ -63,7 +73,7 @@ class Question(Base):
     tags = Column(TEXT)
 
 
-engine = create_engine('{}?check_same_thread=False?charset=utf8'.format(DB_PATH), echo=False)
+engine = create_engine('{}?check_same_thread=False?charset=utf8'.format("sqlite:///" + ROOT_PATH + DB_PATH), echo=False)
 Base.metadata.create_all(engine, checkfirst=True)
 DBSession = sessionmaker(bind=engine)
 
@@ -124,7 +134,7 @@ def get_question_list(client):
         #     question_difficulty = "Hard"
 
         if question['paid_only']: continue
-        # if not question_status: continue
+        #if not question_status: continue
         current_question_find = dbsession.query(exists().where(Question.id == question_id)).scalar()
         if current_question_find: continue
         get_question_detail(question_simple_url)
@@ -166,7 +176,9 @@ def get_question_detail(simple_url):
     question_detail = ()
     response = session.post(detailed_question_url, data=json_data, headers=question_headers, timeout=10)
     content = response.json()
-    print(content)
+    print(content['data']['question']['questionId'],
+          content['data']['question']['questionFrontendId'],
+          content['data']['question']['translatedTitle'])
     if content['data']['question']['translatedTitle'] == None: return
 
     process_writing_question(content)
@@ -192,17 +204,16 @@ def process_writing_question(content):
     current_question_path = ROOT_PATH + "\{}\{}. {}".format(category_title_cn, frontend_id, title_cn)
     if not os.path.exists(current_question_path):
         os.mkdir(current_question_path)
-    sample_cn = open(ROOT_PATH + "\Sample\Question\README.md", 'r', encoding='UTF-8')
+    sample_cn = open(os.getcwd() + "\Sample\Question\README.md", 'r', encoding='UTF-8')
     f_cn = open(current_question_path + "\README.md", 'w', encoding='UTF-8')
     for line in sample_cn.readlines():
         f_cn.write(line)
-    f_cn.write("# [{}. {}]({})".format(frontend_id, title_cn, question_url + simple_url))
+    f_cn.write("# [{}. {}]({})\n".format(frontend_id, title_cn, question_url + simple_url))
 
-    f_cn.write("\n ### 题目描述\n")
     f_cn.write(content_cn if content_cn else "")
 
     if len(tags) > 0:
-        f_cn.write("\n**标签:\t**")
+        f_cn.write("\n**标签:**  ")
         for tag in tags:
             f_cn.write("[{}]({}) ".format(tag['translatedName'], tag_url + tag['slug']))
 
@@ -215,10 +226,39 @@ def process_writing_question(content):
             f_cn.write("- {}:\t[{}]({}) \n".format(diff[similar_question["difficulty"]],
                                                    similar_question['translatedTitle'],
                                                    question_url + similar_question['titleSlug']))
+    f_cn.write("""
+# 解题思路 √
+
+### Python
+
+1. 
+
+```python
+
+```
+
+
+```python
+
+```
+
+### C++
+
+```cpp
+
+```
+
+---
+
+
+
+# 整理与总结
+
+1. """)
     sample_cn.close()
     f_cn.close()
 
-    sample_en = open(ROOT_PATH + "\Sample\Question\README_EN.md", 'r', encoding='UTF-8')
+    sample_en = open(os.getcwd() + "\Sample\Question\README_EN.md", 'r', encoding='UTF-8')
     f_en = open(current_question_path + "\README_EN.md", 'w', encoding='UTF-8')
     for line in sample_en.readlines():
         f_en.write(line)
@@ -228,7 +268,7 @@ def process_writing_question(content):
     f_en.write(content_en if content_en else "")
 
     if len(tags) > 0:
-        f_en.write("\n**Related Topic{}\t**".format("s" if len(tags) > 1 else ""))
+        f_en.write("\n**Related Topic{}**  ".format("s" if len(tags) > 1 else ""))
         for tag in tags:
             f_en.write("[{}]({}) ".format(tag['name'], tag_url + tag['slug']))
 
@@ -298,7 +338,7 @@ def write_main_readme():
             formal_url=question_url + result.simple_url,
             title=result.title_cn,
             githubURL=WebURL_cn,
-            solution="",
+            # solution="",
             difficulty=diff[result.difficulty],
             tags=tags_cn
         ))
@@ -310,7 +350,7 @@ def write_main_readme():
             formal_url=question_url + result.simple_url,
             title=result.title_en,
             githubURL=WebURL_en,
-            solution="",
+            # solution="",
             difficulty=result.difficulty,
             tags=tags_en
         ))
