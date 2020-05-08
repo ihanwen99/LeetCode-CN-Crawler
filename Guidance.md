@@ -41,8 +41,6 @@ python leetcode-cn-crawler.py
 
    现在的代码是爬取所有题目的代码形式，每次数据库重新建立与否不强制
 
-   `leetcode-cn-crawler` 是纯题目，`leetcode-cn-crawler-id`是 增加个人定制的模板
-
    目前代码中是使用增量爬取，不重新建数据库
 
 2. **本地代码库 <= 连接 => 题解仓库：**
@@ -61,6 +59,8 @@ python leetcode-cn-crawler.py
 都是数据库增量爬虫 - **数据库文件很重要**！
 
 - 爬虫主仓库：**全部题目**，中文版本README为纯题目
+  - `leetcode-cn-crawler` 是纯题目，`leetcode-cn-crawler-id`是 增加个人定制的模板
+  - 减少同步的复杂性，只需要爬虫仓库和本地仓库（PyCharm）分别运行即可。
 - 本地代码库：**通过的题目**，中文版本README为**题目 + 个人整理与总结模板**
   - 个人整理与题目总结推送到 [My-LeetCode-Solutions](https://github.com/david990917/My-LeetCode-Solutions)
 
