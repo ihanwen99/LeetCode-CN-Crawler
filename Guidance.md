@@ -41,7 +41,7 @@ python leetcode-cn-crawler.py
 
    现在的代码是爬取所有题目的代码形式，每次数据库重新建立与否不强制
 
-   主分支的代码是纯题目，Starky 分支上面是 增加个人定制的模板
+   `leetcode-cn-crawler` 是纯题目，`leetcode-cn-crawler-id`是 增加个人定制的模板
 
    目前代码中是使用增量爬取，不重新建数据库
 
@@ -62,7 +62,6 @@ python leetcode-cn-crawler.py
 
 - 爬虫主仓库：**全部题目**，中文版本README为纯题目
 - 本地代码库：**通过的题目**，中文版本README为**题目 + 个人整理与总结模板**
-  - 代码推送到 Starky 分支
   - 个人整理与题目总结推送到 [My-LeetCode-Solutions](https://github.com/david990917/My-LeetCode-Solutions)
 
 ```python
