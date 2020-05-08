@@ -1,0 +1,6 @@
+{
+    "username": "",
+    "password": "",
+    "database": "sqlite:///leetcode-cn.db",
+    "language": ["cpp", "python"]
+}
