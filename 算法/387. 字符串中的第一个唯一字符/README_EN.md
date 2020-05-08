@@ -22,5 +22,6 @@ return 2.
 <p>
 <b>Note:</b> You may assume the string contain only lowercase letters.
 </p>
- ### Similar Question
+
+### Similar Question
  - Medium:	[Sort Characters By Frequency](https://leetcode-cn.com/problems/sort-characters-by-frequency) 
