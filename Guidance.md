@@ -62,7 +62,7 @@ python leetcode-cn-crawler.py
 
 - 爬虫主仓库：**全部题目**，中文版本README为纯题目
 - 本地代码库：**通过的题目**，中文版本README为**题目 + 个人整理与总结模板**
-  - 代码和数据库推送到 Starky 分支
+  - 代码推送到 Starky 分支
   - 个人整理与题目总结推送到 [My-LeetCode-Solutions](https://github.com/david990917/My-LeetCode-Solutions)
 
 ```python
