@@ -1,26 +1,26 @@
-| [English](README_EN.md) | ¼òÌåÖĞÎÄ |
+| [English](README_EN.md) | ç®€ä½“ä¸­æ–‡ |
 
-# [387. ×Ö·û´®ÖĞµÄµÚÒ»¸öÎ¨Ò»×Ö·û](https://leetcode-cn.com/problems/first-unique-character-in-a-string)
- ### ±êÇ©
- - [¹şÏ£±í](https://leetcode-cn.com/tag/hash-table)
- - [×Ö·û´®](https://leetcode-cn.com/tag/string)
+# [387. å­—ç¬¦ä¸²ä¸­çš„ç¬¬ä¸€ä¸ªå”¯ä¸€å­—ç¬¦](https://leetcode-cn.com/problems/first-unique-character-in-a-string)
+ ### æ ‡ç­¾
+ - [å“ˆå¸Œè¡¨](https://leetcode-cn.com/tag/hash-table)
+ - [å­—ç¬¦ä¸²](https://leetcode-cn.com/tag/string)
 
- ### ÌâÄ¿ÃèÊö
-<p>¸ø¶¨Ò»¸ö×Ö·û´®£¬ÕÒµ½ËüµÄµÚÒ»¸ö²»ÖØ¸´µÄ×Ö·û£¬²¢·µ»ØËüµÄË÷Òı¡£Èç¹û²»´æÔÚ£¬Ôò·µ»Ø -1¡£</p>
+ ### é¢˜ç›®æè¿°
+<p>ç»™å®šä¸€ä¸ªå­—ç¬¦ä¸²ï¼Œæ‰¾åˆ°å®ƒçš„ç¬¬ä¸€ä¸ªä¸é‡å¤çš„å­—ç¬¦ï¼Œå¹¶è¿”å›å®ƒçš„ç´¢å¼•ã€‚å¦‚æœä¸å­˜åœ¨ï¼Œåˆ™è¿”å› -1ã€‚</p>
 
-<p><strong>°¸Àı:</strong></p>
+<p><strong>æ¡ˆä¾‹:</strong></p>
 
 <pre>
 s = &quot;leetcode&quot;
-·µ»Ø 0.
+è¿”å› 0.
 
 s = &quot;loveleetcode&quot;,
-·µ»Ø 2.
+è¿”å› 2.
 </pre>
 
 <p>&nbsp;</p>
 
-<p><strong>×¢ÒâÊÂÏî£º</strong>Äú¿ÉÒÔ¼Ù¶¨¸Ã×Ö·û´®Ö»°üº¬Ğ¡Ğ´×ÖÄ¸¡£</p>
+<p><strong>æ³¨æ„äº‹é¡¹ï¼š</strong>æ‚¨å¯ä»¥å‡å®šè¯¥å­—ç¬¦ä¸²åªåŒ…å«å°å†™å­—æ¯ã€‚</p>
 
- ### ÏàËÆÌâÄ¿
-- ÖĞµÈ:	[¸ù¾İ×Ö·û³öÏÖÆµÂÊÅÅĞò](https://leetcode-cn.com/problems/sort-characters-by-frequency) 
+ ### ç›¸ä¼¼é¢˜ç›®
+- ä¸­ç­‰:	[æ ¹æ®å­—ç¬¦å‡ºç°é¢‘ç‡æ’åº](https://leetcode-cn.com/problems/sort-characters-by-frequency) 
