@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [Guidance指南](Guidance.md) |
 
 <p align="center"><img width="300" src="https://github.com/david990917/LeetCode-CN-Crawler/blob/master/image/leetcode-logo.png"></p>
 <p align="center">
