@@ -13,12 +13,12 @@
 
 <p align="center">
     <br>
-    <b>最近一次更新: 2020-05-08 15:49:52</b>
+    <b>最近一次更新: 2020-05-08 15:55:53</b>
     <br>
 </p>
 <p align="center">This crawler is powered by <a href="https://github.com/david990917/LeetCode-CN-Crawler">LeetCode-CN-Crawler</a>.</p>
 
 | #    | 题目 | 解答 | 难度 | 标签 |
 | :----: | :---- | :----: | :----: | :----: |
-|[387](https://leetcode-cn.com/problems/first-unique-character-in-a-string)|[字符串中的第一个唯一字符](.\算法\387. 字符串中的第一个唯一字符)||Easy|[哈希表](https://leetcode-cn.com/tag/hash-table)[字符串](https://leetcode-cn.com/tag/string)|
-|[LCP 09](https://leetcode-cn.com/problems/zui-xiao-tiao-yue-ci-shu)|[最小跳跃次数](.\算法\LCP 09. 最小跳跃次数)||Hard||
+|[387](https://leetcode-cn.com/problems/first-unique-character-in-a-string)|[字符串中的第一个唯一字符](https://github.com/david990917/LeetCode-CN-Crawler\算法\387. 字符串中的第一个唯一字符)||Easy|[哈希表](https://leetcode-cn.com/tag/hash-table) [字符串](https://leetcode-cn.com/tag/string) |
+|[LCP 09](https://leetcode-cn.com/problems/zui-xiao-tiao-yue-ci-shu)|[最小跳跃次数](https://github.com/david990917/LeetCode-CN-Crawler\算法\LCP 09. 最小跳跃次数)||Hard||

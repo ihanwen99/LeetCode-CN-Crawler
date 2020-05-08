@@ -1,6 +1,7 @@
 {
-    "username": "",
-    "password": "",
-    "database": "sqlite:///leetcode-cn.db",
-    "language": ["cpp", "python"]
+  "username": "",
+  "password": "",
+  "database": "sqlite:///leetcode-cn.db",
+  "githubURL": "https://github.com/david990917/LeetCode-CN-Crawler",
+  "language": [ "cpp", "python" ]
 }
