@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [566. 重塑矩阵](https://leetcode-cn.com/problems/reshape-the-matrix)
- ### 题目描述
 <p>在MATLAB中，有一个非常有用的函数 <code>reshape</code>，它可以将一个矩阵重塑为另一个大小不同的新矩阵，但保留其原始数据。</p>
 
 <p>给出一个由二维数组表示的矩阵，以及两个正整数<code>r</code>和<code>c</code>，分别表示想要的重构的矩阵的行数和列数。</p>

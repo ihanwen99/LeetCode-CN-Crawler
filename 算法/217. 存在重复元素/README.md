@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [217. 存在重复元素](https://leetcode-cn.com/problems/contains-duplicate)
- ### 题目描述
 <p>给定一个整数数组，判断是否存在重复元素。</p>
 
 <p>如果任意一值在数组中出现至少两次，函数返回 <code>true</code> 。如果数组中每个元素都不相同，则返回 <code>false</code> 。</p>

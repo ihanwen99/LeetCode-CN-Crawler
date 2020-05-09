@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1306. 跳跃游戏 III](https://leetcode-cn.com/problems/jump-game-iii)
- ### 题目描述
 <p>这里有一个非负整数数组&nbsp;<code>arr</code>，你最开始位于该数组的起始下标&nbsp;<code>start</code>&nbsp;处。当你位于下标&nbsp;<code>i</code>&nbsp;处时，你可以跳到&nbsp;<code>i + arr[i]</code> 或者 <code>i - arr[i]</code>。</p>
 
 <p>请你判断自己是否能够跳到对应元素值为 0 的 <strong>任意</strong> 下标处。</p>

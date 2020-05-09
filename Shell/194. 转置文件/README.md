@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [194. 转置文件](https://leetcode-cn.com/problems/transpose-file)
- ### 题目描述
 <p>给定一个文件&nbsp;<code>file.txt</code>，转置它的内容。</p>
 
 <p>你可以假设每行列数相同，并且每个字段由&nbsp;<code>&#39; &#39;</code> 分隔.</p>

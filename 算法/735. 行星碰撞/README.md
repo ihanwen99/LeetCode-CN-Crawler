@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [735. 行星碰撞](https://leetcode-cn.com/problems/asteroid-collision)
- ### 题目描述
 <p>给定一个整数数组 <code>asteroids</code>，表示在同一行的行星。</p>
 
 <p>对于数组中的每一个元素，其绝对值表示行星的大小，正负表示行星的移动方向（正表示向右移动，负表示向左移动）。每一颗行星以相同的速度移动。</p>

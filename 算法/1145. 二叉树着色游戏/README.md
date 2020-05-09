@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1145. 二叉树着色游戏](https://leetcode-cn.com/problems/binary-tree-coloring-game)
- ### 题目描述
 <p>有两位极客玩家参与了一场「二叉树着色」的游戏。游戏中，给出二叉树的根节点&nbsp;<code>root</code>，树上总共有 <code>n</code> 个节点，且 <code>n</code> 为奇数，其中每个节点上的值从&nbsp;<code>1</code> 到&nbsp;<code>n</code>&nbsp;各不相同。</p>
 
 <p>&nbsp;</p>

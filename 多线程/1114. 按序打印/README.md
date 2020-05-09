@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1114. 按序打印](https://leetcode-cn.com/problems/print-in-order)
- ### 题目描述
 <p>我们提供了一个类：</p>
 
 <pre>

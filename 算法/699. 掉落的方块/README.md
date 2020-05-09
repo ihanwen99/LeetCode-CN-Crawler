@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [699. 掉落的方块](https://leetcode-cn.com/problems/falling-squares)
- ### 题目描述
 <p>在无限长的数轴（即 x 轴）上，我们根据给定的顺序放置对应的正方形方块。</p>
 
 <p>第 <code>i</code> 个掉落的方块（<code>positions[i] = (left, side_length)</code>）是正方形，其中&nbsp;<code>left 表示该方块最左边的点位置(positions[i][0])，side_length 表示该方块的边长(positions[i][1])。</code></p>

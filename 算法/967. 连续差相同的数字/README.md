@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [967. 连续差相同的数字](https://leetcode-cn.com/problems/numbers-with-same-consecutive-differences)
- ### 题目描述
 <p>返回所有长度为 <code>N</code> 且满足其每两个连续位上的数字之间的差的绝对值为 <code>K</code>&nbsp;的<strong>非负整数</strong>。</p>
 
 <p>请注意，<strong>除了</strong>数字 <code>0</code> 本身之外，答案中的每个数字都<strong>不能</strong>有前导零。例如，<code>01</code>&nbsp;因为有一个前导零，所以是无效的；但 <code>0</code>&nbsp;是有效的。</p>

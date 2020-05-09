@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [497. 非重叠矩形中的随机点](https://leetcode-cn.com/problems/random-point-in-non-overlapping-rectangles)
- ### 题目描述
 <p>给定一个非重叠轴对齐矩形的列表 <code>rects</code>，写一个函数 <code>pick</code> 随机均匀地选取矩形覆盖的空间中的整数点。</p>
 
 <p>提示：</p>

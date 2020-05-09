@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [面试题 01.07. 旋转矩阵](https://leetcode-cn.com/problems/rotate-matrix-lcci)
- ### 题目描述
 <p>给你一幅由 <code>N &times; N</code> 矩阵表示的图像，其中每个像素的大小为 4 字节。请你设计一种算法，将图像旋转 90 度。</p>
 
 <p>不占用额外内存空间能否做到？</p>

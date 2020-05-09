@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [692. 前K个高频单词](https://leetcode-cn.com/problems/top-k-frequent-words)
- ### 题目描述
 <p>给一非空的单词列表，返回前&nbsp;<em>k&nbsp;</em>个出现次数最多的单词。</p>
 
 <p>返回的答案应该按单词出现频率由高到低排序。如果不同的单词有相同出现频率，按字母顺序排序。</p>

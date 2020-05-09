@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [609. 在系统中查找重复文件](https://leetcode-cn.com/problems/find-duplicate-file-in-system)
- ### 题目描述
 <p>给定一个目录信息列表，包括目录路径，以及该目录中的所有包含内容的文件，您需要找到文件系统中的所有重复文件组的路径。一组重复的文件至少包括<strong>二个</strong>具有完全相同内容的文件。</p>
 
 <p><strong>输入</strong>列表中的单个目录信息字符串的格式如下：</p>

@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [824. 山羊拉丁文](https://leetcode-cn.com/problems/goat-latin)
- ### 题目描述
 <p>给定一个由空格分割单词的句子&nbsp;<code>S</code>。每个单词只包含大写或小写字母。</p>
 
 <p>我们要将句子转换为&nbsp;<em>&ldquo;Goat Latin&rdquo;</em>（一种类似于 猪拉丁文&nbsp;- Pig Latin 的虚构语言）。</p>

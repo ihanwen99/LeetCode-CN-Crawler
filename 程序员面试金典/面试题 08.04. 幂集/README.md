@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [面试题 08.04. 幂集](https://leetcode-cn.com/problems/power-set-lcci)
- ### 题目描述
 <p>幂集。编写一种方法，返回某集合的所有子集。集合中<strong>不包含重复的元素</strong>。</p>
 
 <p>说明：解集不能包含重复的子集。</p>

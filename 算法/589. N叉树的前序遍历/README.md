@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [589. N叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal)
- ### 题目描述
 <p>给定一个 N 叉树，返回其节点值的<em>前序遍历</em>。</p>
 
 <p>例如，给定一个&nbsp;<code>3叉树</code>&nbsp;:</p>

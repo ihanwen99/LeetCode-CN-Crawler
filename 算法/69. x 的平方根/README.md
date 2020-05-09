@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [69. x 的平方根](https://leetcode-cn.com/problems/sqrtx)
- ### 题目描述
 <p>实现&nbsp;<code>int sqrt(int x)</code>&nbsp;函数。</p>
 
 <p>计算并返回&nbsp;<em>x</em>&nbsp;的平方根，其中&nbsp;<em>x </em>是非负整数。</p>

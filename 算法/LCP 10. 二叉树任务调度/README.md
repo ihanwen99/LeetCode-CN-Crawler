@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [LCP 10. 二叉树任务调度](https://leetcode-cn.com/problems/er-cha-shu-ren-wu-diao-du)
- ### 题目描述
 <p>任务调度优化是计算机性能优化的关键任务之一。在任务众多时，不同的调度策略可能会得到不同的总体执行时间，因此寻求一个最优的调度方案是非常有必要的。</p>
 
 <p>通常任务之间是存在依赖关系的，即对于某个任务，你需要先<strong>完成</strong>他的前导任务（如果非空），才能开始执行该任务。<strong>我们保证任务的依赖关系是一棵二叉树，</strong>其中 <code>root</code> 为根任务，<code>root.left</code> 和 <code>root.right</code> 为他的两个前导任务（可能为空），<code>root.val</code> 为其自身的执行时间。</p>

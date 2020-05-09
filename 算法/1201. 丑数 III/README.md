@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1201. 丑数 III](https://leetcode-cn.com/problems/ugly-number-iii)
- ### 题目描述
 <p>请你帮忙设计一个程序，用来找出第&nbsp;<code>n</code>&nbsp;个丑数。</p>
 
 <p>丑数是可以被&nbsp;<code>a</code>&nbsp;<strong>或</strong>&nbsp;<code>b</code>&nbsp;<strong>或</strong> <code>c</code>&nbsp;整除的 <strong>正整数</strong>。</p>

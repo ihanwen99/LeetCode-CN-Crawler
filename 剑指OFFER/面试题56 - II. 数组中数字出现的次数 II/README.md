@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [面试题56 - II. 数组中数字出现的次数 II](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof)
- ### 题目描述
 <p>在一个数组 <code>nums</code> 中除一个数字只出现一次之外，其他数字都出现了三次。请找出那个只出现一次的数字。</p>
 
 <p>&nbsp;</p>

@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [736. Lisp 语法解析](https://leetcode-cn.com/problems/parse-lisp-expression)
- ### 题目描述
 <p>给定一个类似 Lisp 语句的表达式 <code>expression</code>，求出其计算结果。</p>
 
 <p>表达式语法如下所示:</p>

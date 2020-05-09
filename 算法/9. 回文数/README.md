@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [9. 回文数](https://leetcode-cn.com/problems/palindrome-number)
- ### 题目描述
 <p>判断一个整数是否是回文数。回文数是指正序（从左向右）和倒序（从右向左）读都是一样的整数。</p>
 
 <p><strong>示例 1:</strong></p>

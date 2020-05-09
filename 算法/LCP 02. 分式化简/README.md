@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [LCP 02. 分式化简](https://leetcode-cn.com/problems/deep-dark-fraction)
- ### 题目描述
 <p>有一个同学在学习分式。他需要将一个连分数化成最简分数，你能帮助他吗？</p>
 
 <p><img alt="" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2019/09/09/fraction_example_1.jpg" style="height: 195px; width: 480px;"></p>

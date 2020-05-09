@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses)
- ### 题目描述
 <p>给定一个只包括 <code>&#39;(&#39;</code>，<code>&#39;)&#39;</code>，<code>&#39;{&#39;</code>，<code>&#39;}&#39;</code>，<code>&#39;[&#39;</code>，<code>&#39;]&#39;</code>&nbsp;的字符串，判断字符串是否有效。</p>
 
 <p>有效字符串需满足：</p>

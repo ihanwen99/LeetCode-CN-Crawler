@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [397. 整数替换](https://leetcode-cn.com/problems/integer-replacement)
- ### 题目描述
 <p>给定一个正整数&nbsp;<em>n</em>，你可以做如下操作：</p>
 
 <p>1. 如果&nbsp;<em>n&nbsp;</em>是偶数，则用&nbsp;<code>n / 2</code>替换&nbsp;<em>n</em>。<br />

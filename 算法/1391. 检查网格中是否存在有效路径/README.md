@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1391. 检查网格中是否存在有效路径](https://leetcode-cn.com/problems/check-if-there-is-a-valid-path-in-a-grid)
- ### 题目描述
 <p>给你一个 <em>m</em> x <em>n</em> 的网格 <code>grid</code>。网格里的每个单元都代表一条街道。<code>grid[i][j]</code> 的街道可以是：</p>
 
 <ul>

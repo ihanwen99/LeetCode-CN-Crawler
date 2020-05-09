@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [面试题 02.02. 返回倒数第 k 个节点](https://leetcode-cn.com/problems/kth-node-from-end-of-list-lcci)
- ### 题目描述
 <p>实现一种算法，找出单向链表中倒数第 k 个节点。返回该节点的值。</p>
 
 <p><strong>注意：</strong>本题相对原题稍作改动</p>

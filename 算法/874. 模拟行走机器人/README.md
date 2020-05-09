@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [874. 模拟行走机器人](https://leetcode-cn.com/problems/walking-robot-simulation)
- ### 题目描述
 <p>机器人在一个无限大小的网格上行走，从点&nbsp;(0, 0) 处开始出发，面向北方。该机器人可以接收以下三种类型的命令：</p>
 
 <ul>

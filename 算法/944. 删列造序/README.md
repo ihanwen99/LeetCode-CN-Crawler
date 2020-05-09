@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [944. 删列造序](https://leetcode-cn.com/problems/delete-columns-to-make-sorted)
- ### 题目描述
 <p>给定由&nbsp;<code>N</code>&nbsp;个小写字母字符串组成的数组 <code>A</code>，其中每个字符串长度相等。</p>
 
 <p>你需要选出一组要删掉的列&nbsp;<code>D</code>，对&nbsp;<code>A</code> 执行删除操作，使 <code>A</code> 中剩余的每一列都是 <strong>非降序</strong>&nbsp;排列的，然后请你返回&nbsp;<code>D.length</code>&nbsp;的最小可能值。</p>

@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [41. 缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive)
- ### 题目描述
 <p>给你一个未排序的整数数组，请你找出其中没有出现的最小的正整数。</p>
 
 <p>&nbsp;</p>

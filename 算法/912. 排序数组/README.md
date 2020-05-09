@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [912. 排序数组](https://leetcode-cn.com/problems/sort-an-array)
- ### 题目描述
 <p>给你一个整数数组&nbsp;<code>nums</code>，请你将该数组升序排列。</p>
 
 <p>&nbsp;</p>

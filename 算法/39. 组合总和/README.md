@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [39. 组合总和](https://leetcode-cn.com/problems/combination-sum)
- ### 题目描述
 <p>给定一个<strong>无重复元素</strong>的数组&nbsp;<code>candidates</code>&nbsp;和一个目标数&nbsp;<code>target</code>&nbsp;，找出&nbsp;<code>candidates</code>&nbsp;中所有可以使数字和为&nbsp;<code>target</code>&nbsp;的组合。</p>
 
 <p><code>candidates</code>&nbsp;中的数字可以无限制重复被选取。</p>

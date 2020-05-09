@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [636. 函数的独占时间](https://leetcode-cn.com/problems/exclusive-time-of-functions)
- ### 题目描述
 <p>给出一个非抢占单线程CPU的 <strong>n </strong>个函数运行日志，找到函数的独占时间。</p>
 
 <p>每个函数都有一个唯一的 Id，从 <strong>0</strong> 到<strong> n-1</strong>，函数可能会递归调用或者被其他函数调用。</p>

@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [443. 压缩字符串](https://leetcode-cn.com/problems/string-compression)
- ### 题目描述
 <p>给定一组字符，使用<a href="https://baike.baidu.com/item/%E5%8E%9F%E5%9C%B0%E7%AE%97%E6%B3%95">原地算法</a>将其压缩。</p>
 
 <p>压缩后的长度必须始终小于或等于原数组长度。</p>

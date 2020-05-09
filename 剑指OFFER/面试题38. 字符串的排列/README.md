@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [面试题38. 字符串的排列](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof)
- ### 题目描述
 <p>输入一个字符串，打印出该字符串中字符的所有排列。</p>
 
 <p>&nbsp;</p>

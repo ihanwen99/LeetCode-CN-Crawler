@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [849. 到最近的人的最大距离](https://leetcode-cn.com/problems/maximize-distance-to-closest-person)
- ### 题目描述
 <p>在一排座位（&nbsp;<code>seats</code>）中，<code>1</code>&nbsp;代表有人坐在座位上，<code>0</code>&nbsp;代表座位上是空的。</p>
 
 <p>至少有一个空座位，且至少有一人坐在座位上。</p>

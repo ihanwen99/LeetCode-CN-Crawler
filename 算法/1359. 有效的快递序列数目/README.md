@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1359. 有效的快递序列数目](https://leetcode-cn.com/problems/count-all-valid-pickup-and-delivery-options)
- ### 题目描述
 <p>给你&nbsp;<code>n</code>&nbsp;笔订单，每笔订单都需要快递服务。</p>
 
 <p>请你统计所有有效的 收件/配送 序列的数目，确保第 <code>i</code> 个物品的配送服务&nbsp;<code>delivery(i)</code> 总是在其收件服务&nbsp;<code>pickup(i)</code> 之后。</p>

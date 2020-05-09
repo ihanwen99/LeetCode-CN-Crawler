@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [888. 公平的糖果交换](https://leetcode-cn.com/problems/fair-candy-swap)
- ### 题目描述
 <p>爱丽丝和鲍勃有不同大小的糖果棒：<code>A[i]</code> 是爱丽丝拥有的第 <code>i</code>&nbsp;块糖的大小，<code>B[j]</code> 是鲍勃拥有的第 <code>j</code>&nbsp;块糖的大小。</p>
 
 <p>因为他们是朋友，所以他们想交换一个糖果棒，这样交换后，他们都有相同的糖果总量。<em>（一个人拥有的糖果总量是他们拥有的糖果棒大小的总和。）</em></p>

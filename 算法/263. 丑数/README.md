@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [263. 丑数](https://leetcode-cn.com/problems/ugly-number)
- ### 题目描述
 <p>编写一个程序判断给定的数是否为丑数。</p>
 
 <p>丑数就是只包含质因数&nbsp;<code>2, 3, 5</code>&nbsp;的<strong>正整数</strong>。</p>

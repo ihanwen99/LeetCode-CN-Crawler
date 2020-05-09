@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [677. 键值映射](https://leetcode-cn.com/problems/map-sum-pairs)
- ### 题目描述
 <p>实现一个 MapSum 类里的两个方法，<code>insert</code>&nbsp;和&nbsp;<code>sum</code>。</p>
 
 <p>对于方法&nbsp;<code>insert</code>，你将得到一对（字符串，整数）的键值对。字符串表示键，整数表示值。如果键已经存在，那么原来的键值对将被替代成新的键值对。</p>

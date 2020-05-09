@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [850. 矩形面积 II](https://leetcode-cn.com/problems/rectangle-area-ii)
- ### 题目描述
 <p>我们给出了一个（轴对齐的）矩形列表&nbsp;<code>rectangles</code>&nbsp;。 对于&nbsp;<code>rectangle[i] = [x1, y1, x2, y2]</code>，其中（x1，y1）是矩形&nbsp;<code>i</code>&nbsp;左下角的坐标，（x2，y2）是该矩形右上角的坐标。</p>
 
 <p>找出平面中所有矩形叠加覆盖后的总面积。 由于答案可能太大，<strong>请返回它对 10 ^ 9 + 7 取模的结果</strong>。</p>

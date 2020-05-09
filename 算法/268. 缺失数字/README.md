@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [268. 缺失数字](https://leetcode-cn.com/problems/missing-number)
- ### 题目描述
 <p>给定一个包含 <code>0, 1, 2, ..., n</code>&nbsp;中&nbsp;<em>n</em>&nbsp;个数的序列，找出 0 .. <em>n</em>&nbsp;中没有出现在序列中的那个数。</p>
 
 <p><strong>示例 1:</strong></p>

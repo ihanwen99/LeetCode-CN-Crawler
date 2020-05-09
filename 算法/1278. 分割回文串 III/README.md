@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1278. 分割回文串 III](https://leetcode-cn.com/problems/palindrome-partitioning-iii)
- ### 题目描述
 <p>给你一个由小写字母组成的字符串&nbsp;<code>s</code>，和一个整数&nbsp;<code>k</code>。</p>
 
 <p>请你按下面的要求分割字符串：</p>

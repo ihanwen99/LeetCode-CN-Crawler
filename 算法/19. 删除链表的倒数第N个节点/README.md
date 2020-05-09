@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [19. 删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list)
- ### 题目描述
 <p>给定一个链表，删除链表的倒数第&nbsp;<em>n&nbsp;</em>个节点，并且返回链表的头结点。</p>
 
 <p><strong>示例：</strong></p>

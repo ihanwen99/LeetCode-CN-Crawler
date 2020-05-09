@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [301. 删除无效的括号](https://leetcode-cn.com/problems/remove-invalid-parentheses)
- ### 题目描述
 <p>删除最小数量的无效括号，使得输入的字符串有效，返回所有可能的结果。</p>
 
 <p><strong>说明:</strong> 输入可能包含了除&nbsp;<code>(</code>&nbsp;和&nbsp;<code>)</code>&nbsp;以外的字符。</p>

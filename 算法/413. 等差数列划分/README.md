@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [413. 等差数列划分](https://leetcode-cn.com/problems/arithmetic-slices)
- ### 题目描述
 <p>如果一个数列至少有三个元素，并且任意两个相邻元素之差相同，则称该数列为等差数列。</p>
 
 <p>例如，以下数列为等差数列:</p>

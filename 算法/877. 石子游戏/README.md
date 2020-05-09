@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [877. 石子游戏](https://leetcode-cn.com/problems/stone-game)
- ### 题目描述
 <p>亚历克斯和李用几堆石子在做游戏。偶数堆石子<strong>排成一行</strong>，每堆都有正整数颗石子&nbsp;<code>piles[i]</code>&nbsp;。</p>
 
 <p>游戏以谁手中的石子最多来决出胜负。石子的总数是奇数，所以没有平局。</p>

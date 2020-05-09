@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [958. 二叉树的完全性检验](https://leetcode-cn.com/problems/check-completeness-of-a-binary-tree)
- ### 题目描述
 <p>给定一个二叉树，确定它是否是一个<em>完全二叉树</em>。</p>
 
 <p><strong><a href="https://baike.baidu.com/item/完全二叉树/7773232?fr=aladdin" target="_blank">百度百科</a>中对完全二叉树的定义如下：</strong></p>

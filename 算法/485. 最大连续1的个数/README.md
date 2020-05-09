@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [485. 最大连续1的个数](https://leetcode-cn.com/problems/max-consecutive-ones)
- ### 题目描述
 <p>给定一个二进制数组， 计算其中最大连续1的个数。</p>
 
 <p><strong>示例 1:</strong></p>

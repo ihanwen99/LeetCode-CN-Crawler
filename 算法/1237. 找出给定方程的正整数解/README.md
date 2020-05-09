@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1237. 找出给定方程的正整数解](https://leetcode-cn.com/problems/find-positive-integer-solution-for-a-given-equation)
- ### 题目描述
 <p>给出一个函数&nbsp;&nbsp;<code>f(x, y)</code>&nbsp;和一个目标结果&nbsp;<code>z</code>，请你计算方程&nbsp;<code>f(x,y) == z</code>&nbsp;所有可能的正整数 <strong>数对</strong>&nbsp;<code>x</code> 和 <code>y</code>。</p>
 
 <p>给定函数是严格单调的，也就是说：</p>

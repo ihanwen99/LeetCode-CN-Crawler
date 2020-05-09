@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [913. 猫和老鼠](https://leetcode-cn.com/problems/cat-and-mouse)
- ### 题目描述
 <p>两个玩家分别扮演猫（Cat）和老鼠（Mouse）在<strong>无向</strong>图上进行游戏，他们轮流行动。</p>
 
 <p>该图按下述规则给出：<code>graph[a]</code>&nbsp;是所有结点 <code>b</code> 的列表，使得 <code>ab</code> 是图的一条边。</p>

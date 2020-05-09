@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [801. 使序列递增的最小交换次数](https://leetcode-cn.com/problems/minimum-swaps-to-make-sequences-increasing)
- ### 题目描述
 <p>我们有两个长度相等且不为空的整型数组&nbsp;<code>A</code>&nbsp;和&nbsp;<code>B</code>&nbsp;。</p>
 
 <p>我们可以交换&nbsp;<code>A[i]</code>&nbsp;和&nbsp;<code>B[i]</code>&nbsp;的元素。注意这两个元素在各自的序列中应该处于相同的位置。</p>

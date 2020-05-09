@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1389. 按既定顺序创建目标数组](https://leetcode-cn.com/problems/create-target-array-in-the-given-order)
- ### 题目描述
 <p>给你两个整数数组 <code>nums</code> 和 <code>index</code>。你需要按照以下规则创建目标数组：</p>
 
 <ul>

@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [826. 安排工作以达到最大收益](https://leetcode-cn.com/problems/most-profit-assigning-work)
- ### 题目描述
 <p>有一些工作：<code>difficulty[i]&nbsp;</code>表示第<code>i</code>个工作的难度，<code>profit[i]</code>表示第<code>i</code>个工作的收益。</p>
 
 <p>现在我们有一些工人。<code>worker[i]</code>是第<code>i</code>个工人的能力，即该工人只能完成难度小于等于<code>worker[i]</code>的工作。</p>

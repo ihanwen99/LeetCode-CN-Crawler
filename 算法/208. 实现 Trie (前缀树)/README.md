@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [208. 实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree)
- ### 题目描述
 <p>实现一个 Trie (前缀树)，包含&nbsp;<code>insert</code>,&nbsp;<code>search</code>, 和&nbsp;<code>startsWith</code>&nbsp;这三个操作。</p>
 
 <p><strong>示例:</strong></p>

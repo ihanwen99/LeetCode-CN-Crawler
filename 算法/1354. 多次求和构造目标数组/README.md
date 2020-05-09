@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1354. 多次求和构造目标数组](https://leetcode-cn.com/problems/construct-target-array-with-multiple-sums)
- ### 题目描述
 <p>给你一个整数数组&nbsp;<code>target</code> 。一开始，你有一个数组&nbsp;<code>A</code> ，它的所有元素均为 1 ，你可以执行以下操作：</p>
 
 <ul>

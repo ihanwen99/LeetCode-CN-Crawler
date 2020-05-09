@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [420. 强密码检验器](https://leetcode-cn.com/problems/strong-password-checker)
- ### 题目描述
 <p>一个强密码应满足以下所有条件：</p>
 
 <ol>

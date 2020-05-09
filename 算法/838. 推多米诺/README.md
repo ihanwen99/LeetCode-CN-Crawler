@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [838. 推多米诺](https://leetcode-cn.com/problems/push-dominoes)
- ### 题目描述
 <p>一行中有 <code>N</code> 张多米诺骨牌，我们将每张多米诺骨牌垂直竖立。</p>
 
 <p>在开始时，我们同时把一些多米诺骨牌向左或向右推。</p>

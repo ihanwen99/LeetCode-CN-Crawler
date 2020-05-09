@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1315. 祖父节点值为偶数的节点和](https://leetcode-cn.com/problems/sum-of-nodes-with-even-valued-grandparent)
- ### 题目描述
 <p>给你一棵二叉树，请你返回满足以下条件的所有节点的值之和：</p>
 
 <ul>

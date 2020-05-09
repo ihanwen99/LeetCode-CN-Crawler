@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [127. 单词接龙](https://leetcode-cn.com/problems/word-ladder)
- ### 题目描述
 <p>给定两个单词（<em>beginWord&nbsp;</em>和 <em>endWord</em>）和一个字典，找到从&nbsp;<em>beginWord</em> 到&nbsp;<em>endWord</em> 的最短转换序列的长度。转换需遵循如下规则：</p>
 
 <ol>

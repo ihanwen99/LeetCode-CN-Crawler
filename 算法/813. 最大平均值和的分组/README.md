@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [813. 最大平均值和的分组](https://leetcode-cn.com/problems/largest-sum-of-averages)
- ### 题目描述
 <p>我们将给定的数组&nbsp;<code>A</code>&nbsp;分成&nbsp;<code>K</code>&nbsp;个相邻的非空子数组 ，我们的分数由每个子数组内的平均值的总和构成。计算我们所能得到的最大分数是多少。</p>
 
 <p>注意我们必须使用 A 数组中的每一个数进行分组，并且分数不一定需要是整数。</p>

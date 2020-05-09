@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [726. 原子的数量](https://leetcode-cn.com/problems/number-of-atoms)
- ### 题目描述
 <p>给定一个化学式<code>formula</code>（作为字符串），返回每种原子的数量。</p>
 
 <p>原子总是以一个大写字母开始，接着跟随0个或任意个小写字母，表示原子的名字。</p>

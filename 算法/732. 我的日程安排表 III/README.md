@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [732. 我的日程安排表 III](https://leetcode-cn.com/problems/my-calendar-iii)
- ### 题目描述
 <p>实现一个 <code>MyCalendar</code> 类来存放你的日程安排，你可以一直添加新的日程安排。</p>
 
 <p><code>MyCalendar</code> 有一个 <code>book(int start, int end)</code>方法。它意味着在start到end时间内增加一个日程安排，注意，这里的时间是半开区间，即 <code>[start, end)</code>, 实数&nbsp;<code>x</code> 的范围为， &nbsp;<code>start &lt;= x &lt; end</code>。</p>

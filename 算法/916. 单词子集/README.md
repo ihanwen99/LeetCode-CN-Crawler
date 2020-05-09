@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [916. 单词子集](https://leetcode-cn.com/problems/word-subsets)
- ### 题目描述
 <p>我们给出两个单词数组 <code>A</code>&nbsp;和&nbsp;<code>B</code>。每个单词都是一串小写字母。</p>
 
 <p>现在，如果&nbsp;<code>b</code> 中的每个字母都出现在 <code>a</code> 中，<strong>包括重复出现的字母</strong>，那么称单词 <code>b</code> 是单词 <code>a</code> 的子集。 例如，&ldquo;wrr&rdquo; 是 &ldquo;warrior&rdquo; 的子集，但不是 &ldquo;world&rdquo; 的子集。</p>

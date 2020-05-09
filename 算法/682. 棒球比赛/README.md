@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [682. 棒球比赛](https://leetcode-cn.com/problems/baseball-game)
- ### 题目描述
 <p>你现在是棒球比赛记录员。<br>
 给定一个字符串列表，每个字符串可以是以下四种类型之一：<br>
 1.<code>整数</code>（一轮的得分）：直接表示您在本轮中获得的积分数。<br>

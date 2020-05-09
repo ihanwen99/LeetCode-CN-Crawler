@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [478. 在圆内随机生成点](https://leetcode-cn.com/problems/generate-random-point-in-a-circle)
- ### 题目描述
 <p>给定圆的半径和圆心的 x、y 坐标，写一个在圆中产生均匀随机点的函数&nbsp;<code>randPoint</code>&nbsp;。</p>
 
 <p>说明:</p>

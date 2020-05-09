@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [385. 迷你语法分析器](https://leetcode-cn.com/problems/mini-parser)
- ### 题目描述
 <p>给定一个用字符串表示的整数的嵌套列表，实现一个解析它的语法分析器。</p>
 
 <p>列表中的每个元素只可能是整数或整数嵌套列表</p>

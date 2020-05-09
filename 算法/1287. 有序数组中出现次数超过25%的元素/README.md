@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1287. 有序数组中出现次数超过25%的元素](https://leetcode-cn.com/problems/element-appearing-more-than-25-in-sorted-array)
- ### 题目描述
 <p>给你一个非递减的&nbsp;<strong>有序&nbsp;</strong>整数数组，已知这个数组中恰好有一个整数，它的出现次数超过数组元素总数的 25%。</p>
 
 <p>请你找到并返回这个整数</p>

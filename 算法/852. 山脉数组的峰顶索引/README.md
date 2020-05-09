@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [852. 山脉数组的峰顶索引](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array)
- ### 题目描述
 <p>我们把符合下列属性的数组&nbsp;<code>A</code>&nbsp;称作山脉：</p>
 
 <ul>

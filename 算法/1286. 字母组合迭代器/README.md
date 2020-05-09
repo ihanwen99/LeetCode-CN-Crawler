@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1286. 字母组合迭代器](https://leetcode-cn.com/problems/iterator-for-combination)
- ### 题目描述
 <p>请你设计一个迭代器类，包括以下内容：</p>
 
 <ul>

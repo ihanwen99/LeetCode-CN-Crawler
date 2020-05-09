@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list)
- ### 题目描述
 <p>反转一个单链表。</p>
 
 <p><strong>示例:</strong></p>

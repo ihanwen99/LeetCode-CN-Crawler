@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [467. 环绕字符串中唯一的子字符串](https://leetcode-cn.com/problems/unique-substrings-in-wraparound-string)
- ### 题目描述
 <p>把字符串 <code>s</code> 看作是&ldquo;abcdefghijklmnopqrstuvwxyz&rdquo;的无限环绕字符串，所以&nbsp;<code>s</code> 看起来是这样的：&quot;...zabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcd....&quot;.&nbsp;</p>
 
 <p>现在我们有了另一个字符串 <code>p</code> 。你需要的是找出 <code>s</code> 中有多少个唯一的 <code>p</code> 的非空子串，尤其是当你的输入是字符串 <code>p</code> ，你需要输出字符串&nbsp;<code>s</code> 中 <code>p</code> 的不同的非空子串的数目。&nbsp;</p>

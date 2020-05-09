@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [641. 设计循环双端队列](https://leetcode-cn.com/problems/design-circular-deque)
- ### 题目描述
 <p>设计实现双端队列。<br>
 你的实现需要支持以下操作：</p>
 

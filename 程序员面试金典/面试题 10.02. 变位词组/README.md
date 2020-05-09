@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [面试题 10.02. 变位词组](https://leetcode-cn.com/problems/group-anagrams-lcci)
- ### 题目描述
 <p>编写一种方法，对字符串数组进行排序，将所有变位词组合在一起。变位词是指字母相同，但排列不同的字符串。</p>
 
 <p><strong>注意：</strong>本题相对原题稍作修改</p>

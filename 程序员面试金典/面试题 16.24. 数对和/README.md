@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [面试题 16.24. 数对和](https://leetcode-cn.com/problems/pairs-with-sum-lcci)
- ### 题目描述
 <p>设计一个算法，找出数组中两数之和为指定值的所有整数对。一个数只能属于一个数对。</p>
 
 <p><strong>示例 1:</strong></p>

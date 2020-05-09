@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [319. 灯泡开关](https://leetcode-cn.com/problems/bulb-switcher)
- ### 题目描述
 <p>初始时有&nbsp;<em>n&nbsp;</em>个灯泡关闭。 第 1 轮，你打开所有的灯泡。 第 2 轮，每两个灯泡你关闭一次。 第 3 轮，每三个灯泡切换一次开关（如果关闭则开启，如果开启则关闭）。第&nbsp;<em>i</em> 轮，每&nbsp;<em>i&nbsp;</em>个灯泡切换一次开关。 对于第&nbsp;<em>n&nbsp;</em>轮，你只切换最后一个灯泡的开关。 找出&nbsp;<em>n&nbsp;</em>轮后有多少个亮着的灯泡。</p>
 
 <p><strong>示例:</strong></p>

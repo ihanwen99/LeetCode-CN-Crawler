@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1348. 推文计数](https://leetcode-cn.com/problems/tweet-counts-per-frequency)
- ### 题目描述
 <p>请你实现一个能够支持以下两种方法的推文计数类&nbsp;<code>TweetCounts</code>：</p>
 
 <p>1.<code> recordTweet(string tweetName, int time)</code></p>

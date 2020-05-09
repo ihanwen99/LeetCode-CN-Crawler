@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1208. 尽可能使字符串相等](https://leetcode-cn.com/problems/get-equal-substrings-within-budget)
- ### 题目描述
 <p>给你两个长度相同的字符串，<code>s</code> 和 <code>t</code>。</p>
 
 <p>将 <code>s</code>&nbsp;中的第&nbsp;<code>i</code>&nbsp;个字符变到&nbsp;<code>t</code>&nbsp;中的第 <code>i</code> 个字符需要&nbsp;<code>|s[i] - t[i]|</code>&nbsp;的开销（开销可能为 0），也就是两个字符的 ASCII 码值的差的绝对值。</p>

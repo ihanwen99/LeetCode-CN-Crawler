@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [160. 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists)
- ### 题目描述
 <p>编写一个程序，找到两个单链表相交的起始节点。</p>
 
 <p>如下面的两个链表<strong>：</strong></p>

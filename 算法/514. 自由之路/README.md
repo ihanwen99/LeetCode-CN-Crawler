@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [514. 自由之路](https://leetcode-cn.com/problems/freedom-trail)
- ### 题目描述
 <p>视频游戏&ldquo;辐射4&rdquo;中，任务&ldquo;通向自由&rdquo;要求玩家到达名为&ldquo;Freedom Trail Ring&rdquo;的金属表盘，并使用表盘拼写特定关键词才能开门。</p>
 
 <p>给定一个字符串&nbsp;<strong>ring</strong>，表示刻在外环上的编码；给定另一个字符串&nbsp;<strong>key</strong>，表示需要拼写的关键词。您需要算出能够拼写关键词中所有字符的<strong>最少</strong>步数。</p>

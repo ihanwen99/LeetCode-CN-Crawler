@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [面试题15. 二进制中1的个数](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof)
- ### 题目描述
 <p>请实现一个函数，输入一个整数，输出该数二进制表示中 1 的个数。例如，把 9&nbsp;表示成二进制是 1001，有 2 位是 1。因此，如果输入 9，则该函数输出 2。</p>
 
 <p><strong>示例 1：</strong></p>

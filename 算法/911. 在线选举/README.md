@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [911. 在线选举](https://leetcode-cn.com/problems/online-election)
- ### 题目描述
 <p>在选举中，第&nbsp;<code>i</code>&nbsp;张票是在时间为&nbsp;<code>times[i]</code>&nbsp;时投给&nbsp;<code>persons[i]</code>&nbsp;的。</p>
 
 <p>现在，我们想要实现下面的查询函数： <code>TopVotedCandidate.q(int t)</code> 将返回在&nbsp;<code>t</code> 时刻主导选举的候选人的编号。</p>

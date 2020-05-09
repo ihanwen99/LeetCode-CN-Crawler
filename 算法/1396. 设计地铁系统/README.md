@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1396. 设计地铁系统](https://leetcode-cn.com/problems/design-underground-system)
- ### 题目描述
 <p>请你实现一个类&nbsp;<code>UndergroundSystem</code>&nbsp;，它支持以下 3 种方法：</p>
 
 <p>1.<code>&nbsp;checkIn(int id, string stationName, int t)</code></p>

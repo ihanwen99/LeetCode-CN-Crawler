@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1034. 边框着色](https://leetcode-cn.com/problems/coloring-a-border)
- ### 题目描述
 <p>给出一个二维整数网格&nbsp;<code>grid</code>，网格中的每个值表示该位置处的网格块的颜色。</p>
 
 <p>只有当两个网格块的颜色相同，而且在四个方向中任意一个方向上相邻时，它们属于同一<strong>连通分量</strong>。</p>

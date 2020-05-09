@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [面试题 08.05. 递归乘法](https://leetcode-cn.com/problems/recursive-mulitply-lcci)
- ### 题目描述
 <p>递归乘法。 写一个递归函数，不使用 * 运算符， 实现两个正整数的相乘。可以使用加号、减号、位移，但要吝啬一些。</p>
 
 <p> <strong>示例1:</strong></p>

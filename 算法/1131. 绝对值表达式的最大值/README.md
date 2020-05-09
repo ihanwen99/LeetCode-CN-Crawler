@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1131. 绝对值表达式的最大值](https://leetcode-cn.com/problems/maximum-of-absolute-value-expression)
- ### 题目描述
 <p>给你两个长度相等的整数数组，返回下面表达式的最大值：</p>
 
 <p><code>|arr1[i] - arr1[j]| + |arr2[i] - arr2[j]| + |i - j|</code></p>

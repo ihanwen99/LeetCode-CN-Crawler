@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [13. 罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer)
- ### 题目描述
 <p>罗马数字包含以下七种字符:&nbsp;<code>I</code>，&nbsp;<code>V</code>，&nbsp;<code>X</code>，&nbsp;<code>L</code>，<code>C</code>，<code>D</code>&nbsp;和&nbsp;<code>M</code>。</p>
 
 <pre><strong>字符</strong>          <strong>数值</strong>

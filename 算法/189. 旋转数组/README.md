@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [189. 旋转数组](https://leetcode-cn.com/problems/rotate-array)
- ### 题目描述
 <p>给定一个数组，将数组中的元素向右移动&nbsp;<em>k&nbsp;</em>个位置，其中&nbsp;<em>k&nbsp;</em>是非负数。</p>
 
 <p><strong>示例 1:</strong></p>

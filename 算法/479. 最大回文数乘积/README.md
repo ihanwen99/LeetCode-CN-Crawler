@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [479. 最大回文数乘积](https://leetcode-cn.com/problems/largest-palindrome-product)
- ### 题目描述
 <p>你需要找到由两个 n 位数的乘积组成的最大回文数。</p>
 
 <p>由于结果会很大，你只需返回最大回文数 mod 1337得到的结果。</p>

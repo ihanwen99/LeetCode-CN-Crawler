@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [982. 按位与为零的三元组](https://leetcode-cn.com/problems/triples-with-bitwise-and-equal-to-zero)
- ### 题目描述
 <p>给定一个整数数组&nbsp;<code>A</code>，找出索引为 (i, j, k) 的三元组，使得：</p>
 
 <ul>

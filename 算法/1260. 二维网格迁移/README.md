@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1260. 二维网格迁移](https://leetcode-cn.com/problems/shift-2d-grid)
- ### 题目描述
 <p>给你一个 <code>m</code> 行 <code>n</code>&nbsp;列的二维网格&nbsp;<code>grid</code>&nbsp;和一个整数&nbsp;<code>k</code>。你需要将&nbsp;<code>grid</code>&nbsp;迁移&nbsp;<code>k</code>&nbsp;次。</p>
 
 <p>每次「迁移」操作将会引发下述活动：</p>

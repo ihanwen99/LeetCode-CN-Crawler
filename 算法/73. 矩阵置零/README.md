@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [73. 矩阵置零](https://leetcode-cn.com/problems/set-matrix-zeroes)
- ### 题目描述
 <p>给定一个&nbsp;<em>m</em> x <em>n</em> 的矩阵，如果一个元素为 0，则将其所在行和列的所有元素都设为 0。请使用<strong><a href="http://baike.baidu.com/item/%E5%8E%9F%E5%9C%B0%E7%AE%97%E6%B3%95" target="_blank">原地</a></strong>算法<strong>。</strong></p>
 
 <p><strong>示例&nbsp;1:</strong></p>

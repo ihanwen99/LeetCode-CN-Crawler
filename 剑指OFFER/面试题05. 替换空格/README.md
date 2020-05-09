@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [面试题05. 替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof)
- ### 题目描述
 <p>请实现一个函数，把字符串 <code>s</code> 中的每个空格替换成&quot;%20&quot;。</p>
 
 <p>&nbsp;</p>

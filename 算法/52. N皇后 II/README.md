@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [52. N皇后 II](https://leetcode-cn.com/problems/n-queens-ii)
- ### 题目描述
 <p><em>n&nbsp;</em>皇后问题研究的是如何将 <em>n</em>&nbsp;个皇后放置在 <em>n</em>&times;<em>n</em> 的棋盘上，并且使皇后彼此之间不能相互攻击。</p>
 
 <p><img src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2018/10/12/8-queens.png" style="height: 276px; width: 258px;"></p>

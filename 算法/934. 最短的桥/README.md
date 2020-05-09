@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [934. 最短的桥](https://leetcode-cn.com/problems/shortest-bridge)
- ### 题目描述
 <p>在给定的二维二进制数组&nbsp;<code>A</code>&nbsp;中，存在两座岛。（岛是由四面相连的 <code>1</code> 形成的一个最大组。）</p>
 
 <p>现在，我们可以将&nbsp;<code>0</code>&nbsp;变为&nbsp;<code>1</code>，以使两座岛连接起来，变成一座岛。</p>

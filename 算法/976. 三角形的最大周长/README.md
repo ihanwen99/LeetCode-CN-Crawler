@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [976. 三角形的最大周长](https://leetcode-cn.com/problems/largest-perimeter-triangle)
- ### 题目描述
 <p>给定由一些正数（代表长度）组成的数组 <code>A</code>，返回由其中三个长度组成的、<strong>面积不为零</strong>的三角形的最大周长。</p>
 
 <p>如果不能形成任何面积不为零的三角形，返回&nbsp;<code>0</code>。</p>

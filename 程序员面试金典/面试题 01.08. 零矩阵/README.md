@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [面试题 01.08. 零矩阵](https://leetcode-cn.com/problems/zero-matrix-lcci)
- ### 题目描述
 <p>编写一种算法，若M × N矩阵中某个元素为0，则将其所在的行与列清零。</p>
 
 <p>&nbsp;</p>

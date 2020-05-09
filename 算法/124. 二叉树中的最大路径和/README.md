@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [124. 二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum)
- ### 题目描述
 <p>给定一个<strong>非空</strong>二叉树，返回其最大路径和。</p>
 
 <p>本题中，路径被定义为一条从树中任意节点出发，达到任意节点的序列。该路径<strong>至少包含一个</strong>节点，且不一定经过根节点。</p>

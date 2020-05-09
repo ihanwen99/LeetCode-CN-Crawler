@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [842. 将数组拆分成斐波那契序列](https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence)
- ### 题目描述
 <p>给定一个数字字符串 <code>S</code>，比如 <code>S = &quot;123456579&quot;</code>，我们可以将它分成斐波那契式的序列 <code>[123, 456, 579]</code>。</p>
 
 <p>形式上，斐波那契式序列是一个非负整数列表 <code>F</code>，且满足：</p>

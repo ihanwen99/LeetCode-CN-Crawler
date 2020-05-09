@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [728. 自除数](https://leetcode-cn.com/problems/self-dividing-numbers)
- ### 题目描述
 <p><em>自除数&nbsp;</em>是指可以被它包含的每一位数除尽的数。</p>
 
 <p>例如，128 是一个自除数，因为&nbsp;<code>128 % 1 == 0</code>，<code>128 % 2 == 0</code>，<code>128 % 8 == 0</code>。</p>

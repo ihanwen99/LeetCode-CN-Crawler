@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1125. 最小的必要团队](https://leetcode-cn.com/problems/smallest-sufficient-team)
- ### 题目描述
 <p>作为项目经理，你规划了一份需求的技能清单&nbsp;<code>req_skills</code>，并打算从备选人员名单&nbsp;<code>people</code>&nbsp;中选出些人组成一个「必要团队」（ 编号为&nbsp;<code>i</code>&nbsp;的备选人员&nbsp;<code>people[i]</code>&nbsp;含有一份该备选人员掌握的技能列表）。</p>
 
 <p>所谓「必要团队」，就是在这个团队中，对于所需求的技能列表&nbsp;<code>req_skills</code> 中列出的每项技能，团队中至少有一名成员已经掌握。</p>

@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [147. 对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list)
- ### 题目描述
 <p>对链表进行插入排序。</p>
 
 <p><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Insertion-sort-example-300px.gif"><br>

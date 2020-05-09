@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [761. 特殊的二进制序列](https://leetcode-cn.com/problems/special-binary-string)
- ### 题目描述
 <p>特殊的二进制序列是具有以下两个性质的二进制序列：</p>
 
 <ul>

@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [226. 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree)
- ### 题目描述
 <p>翻转一棵二叉树。</p>
 
 <p><strong>示例：</strong></p>

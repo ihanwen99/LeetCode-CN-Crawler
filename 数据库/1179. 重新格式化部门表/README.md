@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1179. 重新格式化部门表](https://leetcode-cn.com/problems/reformat-department-table)
- ### 题目描述
 <p>部门表&nbsp;<code>Department</code>：</p>
 
 <pre>

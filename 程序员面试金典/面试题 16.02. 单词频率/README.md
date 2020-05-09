@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [面试题 16.02. 单词频率](https://leetcode-cn.com/problems/words-frequency-lcci)
- ### 题目描述
 <p>设计一个方法，找出任意指定单词在一本书中的出现频率。</p>
 <p>你的实现应该支持如下操作：</p>
 <ul>

@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [面试题 17.01. 不用加号的加法](https://leetcode-cn.com/problems/add-without-plus-lcci)
- ### 题目描述
 <p>设计一个函数把两个数字相加。不得使用 + 或者其他算术运算符。</p>
 
 <p><strong>示例:</strong></p>

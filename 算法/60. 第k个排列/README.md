@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [60. 第k个排列](https://leetcode-cn.com/problems/permutation-sequence)
- ### 题目描述
 <p>给出集合&nbsp;<code>[1,2,3,&hellip;,<em>n</em>]</code>，其所有元素共有&nbsp;<em>n</em>! 种排列。</p>
 
 <p>按大小顺序列出所有排列情况，并一一标记，当&nbsp;<em>n </em>= 3 时, 所有排列如下：</p>

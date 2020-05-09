@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [290. 单词规律](https://leetcode-cn.com/problems/word-pattern)
- ### 题目描述
 <p>给定一种规律 <code>pattern</code>&nbsp;和一个字符串&nbsp;<code>str</code>&nbsp;，判断 <code>str</code> 是否遵循相同的规律。</p>
 
 <p>这里的&nbsp;<strong>遵循&nbsp;</strong>指完全匹配，例如，&nbsp;<code>pattern</code>&nbsp;里的每个字母和字符串&nbsp;<code>str</code><strong>&nbsp;</strong>中的每个非空单词之间存在着双向连接的对应规律。</p>

@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1117. H2O 生成](https://leetcode-cn.com/problems/building-h2o)
- ### 题目描述
 <p>现在有两种线程，氢 <code>oxygen</code> 和氧 <code>hydrogen</code>，你的目标是组织这两种线程来产生水分子。</p>
 
 <p>存在一个屏障（barrier）使得每个线程必须等候直到一个完整水分子能够被产生出来。</p>

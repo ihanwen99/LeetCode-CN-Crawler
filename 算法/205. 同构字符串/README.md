@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [205. 同构字符串](https://leetcode-cn.com/problems/isomorphic-strings)
- ### 题目描述
 <p>给定两个字符串&nbsp;<em><strong>s&nbsp;</strong></em>和&nbsp;<strong><em>t</em></strong>，判断它们是否是同构的。</p>
 
 <p>如果&nbsp;<em><strong>s&nbsp;</strong></em>中的字符可以被替换得到&nbsp;<strong><em>t&nbsp;</em></strong>，那么这两个字符串是同构的。</p>

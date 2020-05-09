@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [85. 最大矩形](https://leetcode-cn.com/problems/maximal-rectangle)
- ### 题目描述
 <p>给定一个仅包含&nbsp;0 和 1 的二维二进制矩阵，找出只包含 1 的最大矩形，并返回其面积。</p>
 
 <p><strong>示例:</strong></p>

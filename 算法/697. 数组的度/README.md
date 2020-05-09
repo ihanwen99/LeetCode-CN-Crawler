@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [697. 数组的度](https://leetcode-cn.com/problems/degree-of-an-array)
- ### 题目描述
 <p>给定一个非空且只包含非负数的整数数组&nbsp;<code>nums</code>, 数组的度的定义是指数组里任一元素出现频数的最大值。</p>
 
 <p>你的任务是找到与&nbsp;<code>nums</code>&nbsp;拥有相同大小的度的最短连续子数组，返回其长度。</p>

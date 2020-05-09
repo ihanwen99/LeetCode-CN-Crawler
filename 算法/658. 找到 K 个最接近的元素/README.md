@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [658. 找到 K 个最接近的元素](https://leetcode-cn.com/problems/find-k-closest-elements)
- ### 题目描述
 <p>给定一个排序好的数组，两个整数 <code>k</code> 和 <code>x</code>，从数组中找到最靠近 <code>x</code>（两数之差最小）的 <code>k</code> 个数。返回的结果必须要是按升序排好的。如果有两个数与 <code>x</code> 的差值一样，优先选择数值较小的那个数。</p>
 
 <p><strong>示例&nbsp;1:</strong></p>

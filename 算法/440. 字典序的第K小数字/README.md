@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [440. 字典序的第K小数字](https://leetcode-cn.com/problems/k-th-smallest-in-lexicographical-order)
- ### 题目描述
 <p>给定整数&nbsp;<code>n</code>&nbsp;和&nbsp;<code>k</code>，找到&nbsp;<code>1</code>&nbsp;到&nbsp;<code>n</code>&nbsp;中字典序第&nbsp;<code>k</code>&nbsp;小的数字。</p>
 
 <p>注意：1 &le; k &le; n &le; 10<sup>9</sup>。</p>

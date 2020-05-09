@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [面试题29. 顺时针打印矩阵](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof)
- ### 题目描述
 <p>输入一个矩阵，按照从外向里以顺时针的顺序依次打印出每一个数字。</p>
 
 <p>&nbsp;</p>

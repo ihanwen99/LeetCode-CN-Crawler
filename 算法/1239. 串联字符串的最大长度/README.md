@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1239. 串联字符串的最大长度](https://leetcode-cn.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters)
- ### 题目描述
 <p>给定一个字符串数组 <code>arr</code>，字符串 <code>s</code> 是将 <code>arr</code> 某一子序列字符串连接所得的字符串，如果 <code>s</code> 中的每一个字符都只出现过一次，那么它就是一个可行解。</p>
 
 <p>请返回所有可行解 <code>s</code> 中最长长度。</p>

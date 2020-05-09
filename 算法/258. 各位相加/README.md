@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [258. 各位相加](https://leetcode-cn.com/problems/add-digits)
- ### 题目描述
 <p>给定一个非负整数 <code>num</code>，反复将各个位上的数字相加，直到结果为一位数。</p>
 
 <p><strong>示例:</strong></p>

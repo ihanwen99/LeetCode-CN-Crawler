@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [943. 最短超级串](https://leetcode-cn.com/problems/find-the-shortest-superstring)
- ### 题目描述
 <p>给定一个字符串数组 <code>A</code>，找到以&nbsp;<code>A</code>&nbsp;中每个字符串作为子字符串的最短字符串。</p>
 
 <p>我们可以假设 <code>A</code> 中没有字符串是 <code>A</code> 中另一个字符串的子字符串。</p>

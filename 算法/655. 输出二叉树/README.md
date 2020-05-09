@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [655. 输出二叉树](https://leetcode-cn.com/problems/print-binary-tree)
- ### 题目描述
 <p>在一个 m*n 的二维字符串数组中输出二叉树，并遵守以下规则：</p>
 
 <ol>

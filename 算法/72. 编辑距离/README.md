@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [72. 编辑距离](https://leetcode-cn.com/problems/edit-distance)
- ### 题目描述
 <p>给你两个单词&nbsp;<em>word1</em> 和&nbsp;<em>word2</em>，请你计算出将&nbsp;<em>word1</em>&nbsp;转换成&nbsp;<em>word2 </em>所使用的最少操作数&nbsp;。</p>
 
 <p>你可以对一个单词进行如下三种操作：</p>

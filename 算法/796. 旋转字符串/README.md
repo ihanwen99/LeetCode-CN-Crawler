@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [796. 旋转字符串](https://leetcode-cn.com/problems/rotate-string)
- ### 题目描述
 <p>给定两个字符串, <code>A</code>&nbsp;和&nbsp;<code>B</code>。</p>
 
 <p><code>A</code>&nbsp;的旋转操作就是将&nbsp;<code>A</code> 最左边的字符移动到最右边。&nbsp;例如, 若&nbsp;<code>A = &#39;abcde&#39;</code>，在移动一次之后结果就是<code>&#39;bcdea&#39;</code>&nbsp;。如果在若干次旋转操作之后，<code>A</code>&nbsp;能变成<code>B</code>，那么返回<code>True</code>。</p>

@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [775. 全局倒置与局部倒置](https://leetcode-cn.com/problems/global-and-local-inversions)
- ### 题目描述
 <p>数组&nbsp;<code>A</code>&nbsp;是&nbsp;<code>[0, 1, ..., N - 1]</code>&nbsp;的一种排列，<code>N</code> 是数组&nbsp;<code>A</code>&nbsp;的长度。全局倒置指的是 <code>i,j</code>&nbsp;满足&nbsp;<code>0 &lt;= i &lt; j &lt; N</code> 并且&nbsp;<code>A[i] &gt; A[j]</code>&nbsp;，局部倒置指的是 <code>i</code> 满足&nbsp;<code>0 &lt;= i &lt; N</code>&nbsp;并且&nbsp;<code>A[i] &gt; A[i+1]</code>&nbsp;。</p>
 
 <p>当数组&nbsp;<code>A</code>&nbsp;中全局倒置的数量等于局部倒置的数量时，返回 <code>true</code> 。</p>

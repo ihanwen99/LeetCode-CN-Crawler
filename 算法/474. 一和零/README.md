@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [474. 一和零](https://leetcode-cn.com/problems/ones-and-zeroes)
- ### 题目描述
 <p>在计算机界中，我们总是追求用有限的资源获取最大的收益。</p>
 
 <p>现在，假设你分别支配着 <strong>m</strong> 个&nbsp;<code>0</code>&nbsp;和 <strong>n</strong> 个&nbsp;<code>1</code>。另外，还有一个仅包含&nbsp;<code>0</code>&nbsp;和&nbsp;<code>1</code>&nbsp;字符串的数组。</p>

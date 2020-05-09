@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [942. 增减字符串匹配](https://leetcode-cn.com/problems/di-string-match)
- ### 题目描述
 <p>给定只含&nbsp;<code>&quot;I&quot;</code>（增大）或 <code>&quot;D&quot;</code>（减小）的字符串&nbsp;<code>S</code>&nbsp;，令&nbsp;<code>N = S.length</code>。</p>
 
 <p>返回&nbsp;<code>[0, 1, ..., N]</code>&nbsp;的任意排列&nbsp;<code>A</code>&nbsp;使得对于所有&nbsp;<code>i = 0,&nbsp;..., N-1</code>，都有：</p>

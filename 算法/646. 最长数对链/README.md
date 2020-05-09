@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [646. 最长数对链](https://leetcode-cn.com/problems/maximum-length-of-pair-chain)
- ### 题目描述
 <p>给出&nbsp;<code>n</code>&nbsp;个数对。&nbsp;在每一个数对中，第一个数字总是比第二个数字小。</p>
 
 <p>现在，我们定义一种跟随关系，当且仅当&nbsp;<code>b &lt; c</code>&nbsp;时，数对<code>(c, d)</code>&nbsp;才可以跟在&nbsp;<code>(a, b)</code>&nbsp;后面。我们用这种形式来构造一个数对链。</p>

@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [899. 有序队列](https://leetcode-cn.com/problems/orderly-queue)
- ### 题目描述
 <p>给出了一个由小写字母组成的字符串 <code>S</code>。然后，我们可以进行任意次数的<em>移动</em>。</p>
 
 <p>在每次移动中，我们选择前 <code>K</code> 个字母中的一个（从左侧开始），将其从原位置移除，并放置在字符串的末尾。</p>

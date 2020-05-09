@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [843. 猜猜这个单词](https://leetcode-cn.com/problems/guess-the-word)
- ### 题目描述
 <p>这个问题是 LeetCode 平台新增的<strong><em>交互式问题 </em></strong>。</p>
 
 <p>我们给出了一个由一些独特的单词组成的单词列表，每个单词都是 6 个字母长，并且这个列表中的一个单词将被选作<strong>秘密</strong>。</p>

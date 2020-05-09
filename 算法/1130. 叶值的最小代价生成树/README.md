@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1130. 叶值的最小代价生成树](https://leetcode-cn.com/problems/minimum-cost-tree-from-leaf-values)
- ### 题目描述
 <p>给你一个正整数数组&nbsp;<code>arr</code>，考虑所有满足以下条件的二叉树：</p>
 
 <ul>

@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [LCP 14. 切分数组](https://leetcode-cn.com/problems/qie-fen-shu-zu)
- ### 题目描述
 <p>给定一个整数数组 <code>nums</code> ，小李想将 <code>nums</code> 切割成若干个非空子数组，使得每个子数组最左边的数和最右边的数的最大公约数大于 1 。为了减少他的工作量，请求出最少可以切成多少个子数组。</p>
 
 <p><strong>示例 1：</strong></p>

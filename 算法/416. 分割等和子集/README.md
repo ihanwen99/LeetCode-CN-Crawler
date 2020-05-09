@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [416. 分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum)
- ### 题目描述
 <p>给定一个<strong>只包含正整数</strong>的<strong>非空</strong>数组。是否可以将这个数组分割成两个子集，使得两个子集的元素和相等。</p>
 
 <p><strong>注意:</strong></p>

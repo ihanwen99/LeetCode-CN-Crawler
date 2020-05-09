@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [437. 路径总和 III](https://leetcode-cn.com/problems/path-sum-iii)
- ### 题目描述
 <p>给定一个二叉树，它的每个结点都存放着一个整数值。</p>
 
 <p>找出路径和等于给定数值的路径总数。</p>

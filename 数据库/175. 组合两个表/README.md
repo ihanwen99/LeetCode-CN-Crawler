@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [175. 组合两个表](https://leetcode-cn.com/problems/combine-two-tables)
- ### 题目描述
 <p>表1: <code>Person</code></p>
 
 <pre>+-------------+---------+

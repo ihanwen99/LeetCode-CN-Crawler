@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [730. 统计不同回文子字符串](https://leetcode-cn.com/problems/count-different-palindromic-subsequences)
- ### 题目描述
 <p>给定一个字符串 S，找出 S 中不同的非空回文子序列个数，并<strong>返回该数字与 <code>10^9 + 7 </code>的模。</strong></p>
 
 <p>通过从 S 中删除 0 个或多个字符来获得子字符序列。</p>

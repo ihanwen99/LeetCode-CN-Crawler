@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [386. 字典序排数](https://leetcode-cn.com/problems/lexicographical-numbers)
- ### 题目描述
 <p>给定一个整数&nbsp;<em>n</em>, 返回从&nbsp;<em>1&nbsp;</em>到&nbsp;<em>n&nbsp;</em>的字典顺序。</p>
 
 <p>例如，</p>

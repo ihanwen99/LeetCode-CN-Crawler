@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [182. 查找重复的电子邮箱](https://leetcode-cn.com/problems/duplicate-emails)
- ### 题目描述
 <p>编写一个 SQL 查询，查找&nbsp;<code>Person</code> 表中所有重复的电子邮箱。</p>
 
 <p><strong>示例：</strong></p>

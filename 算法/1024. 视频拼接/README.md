@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1024. 视频拼接](https://leetcode-cn.com/problems/video-stitching)
- ### 题目描述
 <p>你将会获得一系列视频片段，这些片段来自于一项持续时长为&nbsp;<code>T</code>&nbsp;秒的体育赛事。这些片段可能有所重叠，也可能长度不一。</p>
 
 <p>视频片段&nbsp;<code>clips[i]</code>&nbsp;都用区间进行表示：开始于&nbsp;<code>clips[i][0]</code>&nbsp;并于&nbsp;<code>clips[i][1]</code>&nbsp;结束。我们甚至可以对这些片段自由地再剪辑，例如片段&nbsp;<code>[0, 7]</code>&nbsp;可以剪切成&nbsp;<code>[0, 1] +&nbsp;[1, 3] + [3, 7]</code>&nbsp;三部分。</p>

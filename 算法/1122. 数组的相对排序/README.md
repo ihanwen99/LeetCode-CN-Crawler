@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1122. 数组的相对排序](https://leetcode-cn.com/problems/relative-sort-array)
- ### 题目描述
 <p>给你两个数组，<code>arr1</code> 和&nbsp;<code>arr2</code>，</p>
 
 <ul>

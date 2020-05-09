@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1048. 最长字符串链](https://leetcode-cn.com/problems/longest-string-chain)
- ### 题目描述
 <p>给出一个单词列表，其中每个单词都由小写英文字母组成。</p>
 
 <p>如果我们可以在&nbsp;<code>word1</code>&nbsp;的任何地方添加一个字母使其变成&nbsp;<code>word2</code>，那么我们认为&nbsp;<code>word1</code>&nbsp;是&nbsp;<code>word2</code>&nbsp;的前身。例如，<code>&quot;abc&quot;</code>&nbsp;是&nbsp;<code>&quot;abac&quot;</code>&nbsp;的前身。</p>

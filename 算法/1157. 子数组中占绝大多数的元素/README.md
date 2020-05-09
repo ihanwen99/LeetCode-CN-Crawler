@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1157. 子数组中占绝大多数的元素](https://leetcode-cn.com/problems/online-majority-element-in-subarray)
- ### 题目描述
 <p>实现一个&nbsp;<code>MajorityChecker</code>&nbsp;的类，它应该具有下述几个 API：</p>
 
 <ul>

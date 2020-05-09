@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [230. 二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst)
- ### 题目描述
 <p>给定一个二叉搜索树，编写一个函数&nbsp;<code>kthSmallest</code>&nbsp;来查找其中第&nbsp;<strong>k&nbsp;</strong>个最小的元素。</p>
 
 <p><strong>说明：</strong><br>

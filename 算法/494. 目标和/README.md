@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [494. 目标和](https://leetcode-cn.com/problems/target-sum)
- ### 题目描述
 <p>给定一个非负整数数组，a1, a2, ..., an, 和一个目标数，S。现在你有两个符号&nbsp;<code>+</code>&nbsp;和&nbsp;<code>-</code>。对于数组中的任意一个整数，你都可以从&nbsp;<code>+</code>&nbsp;或&nbsp;<code>-</code>中选择一个符号添加在前面。</p>
 
 <p>返回可以使最终数组和为目标数 S 的所有添加符号的方法数。</p>

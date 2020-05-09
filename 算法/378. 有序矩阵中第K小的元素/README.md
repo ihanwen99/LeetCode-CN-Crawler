@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [378. 有序矩阵中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix)
- ### 题目描述
 <p>给定一个&nbsp;<em>n x n&nbsp;</em>矩阵，其中每行和每列元素均按升序排序，找到矩阵中第k小的元素。<br>
 请注意，它是排序后的第 k 小元素，而不是第 k 个不同的元素。</p>
 

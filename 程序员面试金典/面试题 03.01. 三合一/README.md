@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [面试题 03.01. 三合一](https://leetcode-cn.com/problems/three-in-one-lcci)
- ### 题目描述
 <p>三合一。描述如何只用一个数组来实现三个栈。</p>
 
 <p>你应该实现<code>push(stackNum, value)</code>、<code>pop(stackNum)</code>、<code>isEmpty(stackNum)</code>、<code>peek(stackNum)</code>方法。<code>stackNum</code>表示栈下标，<code>value</code>表示压入的值。</p>

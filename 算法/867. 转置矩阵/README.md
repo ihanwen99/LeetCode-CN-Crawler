@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [867. 转置矩阵](https://leetcode-cn.com/problems/transpose-matrix)
- ### 题目描述
 <p>给定一个矩阵&nbsp;<code>A</code>，&nbsp;返回&nbsp;<code>A</code>&nbsp;的转置矩阵。</p>
 
 <p>矩阵的转置是指将矩阵的主对角线翻转，交换矩阵的行索引与列索引。</p>

@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [面试题 02.06. 回文链表](https://leetcode-cn.com/problems/palindrome-linked-list-lcci)
- ### 题目描述
 <p>编写一个函数，检查输入的链表是否是回文的。</p>
 
 <p>&nbsp;</p>

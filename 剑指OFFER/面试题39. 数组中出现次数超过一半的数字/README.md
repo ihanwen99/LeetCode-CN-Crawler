@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [面试题39. 数组中出现次数超过一半的数字](https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof)
- ### 题目描述
 <p>数组中有一个数字出现的次数超过数组长度的一半，请找出这个数字。</p>
 
 <p>&nbsp;</p>

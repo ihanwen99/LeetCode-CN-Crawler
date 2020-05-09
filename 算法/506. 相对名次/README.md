@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [506. 相对名次](https://leetcode-cn.com/problems/relative-ranks)
- ### 题目描述
 <p>给出&nbsp;<strong>N</strong> 名运动员的成绩，找出他们的相对名次并授予前三名对应的奖牌。前三名运动员将会被分别授予 &ldquo;金牌&rdquo;，&ldquo;银牌&rdquo; 和&ldquo; 铜牌&rdquo;（&quot;Gold Medal&quot;, &quot;Silver Medal&quot;, &quot;Bronze Medal&quot;）。</p>
 
 <p>(注：分数越高的选手，排名越靠前。)</p>

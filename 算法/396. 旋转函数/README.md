@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [396. 旋转函数](https://leetcode-cn.com/problems/rotate-function)
- ### 题目描述
 <p>给定一个长度为 <em>n</em> 的整数数组&nbsp;<code>A</code>&nbsp;。</p>
 
 <p>假设&nbsp;<code>B<sub>k</sub></code>&nbsp;是数组&nbsp;<code>A</code>&nbsp;顺时针旋转 <em>k</em> 个位置后的数组，我们定义&nbsp;<code>A</code>&nbsp;的&ldquo;旋转函数&rdquo;&nbsp;<code>F</code>&nbsp;为：</p>

@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [313. 超级丑数](https://leetcode-cn.com/problems/super-ugly-number)
- ### 题目描述
 <p>编写一段程序来查找第 <code><em>n</em></code> 个超级丑数。</p>
 
 <p>超级丑数是指其所有质因数都是长度为&nbsp;<code>k</code>&nbsp;的质数列表&nbsp;<code>primes</code>&nbsp;中的正整数。</p>

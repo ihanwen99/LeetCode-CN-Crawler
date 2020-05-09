@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [468. 验证IP地址](https://leetcode-cn.com/problems/validate-ip-address)
- ### 题目描述
 <p>编写一个函数来验证输入的字符串是否是有效的 IPv4 或&nbsp;IPv6 地址。</p>
 
 <p><strong>IPv4</strong>&nbsp;地址由十进制数和点来表示，每个地址包含4个十进制数，其范围为&nbsp;0 -&nbsp;255，&nbsp;用(&quot;.&quot;)分割。比如，<code>172.16.254.1</code>；</p>

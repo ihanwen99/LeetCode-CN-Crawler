@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1253. 重构 2 行二进制矩阵](https://leetcode-cn.com/problems/reconstruct-a-2-row-binary-matrix)
- ### 题目描述
 <p>给你一个&nbsp;<code>2</code>&nbsp;行 <code>n</code> 列的二进制数组：</p>
 
 <ul>

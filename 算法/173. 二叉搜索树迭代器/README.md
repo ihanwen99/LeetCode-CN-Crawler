@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [173. 二叉搜索树迭代器](https://leetcode-cn.com/problems/binary-search-tree-iterator)
- ### 题目描述
 <p>实现一个二叉搜索树迭代器。你将使用二叉搜索树的根节点初始化迭代器。</p>
 
 <p>调用 <code>next()</code> 将返回二叉搜索树中的下一个最小的数。</p>

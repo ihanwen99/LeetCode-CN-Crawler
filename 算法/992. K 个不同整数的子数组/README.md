@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [992. K 个不同整数的子数组](https://leetcode-cn.com/problems/subarrays-with-k-different-integers)
- ### 题目描述
 <p>给定一个正整数数组 <code>A</code>，如果 <code>A</code>&nbsp;的某个子数组中不同整数的个数恰好为 <code>K</code>，则称 <code>A</code> 的这个连续、不一定独立的子数组为<em>好子数组</em>。</p>
 
 <p>（例如，<code>[1,2,3,1,2]</code> 中有&nbsp;<code>3</code>&nbsp;个不同的整数：<code>1</code>，<code>2</code>，以及&nbsp;<code>3</code>。）</p>

@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1373. 二叉搜索子树的最大键值和](https://leetcode-cn.com/problems/maximum-sum-bst-in-binary-tree)
- ### 题目描述
 <p>给你一棵以&nbsp;<code>root</code>&nbsp;为根的&nbsp;<strong>二叉树</strong>&nbsp;，请你返回 <strong>任意</strong>&nbsp;二叉搜索子树的最大键值和。</p>
 
 <p>二叉搜索树的定义如下：</p>

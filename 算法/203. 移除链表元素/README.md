@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [203. 移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements)
- ### 题目描述
 <p>删除链表中等于给定值&nbsp;<strong><em>val&nbsp;</em></strong>的所有节点。</p>
 
 <p><strong>示例:</strong></p>

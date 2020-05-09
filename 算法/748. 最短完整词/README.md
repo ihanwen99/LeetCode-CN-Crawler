@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [748. 最短完整词](https://leetcode-cn.com/problems/shortest-completing-word)
- ### 题目描述
 <p>如果单词列表（<code>words</code>）中的一个单词包含牌照（<code>licensePlate</code>）中所有的字母，那么我们称之为完整词。在所有完整词中，最短的单词我们称之为最短完整词。</p>
 
 <p>单词在匹配牌照中的字母时不区分大小写，比如牌照中的&nbsp;<code>&quot;P&quot;</code>&nbsp;依然可以匹配单词中的&nbsp;<code>&quot;p&quot;</code>&nbsp;字母。</p>

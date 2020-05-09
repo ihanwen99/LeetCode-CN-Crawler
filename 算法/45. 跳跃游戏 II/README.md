@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [45. 跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii)
- ### 题目描述
 <p>给定一个非负整数数组，你最初位于数组的第一个位置。</p>
 
 <p>数组中的每个元素代表你在该位置可以跳跃的最大长度。</p>

@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1254. 统计封闭岛屿的数目](https://leetcode-cn.com/problems/number-of-closed-islands)
- ### 题目描述
 <p>有一个二维矩阵 <code>grid</code>&nbsp;，每个位置要么是陆地（记号为&nbsp;<code>0</code> ）要么是水域（记号为&nbsp;<code>1</code> ）。</p>
 
 <p>我们从一块陆地出发，每次可以往上下左右&nbsp;4 个方向相邻区域走，能走到的所有陆地区域，我们将其称为一座「<strong>岛屿</strong>」。</p>

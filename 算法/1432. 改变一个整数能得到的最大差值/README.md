@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1432. 改变一个整数能得到的最大差值](https://leetcode-cn.com/problems/max-difference-you-can-get-from-changing-an-integer)
- ### 题目描述
 <p>给你一个整数&nbsp;<code>num</code>&nbsp;。你可以对它进行如下步骤恰好 <strong>两次</strong>&nbsp;：</p>
 
 <ul>

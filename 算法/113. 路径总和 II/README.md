@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [113. 路径总和 II](https://leetcode-cn.com/problems/path-sum-ii)
- ### 题目描述
 <p>给定一个二叉树和一个目标和，找到所有从根节点到叶子节点路径总和等于给定目标和的路径。</p>
 
 <p><strong>说明:</strong>&nbsp;叶子节点是指没有子节点的节点。</p>

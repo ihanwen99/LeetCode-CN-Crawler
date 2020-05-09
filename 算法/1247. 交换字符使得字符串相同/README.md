@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1247. 交换字符使得字符串相同](https://leetcode-cn.com/problems/minimum-swaps-to-make-strings-equal)
- ### 题目描述
 <p>有两个长度相同的字符串&nbsp;<code>s1</code> 和&nbsp;<code>s2</code>，且它们其中&nbsp;<strong>只含有</strong>&nbsp;字符&nbsp;<code>&quot;x&quot;</code> 和&nbsp;<code>&quot;y&quot;</code>，你需要通过「交换字符」的方式使这两个字符串相同。</p>
 
 <p>每次「交换字符」的时候，你都可以在两个字符串中各选一个字符进行交换。</p>

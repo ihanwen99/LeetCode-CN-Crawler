@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [914. 卡牌分组](https://leetcode-cn.com/problems/x-of-a-kind-in-a-deck-of-cards)
- ### 题目描述
 <p>给定一副牌，每张牌上都写着一个整数。</p>
 
 <p>此时，你需要选定一个数字 <code>X</code>，使我们可以将整副牌按下述规则分成 1 组或更多组：</p>

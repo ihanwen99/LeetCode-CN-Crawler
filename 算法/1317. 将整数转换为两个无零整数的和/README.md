@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1317. 将整数转换为两个无零整数的和](https://leetcode-cn.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers)
- ### 题目描述
 <p>「无零整数」是十进制表示中 <strong>不含任何 0</strong>&nbsp;的正整数。</p>
 
 <p>给你一个整数&nbsp;<code>n</code>，请你返回一个 <strong>由两个整数组成的列表</strong> <code>[A, B]</code>，满足：</p>

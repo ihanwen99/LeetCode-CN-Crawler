@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [949. 给定数字能组成的最大时间](https://leetcode-cn.com/problems/largest-time-for-given-digits)
- ### 题目描述
 <p>给定一个由 4 位数字组成的数组，返回可以设置的符合 24 小时制的最大时间。</p>
 
 <p>最小的 24 小时制时间是&nbsp;00:00，而最大的是&nbsp;23:59。从 00:00 （午夜）开始算起，过得越久，时间越大。</p>

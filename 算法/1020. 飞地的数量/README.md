@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1020. 飞地的数量](https://leetcode-cn.com/problems/number-of-enclaves)
- ### 题目描述
 <p>给出一个二维数组&nbsp;<code>A</code>，每个单元格为 0（代表海）或 1（代表陆地）。</p>
 
 <p>移动是指在陆地上从一个地方走到另一个地方（朝四个方向之一）或离开网格的边界。</p>

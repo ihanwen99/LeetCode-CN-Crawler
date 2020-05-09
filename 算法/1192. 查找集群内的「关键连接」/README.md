@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1192. 查找集群内的「关键连接」](https://leetcode-cn.com/problems/critical-connections-in-a-network)
- ### 题目描述
 <p>力扣数据中心有&nbsp;<code>n</code>&nbsp;台服务器，分别按从&nbsp;<code>0</code>&nbsp;到&nbsp;<code>n-1</code>&nbsp;的方式进行了编号。</p>
 
 <p>它们之间以「服务器到服务器」点对点的形式相互连接组成了一个内部集群，其中连接&nbsp;<code>connections</code> 是无向的。</p>

@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [986. 区间列表的交集](https://leetcode-cn.com/problems/interval-list-intersections)
- ### 题目描述
 <p>给定两个由一些<strong>闭区间</strong>组成的列表，每个区间列表都是成对不相交的，并且已经排序。</p>
 
 <p>返回这两个区间列表的交集。</p>

@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1340. 跳跃游戏 V](https://leetcode-cn.com/problems/jump-game-v)
- ### 题目描述
 <p>给你一个整数数组&nbsp;<code>arr</code> 和一个整数&nbsp;<code>d</code> 。每一步你可以从下标&nbsp;<code>i</code>&nbsp;跳到：</p>
 
 <ul>

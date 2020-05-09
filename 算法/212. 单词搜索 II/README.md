@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [212. 单词搜索 II](https://leetcode-cn.com/problems/word-search-ii)
- ### 题目描述
 <p>给定一个二维网格&nbsp;<strong>board&nbsp;</strong>和一个字典中的单词列表 <strong>words</strong>，找出所有同时在二维网格和字典中出现的单词。</p>
 
 <p>单词必须按照字母顺序，通过相邻的单元格内的字母构成，其中&ldquo;相邻&rdquo;单元格是那些水平相邻或垂直相邻的单元格。同一个单元格内的字母在一个单词中不允许被重复使用。</p>

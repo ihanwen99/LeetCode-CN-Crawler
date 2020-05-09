@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [48. 旋转图像](https://leetcode-cn.com/problems/rotate-image)
- ### 题目描述
 <p>给定一个 <em>n&nbsp;</em>&times;&nbsp;<em>n</em> 的二维矩阵表示一个图像。</p>
 
 <p>将图像顺时针旋转 90 度。</p>

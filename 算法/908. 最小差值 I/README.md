@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [908. 最小差值 I](https://leetcode-cn.com/problems/smallest-range-i)
- ### 题目描述
 <p>给你一个整数数组 <code>A</code>，对于每个整数 <code>A[i]</code>，我们可以选择处于区间 <code>[-K, K]</code> 中的任意数 <code>x</code> ，将&nbsp;<code>x</code> 与 <code>A[i]</code> 相加，结果存入 <code>A[i]</code> 。</p>
 
 <p>在此过程之后，我们得到一些数组&nbsp;<code>B</code>。</p>

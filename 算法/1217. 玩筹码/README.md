@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1217. 玩筹码](https://leetcode-cn.com/problems/play-with-chips)
- ### 题目描述
 <p>数轴上放置了一些筹码，每个筹码的位置存在数组&nbsp;<code>chips</code>&nbsp;当中。</p>
 
 <p>你可以对 <strong>任何筹码</strong> 执行下面两种操作之一（<strong>不限操作次数</strong>，0 次也可以）：</p>

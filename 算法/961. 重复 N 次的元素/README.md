@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [961. 重复 N 次的元素](https://leetcode-cn.com/problems/n-repeated-element-in-size-2n-array)
- ### 题目描述
 <p>在大小为 <code>2N</code>&nbsp;的数组 <code>A</code>&nbsp;中有 <code>N+1</code> 个不同的元素，其中有一个元素重复了 <code>N</code> 次。</p>
 
 <p>返回重复了 <code>N</code>&nbsp;次的那个元素。</p>

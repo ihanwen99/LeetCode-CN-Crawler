@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [898. 子数组按位或操作](https://leetcode-cn.com/problems/bitwise-ors-of-subarrays)
- ### 题目描述
 <p>我们有一个非负整数数组&nbsp;<code>A</code>。</p>
 
 <p>对于每个（连续的）子数组&nbsp;<code>B =&nbsp;[A[i], A[i+1], ..., A[j]]</code> （&nbsp;<code>i &lt;= j</code>），我们对&nbsp;<code>B</code>&nbsp;中的每个元素进行按位或操作，获得结果&nbsp;<code>A[i] | A[i+1] | ... | A[j]</code>。</p>

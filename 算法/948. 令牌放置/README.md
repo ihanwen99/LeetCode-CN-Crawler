@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [948. 令牌放置](https://leetcode-cn.com/problems/bag-of-tokens)
- ### 题目描述
 <p>你的初始能量为&nbsp;<code>P</code>，初始分数为&nbsp;<code>0</code>，只有一包令牌。</p>
 
 <p>令牌的值为&nbsp;<code>token[i]</code>，每个令牌最多只能使用一次，可能的两种使用方法如下：</p>

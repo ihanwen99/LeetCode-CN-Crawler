@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [724. 寻找数组的中心索引](https://leetcode-cn.com/problems/find-pivot-index)
- ### 题目描述
 <p>给定一个整数类型的数组&nbsp;<code>nums</code>，请编写一个能够返回数组<strong>&ldquo;中心索引&rdquo;</strong>的方法。</p>
 
 <p>我们是这样定义数组<strong>中心索引</strong>的：数组中心索引的左侧所有元素相加的和等于右侧所有元素相加的和。</p>

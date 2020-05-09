@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1093. 大样本统计](https://leetcode-cn.com/problems/statistics-from-a-large-sample)
- ### 题目描述
 <p>我们对&nbsp;<code>0</code>&nbsp;到&nbsp;<code>255</code>&nbsp;之间的整数进行采样，并将结果存储在数组&nbsp;<code>count</code>&nbsp;中：<code>count[k]</code>&nbsp;就是整数&nbsp;<code>k</code> 的采样个数。</p>
 
 <p>我们以&nbsp;<strong>浮点数&nbsp;</strong>数组的形式，分别返回样本的最小值、最大值、平均值、中位数和众数。其中，众数是保证唯一的。</p>

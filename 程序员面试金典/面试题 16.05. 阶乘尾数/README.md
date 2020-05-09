@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [面试题 16.05. 阶乘尾数](https://leetcode-cn.com/problems/factorial-zeros-lcci)
- ### 题目描述
 <p>设计一个算法，算出 n 阶乘有多少个尾随零。</p>
 
 <p><strong>示例 1:</strong></p>

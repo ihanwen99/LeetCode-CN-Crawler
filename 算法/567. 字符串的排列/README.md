@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [567. 字符串的排列](https://leetcode-cn.com/problems/permutation-in-string)
- ### 题目描述
 <p>给定两个字符串&nbsp;<strong>s1</strong>&nbsp;和&nbsp;<strong>s2</strong>，写一个函数来判断 <strong>s2</strong> 是否包含 <strong>s1&nbsp;</strong>的排列。</p>
 
 <p>换句话说，第一个字符串的排列之一是第二个字符串的子串。</p>

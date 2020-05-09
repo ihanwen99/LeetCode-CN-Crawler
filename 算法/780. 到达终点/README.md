@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [780. 到达终点](https://leetcode-cn.com/problems/reaching-points)
- ### 题目描述
 <p>从点&nbsp;<code>(x, y)</code>&nbsp;可以<strong>转换</strong>到&nbsp;<code>(x, x+y)</code>&nbsp; 或者&nbsp;<code>(x+y, y)</code>。</p>
 
 <p>给定一个起点&nbsp;<code>(sx, sy)</code>&nbsp;和一个终点&nbsp;<code>(tx, ty)</code>，如果通过一系列的<strong>转换</strong>可以从起点到达终点，则返回 <code>True&nbsp;</code>，否则返回&nbsp;<code>False</code>。</p>

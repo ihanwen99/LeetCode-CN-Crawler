@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [472. 连接词](https://leetcode-cn.com/problems/concatenated-words)
- ### 题目描述
 <p>给定一个<strong>不含重复</strong>单词的列表，编写一个程序，返回给定单词列表中所有的连接词。</p>
 
 <p>连接词的定义为：一个字符串完全是由至少两个给定数组中的单词组成的。</p>

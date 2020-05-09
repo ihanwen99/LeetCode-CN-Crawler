@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [375. 猜数字大小 II](https://leetcode-cn.com/problems/guess-number-higher-or-lower-ii)
- ### 题目描述
 <p>我们正在玩一个猜数游戏，游戏规则如下：</p>
 
 <p>我从&nbsp;<strong>1&nbsp;</strong>到 <strong>n</strong> 之间选择一个数字，你来猜我选了哪个数字。</p>

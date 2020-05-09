@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1143. 最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence)
- ### 题目描述
 <p>给定两个字符串&nbsp;<code>text1</code> 和&nbsp;<code>text2</code>，返回这两个字符串的最长公共子序列的长度。</p>
 
 <p>一个字符串的&nbsp;<em>子序列&nbsp;</em>是指这样一个新的字符串：它是由原字符串在不改变字符的相对顺序的情况下删除某些字符（也可以不删除任何字符）后组成的新字符串。<br>

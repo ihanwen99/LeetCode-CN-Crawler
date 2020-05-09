@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [889. 根据前序和后序遍历构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal)
- ### 题目描述
 <p>返回与给定的前序和后序遍历匹配的任何二叉树。</p>
 
 <p>&nbsp;<code>pre</code>&nbsp;和&nbsp;<code>post</code>&nbsp;遍历中的值是不同的正整数。</p>

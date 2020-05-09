@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [640. 求解方程](https://leetcode-cn.com/problems/solve-the-equation)
- ### 题目描述
 <p>求解一个给定的方程，将<code>x</code>以字符串&quot;x=#value&quot;的形式返回。该方程仅包含&#39;+&#39;，&#39; - &#39;操作，变量&nbsp;<code>x</code>&nbsp;和其对应系数。</p>
 
 <p>如果方程没有解，请返回&ldquo;No solution&rdquo;。</p>

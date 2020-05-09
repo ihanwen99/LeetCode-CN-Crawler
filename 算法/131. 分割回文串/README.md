@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [131. 分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning)
- ### 题目描述
 <p>给定一个字符串 <em>s</em>，将<em> s </em>分割成一些子串，使每个子串都是回文串。</p>
 
 <p>返回 <em>s</em> 所有可能的分割方案。</p>

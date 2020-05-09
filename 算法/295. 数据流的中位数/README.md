@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [295. 数据流的中位数](https://leetcode-cn.com/problems/find-median-from-data-stream)
- ### 题目描述
 <p>中位数是有序列表中间的数。如果列表长度是偶数，中位数则是中间两个数的平均值。</p>
 
 <p>例如，</p>

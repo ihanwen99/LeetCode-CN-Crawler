@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [945. 使数组唯一的最小增量](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique)
- ### 题目描述
 <p>给定整数数组 A，每次 <em>move</em> 操作将会选择任意&nbsp;<code>A[i]</code>，并将其递增&nbsp;<code>1</code>。</p>
 
 <p>返回使 <code>A</code>&nbsp;中的每个值都是唯一的最少操作次数。</p>

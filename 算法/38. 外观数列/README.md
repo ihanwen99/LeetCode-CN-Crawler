@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [38. 外观数列](https://leetcode-cn.com/problems/count-and-say)
- ### 题目描述
 <p>「外观数列」是一个整数序列，从数字 1 开始，序列中的每一项都是对前一项的描述。前五项如下：</p>
 
 <pre>1.     1

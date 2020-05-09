@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [880. 索引处的解码字符串](https://leetcode-cn.com/problems/decoded-string-at-index)
- ### 题目描述
 <p>给定一个编码字符串 <code>S</code>。为了找出<em>解码</em>字符串并将其写入磁带，从编码字符串中<code>每次读取一个字符</code>，并采取以下步骤：</p>
 
 <ul>

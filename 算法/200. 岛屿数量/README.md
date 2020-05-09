@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [200. 岛屿数量](https://leetcode-cn.com/problems/number-of-islands)
- ### 题目描述
 <p>给你一个由&nbsp;<code>&#39;1&#39;</code>（陆地）和 <code>&#39;0&#39;</code>（水）组成的的二维网格，请你计算网格中岛屿的数量。</p>
 
 <p>岛屿总是被水包围，并且每座岛屿只能由水平方向或竖直方向上相邻的陆地连接形成。</p>

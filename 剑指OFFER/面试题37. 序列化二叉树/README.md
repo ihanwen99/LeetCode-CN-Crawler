@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [面试题37. 序列化二叉树](https://leetcode-cn.com/problems/xu-lie-hua-er-cha-shu-lcof)
- ### 题目描述
 <p>请实现两个函数，分别用来序列化和反序列化二叉树。</p>
 
 <p><strong>示例:&nbsp;</strong></p>

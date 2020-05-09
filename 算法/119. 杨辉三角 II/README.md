@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [119. 杨辉三角 II](https://leetcode-cn.com/problems/pascals-triangle-ii)
- ### 题目描述
 <p>给定一个非负索引&nbsp;<em>k</em>，其中 <em>k</em>&nbsp;&le;&nbsp;33，返回杨辉三角的第 <em>k </em>行。</p>
 
 <p><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/PascalTriangleAnimated2.gif"></p>

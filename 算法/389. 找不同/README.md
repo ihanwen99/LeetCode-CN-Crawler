@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [389. 找不同](https://leetcode-cn.com/problems/find-the-difference)
- ### 题目描述
 <p>给定两个字符串 <em><strong>s</strong></em> 和 <em><strong>t</strong></em>，它们只包含小写字母。</p>
 
 <p>字符串&nbsp;<strong><em>t</em></strong>&nbsp;由字符串&nbsp;<strong><em>s</em></strong>&nbsp;随机重排，然后在随机位置添加一个字母。</p>

@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [885. 螺旋矩阵 III](https://leetcode-cn.com/problems/spiral-matrix-iii)
- ### 题目描述
 <p>在&nbsp;<code>R</code>&nbsp;行&nbsp;<code>C</code>&nbsp;列的矩阵上，我们从&nbsp;<code>(r0, c0)</code>&nbsp;面朝东面开始</p>
 
 <p>这里，网格的西北角位于第一行第一列，网格的东南角位于最后一行最后一列。</p>

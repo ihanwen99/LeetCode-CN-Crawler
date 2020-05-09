@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1307. 口算难题](https://leetcode-cn.com/problems/verbal-arithmetic-puzzle)
- ### 题目描述
 <p>给你一个方程，左边用&nbsp;<code>words</code>&nbsp;表示，右边用&nbsp;<code>result</code> 表示。</p>
 
 <p>你需要根据以下规则检查方程是否可解：</p>

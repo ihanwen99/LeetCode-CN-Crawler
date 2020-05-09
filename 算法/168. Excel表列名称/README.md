@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [168. Excel表列名称](https://leetcode-cn.com/problems/excel-sheet-column-title)
- ### 题目描述
 <p>给定一个正整数，返回它在 Excel 表中相对应的列名称。</p>
 
 <p>例如，</p>

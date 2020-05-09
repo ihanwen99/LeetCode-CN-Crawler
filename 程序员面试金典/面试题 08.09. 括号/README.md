@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [面试题 08.09. 括号](https://leetcode-cn.com/problems/bracket-lcci)
- ### 题目描述
 <p>括号。设计一种算法，打印n对括号的所有合法的（例如，开闭一一对应）组合。</p>
 
 <p>说明：解集不能包含重复的子集。</p>

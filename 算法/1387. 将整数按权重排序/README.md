@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1387. 将整数按权重排序](https://leetcode-cn.com/problems/sort-integers-by-the-power-value)
- ### 题目描述
 <p>我们将整数 <code>x</code>&nbsp;的 <strong>权重</strong> 定义为按照下述规则将 <code>x</code>&nbsp;变成 <code>1</code>&nbsp;所需要的步数：</p>
 
 <ul>

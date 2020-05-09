@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [583. 两个字符串的删除操作](https://leetcode-cn.com/problems/delete-operation-for-two-strings)
- ### 题目描述
 <p>给定两个单词&nbsp;<em>word1&nbsp;</em>和&nbsp;<em>word2</em>，找到使得&nbsp;<em>word1&nbsp;</em>和&nbsp;<em>word2&nbsp;</em>相同所需的最小步数，每步可以删除任意一个字符串中的一个字符。</p>
 
 <p>&nbsp;</p>

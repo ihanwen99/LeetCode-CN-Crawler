@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1298. 你能从盒子里获得的最大糖果数](https://leetcode-cn.com/problems/maximum-candies-you-can-get-from-boxes)
- ### 题目描述
 <p>给你&nbsp;<code>n</code>&nbsp;个盒子，每个盒子的格式为&nbsp;<code>[status, candies, keys, containedBoxes]</code>&nbsp;，其中：</p>
 
 <ul>

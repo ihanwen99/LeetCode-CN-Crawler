@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [798. 得分最高的最小轮调](https://leetcode-cn.com/problems/smallest-rotation-with-highest-score)
- ### 题目描述
 <p>给定一个数组&nbsp;<code>A</code>，我们可以将它按一个非负整数 <code>K</code>&nbsp;进行轮调，这样可以使数组变为&nbsp;<code>A[K], A[K+1], A{K+2], ... A[A.length - 1], A[0], A[1], ..., A[K-1]</code>&nbsp;的形式。此后，任何值小于或等于其索引的项都可以记作一分。</p>
 
 <p>例如，如果数组为&nbsp;<code>[2, 4, 1, 3, 0]</code>，我们按&nbsp;<code>K = 2</code>&nbsp;进行轮调后，它将变成&nbsp;<code>[1, 3, 0, 2, 4]</code>。这将记作 3 分，因为 1 &gt; 0 [no points], 3 &gt; 1 [no points], 0 &lt;= 2 [one point], 2 &lt;= 3 [one point], 4 &lt;= 4 [one point]。</p>

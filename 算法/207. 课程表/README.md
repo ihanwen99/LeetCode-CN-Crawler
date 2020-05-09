@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [207. 课程表](https://leetcode-cn.com/problems/course-schedule)
- ### 题目描述
 <p>你这个学期必须选修 <code>numCourse</code> 门课程，记为&nbsp;<code>0</code>&nbsp;到&nbsp;<code>numCourse-1</code> 。</p>
 
 <p>在选修某些课程之前需要一些先修课程。&nbsp;例如，想要学习课程 0 ，你需要先完成课程 1 ，我们用一个匹配来表示他们：<code>[0,1]</code></p>

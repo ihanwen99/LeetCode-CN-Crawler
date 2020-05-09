@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [面试题 16.08. 整数的英语表示](https://leetcode-cn.com/problems/english-int-lcci)
- ### 题目描述
 <p>给定一个整数，打印该整数的英文描述。</p>
 
 <p><strong>示例 1:</strong></p>

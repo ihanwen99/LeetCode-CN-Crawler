@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [957. N 天后的牢房](https://leetcode-cn.com/problems/prison-cells-after-n-days)
- ### 题目描述
 <p>8 间牢房排成一排，每间牢房不是有人住就是空着。</p>
 
 <p>每天，无论牢房是被占用或空置，都会根据以下规则进行更改：</p>

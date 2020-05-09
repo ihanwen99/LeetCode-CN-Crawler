@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [791. 自定义字符串排序](https://leetcode-cn.com/problems/custom-sort-string)
- ### 题目描述
 <p>字符串<code>S</code>和 <code>T</code> 只包含小写字符。在<code>S</code>中，所有字符只会出现一次。</p>
 
 <p><code>S</code> 已经根据某种规则进行了排序。我们要根据<code>S</code>中的字符顺序对<code>T</code>进行排序。更具体地说，如果<code>S</code>中<code>x</code>在<code>y</code>之前出现，那么返回的字符串中<code>x</code>也应出现在<code>y</code>之前。</p>

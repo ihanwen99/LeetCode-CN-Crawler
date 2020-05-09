@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [306. 累加数](https://leetcode-cn.com/problems/additive-number)
- ### 题目描述
 <p>累加数是一个字符串，组成它的数字可以形成累加序列。</p>
 
 <p>一个有效的累加序列必须<strong>至少</strong>包含 3 个数。除了最开始的两个数以外，字符串中的其他数都等于它之前两个数相加的和。</p>

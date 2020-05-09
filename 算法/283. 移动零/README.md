@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [283. 移动零](https://leetcode-cn.com/problems/move-zeroes)
- ### 题目描述
 <p>给定一个数组 <code>nums</code>，编写一个函数将所有 <code>0</code> 移动到数组的末尾，同时保持非零元素的相对顺序。</p>
 
 <p><strong>示例:</strong></p>

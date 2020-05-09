@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [LCP 05. 发 LeetCoin](https://leetcode-cn.com/problems/coin-bonus)
- ### 题目描述
 <p>力扣决定给一个刷题团队发<code>LeetCoin</code>作为奖励。同时，为了监控给大家发了多少<code>LeetCoin</code>，力扣有时候也会进行查询。</p>
 
 <p>&nbsp;</p>

@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [441. 排列硬币](https://leetcode-cn.com/problems/arranging-coins)
- ### 题目描述
 <p>你总共有&nbsp;<em>n&nbsp;</em>枚硬币，你需要将它们摆成一个阶梯形状，第&nbsp;<em>k&nbsp;</em>行就必须正好有&nbsp;<em>k&nbsp;</em>枚硬币。</p>
 
 <p>给定一个数字&nbsp;<em>n</em>，找出可形成完整阶梯行的总行数。</p>

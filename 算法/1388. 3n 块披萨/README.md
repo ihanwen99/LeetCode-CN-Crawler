@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1388. 3n 块披萨](https://leetcode-cn.com/problems/pizza-with-3n-slices)
- ### 题目描述
 <p>给你一个披萨，它由 3n 块不同大小的部分组成，现在你和你的朋友们需要按照如下规则来分披萨：</p>
 
 <ul>

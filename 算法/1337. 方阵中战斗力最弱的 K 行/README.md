@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1337. 方阵中战斗力最弱的 K 行](https://leetcode-cn.com/problems/the-k-weakest-rows-in-a-matrix)
- ### 题目描述
 <p>给你一个大小为&nbsp;<code>m&nbsp;* n</code>&nbsp;的方阵&nbsp;<code>mat</code>，方阵由若干军人和平民组成，分别用 1 和 0 表示。</p>
 
 <p>请你返回方阵中战斗力最弱的&nbsp;<code>k</code>&nbsp;行的索引，按从最弱到最强排序。</p>

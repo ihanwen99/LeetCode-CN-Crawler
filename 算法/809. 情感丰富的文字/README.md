@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [809. 情感丰富的文字](https://leetcode-cn.com/problems/expressive-words)
- ### 题目描述
 <p>有时候人们会用重复写一些字母来表示额外的感受，比如 <code>&quot;hello&quot; -&gt; &quot;heeellooo&quot;</code>, <code>&quot;hi&quot; -&gt; &quot;hiii&quot;</code>。我们将相邻字母都相同的一串字符定义为相同字母组，例如：&quot;h&quot;, &quot;eee&quot;, &quot;ll&quot;, &quot;ooo&quot;。</p>
 
 <p>对于一个给定的字符串 S ，如果另一个单词能够通过将一些字母组扩张从而使其和 S 相同，我们将这个单词定义为可扩张的（stretchy）。扩张操作定义如下：选择一个字母组（包含字母&nbsp;<code>c</code>&nbsp;），然后往其中添加相同的字母&nbsp;<code>c</code>&nbsp;使其长度达到 3 或以上。</p>

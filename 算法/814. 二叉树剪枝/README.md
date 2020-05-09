@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [814. 二叉树剪枝](https://leetcode-cn.com/problems/binary-tree-pruning)
- ### 题目描述
 <p>给定二叉树根结点&nbsp;<code>root</code>&nbsp;，此外树的每个结点的值要么是 0，要么是 1。</p>
 
 <p>返回移除了所有不包含 1 的子树的原二叉树。</p>

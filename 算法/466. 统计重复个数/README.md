@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [466. 统计重复个数](https://leetcode-cn.com/problems/count-the-repetitions)
- ### 题目描述
 <p>由 n 个连接的字符串 s 组成字符串 S，记作&nbsp;<code>S = [s,n]</code>。例如，<code>[&quot;abc&quot;,3]</code>=&ldquo;abcabcabc&rdquo;。</p>
 
 <p>如果我们可以从 s2<sub>&nbsp;</sub>中删除某些字符使其变为 s1，则称字符串 s1<sub>&nbsp;</sub>可以从字符串 s2 获得。例如，根据定义，&quot;abc&quot; 可以从 &ldquo;abdbec&rdquo; 获得，但不能从 &ldquo;acbbe&rdquo; 获得。</p>

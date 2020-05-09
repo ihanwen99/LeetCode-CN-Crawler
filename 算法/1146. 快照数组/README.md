@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1146. 快照数组](https://leetcode-cn.com/problems/snapshot-array)
- ### 题目描述
 <p>实现支持下列接口的「快照数组」-&nbsp;SnapshotArray：</p>
 
 <ul>

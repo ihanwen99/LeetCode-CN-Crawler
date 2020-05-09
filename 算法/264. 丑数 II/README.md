@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [264. 丑数 II](https://leetcode-cn.com/problems/ugly-number-ii)
- ### 题目描述
 <p>编写一个程序，找出第 <code>n</code> 个丑数。</p>
 
 <p>丑数就是质因数只包含&nbsp;<code>2, 3, 5</code> 的<strong>正整数</strong>。</p>

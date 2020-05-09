@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [713. 乘积小于K的子数组](https://leetcode-cn.com/problems/subarray-product-less-than-k)
- ### 题目描述
 <p>给定一个正整数数组&nbsp;<code>nums</code>。</p>
 
 <p>找出该数组内乘积小于&nbsp;<code>k</code>&nbsp;的连续的子数组的个数。</p>

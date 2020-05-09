@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [969. 煎饼排序](https://leetcode-cn.com/problems/pancake-sorting)
- ### 题目描述
 <p>给定数组&nbsp;<code>A</code>，我们可以对其进行<em>煎饼翻转</em>：我们选择一些正整数&nbsp;<code><strong>k</strong>&nbsp;&lt;= A.length</code>，然后反转 <code>A</code> 的前 <strong>k</strong>&nbsp;个元素的顺序。我们要执行零次或多次煎饼翻转（按顺序一次接一次地进行）以完成对数组 <code>A</code> 的排序。</p>
 
 <p>返回能使&nbsp;<code>A</code> 排序的煎饼翻转操作所对应的 k 值序列。任何将数组排序且翻转次数在&nbsp;<code>10 * A.length</code> 范围内的有效答案都将被判断为正确。</p>

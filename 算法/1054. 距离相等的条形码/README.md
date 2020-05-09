@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1054. 距离相等的条形码](https://leetcode-cn.com/problems/distant-barcodes)
- ### 题目描述
 <p>在一个仓库里，有一排条形码，其中第 <code>i</code> 个条形码为&nbsp;<code>barcodes[i]</code>。</p>
 
 <p>请你重新排列这些条形码，使其中两个相邻的条形码 <strong>不能</strong> 相等。 你可以返回任何满足该要求的答案，此题保证存在答案。</p>

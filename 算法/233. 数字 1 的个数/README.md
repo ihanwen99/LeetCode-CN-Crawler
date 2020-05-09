@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [233. 数字 1 的个数](https://leetcode-cn.com/problems/number-of-digit-one)
- ### 题目描述
 <p>给定一个整数 n，计算所有小于等于 n 的非负整数中数字 1 出现的个数。</p>
 
 <p><strong>示例:</strong></p>

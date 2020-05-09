@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [659. 分割数组为连续子序列](https://leetcode-cn.com/problems/split-array-into-consecutive-subsequences)
- ### 题目描述
 <p>输入一个按升序排序的整数数组（可能包含重复数字），你需要将它们分割成几个子序列，其中每个子序列至少包含三个连续整数。返回你是否能做出这样的分割？</p>
 
 <p>&nbsp;</p>

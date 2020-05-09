@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [347. 前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements)
- ### 题目描述
 <p>给定一个非空的整数数组，返回其中出现频率前&nbsp;<strong><em>k&nbsp;</em></strong>高的元素。</p>
 
 <p>&nbsp;</p>

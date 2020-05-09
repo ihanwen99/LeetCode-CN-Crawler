@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [148. 排序链表](https://leetcode-cn.com/problems/sort-list)
- ### 题目描述
 <p>在&nbsp;<em>O</em>(<em>n</em>&nbsp;log&nbsp;<em>n</em>) 时间复杂度和常数级空间复杂度下，对链表进行排序。</p>
 
 <p><strong>示例 1:</strong></p>

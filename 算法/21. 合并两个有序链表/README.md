@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists)
- ### 题目描述
 <p>将两个升序链表合并为一个新的升序链表并返回。新链表是通过拼接给定的两个链表的所有节点组成的。&nbsp;</p>
 
 <p><strong>示例：</strong></p>

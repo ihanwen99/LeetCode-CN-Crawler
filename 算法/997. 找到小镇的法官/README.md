@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [997. 找到小镇的法官](https://leetcode-cn.com/problems/find-the-town-judge)
- ### 题目描述
 <p>在一个小镇里，按从 <code>1</code> 到 <code>N</code> 标记了&nbsp;<code>N</code> 个人。传言称，这些人中有一个是小镇上的秘密法官。</p>
 
 <p>如果小镇的法官真的存在，那么：</p>

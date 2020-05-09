@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [4. 寻找两个正序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays)
- ### 题目描述
 <p>给定两个大小为 m 和 n 的正序（从小到大）数组&nbsp;<code>nums1</code> 和&nbsp;<code>nums2</code>。</p>
 
 <p>请你找出这两个正序数组的中位数，并且要求算法的时间复杂度为&nbsp;O(log(m + n))。</p>

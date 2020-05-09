@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1147. 段式回文](https://leetcode-cn.com/problems/longest-chunked-palindrome-decomposition)
- ### 题目描述
 <p>段式回文 其实与 一般回文 类似，只不过是最小的单位是 一段字符&nbsp;而不是 单个字母。</p>
 
 <p>举个例子，对于一般回文 &quot;<code>abcba</code>&quot; 是回文，而 &quot;<code>volvo</code>&quot; 不是，但如果我们把&nbsp;&quot;<code>volvo</code>&quot; 分为 &quot;<code>vo</code>&quot;、&quot;<code>l</code>&quot;、&quot;<code>vo</code>&quot; 三段，则可以认为 &ldquo;<code>(vo)(l)(vo)</code>&rdquo; 是段式回文（分为 3 段）。</p>

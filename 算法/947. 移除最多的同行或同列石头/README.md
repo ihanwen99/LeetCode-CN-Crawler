@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [947. 移除最多的同行或同列石头](https://leetcode-cn.com/problems/most-stones-removed-with-same-row-or-column)
- ### 题目描述
 <p>我们将石头放置在二维平面中的一些整数坐标点上。每个坐标点上最多只能有一块石头。</p>
 
 <p>每次<em> move</em> 操作都会移除一块所在行或者列上有其他石头存在的石头。</p>

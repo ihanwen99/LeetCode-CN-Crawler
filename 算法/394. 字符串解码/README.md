@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [394. 字符串解码](https://leetcode-cn.com/problems/decode-string)
- ### 题目描述
 <p>给定一个经过编码的字符串，返回它解码后的字符串。</p>
 
 <p>编码规则为: <code>k[encoded_string]</code>，表示其中方括号内部的 <em>encoded_string</em> 正好重复 <em>k</em> 次。注意 <em>k</em> 保证为正整数。</p>

@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [691. 贴纸拼词](https://leetcode-cn.com/problems/stickers-to-spell-word)
- ### 题目描述
 <p>我们给出了 N 种不同类型的贴纸。每个贴纸上都有一个小写的英文单词。</p>
 
 <p>你希望从自己的贴纸集合中裁剪单个字母并重新排列它们，从而拼写出给定的目标字符串 <code>target</code>。</p>

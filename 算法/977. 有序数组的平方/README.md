@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [977. 有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array)
- ### 题目描述
 <p>给定一个按非递减顺序排序的整数数组 <code>A</code>，返回每个数字的平方组成的新数组，要求也按非递减顺序排序。</p>
 
 <p>&nbsp;</p>

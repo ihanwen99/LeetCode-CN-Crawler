@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1313. 解压缩编码列表](https://leetcode-cn.com/problems/decompress-run-length-encoded-list)
- ### 题目描述
 <p>给你一个以行程长度编码压缩的整数列表&nbsp;<code>nums</code>&nbsp;。</p>
 
 <p>考虑每对相邻的两个元素 <code>[freq, val] = [nums[2*i], nums[2*i+1]]</code>&nbsp;（其中&nbsp;<code>i &gt;= 0</code>&nbsp;），每一对都表示解压后子列表中有 <code>freq</code>&nbsp;个值为&nbsp;<code>val</code>&nbsp;的元素，你需要从左到右连接所有子列表以生成解压后的列表。</p>

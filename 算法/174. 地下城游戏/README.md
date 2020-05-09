@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [174. 地下城游戏](https://leetcode-cn.com/problems/dungeon-game)
- ### 题目描述
 <style>
 table.dungeon, .dungeon th, .dungeon td {
   border:3px solid black;

@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [227. 基本计算器 II](https://leetcode-cn.com/problems/basic-calculator-ii)
- ### 题目描述
 <p>实现一个基本的计算器来计算一个简单的字符串表达式的值。</p>
 
 <p>字符串表达式仅包含非负整数，<code>+</code>， <code>-</code> ，<code>*</code>，<code>/</code> 四种运算符和空格&nbsp;<code>&nbsp;</code>。 整数除法仅保留整数部分。</p>

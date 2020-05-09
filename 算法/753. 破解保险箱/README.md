@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [753. 破解保险箱](https://leetcode-cn.com/problems/cracking-the-safe)
- ### 题目描述
 <p>有一个需要密码才能打开的保险箱。密码是&nbsp;<code>n</code> 位数, 密码的每一位是&nbsp;<code>k</code>&nbsp;位序列&nbsp;<code>0, 1, ..., k-1</code>&nbsp;中的一个 。</p>
 
 <p>你可以随意输入密码，保险箱会自动记住最后&nbsp;<code>n</code>&nbsp;位输入，如果匹配，则能够打开保险箱。</p>

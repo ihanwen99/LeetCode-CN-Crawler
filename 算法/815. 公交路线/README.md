@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [815. 公交路线](https://leetcode-cn.com/problems/bus-routes)
- ### 题目描述
 <p>我们有一系列公交路线。每一条路线 <code>routes[i]</code>&nbsp;上都有一辆公交车在上面循环行驶。例如，有一条路线&nbsp;<code>routes[0] = [1, 5, 7]</code>，表示第一辆 (下标为0) 公交车会一直按照&nbsp;1-&gt;5-&gt;7-&gt;1-&gt;5-&gt;7-&gt;1-&gt;...&nbsp;的车站路线行驶。</p>
 
 <p>假设我们从&nbsp;<code>S</code>&nbsp;车站开始（初始时不在公交车上），要去往&nbsp;<code>T</code>&nbsp;站。 期间仅可乘坐公交车，求出最少乘坐的公交车数量。返回 -1 表示不可能到达终点车站。</p>

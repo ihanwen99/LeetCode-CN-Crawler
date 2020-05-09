@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [703. 数据流中的第K大元素](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream)
- ### 题目描述
 <p>设计一个找到数据流中第K大元素的类（class）。注意是排序后的第K大元素，不是第K个不同的元素。</p>
 
 <p>你的&nbsp;<code>KthLargest</code>&nbsp;类需要一个同时接收整数&nbsp;<code>k</code> 和整数数组<code>nums</code>&nbsp;的构造器，它包含数据流中的初始元素。每次调用&nbsp;<code>KthLargest.add</code>，返回当前数据流中第K大的元素。</p>

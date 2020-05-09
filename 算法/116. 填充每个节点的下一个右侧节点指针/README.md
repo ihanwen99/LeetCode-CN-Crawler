@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [116. 填充每个节点的下一个右侧节点指针](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node)
- ### 题目描述
 <p>给定一个<strong>完美二叉树</strong>，其所有叶子节点都在同一层，每个父节点都有两个子节点。二叉树定义如下：</p>
 
 <pre>struct Node {

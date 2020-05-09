@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [410. 分割数组的最大值](https://leetcode-cn.com/problems/split-array-largest-sum)
- ### 题目描述
 <p>给定一个非负整数数组和一个整数&nbsp;<em>m</em>，你需要将这个数组分成&nbsp;<em>m&nbsp;</em>个非空的连续子数组。设计一个算法使得这&nbsp;<em>m&nbsp;</em>个子数组各自和的最大值最小。</p>
 
 <p><strong>注意:</strong><br />

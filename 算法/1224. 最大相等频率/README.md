@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1224. 最大相等频率](https://leetcode-cn.com/problems/maximum-equal-frequency)
- ### 题目描述
 <p>给出一个正整数数组&nbsp;<code>nums</code>，请你帮忙从该数组中找出能满足下面要求的 <strong>最长</strong> 前缀，并返回其长度：</p>
 
 <ul>

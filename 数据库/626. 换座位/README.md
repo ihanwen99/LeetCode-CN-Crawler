@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [626. 换座位](https://leetcode-cn.com/problems/exchange-seats)
- ### 题目描述
 <p>小美是一所中学的信息科技老师，她有一张 <code>seat</code>&nbsp;座位表，平时用来储存学生名字和与他们相对应的座位 id。</p>
 
 <p>其中纵列的&nbsp;<strong>id&nbsp;</strong>是连续递增的</p>

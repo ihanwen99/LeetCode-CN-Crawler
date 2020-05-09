@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [895. 最大频率栈](https://leetcode-cn.com/problems/maximum-frequency-stack)
- ### 题目描述
 <p>实现 <code>FreqStack</code>，模拟类似栈的数据结构的操作的一个类。</p>
 
 <p><code>FreqStack</code>&nbsp;有两个函数：</p>

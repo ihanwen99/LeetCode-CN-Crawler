@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [684. 冗余连接](https://leetcode-cn.com/problems/redundant-connection)
- ### 题目描述
 <p>在本问题中, 树指的是一个连通且无环的<strong>无向</strong>图。</p>
 
 <p>输入一个图，该图由一个有着N个节点 (节点值不重复1, 2, ..., N) 的树及一条附加的边构成。附加的边的两个顶点包含在1到N中间，这条附加的边不属于树中已存在的边。</p>

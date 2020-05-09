@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [994. 腐烂的橘子](https://leetcode-cn.com/problems/rotting-oranges)
- ### 题目描述
 <p>在给定的网格中，每个单元格可以有以下三个值之一：</p>
 
 <ul>

@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [787. K 站中转内最便宜的航班](https://leetcode-cn.com/problems/cheapest-flights-within-k-stops)
- ### 题目描述
 <p>有 <code>n</code> 个城市通过 <code>m</code> 个航班连接。每个航班都从城市 <code>u</code> 开始，以价格 <code>w</code> 抵达 <code>v</code>。</p>
 
 <p>现在给定所有的城市和航班，以及出发城市 <code>src</code> 和目的地 <code>dst</code>，你的任务是找到从 <code>src</code> 到 <code>dst</code> 最多经过 <code>k</code>&nbsp;站中转的最便宜的价格。 如果没有这样的路线，则输出 <code>-1</code>。</p>

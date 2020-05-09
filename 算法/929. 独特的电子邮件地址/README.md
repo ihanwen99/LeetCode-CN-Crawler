@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [929. 独特的电子邮件地址](https://leetcode-cn.com/problems/unique-email-addresses)
- ### 题目描述
 <p>每封电子邮件都由一个本地名称和一个域名组成，以 @ 符号分隔。</p>
 
 <p>例如，在&nbsp;<code>alice@leetcode.com</code>中，&nbsp;<code>alice</code>&nbsp;是本地名称，而&nbsp;<code>leetcode.com</code>&nbsp;是域名。</p>

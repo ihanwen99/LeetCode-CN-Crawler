@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1191. K 次串联后最大子数组之和](https://leetcode-cn.com/problems/k-concatenation-maximum-sum)
- ### 题目描述
 <p>给你一个整数数组&nbsp;<code>arr</code>&nbsp;和一个整数&nbsp;<code>k</code>。</p>
 
 <p>首先，我们要对该数组进行修改，即把原数组 <code>arr</code> 重复&nbsp;<code>k</code>&nbsp;次。</p>

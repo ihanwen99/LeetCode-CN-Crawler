@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [741. 摘樱桃](https://leetcode-cn.com/problems/cherry-pickup)
- ### 题目描述
 <p>一个N x N的网格<code>(grid)</code>&nbsp;代表了一块樱桃地，每个格子由以下三种数字的一种来表示：</p>
 
 <ul>

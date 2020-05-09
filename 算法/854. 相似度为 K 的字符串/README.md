@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [854. 相似度为 K 的字符串](https://leetcode-cn.com/problems/k-similar-strings)
- ### 题目描述
 <p>如果可以通过将 <code>A</code> 中的两个小写字母精确地交换位置 <code>K</code> 次得到与 <code>B</code> 相等的字符串，我们称字符串&nbsp;<code>A</code>&nbsp;和&nbsp;<code>B</code>&nbsp;的相似度为 <code>K</code>（<code>K</code>&nbsp;为非负整数）。</p>
 
 <p>给定两个字母异位词&nbsp;<code>A</code>&nbsp;和&nbsp;<code>B</code>&nbsp;，返回 <code>A</code> 和 <code>B</code>&nbsp;的相似度 <code>K</code> 的最小值。</p>

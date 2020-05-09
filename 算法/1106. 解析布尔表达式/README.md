@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1106. 解析布尔表达式](https://leetcode-cn.com/problems/parsing-a-boolean-expression)
- ### 题目描述
 <p>给你一个以字符串形式表述的&nbsp;<a href="https://baike.baidu.com/item/%E5%B8%83%E5%B0%94%E8%A1%A8%E8%BE%BE%E5%BC%8F/1574380?fr=aladdin" target="_blank">布尔表达式</a>（boolean） <code>expression</code>，返回该式的运算结果。</p>
 
 <p>有效的表达式需遵循以下约定：</p>

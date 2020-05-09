@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [67. 二进制求和](https://leetcode-cn.com/problems/add-binary)
- ### 题目描述
 <p>给你两个二进制字符串，返回它们的和（用二进制表示）。</p>
 
 <p>输入为 <strong>非空 </strong>字符串且只包含数字&nbsp;<code>1</code>&nbsp;和&nbsp;<code>0</code>。</p>

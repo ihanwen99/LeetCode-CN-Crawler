@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [414. 第三大的数](https://leetcode-cn.com/problems/third-maximum-number)
- ### 题目描述
 <p>给定一个非空数组，返回此数组中第三大的数。如果不存在，则返回数组中最大的数。要求算法时间复杂度必须是O(n)。</p>
 
 <p><strong>示例 1:</strong></p>

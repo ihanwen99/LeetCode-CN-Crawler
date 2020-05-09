@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [面试题 02.03. 删除中间节点](https://leetcode-cn.com/problems/delete-middle-node-lcci)
- ### 题目描述
 <p>实现一种算法，删除单向链表中间的某个节点（除了第一个和最后一个节点，不一定是中间节点），假定你只能访问该节点。</p>
 
 <p>&nbsp;</p>

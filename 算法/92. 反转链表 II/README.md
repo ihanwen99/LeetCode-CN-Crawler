@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [92. 反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii)
- ### 题目描述
 <p>反转从位置 <em>m</em> 到 <em>n</em> 的链表。请使用一趟扫描完成反转。</p>
 
 <p><strong>说明:</strong><br>

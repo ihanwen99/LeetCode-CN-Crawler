@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1329. 将矩阵按对角线排序](https://leetcode-cn.com/problems/sort-the-matrix-diagonally)
- ### 题目描述
 <p>给你一个&nbsp;<code>m * n</code>&nbsp;的整数矩阵&nbsp;<code>mat</code>&nbsp;，请你将同一条对角线上的元素（从左上到右下）按升序排序后，返回排好序的矩阵。</p>
 
 <p>&nbsp;</p>

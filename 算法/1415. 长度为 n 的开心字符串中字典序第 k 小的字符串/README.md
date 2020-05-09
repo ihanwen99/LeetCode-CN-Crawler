@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1415. 长度为 n 的开心字符串中字典序第 k 小的字符串](https://leetcode-cn.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n)
- ### 题目描述
 <p>一个 「开心字符串」定义为：</p>
 
 <ul>

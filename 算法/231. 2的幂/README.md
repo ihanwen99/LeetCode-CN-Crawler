@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [231. 2的幂](https://leetcode-cn.com/problems/power-of-two)
- ### 题目描述
 <p>给定一个整数，编写一个函数来判断它是否是 2 的幂次方。</p>
 
 <p><strong>示例&nbsp;1:</strong></p>

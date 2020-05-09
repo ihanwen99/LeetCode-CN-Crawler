@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [553. 最优除法](https://leetcode-cn.com/problems/optimal-division)
- ### 题目描述
 <p>给定一组<strong>正整数，</strong>相邻的整数之间将会进行浮点除法操作。例如，&nbsp;[2,3,4] -&gt; 2 / 3 / 4 。</p>
 
 <p>但是，你可以在任意位置添加任意数目的括号，来改变算数的优先级。你需要找出怎么添加括号，才能得到<strong>最大的</strong>结果，并且返回相应的字符串格式的表达式。<strong>你的表达式不应该含有冗余的括号。</strong></p>

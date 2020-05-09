@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [46. 全排列](https://leetcode-cn.com/problems/permutations)
- ### 题目描述
 <p>给定一个<strong> 没有重复</strong> 数字的序列，返回其所有可能的全排列。</p>
 
 <p><strong>示例:</strong></p>

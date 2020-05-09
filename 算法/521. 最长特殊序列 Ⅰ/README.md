@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [521. 最长特殊序列 Ⅰ](https://leetcode-cn.com/problems/longest-uncommon-subsequence-i)
- ### 题目描述
 <p>给你两个字符串，请你从这两个字符串中找出最长的特殊序列。</p>
 
 <p>「最长特殊序列」定义如下：该序列为某字符串独有的最长子序列（即不能是其他字符串的子序列）。</p>

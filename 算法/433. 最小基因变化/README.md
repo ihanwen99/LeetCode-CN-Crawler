@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [433. 最小基因变化](https://leetcode-cn.com/problems/minimum-genetic-mutation)
- ### 题目描述
 <p>一条基因序列由一个带有8个字符的字符串表示，其中每个字符都属于 <code>&quot;A&quot;</code>, <code>&quot;C&quot;</code>, <code>&quot;G&quot;</code>, <code>&quot;T&quot;</code>中的任意一个。</p>
 
 <p>假设我们要调查一个基因序列的变化。<strong>一次</strong>基因变化意味着这个基因序列中的<strong>一个</strong>字符发生了变化。</p>

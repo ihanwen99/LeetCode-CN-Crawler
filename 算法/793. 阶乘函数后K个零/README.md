@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [793. 阶乘函数后K个零](https://leetcode-cn.com/problems/preimage-size-of-factorial-zeroes-function)
- ### 题目描述
 <p>&nbsp;<code>f(x)</code>&nbsp;是&nbsp;<code>x!</code>&nbsp;末尾是0的数量。（回想一下&nbsp;<code>x! = 1 * 2 * 3 * ... * x</code>，且<code>0! = 1</code>）</p>
 
 <p>例如，&nbsp;<code>f(3) = 0</code>&nbsp;，因为3! = 6的末尾没有0；而&nbsp;<code>f(11) = 2</code>&nbsp;，因为11!= 39916800末端有2个0。给定&nbsp;<code>K</code>，找出多少个非负整数<code>x</code>&nbsp;，有&nbsp;<code>f(x) = K</code>&nbsp;的性质。</p>

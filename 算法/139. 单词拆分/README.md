@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [139. 单词拆分](https://leetcode-cn.com/problems/word-break)
- ### 题目描述
 <p>给定一个<strong>非空</strong>字符串 <em>s</em> 和一个包含<strong>非空</strong>单词列表的字典 <em>wordDict</em>，判定&nbsp;<em>s</em> 是否可以被空格拆分为一个或多个在字典中出现的单词。</p>
 
 <p><strong>说明：</strong></p>

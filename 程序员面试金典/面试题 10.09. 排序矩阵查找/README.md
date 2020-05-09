@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [面试题 10.09. 排序矩阵查找](https://leetcode-cn.com/problems/sorted-matrix-search-lcci)
- ### 题目描述
 <p>给定M&times;N矩阵，每一行、每一列都按升序排列，请编写代码找出某元素。</p>
 
 <p><strong>示例:</strong></p>

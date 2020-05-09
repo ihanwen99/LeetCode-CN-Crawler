@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1222. 可以攻击国王的皇后](https://leetcode-cn.com/problems/queens-that-can-attack-the-king)
- ### 题目描述
 <p>在一个&nbsp;<strong>8x8</strong>&nbsp;的棋盘上，放置着若干「黑皇后」和一个「白国王」。</p>
 
 <p>「黑皇后」在棋盘上的位置分布用整数坐标数组&nbsp;<code>queens</code>&nbsp;表示，「白国王」的坐标用数组 <code>king</code> 表示。</p>

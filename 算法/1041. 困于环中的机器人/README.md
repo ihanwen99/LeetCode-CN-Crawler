@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1041. 困于环中的机器人](https://leetcode-cn.com/problems/robot-bounded-in-circle)
- ### 题目描述
 <p>在无限的平面上，机器人最初位于&nbsp;<code>(0, 0)</code>&nbsp;处，面朝北方。机器人可以接受下列三条指令之一：</p>
 
 <ul>

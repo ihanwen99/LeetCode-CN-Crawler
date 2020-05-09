@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [935. 骑士拨号器](https://leetcode-cn.com/problems/knight-dialer)
- ### 题目描述
 <p>国际象棋中的骑士可以按下图所示进行移动：</p>
 
 <p><img alt="" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2018/11/03/knight.png" style="height: 150px; width: 150px;">&nbsp;.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img alt="" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2018/11/03/keypad.png" style="height: 150px; width: 134px;"></p>

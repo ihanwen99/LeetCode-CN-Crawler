@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [445. 两数相加 II](https://leetcode-cn.com/problems/add-two-numbers-ii)
- ### 题目描述
 <p>给你两个 <strong>非空 </strong>链表来代表两个非负整数。数字最高位位于链表开始位置。它们的每个节点只存储一位数字。将这两数相加会返回一个新的链表。</p>
 
 <p>你可以假设除了数字 0 之外，这两个数字都不会以零开头。</p>

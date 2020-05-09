@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [564. 寻找最近的回文数](https://leetcode-cn.com/problems/find-the-closest-palindrome)
- ### 题目描述
 <p>给定一个整数 n ，你需要找到与它最近的回文数（不包括自身）。</p>
 
 <p>&ldquo;最近的&rdquo;定义为两个整数<strong>差的绝对值</strong>最小。</p>

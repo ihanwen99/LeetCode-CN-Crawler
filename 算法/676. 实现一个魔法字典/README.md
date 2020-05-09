@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [676. 实现一个魔法字典](https://leetcode-cn.com/problems/implement-magic-dictionary)
- ### 题目描述
 <p>实现一个带有<code>buildDict</code>, 以及&nbsp;<code>search</code>方法的魔法字典。</p>
 
 <p>对于<code>buildDict</code>方法，你将被给定一串不重复的单词来构建一个字典。</p>

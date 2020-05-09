@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [面试题 05.06. 整数转换](https://leetcode-cn.com/problems/convert-integer-lcci)
- ### 题目描述
 <p>整数转换。编写一个函数，确定需要改变几个位才能将整数A转成整数B。</p>
 
 <p> <strong>示例1:</strong></p>

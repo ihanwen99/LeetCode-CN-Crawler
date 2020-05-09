@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1162. 地图分析](https://leetcode-cn.com/problems/as-far-from-land-as-possible)
- ### 题目描述
 <p>你现在手里有一份大小为&nbsp;N x N 的「地图」（网格）&nbsp;<code>grid</code>，上面的每个「区域」（单元格）都用&nbsp;<code>0</code>&nbsp;和&nbsp;<code>1</code>&nbsp;标记好了。其中&nbsp;<code>0</code>&nbsp;代表海洋，<code>1</code>&nbsp;代表陆地，请你找出一个海洋区域，这个海洋区域到离它最近的陆地区域的距离是最大的。</p>
 
 <p>我们这里说的距离是「曼哈顿距离」（&nbsp;Manhattan Distance）：<code>(x0, y0)</code> 和&nbsp;<code>(x1, y1)</code>&nbsp;这两个区域之间的距离是&nbsp;<code>|x0 - x1| + |y0 - y1|</code>&nbsp;。</p>

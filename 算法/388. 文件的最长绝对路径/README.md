@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [388. 文件的最长绝对路径](https://leetcode-cn.com/problems/longest-absolute-file-path)
- ### 题目描述
 <p>假设我们以下述方式将我们的文件系统抽象成一个字符串:</p>
 
 <p>字符串&nbsp;<code>&quot;dir\n\tsubdir1\n\tsubdir2\n\t\tfile.ext&quot;</code> 表示:</p>

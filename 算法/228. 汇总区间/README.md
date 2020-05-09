@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [228. 汇总区间](https://leetcode-cn.com/problems/summary-ranges)
- ### 题目描述
 <p>给定一个无重复元素的有序整数数组，返回数组区间范围的汇总。</p>
 
 <p><strong>示例 1:</strong></p>

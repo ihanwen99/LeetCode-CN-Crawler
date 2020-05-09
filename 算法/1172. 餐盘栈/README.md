@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1172. 餐盘栈](https://leetcode-cn.com/problems/dinner-plate-stacks)
- ### 题目描述
 <p>我们把无限数量 &infin; 的栈排成一行，按从左到右的次序从 0 开始编号。每个栈的的最大容量&nbsp;<code>capacity</code> 都相同。</p>
 
 <p>实现一个叫「餐盘」的类&nbsp;<code>DinnerPlates</code>：</p>

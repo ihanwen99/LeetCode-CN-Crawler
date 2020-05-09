@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [686. 重复叠加字符串匹配](https://leetcode-cn.com/problems/repeated-string-match)
- ### 题目描述
 <p>给定两个字符串 A 和 B, 寻找重复叠加字符串A的最小次数，使得字符串B成为叠加后的字符串A的子串，如果不存在则返回 -1。</p>
 
 <p>举个例子，A = &quot;abcd&quot;，B = &quot;cdabcdab&quot;。</p>

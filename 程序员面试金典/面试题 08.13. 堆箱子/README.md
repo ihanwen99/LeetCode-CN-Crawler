@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [面试题 08.13. 堆箱子](https://leetcode-cn.com/problems/pile-box-lcci)
- ### 题目描述
 <p>堆箱子。给你一堆n个箱子，箱子宽 wi、深 di、高 hi。箱子不能翻转，将箱子堆起来时，下面箱子的宽度、高度和深度必须大于上面的箱子。实现一种方法，搭出最高的一堆箱子。箱堆的高度为每个箱子高度的总和。</p>
 
 <p>输入使用数组<code>[wi, di, hi]</code>表示每个箱子。</p>

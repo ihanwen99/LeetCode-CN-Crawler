@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [829. 连续整数求和](https://leetcode-cn.com/problems/consecutive-numbers-sum)
- ### 题目描述
 <p>给定一个正整数 <code>N</code>，试求有多少组连续正整数满足所有数字之和为 <code>N</code>?</p>
 
 <p><strong>示</strong><strong>例 1:</strong></p>

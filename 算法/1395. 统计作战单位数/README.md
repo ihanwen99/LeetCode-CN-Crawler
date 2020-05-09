@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1395. 统计作战单位数](https://leetcode-cn.com/problems/count-number-of-teams)
- ### 题目描述
 <p>&nbsp;<code>n</code> 名士兵站成一排。每个士兵都有一个 <strong>独一无二</strong> 的评分 <code>rating</code> 。</p>
 
 <p>每 <strong>3</strong> 个士兵可以组成一个作战单位，分组规则如下：</p>

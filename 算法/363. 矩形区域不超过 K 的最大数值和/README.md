@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [363. 矩形区域不超过 K 的最大数值和](https://leetcode-cn.com/problems/max-sum-of-rectangle-no-larger-than-k)
- ### 题目描述
 <p>给定一个非空二维矩阵&nbsp;<em>matrix&nbsp;</em>和一个整数<em> k</em>，找到这个矩阵内部不大于 <em>k</em> 的最大矩形和。</p>
 
 <p><strong>示例:</strong></p>

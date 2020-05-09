@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [17. 电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number)
- ### 题目描述
 <p>给定一个仅包含数字&nbsp;<code>2-9</code>&nbsp;的字符串，返回所有它能表示的字母组合。</p>
 
 <p>给出数字到字母的映射如下（与电话按键相同）。注意 1 不对应任何字母。</p>

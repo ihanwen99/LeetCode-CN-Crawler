@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1370. 上升下降字符串](https://leetcode-cn.com/problems/increasing-decreasing-string)
- ### 题目描述
 <p>给你一个字符串&nbsp;<code>s</code>&nbsp;，请你根据下面的算法重新构造字符串：</p>
 
 <ol>

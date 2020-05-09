@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1090. 受标签影响的最大值](https://leetcode-cn.com/problems/largest-values-from-labels)
- ### 题目描述
 <p>我们有一个项的集合，其中第&nbsp;<code>i</code>&nbsp;项的值为&nbsp;<code>values[i]</code>，标签为&nbsp;<code>labels[i]</code>。</p>
 
 <p>我们从这些项中选出一个子集&nbsp;<code>S</code>，这样一来：</p>

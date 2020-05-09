@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [632. 最小区间](https://leetcode-cn.com/problems/smallest-range-covering-elements-from-k-lists)
- ### 题目描述
 <p>你有&nbsp;<code>k</code>&nbsp;个升序排列的整数数组。找到一个<strong>最小</strong>区间，使得&nbsp;<code>k</code>&nbsp;个列表中的每个列表至少有一个数包含在其中。</p>
 
 <p>我们定义如果&nbsp;<code>b-a &lt; d-c</code>&nbsp;或者在&nbsp;<code>b-a == d-c</code>&nbsp;时&nbsp;<code>a &lt; c</code>，则区间 [a,b] 比 [c,d] 小。</p>

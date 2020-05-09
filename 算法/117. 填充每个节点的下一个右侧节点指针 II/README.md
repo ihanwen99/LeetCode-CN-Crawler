@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [117. 填充每个节点的下一个右侧节点指针 II](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii)
- ### 题目描述
 <p>给定一个二叉树</p>
 
 <pre>struct Node {

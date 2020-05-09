@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [237. 删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list)
- ### 题目描述
 <p>请编写一个函数，使其可以删除某个链表中给定的（非末尾）节点，你将只被给定要求被删除的节点。</p>
 
 <p>现有一个链表 --&nbsp;head =&nbsp;[4,5,1,9]，它可以表示为:</p>

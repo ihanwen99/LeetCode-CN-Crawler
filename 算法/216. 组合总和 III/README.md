@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [216. 组合总和 III](https://leetcode-cn.com/problems/combination-sum-iii)
- ### 题目描述
 <p>找出所有相加之和为&nbsp;<em><strong>n</strong> </em>的&nbsp;<strong><em>k&nbsp;</em></strong>个数的组合<strong><em>。</em></strong>组合中只允许含有 1 -&nbsp;9 的正整数，并且每种组合中不存在重复的数字。</p>
 
 <p><strong>说明：</strong></p>

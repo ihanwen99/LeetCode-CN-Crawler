@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal)
- ### 题目描述
 <p>给定一个二叉树，返回它的&nbsp;<em>前序&nbsp;</em>遍历。</p>
 
 <p>&nbsp;<strong>示例:</strong></p>

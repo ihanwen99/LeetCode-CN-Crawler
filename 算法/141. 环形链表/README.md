@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle)
- ### 题目描述
 <p>给定一个链表，判断链表中是否有环。</p>
 
 <p>为了表示给定链表中的环，我们使用整数 <code>pos</code> 来表示链表尾连接到链表中的位置（索引从 0 开始）。 如果 <code>pos</code> 是 <code>-1</code>，则在该链表中没有环。</p>

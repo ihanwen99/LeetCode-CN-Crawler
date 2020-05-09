@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [145. 二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal)
- ### 题目描述
 <p>给定一个二叉树，返回它的 <em>后序&nbsp;</em>遍历。</p>
 
 <p><strong>示例:</strong></p>

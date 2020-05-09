@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1163. 按字典序排在最后的子串](https://leetcode-cn.com/problems/last-substring-in-lexicographical-order)
- ### 题目描述
 <p>给你一个字符串&nbsp;<code>s</code>，找出它的所有子串并按字典序排列，返回排在最后的那个子串。</p>
 
 <p>&nbsp;</p>

@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [150. 逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation)
- ### 题目描述
 <p>根据<a href="https://baike.baidu.com/item/%E9%80%86%E6%B3%A2%E5%85%B0%E5%BC%8F/128437" target="_blank">逆波兰表示法</a>，求表达式的值。</p>
 
 <p>有效的运算符包括&nbsp;<code>+</code>,&nbsp;<code>-</code>,&nbsp;<code>*</code>,&nbsp;<code>/</code>&nbsp;。每个运算对象可以是整数，也可以是另一个逆波兰表达式。</p>

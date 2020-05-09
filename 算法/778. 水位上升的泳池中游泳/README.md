@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [778. 水位上升的泳池中游泳](https://leetcode-cn.com/problems/swim-in-rising-water)
- ### 题目描述
 <p>在一个 N x N 的坐标方格&nbsp;<code>grid</code> 中，每一个方格的值 <code>grid[i][j]</code> 表示在位置 <code>(i,j)</code> 的平台高度。</p>
 
 <p>现在开始下雨了。当时间为&nbsp;<code>t</code>&nbsp;时，此时雨水导致水池中任意位置的水位为&nbsp;<code>t</code>&nbsp;。你可以从一个平台游向四周相邻的任意一个平台，但是前提是此时水位必须同时淹没这两个平台。假定你可以瞬间移动无限距离，也就是默认在方格内部游动是不耗时的。当然，在你游泳的时候你必须待在坐标方格里面。</p>

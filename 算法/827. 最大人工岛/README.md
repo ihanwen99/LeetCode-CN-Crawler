@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [827. 最大人工岛](https://leetcode-cn.com/problems/making-a-large-island)
- ### 题目描述
 <p>在二维地图上，&nbsp;<code>0</code>代表海洋，&nbsp;<code>1</code>代表陆地，我们最多只能将一格&nbsp;<code>0</code> 海洋变成&nbsp;<code>1</code>变成陆地。</p>
 
 <p>进行填海之后，地图上最大的岛屿面积是多少？（上、下、左、右四个方向相连的&nbsp;<code>1</code>&nbsp;可形成岛屿）</p>

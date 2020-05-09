@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [817. 链表组件](https://leetcode-cn.com/problems/linked-list-components)
- ### 题目描述
 <p>给定一个链表（链表结点包含一个整型值）的头结点&nbsp;<code>head</code>。</p>
 
 <p>同时给定列表&nbsp;<code>G</code>，该列表是上述链表中整型值的一个子集。</p>

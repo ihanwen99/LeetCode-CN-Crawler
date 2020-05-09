@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [740. 删除与获得点数](https://leetcode-cn.com/problems/delete-and-earn)
- ### 题目描述
 <p>给定一个整数数组&nbsp;<code>nums</code>&nbsp;，你可以对它进行一些操作。</p>
 
 <p>每次操作中，选择任意一个&nbsp;<code>nums[i]</code>&nbsp;，删除它并获得&nbsp;<code>nums[i]</code>&nbsp;的点数。之后，你必须删除<strong>每个</strong>等于&nbsp;<code>nums[i] - 1</code>&nbsp;或&nbsp;<code>nums[i] + 1</code>&nbsp;的元素。</p>

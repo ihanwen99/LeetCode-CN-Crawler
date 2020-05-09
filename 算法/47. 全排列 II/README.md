@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [47. 全排列 II](https://leetcode-cn.com/problems/permutations-ii)
- ### 题目描述
 <p>给定一个可包含重复数字的序列，返回所有不重复的全排列。</p>
 
 <p><strong>示例:</strong></p>

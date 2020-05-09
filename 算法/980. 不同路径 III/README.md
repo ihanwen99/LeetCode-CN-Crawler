@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [980. 不同路径 III](https://leetcode-cn.com/problems/unique-paths-iii)
- ### 题目描述
 <p>在二维网格 <code>grid</code> 上，有 4 种类型的方格：</p>
 
 <ul>

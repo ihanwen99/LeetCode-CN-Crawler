@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [919. 完全二叉树插入器](https://leetcode-cn.com/problems/complete-binary-tree-inserter)
- ### 题目描述
 <p>完全二叉树是每一层（除最后一层外）都是完全填充（即，结点数达到最大）的，并且所有的结点都尽可能地集中在左侧。</p>
 
 <p>设计一个用完全二叉树初始化的数据结构&nbsp;<code>CBTInserter</code>，它支持以下几种操作：</p>

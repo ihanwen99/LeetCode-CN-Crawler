@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [920. 播放列表的数量](https://leetcode-cn.com/problems/number-of-music-playlists)
- ### 题目描述
 <p>你的音乐播放器里有&nbsp;<code>N</code>&nbsp;首不同的歌，在旅途中，你的旅伴想要听 <code>L</code>&nbsp;首歌（不一定不同，即，允许歌曲重复）。请你为她按如下规则创建一个播放列表：</p>
 
 <ul>

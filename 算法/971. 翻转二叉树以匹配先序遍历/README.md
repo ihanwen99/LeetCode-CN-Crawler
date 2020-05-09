@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [971. 翻转二叉树以匹配先序遍历](https://leetcode-cn.com/problems/flip-binary-tree-to-match-preorder-traversal)
- ### 题目描述
 <p>给定一个有 <code>N</code> 个节点的二叉树，每个节点都有一个不同于其他节点且处于 <code>{1, ..., N}</code> 中的值。</p>
 
 <p>通过交换节点的左子节点和右子节点，可以翻转该二叉树中的节点。</p>

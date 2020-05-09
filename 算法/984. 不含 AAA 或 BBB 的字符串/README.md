@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [984. 不含 AAA 或 BBB 的字符串](https://leetcode-cn.com/problems/string-without-aaa-or-bbb)
- ### 题目描述
 <p>给定两个整数&nbsp;<code>A</code>&nbsp;和&nbsp;<code>B</code>，返回<strong>任意</strong>字符串 <code>S</code>，要求满足：</p>
 
 <ul>

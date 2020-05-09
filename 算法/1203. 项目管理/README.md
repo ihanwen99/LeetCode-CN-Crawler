@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1203. 项目管理](https://leetcode-cn.com/problems/sort-items-by-groups-respecting-dependencies)
- ### 题目描述
 <p>公司共有&nbsp;<code>n</code>&nbsp;个项目和 &nbsp;<code>m</code>&nbsp;个小组，每个项目要不没有归属，要不就由其中的一个小组负责。</p>
 
 <p>我们用&nbsp;<code>group[i]</code>&nbsp;代表第&nbsp;<code>i</code>&nbsp;个项目所属的小组，如果这个项目目前无人接手，那么&nbsp;<code>group[i]</code> 就等于&nbsp;<code>-1</code>。（项目和小组都是从零开始编号的）</p>

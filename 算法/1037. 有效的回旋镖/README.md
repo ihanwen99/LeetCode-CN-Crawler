@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1037. 有效的回旋镖](https://leetcode-cn.com/problems/valid-boomerang)
- ### 题目描述
 <p>回旋镖定义为一组三个点，这些点各不相同且<strong>不</strong>在一条直线上。</p>
 
 <p>给出平面上三个点组成的列表，判断这些点是否可以构成回旋镖。</p>

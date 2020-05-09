@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [476. 数字的补数](https://leetcode-cn.com/problems/number-complement)
- ### 题目描述
 <p>给定一个正整数，输出它的补数。补数是对该数的二进制表示取反。</p>
 
 <p>&nbsp;</p>

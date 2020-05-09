@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [836. 矩形重叠](https://leetcode-cn.com/problems/rectangle-overlap)
- ### 题目描述
 <p>矩形以列表 <code>[x1, y1, x2, y2]</code> 的形式表示，其中 <code>(x1, y1)</code> 为左下角的坐标，<code>(x2, y2)</code> 是右上角的坐标。</p>
 
 <p>如果相交的面积为正，则称两矩形重叠。需要明确的是，只在角或边接触的两个矩形不构成重叠。</p>

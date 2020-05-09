@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [138. 复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer)
- ### 题目描述
 <p>给定一个链表，每个节点包含一个额外增加的随机指针，该指针可以指向链表中的任何节点或空节点。</p>
 
 <p>要求返回这个链表的&nbsp;<strong><a href="https://baike.baidu.com/item/深拷贝/22785317?fr=aladdin" target="_blank">深拷贝</a></strong>。&nbsp;</p>

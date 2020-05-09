@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [733. 图像渲染](https://leetcode-cn.com/problems/flood-fill)
- ### 题目描述
 <p>有一幅以二维整数数组表示的图画，每一个整数表示该图画的像素值大小，数值在 0 到 65535 之间。</p>
 
 <p>给你一个坐标&nbsp;<code>(sr, sc)</code>&nbsp;表示图像渲染开始的像素值（行 ，列）和一个新的颜色值&nbsp;<code>newColor</code>，让你重新上色这幅图像。</p>

@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [879. 盈利计划](https://leetcode-cn.com/problems/profitable-schemes)
- ### 题目描述
 <p>帮派里有 G 名成员，他们可能犯下各种各样的罪行。</p>
 
 <p>第&nbsp;<code>i</code>&nbsp;种犯罪会产生&nbsp;<code>profit[i]</code>&nbsp;的利润，它要求&nbsp;<code>group[i]</code>&nbsp;名成员共同参与。</p>

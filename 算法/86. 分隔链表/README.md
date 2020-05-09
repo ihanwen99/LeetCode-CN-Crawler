@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [86. 分隔链表](https://leetcode-cn.com/problems/partition-list)
- ### 题目描述
 <p>给定一个链表和一个特定值<em> x</em>，对链表进行分隔，使得所有小于 <em>x</em> 的节点都在大于或等于 <em>x</em> 的节点之前。</p>
 
 <p>你应当保留两个分区中每个节点的初始相对位置。</p>

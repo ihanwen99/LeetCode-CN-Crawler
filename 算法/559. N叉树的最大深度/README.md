@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [559. N叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree)
- ### 题目描述
 <p>给定一个 N 叉树，找到其最大深度。</p>
 
 <p>最大深度是指从根节点到最远叶子节点的最长路径上的节点总数。</p>

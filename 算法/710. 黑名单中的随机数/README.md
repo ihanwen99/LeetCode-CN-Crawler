@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [710. 黑名单中的随机数](https://leetcode-cn.com/problems/random-pick-with-blacklist)
- ### 题目描述
 <p>给定一个包含 [0，n ) 中独特的整数的黑名单 B，写一个函数从 [ 0，n ) 中返回一个<strong>不在</strong> B 中的随机整数。</p>
 
 <p>对它进行优化使其尽量少调用系统方法 <code>Math.random()</code> 。</p>

@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [673. 最长递增子序列的个数](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence)
- ### 题目描述
 <p>给定一个未排序的整数数组，找到最长递增子序列的个数。</p>
 
 <p><strong>示例 1:</strong></p>

@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1401. 圆和矩形是否有重叠](https://leetcode-cn.com/problems/circle-and-rectangle-overlapping)
- ### 题目描述
 <p>给你一个以 (<code>radius</code>, <code>x_center</code>, <code>y_center</code>) 表示的圆和一个与坐标轴平行的矩形 (<code>x1</code>, <code>y1</code>, <code>x2</code>, <code>y2</code>)，其中&nbsp;(<code>x1</code>, <code>y1</code>) 是矩形左下角的坐标，(<code>x2</code>, <code>y2</code>) 是右上角的坐标。</p>
 
 <p>如果圆和矩形有重叠的部分，请你返回 True ，否则返回 False&nbsp;。</p>

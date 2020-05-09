@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [846. 一手顺子](https://leetcode-cn.com/problems/hand-of-straights)
- ### 题目描述
 <p>爱丽丝有一手（<code>hand</code>）由整数数组给定的牌。&nbsp;</p>
 
 <p>现在她想把牌重新排列成组，使得每个组的大小都是 <code>W</code>，且由 <code>W</code> 张连续的牌组成。</p>

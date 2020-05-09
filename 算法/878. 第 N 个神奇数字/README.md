@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [878. 第 N 个神奇数字](https://leetcode-cn.com/problems/nth-magical-number)
- ### 题目描述
 <p>如果正整数可以被 A 或 B 整除，那么它是神奇的。</p>
 
 <p>返回第 N 个神奇数字。由于答案可能非常大，<strong>返回它模&nbsp;</strong><code>10^9 + 7</code>&nbsp;<strong>的结果</strong>。</p>

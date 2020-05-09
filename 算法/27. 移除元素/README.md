@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [27. 移除元素](https://leetcode-cn.com/problems/remove-element)
- ### 题目描述
 <p>给你一个数组 <em>nums&nbsp;</em>和一个值 <em>val</em>，你需要 <strong><a href="https://baike.baidu.com/item/%E5%8E%9F%E5%9C%B0%E7%AE%97%E6%B3%95" target="_blank">原地</a></strong> 移除所有数值等于&nbsp;<em>val&nbsp;</em>的元素，并返回移除后数组的新长度。</p>
 
 <p>不要使用额外的数组空间，你必须仅使用 O(1) 额外空间并 <strong><a href="https://baike.baidu.com/item/%E5%8E%9F%E5%9C%B0%E7%AE%97%E6%B3%95" target="_blank">原地 </a>修改输入数组</strong>。</p>

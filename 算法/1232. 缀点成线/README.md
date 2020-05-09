@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1232. 缀点成线](https://leetcode-cn.com/problems/check-if-it-is-a-straight-line)
- ### 题目描述
 <p>在一个&nbsp;XY 坐标系中有一些点，我们用数组&nbsp;<code>coordinates</code>&nbsp;来分别记录它们的坐标，其中&nbsp;<code>coordinates[i] = [x, y]</code>&nbsp;表示横坐标为 <code>x</code>、纵坐标为 <code>y</code>&nbsp;的点。</p>
 
 <p>请你来判断，这些点是否在该坐标系中属于同一条直线上，是则返回 <code>true</code>，否则请返回 <code>false</code>。</p>

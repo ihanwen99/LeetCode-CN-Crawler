@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [812. 最大三角形面积](https://leetcode-cn.com/problems/largest-triangle-area)
- ### 题目描述
 <p>给定包含多个点的集合，从其中取三个点组成三角形，返回能组成的最大三角形的面积。</p>
 
 <pre>

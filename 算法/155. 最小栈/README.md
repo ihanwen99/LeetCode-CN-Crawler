@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [155. 最小栈](https://leetcode-cn.com/problems/min-stack)
- ### 题目描述
 <p>设计一个支持 <code>push</code> ，<code>pop</code> ，<code>top</code> 操作，并能在常数时间内检索到最小元素的栈。</p>
 
 <ul>

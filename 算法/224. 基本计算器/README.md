@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [224. 基本计算器](https://leetcode-cn.com/problems/basic-calculator)
- ### 题目描述
 <p>实现一个基本的计算器来计算一个简单的字符串表达式的值。</p>
 
 <p>字符串表达式可以包含左括号&nbsp;<code>(</code>&nbsp;，右括号&nbsp;<code>)</code>，加号&nbsp;<code>+</code>&nbsp;，减号&nbsp;<code>-</code>，<strong>非负</strong>整数和空格&nbsp;<code>&nbsp;</code>。</p>

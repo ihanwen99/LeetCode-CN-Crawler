@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [973. 最接近原点的 K 个点](https://leetcode-cn.com/problems/k-closest-points-to-origin)
- ### 题目描述
 <p>我们有一个由平面上的点组成的列表 <code>points</code>。需要从中找出 <code>K</code> 个距离原点 <code>(0, 0)</code> 最近的点。</p>
 
 <p>（这里，平面上两点之间的距离是欧几里德距离。）</p>

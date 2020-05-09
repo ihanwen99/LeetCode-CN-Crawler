@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [435. 无重叠区间](https://leetcode-cn.com/problems/non-overlapping-intervals)
- ### 题目描述
 <p>给定一个区间的集合，找到需要移除区间的最小数量，使剩余区间互不重叠。</p>
 
 <p><strong>注意:</strong></p>

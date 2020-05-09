@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [891. 子序列宽度之和](https://leetcode-cn.com/problems/sum-of-subsequence-widths)
- ### 题目描述
 <p>给定一个整数数组 <code>A</code> ，考虑 <code>A</code> 的所有非空子序列。</p>
 
 <p>对于任意序列 S ，设 S 的宽度是 S 的最大元素和最小元素的差。</p>

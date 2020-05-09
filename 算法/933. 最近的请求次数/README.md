@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [933. 最近的请求次数](https://leetcode-cn.com/problems/number-of-recent-calls)
- ### 题目描述
 <p>写一个&nbsp;<code>RecentCounter</code>&nbsp;类来计算最近的请求。</p>
 
 <p>它只有一个方法：<code>ping(int t)</code>，其中&nbsp;<code>t</code>&nbsp;代表以毫秒为单位的某个时间。</p>

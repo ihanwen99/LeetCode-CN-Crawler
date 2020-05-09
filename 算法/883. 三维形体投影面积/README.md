@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [883. 三维形体投影面积](https://leetcode-cn.com/problems/projection-area-of-3d-shapes)
- ### 题目描述
 <p>在&nbsp;<code>N&nbsp;*&nbsp;N</code>&nbsp;的网格中，我们放置了一些与 x，y，z 三轴对齐的&nbsp;<code>1 * 1 * 1</code>&nbsp;立方体。</p>
 
 <p>每个值&nbsp;<code>v = grid[i][j]</code>&nbsp;表示 <code>v</code>&nbsp;个正方体叠放在单元格&nbsp;<code>(i, j)</code>&nbsp;上。</p>

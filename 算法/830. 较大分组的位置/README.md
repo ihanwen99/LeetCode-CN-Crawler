@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [830. 较大分组的位置](https://leetcode-cn.com/problems/positions-of-large-groups)
- ### 题目描述
 <p>在一个由小写字母构成的字符串&nbsp;<code>S</code>&nbsp;中，包含由一些连续的相同字符所构成的分组。</p>
 
 <p>例如，在字符串 <code>S = &quot;abbxxxxzyy&quot;</code>&nbsp;中，就含有 <code>&quot;a&quot;</code>, <code>&quot;bb&quot;</code>, <code>&quot;xxxx&quot;</code>, <code>&quot;z&quot;</code> 和 <code>&quot;yy&quot;</code> 这样的一些分组。</p>

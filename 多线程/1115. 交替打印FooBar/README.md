@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1115. 交替打印FooBar](https://leetcode-cn.com/problems/print-foobar-alternately)
- ### 题目描述
 <p>我们提供一个类：</p>
 
 <pre>

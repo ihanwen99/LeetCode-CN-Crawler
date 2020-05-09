@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [162. 寻找峰值](https://leetcode-cn.com/problems/find-peak-element)
- ### 题目描述
 <p>峰值元素是指其值大于左右相邻值的元素。</p>
 
 <p>给定一个输入数组&nbsp;<code>nums</code>，其中 <code>nums[i] &ne; nums[i+1]</code>，找到峰值元素并返回其索引。</p>

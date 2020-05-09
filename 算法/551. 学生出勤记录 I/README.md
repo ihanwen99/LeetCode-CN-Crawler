@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [551. 学生出勤记录 I](https://leetcode-cn.com/problems/student-attendance-record-i)
- ### 题目描述
 <p>给定一个字符串来代表一个学生的出勤记录，这个记录仅包含以下三个字符：</p>
 
 <ol>

@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1138. 字母板上的路径](https://leetcode-cn.com/problems/alphabet-board-path)
- ### 题目描述
 <p>我们从一块字母板上的位置&nbsp;<code>(0, 0)</code>&nbsp;出发，该坐标对应的字符为&nbsp;<code>board[0][0]</code>。</p>
 
 <p>在本题里，字母板为<code>board = [&quot;abcde&quot;, &quot;fghij&quot;, &quot;klmno&quot;, &quot;pqrst&quot;, &quot;uvwxy&quot;, &quot;z&quot;]</code>，如下所示。</p>

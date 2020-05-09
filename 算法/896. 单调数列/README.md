@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [896. 单调数列](https://leetcode-cn.com/problems/monotonic-array)
- ### 题目描述
 <p>如果数组是单调递增或单调递减的，那么它是<em>单调的</em>。</p>
 
 <p>如果对于所有 <code>i &lt;= j</code>，<code>A[i] &lt;= A[j]</code>，那么数组 <code>A</code> 是单调递增的。 如果对于所有 <code>i &lt;= j</code>，<code>A[i]&gt; = A[j]</code>，那么数组 <code>A</code> 是单调递减的。</p>

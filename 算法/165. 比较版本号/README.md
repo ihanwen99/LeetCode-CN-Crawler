@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [165. 比较版本号](https://leetcode-cn.com/problems/compare-version-numbers)
- ### 题目描述
 <p>比较两个版本号 <em>version1&nbsp;</em>和 <em>version2</em>。<br>
 如果&nbsp;<code><em>version1&nbsp;</em>&gt;&nbsp;<em>version2</em></code>&nbsp;返回&nbsp;<code>1</code>，如果&nbsp;<code><em>version1&nbsp;</em>&lt;&nbsp;<em>version2</em></code> 返回 <code>-1</code>， 除此之外返回 <code>0</code>。</p>
 

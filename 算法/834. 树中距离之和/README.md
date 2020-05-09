@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [834. 树中距离之和](https://leetcode-cn.com/problems/sum-of-distances-in-tree)
- ### 题目描述
 <p>给定一个无向、连通的树。树中有 <code>N</code> 个标记为 <code>0...N-1</code> 的节点以及 <code>N-1</code>&nbsp;条边&nbsp;。</p>
 
 <p>第 <code>i</code> 条边连接节点&nbsp;<code>edges[i][0]</code> 和 <code>edges[i][1]</code>&nbsp;。</p>

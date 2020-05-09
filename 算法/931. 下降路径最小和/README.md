@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [931. 下降路径最小和](https://leetcode-cn.com/problems/minimum-falling-path-sum)
- ### 题目描述
 <p>给定一个<strong>方形</strong>整数数组&nbsp;<code>A</code>，我们想要得到通过 <code>A</code> 的<em>下降路径</em>的<strong>最小</strong>和。</p>
 
 <p>下降路径可以从第一行中的任何元素开始，并从每一行中选择一个元素。在下一行选择的元素和当前行所选元素最多相隔一列。</p>

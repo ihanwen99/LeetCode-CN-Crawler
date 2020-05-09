@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1036. 逃离大迷宫](https://leetcode-cn.com/problems/escape-a-large-maze)
- ### 题目描述
 <p>在一个 10^6 x 10^6 的网格中，每个网格块的坐标为&nbsp;<code>(x, y)</code>，其中&nbsp;<code>0 &lt;= x, y &lt; 10^6</code>。</p>
 
 <p>我们从源方格&nbsp;<code>source</code>&nbsp;开始出发，意图赶往目标方格&nbsp;<code>target</code>。每次移动，我们都可以走到网格中在四个方向上相邻的方格，只要该方格不在给出的封锁列表&nbsp;<code>blocked</code>&nbsp;上。</p>

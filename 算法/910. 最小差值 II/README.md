@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [910. 最小差值 II](https://leetcode-cn.com/problems/smallest-range-ii)
- ### 题目描述
 <p>给定一个整数数组 <code>A</code>，对于每个整数 <code>A[i]</code>，我们可以选择<strong>&nbsp;<code>x = -K</code>&nbsp;或是&nbsp;<code>x = K</code></strong>，并将&nbsp;<code>x</code>&nbsp;加到&nbsp;<code>A[i]</code>&nbsp;中。</p>
 
 <p>在此过程之后，我们得到一些数组&nbsp;<code>B</code>。</p>

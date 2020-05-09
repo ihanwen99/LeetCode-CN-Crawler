@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [783. 二叉搜索树节点最小距离](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes)
- ### 题目描述
 <p>给定一个二叉搜索树的根节点&nbsp;<code>root</code>，返回树中任意两节点的差的最小值。</p>
 
 <p>&nbsp;</p>

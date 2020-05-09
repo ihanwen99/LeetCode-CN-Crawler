@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [860. 柠檬水找零](https://leetcode-cn.com/problems/lemonade-change)
- ### 题目描述
 <p>在柠檬水摊上，每一杯柠檬水的售价为&nbsp;<code>5</code>&nbsp;美元。</p>
 
 <p>顾客排队购买你的产品，（按账单 <code>bills</code> 支付的顺序）一次购买一杯。</p>

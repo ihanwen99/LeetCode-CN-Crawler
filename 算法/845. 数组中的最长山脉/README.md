@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [845. 数组中的最长山脉](https://leetcode-cn.com/problems/longest-mountain-in-array)
- ### 题目描述
 <p>我们把数组 A 中符合下列属性的任意连续子数组 B 称为 &ldquo;<em>山脉&rdquo;</em>：</p>
 
 <ul>

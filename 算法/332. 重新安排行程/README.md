@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [332. 重新安排行程](https://leetcode-cn.com/problems/reconstruct-itinerary)
- ### 题目描述
 <p>给定一个机票的字符串二维数组 <code>[from, to]</code>，子数组中的两个成员分别表示飞机出发和降落的机场地点，对该行程进行重新规划排序。所有这些机票都属于一个从JFK（肯尼迪国际机场）出发的先生，所以该行程必须从 JFK 出发。</p>
 
 <p><strong>说明:</strong></p>

@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1170. 比较字符串最小字母出现频次](https://leetcode-cn.com/problems/compare-strings-by-frequency-of-the-smallest-character)
- ### 题目描述
 <p>我们来定义一个函数&nbsp;<code>f(s)</code>，其中传入参数&nbsp;<code>s</code>&nbsp;是一个非空字符串；该函数的功能是统计&nbsp;<code>s</code> &nbsp;中（按字典序比较）最小字母的出现频次。</p>
 
 <p>例如，若&nbsp;<code>s = &quot;dcce&quot;</code>，那么&nbsp;<code>f(s) = 2</code>，因为最小的字母是&nbsp;<code>&quot;c&quot;</code>，它出现了&nbsp;2 次。</p>

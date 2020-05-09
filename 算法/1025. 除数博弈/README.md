@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1025. 除数博弈](https://leetcode-cn.com/problems/divisor-game)
- ### 题目描述
 <p>爱丽丝和鲍勃一起玩游戏，他们轮流行动。爱丽丝先手开局。</p>
 
 <p>最初，黑板上有一个数字&nbsp;<code>N</code>&nbsp;。在每个玩家的回合，玩家需要执行以下操作：</p>

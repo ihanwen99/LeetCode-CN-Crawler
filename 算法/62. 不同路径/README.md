@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [62. 不同路径](https://leetcode-cn.com/problems/unique-paths)
- ### 题目描述
 <p>一个机器人位于一个 <em>m x n </em>网格的左上角 （起始点在下图中标记为&ldquo;Start&rdquo; ）。</p>
 
 <p>机器人每次只能向下或者向右移动一步。机器人试图达到网格的右下角（在下图中标记为&ldquo;Finish&rdquo;）。</p>

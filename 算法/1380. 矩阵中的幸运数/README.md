@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1380. 矩阵中的幸运数](https://leetcode-cn.com/problems/lucky-numbers-in-a-matrix)
- ### 题目描述
 <p>给你一个 <code>m * n</code> 的矩阵，矩阵中的数字 <strong>各不相同</strong> 。请你按 <strong>任意</strong> 顺序返回矩阵中的所有幸运数。</p>
 
 <p>幸运数是指矩阵中满足同时下列两个条件的元素：</p>

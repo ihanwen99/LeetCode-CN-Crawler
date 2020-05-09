@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1381. 设计一个支持增量操作的栈](https://leetcode-cn.com/problems/design-a-stack-with-increment-operation)
- ### 题目描述
 <p>请你设计一个支持下述操作的栈。</p>
 
 <p>实现自定义栈类 <code>CustomStack</code> ：</p>

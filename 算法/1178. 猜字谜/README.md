@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1178. 猜字谜](https://leetcode-cn.com/problems/number-of-valid-words-for-each-puzzle)
- ### 题目描述
 <p>外国友人仿照中国字谜设计了一个英文版猜字谜小游戏，请你来猜猜看吧。</p>
 
 <p>字谜的迷面&nbsp;<code>puzzle</code> 按字符串形式给出，如果一个单词&nbsp;<code>word</code>&nbsp;符合下面两个条件，那么它就可以算作谜底：</p>

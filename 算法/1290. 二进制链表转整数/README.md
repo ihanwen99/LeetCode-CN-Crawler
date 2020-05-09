@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1290. 二进制链表转整数](https://leetcode-cn.com/problems/convert-binary-number-in-a-linked-list-to-integer)
- ### 题目描述
 <p>给你一个单链表的引用结点&nbsp;<code>head</code>。链表中每个结点的值不是 0 就是 1。已知此链表是一个整数数字的二进制表示形式。</p>
 
 <p>请你返回该链表所表示数字的 <strong>十进制值</strong> 。</p>

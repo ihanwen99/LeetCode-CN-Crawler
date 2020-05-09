@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [638. 大礼包](https://leetcode-cn.com/problems/shopping-offers)
- ### 题目描述
 <p>在LeetCode商店中， 有许多在售的物品。</p>
 
 <p>然而，也有一些大礼包，每个大礼包以优惠的价格捆绑销售一组物品。</p>

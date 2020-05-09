@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [242. 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram)
- ### 题目描述
 <p>给定两个字符串 <em>s</em> 和 <em>t</em> ，编写一个函数来判断 <em>t</em> 是否是 <em>s</em> 的字母异位词。</p>
 
 <p><strong>示例&nbsp;1:</strong></p>

@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1316. 不同的循环子字符串](https://leetcode-cn.com/problems/distinct-echo-substrings)
- ### 题目描述
 <p>给你一个字符串&nbsp;<code>text</code> ，请你返回满足下述条件的&nbsp;<strong>不同</strong> 非空子字符串的数目：</p>
 
 <ul>

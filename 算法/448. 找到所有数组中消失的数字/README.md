@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [448. 找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array)
- ### 题目描述
 <p>给定一个范围在&nbsp; 1 &le; a[i] &le; <em>n</em> (&nbsp;<em>n</em> = 数组大小 ) 的 整型数组，数组中的元素一些出现了两次，另一些只出现一次。</p>
 
 <p>找到所有在 [1, <em>n</em>] 范围之间没有出现在数组中的数字。</p>

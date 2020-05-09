@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [706. 设计哈希映射](https://leetcode-cn.com/problems/design-hashmap)
- ### 题目描述
 <p>不使用任何内建的哈希表库设计一个哈希映射</p>
 
 <p>具体地说，你的设计应该包含以下的功能</p>

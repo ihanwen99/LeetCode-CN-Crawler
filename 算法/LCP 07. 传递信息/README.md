@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [LCP 07. 传递信息](https://leetcode-cn.com/problems/chuan-di-xin-xi)
- ### 题目描述
 <p>小朋友 A 在和 ta 的小伙伴们玩传信息游戏，游戏规则如下：</p>
 
 <ol>

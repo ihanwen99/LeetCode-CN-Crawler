@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1014. 最佳观光组合](https://leetcode-cn.com/problems/best-sightseeing-pair)
- ### 题目描述
 <p>给定正整数数组&nbsp;<code>A</code>，<code>A[i]</code>&nbsp;表示第 <code>i</code> 个观光景点的评分，并且两个景点&nbsp;<code>i</code> 和&nbsp;<code>j</code>&nbsp;之间的距离为&nbsp;<code>j - i</code>。</p>
 
 <p>一对景点（<code>i &lt; j</code>）组成的观光组合的得分为（<code>A[i] + A[j] + i&nbsp;- j</code>）：景点的评分之和<strong>减去</strong>它们两者之间的距离。</p>

@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [238. 除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self)
- ### 题目描述
 <p>给你一个长度为&nbsp;<em>n</em>&nbsp;的整数数组&nbsp;<code>nums</code>，其中&nbsp;<em>n</em> &gt; 1，返回输出数组&nbsp;<code>output</code>&nbsp;，其中 <code>output[i]</code>&nbsp;等于&nbsp;<code>nums</code>&nbsp;中除&nbsp;<code>nums[i]</code>&nbsp;之外其余各元素的乘积。</p>
 
 <p>&nbsp;</p>

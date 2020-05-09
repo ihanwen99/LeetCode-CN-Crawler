@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [504. 七进制数](https://leetcode-cn.com/problems/base-7)
- ### 题目描述
 <p>给定一个整数，将其转化为7进制，并以字符串形式输出。</p>
 
 <p><strong>示例 1:</strong></p>

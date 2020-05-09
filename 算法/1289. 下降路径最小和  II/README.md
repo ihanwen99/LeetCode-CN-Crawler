@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1289. 下降路径最小和  II](https://leetcode-cn.com/problems/minimum-falling-path-sum-ii)
- ### 题目描述
 <p>给你一个整数方阵&nbsp;<code>arr</code>&nbsp;，定义「非零偏移下降路径」为：从&nbsp;<code>arr</code> 数组中的每一行选择一个数字，且按顺序选出来的数字中，相邻数字不在原数组的同一列。</p>
 
 <p>请你返回非零偏移下降路径数字和的最小值。</p>

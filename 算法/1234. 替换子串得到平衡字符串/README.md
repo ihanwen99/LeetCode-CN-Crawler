@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1234. 替换子串得到平衡字符串](https://leetcode-cn.com/problems/replace-the-substring-for-balanced-string)
- ### 题目描述
 <p>有一个只含有&nbsp;<code>&#39;Q&#39;, &#39;W&#39;, &#39;E&#39;,&nbsp;&#39;R&#39;</code>&nbsp;四种字符，且长度为 <code>n</code>&nbsp;的字符串。</p>
 
 <p>假如在该字符串中，这四个字符都恰好出现&nbsp;<code>n/4</code>&nbsp;次，那么它就是一个「平衡字符串」。</p>

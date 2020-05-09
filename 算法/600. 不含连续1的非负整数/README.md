@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [600. 不含连续1的非负整数](https://leetcode-cn.com/problems/non-negative-integers-without-consecutive-ones)
- ### 题目描述
 <p>给定一个正整数 n，找出小于或等于 n 的非负整数中，其二进制表示不包含&nbsp;<strong>连续的1&nbsp;</strong>的个数。</p>
 
 <p><strong>示例 1:</strong></p>

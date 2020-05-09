@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [81. 搜索旋转排序数组 II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii)
- ### 题目描述
 <p>假设按照升序排序的数组在预先未知的某个点上进行了旋转。</p>
 
 <p>( 例如，数组&nbsp;<code>[0,0,1,2,2,5,6]</code>&nbsp;可能变为&nbsp;<code>[2,5,6,0,0,1,2]</code>&nbsp;)。</p>

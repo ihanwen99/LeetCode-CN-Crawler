@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [面试题54. 二叉搜索树的第k大节点](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof)
- ### 题目描述
 <p>给定一棵二叉搜索树，请找出其中第k大的节点。</p>
 
 <p>&nbsp;</p>

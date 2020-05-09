@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [面试题52. 两个链表的第一个公共节点](https://leetcode-cn.com/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof)
- ### 题目描述
 <p>输入两个链表，找出它们的第一个公共节点。</p>
 
 <p>如下面的两个链表<strong>：</strong></p>

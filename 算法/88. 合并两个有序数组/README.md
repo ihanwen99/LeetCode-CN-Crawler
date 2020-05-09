@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [88. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array)
- ### 题目描述
 <p>给你两个有序整数数组&nbsp;<em>nums1 </em>和 <em>nums2</em>，请你将 <em>nums2 </em>合并到&nbsp;<em>nums1&nbsp;</em>中<em>，</em>使 <em>nums1 </em>成为一个有序数组。</p>
 
 <p>&nbsp;</p>

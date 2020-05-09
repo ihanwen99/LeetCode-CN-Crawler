@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [23. 合并K个排序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists)
- ### 题目描述
 <p>合并&nbsp;<em>k&nbsp;</em>个排序链表，返回合并后的排序链表。请分析和描述算法的复杂度。</p>
 
 <p><strong>示例:</strong></p>

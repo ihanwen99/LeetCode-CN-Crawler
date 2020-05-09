@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [427. 建立四叉树](https://leetcode-cn.com/problems/construct-quad-tree)
- ### 题目描述
 <p>给你一个 <code>n * n</code> 矩阵 <code>grid</code> ，矩阵由若干 <code>0</code> 和 <code>1</code> 组成。请你用四叉树表示该矩阵 <code>grid</code> 。</p>
 
 <p>你需要返回能表示矩阵的 四叉树 的根结点。</p>

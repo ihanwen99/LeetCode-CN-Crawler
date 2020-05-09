@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [715. Range 模块](https://leetcode-cn.com/problems/range-module)
- ### 题目描述
 <p>Range 模块是跟踪数字范围的模块。你的任务是以一种有效的方式设计和实现以下接口。</p>
 
 <ul>

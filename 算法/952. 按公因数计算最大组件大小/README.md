@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [952. 按公因数计算最大组件大小](https://leetcode-cn.com/problems/largest-component-size-by-common-factor)
- ### 题目描述
 <p>给定一个由不同正整数的组成的非空数组 <code>A</code>，考虑下面的图：</p>
 
 <ul>

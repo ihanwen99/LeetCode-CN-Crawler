@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [892. 三维形体的表面积](https://leetcode-cn.com/problems/surface-area-of-3d-shapes)
- ### 题目描述
 <p>在&nbsp;<code>N&nbsp;*&nbsp;N</code>&nbsp;的网格上，我们放置一些&nbsp;<code>1 * 1 * 1&nbsp;</code>&nbsp;的立方体。</p>
 
 <p>每个值&nbsp;<code>v = grid[i][j]</code>&nbsp;表示&nbsp;<code>v</code>&nbsp;个正方体叠放在对应单元格&nbsp;<code>(i, j)</code>&nbsp;上。</p>

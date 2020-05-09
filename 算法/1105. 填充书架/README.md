@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1105. 填充书架](https://leetcode-cn.com/problems/filling-bookcase-shelves)
- ### 题目描述
 <p>附近的家居城促销，你买回了一直心仪的可调节书架，打算把自己的书都整理到新的书架上。</p>
 
 <p>你把要摆放的书 <code>books</code>&nbsp;都整理好，叠成一摞：从上往下，第 <code>i</code>&nbsp;本书的厚度为 <code>books[i][0]</code>，高度为 <code>books[i][1]</code>。</p>

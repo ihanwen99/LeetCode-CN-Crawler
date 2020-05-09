@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [744. 寻找比目标字母大的最小字母](https://leetcode-cn.com/problems/find-smallest-letter-greater-than-target)
- ### 题目描述
 <p>给你一个排序后的字符列表 <code>letters</code> ，列表中只包含小写英文字母。另给出一个目标字母&nbsp;<code>target</code>，请你寻找在这一有序列表里比目标字母大的最小字母。</p>
 
 <p>在比较时，字母是依序循环出现的。举个例子：</p>

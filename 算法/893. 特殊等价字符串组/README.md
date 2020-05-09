@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [893. 特殊等价字符串组](https://leetcode-cn.com/problems/groups-of-special-equivalent-strings)
- ### 题目描述
 <p>你将得到一个字符串数组 <code>A</code>。</p>
 
 <p>如果经过任意次数的移动，S == T，那么两个字符串 <code>S</code> 和 <code>T</code> 是<strong>特殊等价</strong>的。</p>

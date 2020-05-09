@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [507. 完美数](https://leetcode-cn.com/problems/perfect-number)
- ### 题目描述
 <p>对于一个&nbsp;<strong>正整数</strong>，如果它和除了它自身以外的所有正因子之和相等，我们称它为&ldquo;完美数&rdquo;。</p>
 
 <p>给定一个&nbsp;<strong>整数&nbsp;</strong><code>n</code>，&nbsp;如果他是完美数，返回&nbsp;<code>True</code>，否则返回&nbsp;<code>False</code></p>

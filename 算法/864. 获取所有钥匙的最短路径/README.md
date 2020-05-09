@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [864. 获取所有钥匙的最短路径](https://leetcode-cn.com/problems/shortest-path-to-get-all-keys)
- ### 题目描述
 <p>给定一个二维网格&nbsp;<code>grid</code>。&nbsp;<code>&quot;.&quot;</code>&nbsp;代表一个空房间，&nbsp;<code>&quot;#&quot;</code>&nbsp;代表一堵墙，&nbsp;<code>&quot;@&quot;</code>&nbsp;是起点，（<code>&quot;a&quot;</code>,&nbsp;<code>&quot;b&quot;</code>, ...）代表钥匙，（<code>&quot;A&quot;</code>,&nbsp;<code>&quot;B&quot;</code>, ...）代表锁。</p>
 
 <p>我们从起点开始出发，一次移动是指向四个基本方向之一行走一个单位空间。我们不能在网格外面行走，也无法穿过一堵墙。如果途经一个钥匙，我们就把它捡起来。除非我们手里有对应的钥匙，否则无法通过锁。</p>

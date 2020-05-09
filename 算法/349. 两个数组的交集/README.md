@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [349. 两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays)
- ### 题目描述
 <p>给定两个数组，编写一个函数来计算它们的交集。</p>
 
 <p><strong>示例 1:</strong></p>

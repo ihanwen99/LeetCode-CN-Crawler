@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [面试题27. 二叉树的镜像](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof)
- ### 题目描述
 <p>请完成一个函数，输入一个二叉树，该函数输出它的镜像。</p>
 
 <p>例如输入：</p>

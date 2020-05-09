@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [601. 体育馆的人流量](https://leetcode-cn.com/problems/human-traffic-of-stadium)
- ### 题目描述
 <p>X 市建了一个新的体育馆，每日人流量信息被记录在这三列信息中：<strong>序号</strong> (id)、<strong>日期</strong> (visit_date)、&nbsp;<strong>人流量</strong> (people)。</p>
 
 <p>请编写一个查询语句，找出人流量的高峰期。高峰期时，至少连续三行记录中的人流量不少于100。</p>

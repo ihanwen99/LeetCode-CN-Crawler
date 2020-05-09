@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1268. 搜索推荐系统](https://leetcode-cn.com/problems/search-suggestions-system)
- ### 题目描述
 <p>给你一个产品数组&nbsp;<code>products</code>&nbsp;和一个字符串&nbsp;<code>searchWord</code>&nbsp;，<code>products</code>&nbsp; 数组中每个产品都是一个字符串。</p>
 
 <p>请你设计一个推荐系统，在依次输入单词&nbsp;<code>searchWord</code> 的每一个字母后，推荐&nbsp;<code>products</code> 数组中前缀与&nbsp;<code>searchWord</code> 相同的最多三个产品。如果前缀相同的可推荐产品超过三个，请按字典序返回最小的三个。</p>

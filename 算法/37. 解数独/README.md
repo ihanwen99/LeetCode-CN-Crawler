@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [37. 解数独](https://leetcode-cn.com/problems/sudoku-solver)
- ### 题目描述
 <p>编写一个程序，通过已填充的空格来解决数独问题。</p>
 
 <p>一个数独的解法需<strong>遵循如下规则</strong>：</p>

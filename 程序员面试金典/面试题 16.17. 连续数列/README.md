@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [面试题 16.17. 连续数列](https://leetcode-cn.com/problems/contiguous-sequence-lcci)
- ### 题目描述
 <p>给定一个整数数组，找出总和最大的连续数列，并返回总和。</p>
 
 <p><strong>示例：</strong></p>

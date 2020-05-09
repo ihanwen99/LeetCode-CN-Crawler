@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [563. 二叉树的坡度](https://leetcode-cn.com/problems/binary-tree-tilt)
- ### 题目描述
 <p>给定一个二叉树，计算<strong>整个树</strong>的坡度。</p>
 
 <p>一个树的<strong>节点的坡度</strong>定义即为，该节点左子树的结点之和和右子树结点之和的<strong>差的绝对值</strong>。空结点的的坡度是0。</p>

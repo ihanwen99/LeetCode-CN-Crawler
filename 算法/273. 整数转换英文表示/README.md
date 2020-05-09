@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [273. 整数转换英文表示](https://leetcode-cn.com/problems/integer-to-english-words)
- ### 题目描述
 <p>将非负整数转换为其对应的英文表示。可以保证给定输入小于&nbsp;2<sup>31</sup> - 1 。</p>
 
 <p><strong>示例 1:</strong></p>

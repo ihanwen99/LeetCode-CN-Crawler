@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [1419. 数青蛙](https://leetcode-cn.com/problems/minimum-number-of-frogs-croaking)
- ### 题目描述
 <p>给你一个字符串 <code>croakOfFrogs</code>，它表示不同青蛙发出的蛙鸣声（字符串 &quot;croak&quot; ）的组合。由于同一时间可以有多只青蛙呱呱作响，所以&nbsp;<code>croakOfFrogs</code> 中会混合多个 &ldquo;croak&rdquo; <em>。</em>请你返回模拟字符串中所有蛙鸣所需不同青蛙的最少数目。</p>
 
 <p><strong>注意：</strong>要想发出蛙鸣 &quot;croak&quot;，青蛙必须 <strong>依序</strong> 输出 <code>&lsquo;c&rsquo;, &rsquo;r&rsquo;, &rsquo;o&rsquo;, &rsquo;a&rsquo;, &rsquo;k&rsquo;</code> 这 5 个字母。如果没有输出全部五个字母，那么它就不会发出声音。</p>

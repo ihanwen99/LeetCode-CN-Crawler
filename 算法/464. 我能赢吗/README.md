@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [464. 我能赢吗](https://leetcode-cn.com/problems/can-i-win)
- ### 题目描述
 <p>在 &quot;100 game&quot; 这个游戏中，两名玩家轮流选择从 1 到 10 的任意整数，累计整数和，先使得累计整数和达到 100 的玩家，即为胜者。</p>
 
 <p>如果我们将游戏规则改为 &ldquo;玩家不能重复使用整数&rdquo; 呢？</p>

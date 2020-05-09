@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [664. 奇怪的打印机](https://leetcode-cn.com/problems/strange-printer)
- ### 题目描述
 <p>有台奇怪的打印机有以下两个特殊要求：</p>
 
 <ol>

@@ -1,7 +1,6 @@
 | [English](README_EN.md) | 简体中文 |
 
 # [837. 新21点](https://leetcode-cn.com/problems/new-21-game)
- ### 题目描述
 <p>爱丽丝参与一个大致基于纸牌游戏 &ldquo;21点&rdquo; 规则的游戏，描述如下：</p>
 
 <p>爱丽丝以 <code>0</code> 分开始，并在她的得分少于 <code>K</code> 分时抽取数字。 抽取时，她从 <code>[1, W]</code> 的范围中随机获得一个整数作为分数进行累计，其中 <code>W</code> 是整数。 每次抽取都是独立的，其结果具有相同的概率。</p>
