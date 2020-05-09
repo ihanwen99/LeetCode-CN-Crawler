@@ -226,6 +226,35 @@ def process_writing_question(content):
             f_cn.write("- {}:\t[{}]({}) \n".format(diff[similar_question["difficulty"]],
                                                    similar_question['translatedTitle'],
                                                    question_url + similar_question['titleSlug']))
+    f_cn.write("""
+# 解题思路 √
+
+### Python
+
+1. 
+
+```python
+
+```
+
+
+```python
+
+```
+
+### C++
+
+```cpp
+
+```
+
+---
+
+
+
+# 整理与总结
+
+1. """)
     sample_cn.close()
     f_cn.close()
 
