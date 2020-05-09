@@ -26,8 +26,6 @@ GITHUBURL = args.github[0]
 ROOT_PATH = args.output[0]
 
 # if os.path.exists(ROOT_PATH + DB_PATH): os.remove(ROOT_PATH + DB_PATH)
-f_config = open('config.json', 'r')
-user_config = json.load(f_config)
 
 user_agent = r'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36'
 
