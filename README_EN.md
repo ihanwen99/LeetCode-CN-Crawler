@@ -2,16 +2,16 @@
 | English | [简体中文](README.md) | [Guidance指南](Guidance.md) |
 <p align="center">
     <img src="https://img.shields.io/badge/User-starky99-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/Solved-405/1640-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/Easy-245-green.svg?" alt="">
-    <img src="https://img.shields.io/badge/Medium-139-orange.svg?" alt="">
+    <img src="https://img.shields.io/badge/Solved-411/1644-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/Easy-247-green.svg?" alt="">
+    <img src="https://img.shields.io/badge/Medium-143-orange.svg?" alt="">
     <img src="https://img.shields.io/badge/Hard-21-red.svg?" alt="">
 </p>
 <h1 align="center">My LeetCode Solutions</h1>
 
 <p align="center">
     <br>
-    <b>最近一次更新: 2020-05-10 00:17:56</b>
+    <b>最近一次更新: 2020-05-11 22:35:09</b>
     <br>
 </p>
 <p align="center">This repo is powered by <a href="https://github.com/david990917/LeetCode-CN-Crawler">LeetCode-CN-Crawler</a>.</p>
@@ -1153,6 +1153,10 @@
 |[1437](https://leetcode-cn.com/problems/check-if-all-1s-are-at-least-length-k-places-away)|[Check If All 1's Are at Least Length K Places Away](https://github.com/david990917/LeetCode-CN-Crawler/tree/master/算法/1437.%20是否所有%201%20都至少相隔%20k%20个元素/README_EN.md)|Medium|[Array](https://leetcode-cn.com/tag/array) |
 |[1438](https://leetcode-cn.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit)|[Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://github.com/david990917/LeetCode-CN-Crawler/tree/master/算法/1438.%20绝对差不超过限制的最长连续子数组/README_EN.md)|Medium|[Array](https://leetcode-cn.com/tag/array) [Sliding Window](https://leetcode-cn.com/tag/sliding-window) |
 |[1439](https://leetcode-cn.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows)|[Find the Kth Smallest Sum of a Matrix With Sorted Rows](https://github.com/david990917/LeetCode-CN-Crawler/tree/master/算法/1439.%20有序矩阵中的第%20k%20个最小数组和/README_EN.md)|Hard|[Heap](https://leetcode-cn.com/tag/heap) |
+|[1441](https://leetcode-cn.com/problems/build-an-array-with-stack-operations)|[Build an Array With Stack Operations](https://github.com/david990917/LeetCode-CN-Crawler/tree/master/算法/1441.%20用栈操作构建数组/README_EN.md)|Easy|[Stack](https://leetcode-cn.com/tag/stack) |
+|[1442](https://leetcode-cn.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor)|[Count Triplets That Can Form Two Arrays of Equal XOR](https://github.com/david990917/LeetCode-CN-Crawler/tree/master/算法/1442.%20形成两个异或相等数组的三元组数目/README_EN.md)|Medium|[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) [Array](https://leetcode-cn.com/tag/array) [Math](https://leetcode-cn.com/tag/math) |
+|[1443](https://leetcode-cn.com/problems/minimum-time-to-collect-all-apples-in-a-tree)|[Minimum Time to Collect All Apples in a Tree](https://github.com/david990917/LeetCode-CN-Crawler/tree/master/算法/1443.%20收集树上所有苹果的最少时间/README_EN.md)|Medium|[Tree](https://leetcode-cn.com/tag/tree) [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) |
+|[1444](https://leetcode-cn.com/problems/number-of-ways-of-cutting-a-pizza)|[Number of Ways of Cutting a Pizza](https://github.com/david990917/LeetCode-CN-Crawler/tree/master/算法/1444.%20切披萨的方案数/README_EN.md)|Hard|[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) |
 |[LCP 02](https://leetcode-cn.com/problems/deep-dark-fraction)|[Deep Dark Fraction](https://github.com/david990917/LeetCode-CN-Crawler/tree/master/算法/LCP%2002.%20分式化简/README_EN.md)|Easy||
 |[LCP 04](https://leetcode-cn.com/problems/broken-board-dominoes)|[Broken Board Dominoes](https://github.com/david990917/LeetCode-CN-Crawler/tree/master/算法/LCP%2004.%20覆盖/README_EN.md)|Hard||
 |[LCP 05](https://leetcode-cn.com/problems/coin-bonus)|[Coin Bonus](https://github.com/david990917/LeetCode-CN-Crawler/tree/master/算法/LCP%2005.%20发%20LeetCoin/README_EN.md)|Hard||
