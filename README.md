@@ -2,8 +2,8 @@
 | [English](README_EN.md) | 简体中文 | [Guidance指南](Guidance.md) |
 <p align="center">
     <img src="https://img.shields.io/badge/用户-starky99-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/已解决-424/1644-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/简单-258-green.svg?" alt="">
+    <img src="https://img.shields.io/badge/已解决-425/1645-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/简单-259-green.svg?" alt="">
     <img src="https://img.shields.io/badge/中等-144-orange.svg?" alt="">
     <img src="https://img.shields.io/badge/困难-22-red.svg?" alt="">
 </p>
@@ -11,7 +11,7 @@
 
 <p align="center">
     <br>
-    <b>最近一次更新: 2020-05-15 16:55:29</b>
+    <b>最近一次更新: 2020-05-16 15:11:43</b>
     <br>
 </p>
 <p align="center">This repo is powered by <a href="https://github.com/david990917/LeetCode-CN-Crawler">LeetCode-CN-Crawler</a>.</p>
