@@ -2,16 +2,16 @@
 | [English](README_EN.md) | 简体中文 | [Guidance指南](Guidance.md) |
 <p align="center">
     <img src="https://img.shields.io/badge/用户-starky99-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/已解决-425/1645-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/简单-259-green.svg?" alt="">
-    <img src="https://img.shields.io/badge/中等-144-orange.svg?" alt="">
-    <img src="https://img.shields.io/badge/困难-22-red.svg?" alt="">
+    <img src="https://img.shields.io/badge/已解决-433/1658-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/简单-260-green.svg?" alt="">
+    <img src="https://img.shields.io/badge/中等-149-orange.svg?" alt="">
+    <img src="https://img.shields.io/badge/困难-24-red.svg?" alt="">
 </p>
 <h1 align="center">My LeetCode Solutions</h1>
 
 <p align="center">
     <br>
-    <b>最近一次更新: 2020-05-16 15:11:43</b>
+    <b>最近一次更新: 2020-05-25 22:18:05</b>
     <br>
 </p>
 <p align="center">This repo is powered by <a href="https://github.com/david990917/LeetCode-CN-Crawler">LeetCode-CN-Crawler</a>.</p>
@@ -1149,6 +1149,10 @@
 |[1422](https://leetcode-cn.com/problems/maximum-score-after-splitting-a-string)|[分割字符串的最大得分](https://github.com/david990917/LeetCode-CN-Crawler/tree/master/算法/1422.%20分割字符串的最大得分)|简单|[字符串](https://leetcode-cn.com/tag/string) |
 |[1423](https://leetcode-cn.com/problems/maximum-points-you-can-obtain-from-cards)|[可获得的最大点数](https://github.com/david990917/LeetCode-CN-Crawler/tree/master/算法/1423.%20可获得的最大点数)|中等|[数组](https://leetcode-cn.com/tag/array) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) [None](https://leetcode-cn.com/tag/sliding-window) |
 |[1424](https://leetcode-cn.com/problems/diagonal-traverse-ii)|[对角线遍历 II](https://github.com/david990917/LeetCode-CN-Crawler/tree/master/算法/1424.%20对角线遍历%20II)|中等|[排序](https://leetcode-cn.com/tag/sort) [数组](https://leetcode-cn.com/tag/array) |
+|[1446](https://leetcode-cn.com/problems/consecutive-characters)|[连续字符](https://github.com/david990917/LeetCode-CN-Crawler/tree/master/算法/1446.%20连续字符)|简单|[字符串](https://leetcode-cn.com/tag/string) |
+|[1447](https://leetcode-cn.com/problems/simplified-fractions)|[最简分数](https://github.com/david990917/LeetCode-CN-Crawler/tree/master/算法/1447.%20最简分数)|中等|[数学](https://leetcode-cn.com/tag/math) |
+|[1448](https://leetcode-cn.com/problems/count-good-nodes-in-binary-tree)|[统计二叉树中好节点的数目](https://github.com/david990917/LeetCode-CN-Crawler/tree/master/算法/1448.%20统计二叉树中好节点的数目)|中等|[树](https://leetcode-cn.com/tag/tree) [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) |
+|[1449](https://leetcode-cn.com/problems/form-largest-integer-with-digits-that-add-up-to-target)|[数位成本和为目标值的最大数字](https://github.com/david990917/LeetCode-CN-Crawler/tree/master/算法/1449.%20数位成本和为目标值的最大数字)|困难|[字符串](https://leetcode-cn.com/tag/string) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) |
 |[1436](https://leetcode-cn.com/problems/destination-city)|[旅行终点站](https://github.com/david990917/LeetCode-CN-Crawler/tree/master/算法/1436.%20旅行终点站)|简单|[字符串](https://leetcode-cn.com/tag/string) |
 |[1437](https://leetcode-cn.com/problems/check-if-all-1s-are-at-least-length-k-places-away)|[是否所有 1 都至少相隔 k 个元素](https://github.com/david990917/LeetCode-CN-Crawler/tree/master/算法/1437.%20是否所有%201%20都至少相隔%20k%20个元素)|中等|[数组](https://leetcode-cn.com/tag/array) |
 |[1438](https://leetcode-cn.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit)|[绝对差不超过限制的最长连续子数组](https://github.com/david990917/LeetCode-CN-Crawler/tree/master/算法/1438.%20绝对差不超过限制的最长连续子数组)|中等|[数组](https://leetcode-cn.com/tag/array) [None](https://leetcode-cn.com/tag/sliding-window) |
@@ -1157,6 +1161,14 @@
 |[1442](https://leetcode-cn.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor)|[形成两个异或相等数组的三元组数目](https://github.com/david990917/LeetCode-CN-Crawler/tree/master/算法/1442.%20形成两个异或相等数组的三元组数目)|中等|[位运算](https://leetcode-cn.com/tag/bit-manipulation) [数组](https://leetcode-cn.com/tag/array) [数学](https://leetcode-cn.com/tag/math) |
 |[1443](https://leetcode-cn.com/problems/minimum-time-to-collect-all-apples-in-a-tree)|[收集树上所有苹果的最少时间](https://github.com/david990917/LeetCode-CN-Crawler/tree/master/算法/1443.%20收集树上所有苹果的最少时间)|中等|[树](https://leetcode-cn.com/tag/tree) [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) |
 |[1444](https://leetcode-cn.com/problems/number-of-ways-of-cutting-a-pizza)|[切披萨的方案数](https://github.com/david990917/LeetCode-CN-Crawler/tree/master/算法/1444.%20切披萨的方案数)|困难|[动态规划](https://leetcode-cn.com/tag/dynamic-programming) |
+|[1450](https://leetcode-cn.com/problems/number-of-students-doing-homework-at-a-given-time)|[在既定时间做作业的学生人数](https://github.com/david990917/LeetCode-CN-Crawler/tree/master/算法/1450.%20在既定时间做作业的学生人数)|简单|[数组](https://leetcode-cn.com/tag/array) |
+|[1451](https://leetcode-cn.com/problems/rearrange-words-in-a-sentence)|[重新排列句子中的单词](https://github.com/david990917/LeetCode-CN-Crawler/tree/master/算法/1451.%20重新排列句子中的单词)|中等|[排序](https://leetcode-cn.com/tag/sort) [字符串](https://leetcode-cn.com/tag/string) |
+|[1452](https://leetcode-cn.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list)|[收藏清单](https://github.com/david990917/LeetCode-CN-Crawler/tree/master/算法/1452.%20收藏清单)|中等|[排序](https://leetcode-cn.com/tag/sort) [字符串](https://leetcode-cn.com/tag/string) |
+|[1453](https://leetcode-cn.com/problems/maximum-number-of-darts-inside-of-a-circular-dartboard)|[圆形靶内的最大飞镖数量](https://github.com/david990917/LeetCode-CN-Crawler/tree/master/算法/1453.%20圆形靶内的最大飞镖数量)|困难|[几何](https://leetcode-cn.com/tag/geometry) |
+|[1455](https://leetcode-cn.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence)|[检查单词是否为句中其他单词的前缀](https://github.com/david990917/LeetCode-CN-Crawler/tree/master/算法/1455.%20检查单词是否为句中其他单词的前缀)|简单|[字符串](https://leetcode-cn.com/tag/string) |
+|[1456](https://leetcode-cn.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length)|[定长子串中元音的最大数目](https://github.com/david990917/LeetCode-CN-Crawler/tree/master/算法/1456.%20定长子串中元音的最大数目)|中等|[字符串](https://leetcode-cn.com/tag/string) [None](https://leetcode-cn.com/tag/sliding-window) |
+|[1457](https://leetcode-cn.com/problems/pseudo-palindromic-paths-in-a-binary-tree)|[二叉树中的伪回文路径](https://github.com/david990917/LeetCode-CN-Crawler/tree/master/算法/1457.%20二叉树中的伪回文路径)|中等|[位运算](https://leetcode-cn.com/tag/bit-manipulation) [树](https://leetcode-cn.com/tag/tree) [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) |
+|[1458](https://leetcode-cn.com/problems/max-dot-product-of-two-subsequences)|[两个子序列的最大点积](https://github.com/david990917/LeetCode-CN-Crawler/tree/master/算法/1458.%20两个子序列的最大点积)|困难|[动态规划](https://leetcode-cn.com/tag/dynamic-programming) |
 |[LCP 02](https://leetcode-cn.com/problems/deep-dark-fraction)|[分式化简](https://github.com/david990917/LeetCode-CN-Crawler/tree/master/算法/LCP%2002.%20分式化简)|简单||
 |[LCP 04](https://leetcode-cn.com/problems/broken-board-dominoes)|[覆盖](https://github.com/david990917/LeetCode-CN-Crawler/tree/master/算法/LCP%2004.%20覆盖)|困难||
 |[LCP 05](https://leetcode-cn.com/problems/coin-bonus)|[发 LeetCoin](https://github.com/david990917/LeetCode-CN-Crawler/tree/master/算法/LCP%2005.%20发%20LeetCoin)|困难||
