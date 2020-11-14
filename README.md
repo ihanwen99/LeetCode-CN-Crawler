@@ -2,16 +2,16 @@
 | [English](README_EN.md) | 简体中文 | [Guidance指南](Guidance.md) |
 <p align="center">
     <img src="https://img.shields.io/badge/用户-starky99-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/已解决-439/1855-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/简单-252-green.svg?" alt="">
-    <img src="https://img.shields.io/badge/中等-163-orange.svg?" alt="">
-    <img src="https://img.shields.io/badge/困难-24-red.svg?" alt="">
+    <img src="https://img.shields.io/badge/已解决-442/1861-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/简单-253-green.svg?" alt="">
+    <img src="https://img.shields.io/badge/中等-164-orange.svg?" alt="">
+    <img src="https://img.shields.io/badge/困难-25-red.svg?" alt="">
 </p>
 <h1 align="center">My LeetCode Solutions</h1>
 
 <p align="center">
     <br>
-    <b>最近一次更新: 2020-11-05 11:34:16</b>
+    <b>最近一次更新: 2020-11-14 09:26:38</b>
     <br>
 </p>
 <p align="center">This repo is powered by <a href="https://github.com/david990917/LeetCode-CN-Crawler">LeetCode-CN-Crawler</a>.</p>
@@ -1310,6 +1310,10 @@
 |[1641](https://leetcode-cn.com/problems/count-sorted-vowel-strings)|[统计字典序元音字符串的数目](https://github.com/david990917/LeetCode-CN-Crawler/tree/master/算法/1641.%20统计字典序元音字符串的数目)|中等|[数学](https://leetcode-cn.com/tag/math) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) [回溯算法](https://leetcode-cn.com/tag/backtracking) |
 |[1642](https://leetcode-cn.com/problems/furthest-building-you-can-reach)|[可以到达的最远建筑](https://github.com/david990917/LeetCode-CN-Crawler/tree/master/算法/1642.%20可以到达的最远建筑)|中等|[堆](https://leetcode-cn.com/tag/heap) [二分查找](https://leetcode-cn.com/tag/binary-search) |
 |[1628](https://leetcode-cn.com/problems/design-an-expression-tree-with-evaluate-function)|[设计带解析函数的表达式树](https://github.com/david990917/LeetCode-CN-Crawler/tree/master/算法/1628.%20设计带解析函数的表达式树)|中等|[树](https://leetcode-cn.com/tag/tree) [设计](https://leetcode-cn.com/tag/design) |
+|[1646](https://leetcode-cn.com/problems/get-maximum-in-generated-array)|[获取生成数组中的最大值](https://github.com/david990917/LeetCode-CN-Crawler/tree/master/算法/1646.%20获取生成数组中的最大值)|简单|[数组](https://leetcode-cn.com/tag/array) |
+|[1647](https://leetcode-cn.com/problems/minimum-deletions-to-make-character-frequencies-unique)|[字符频次唯一的最小删除次数](https://github.com/david990917/LeetCode-CN-Crawler/tree/master/算法/1647.%20字符频次唯一的最小删除次数)|中等|[贪心算法](https://leetcode-cn.com/tag/greedy) [排序](https://leetcode-cn.com/tag/sort) |
+|[1648](https://leetcode-cn.com/problems/sell-diminishing-valued-colored-balls)|[销售价值减少的颜色球](https://github.com/david990917/LeetCode-CN-Crawler/tree/master/算法/1648.%20销售价值减少的颜色球)|中等|[贪心算法](https://leetcode-cn.com/tag/greedy) [排序](https://leetcode-cn.com/tag/sort) [数学](https://leetcode-cn.com/tag/math) |
+|[1649](https://leetcode-cn.com/problems/create-sorted-array-through-instructions)|[通过指令创建有序数组](https://github.com/david990917/LeetCode-CN-Crawler/tree/master/算法/1649.%20通过指令创建有序数组)|困难|[树状数组](https://leetcode-cn.com/tag/binary-indexed-tree) [线段树](https://leetcode-cn.com/tag/segment-tree) [None](https://leetcode-cn.com/tag/ordered-map) |
 |[LCP 02](https://leetcode-cn.com/problems/deep-dark-fraction)|[分式化简](https://github.com/david990917/LeetCode-CN-Crawler/tree/master/算法/LCP%2002.%20分式化简)|简单||
 |[LCP 04](https://leetcode-cn.com/problems/broken-board-dominoes)|[覆盖](https://github.com/david990917/LeetCode-CN-Crawler/tree/master/算法/LCP%2004.%20覆盖)|困难||
 |[LCP 05](https://leetcode-cn.com/problems/coin-bonus)|[发 LeetCoin](https://github.com/david990917/LeetCode-CN-Crawler/tree/master/算法/LCP%2005.%20发%20LeetCoin)|困难||

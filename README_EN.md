@@ -2,16 +2,16 @@
 | English | [简体中文](README.md) | [Guidance指南](Guidance.md) |
 <p align="center">
     <img src="https://img.shields.io/badge/User-starky99-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/Solved-439/1855-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/Easy-252-green.svg?" alt="">
-    <img src="https://img.shields.io/badge/Medium-163-orange.svg?" alt="">
-    <img src="https://img.shields.io/badge/Hard-24-red.svg?" alt="">
+    <img src="https://img.shields.io/badge/Solved-442/1861-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/Easy-253-green.svg?" alt="">
+    <img src="https://img.shields.io/badge/Medium-164-orange.svg?" alt="">
+    <img src="https://img.shields.io/badge/Hard-25-red.svg?" alt="">
 </p>
 <h1 align="center">My LeetCode Solutions</h1>
 
 <p align="center">
     <br>
-    <b>最近一次更新: 2020-11-05 11:34:16</b>
+    <b>最近一次更新: 2020-11-14 09:26:38</b>
     <br>
 </p>
 <p align="center">This repo is powered by <a href="https://github.com/david990917/LeetCode-CN-Crawler">LeetCode-CN-Crawler</a>.</p>
@@ -1310,6 +1310,10 @@
 |[1641](https://leetcode-cn.com/problems/count-sorted-vowel-strings)|[Count Sorted Vowel Strings](https://github.com/david990917/LeetCode-CN-Crawler/tree/master/算法/1641.%20统计字典序元音字符串的数目/README_EN.md)|Medium|[Math](https://leetcode-cn.com/tag/math) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) [Backtracking](https://leetcode-cn.com/tag/backtracking) |
 |[1642](https://leetcode-cn.com/problems/furthest-building-you-can-reach)|[Furthest Building You Can Reach](https://github.com/david990917/LeetCode-CN-Crawler/tree/master/算法/1642.%20可以到达的最远建筑/README_EN.md)|Medium|[Heap](https://leetcode-cn.com/tag/heap) [Binary Search](https://leetcode-cn.com/tag/binary-search) |
 |[1628](https://leetcode-cn.com/problems/design-an-expression-tree-with-evaluate-function)|[Design an Expression Tree With Evaluate Function](https://github.com/david990917/LeetCode-CN-Crawler/tree/master/算法/1628.%20设计带解析函数的表达式树/README_EN.md)|Medium|[Tree](https://leetcode-cn.com/tag/tree) [Design](https://leetcode-cn.com/tag/design) |
+|[1646](https://leetcode-cn.com/problems/get-maximum-in-generated-array)|[Get Maximum in Generated Array](https://github.com/david990917/LeetCode-CN-Crawler/tree/master/算法/1646.%20获取生成数组中的最大值/README_EN.md)|Easy|[Array](https://leetcode-cn.com/tag/array) |
+|[1647](https://leetcode-cn.com/problems/minimum-deletions-to-make-character-frequencies-unique)|[Minimum Deletions to Make Character Frequencies Unique](https://github.com/david990917/LeetCode-CN-Crawler/tree/master/算法/1647.%20字符频次唯一的最小删除次数/README_EN.md)|Medium|[Greedy](https://leetcode-cn.com/tag/greedy) [Sort](https://leetcode-cn.com/tag/sort) |
+|[1648](https://leetcode-cn.com/problems/sell-diminishing-valued-colored-balls)|[Sell Diminishing-Valued Colored Balls](https://github.com/david990917/LeetCode-CN-Crawler/tree/master/算法/1648.%20销售价值减少的颜色球/README_EN.md)|Medium|[Greedy](https://leetcode-cn.com/tag/greedy) [Sort](https://leetcode-cn.com/tag/sort) [Math](https://leetcode-cn.com/tag/math) |
+|[1649](https://leetcode-cn.com/problems/create-sorted-array-through-instructions)|[Create Sorted Array through Instructions](https://github.com/david990917/LeetCode-CN-Crawler/tree/master/算法/1649.%20通过指令创建有序数组/README_EN.md)|Hard|[Binary Indexed Tree](https://leetcode-cn.com/tag/binary-indexed-tree) [Segment Tree](https://leetcode-cn.com/tag/segment-tree) [Ordered Map](https://leetcode-cn.com/tag/ordered-map) |
 |[LCP 02](https://leetcode-cn.com/problems/deep-dark-fraction)|[Deep Dark Fraction](https://github.com/david990917/LeetCode-CN-Crawler/tree/master/算法/LCP%2002.%20分式化简/README_EN.md)|Easy||
 |[LCP 04](https://leetcode-cn.com/problems/broken-board-dominoes)|[Broken Board Dominoes](https://github.com/david990917/LeetCode-CN-Crawler/tree/master/算法/LCP%2004.%20覆盖/README_EN.md)|Hard||
 |[LCP 05](https://leetcode-cn.com/problems/coin-bonus)|[Coin Bonus](https://github.com/david990917/LeetCode-CN-Crawler/tree/master/算法/LCP%2005.%20发%20LeetCoin/README_EN.md)|Hard||
