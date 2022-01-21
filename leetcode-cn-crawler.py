@@ -41,7 +41,6 @@ category = {
     'Algorithms': "算法",
     'LCCI': "程序员面试金典",
     'LCOF': "剑指OFFER",
-    'LCOF2': "剑指OFFER II",
     'Database': "数据库",
     'Shell': "Shell",
     'Concurrency': "多线程"
@@ -83,6 +82,7 @@ engine = create_engine('{}?check_same_thread=False?charset=utf8'.format("sqlite:
 Base.metadata.create_all(engine, checkfirst=True)
 DBSession = sessionmaker(bind=engine)
 
+
 def login(username, password):
     client = requests.session()
     client.encoding = "utf-8"
@@ -101,7 +101,7 @@ def login(username, password):
 def get_question_list(client):
     headers = {'User-Agent': user_agent, 'Connection': 'keep-alive'}
     response = client.get(problems_url, headers=headers, timeout=10)
-    # print(response)  # <Response [200]>ø
+    # print(response)  # <Response [200]>
     # print(response.content.decode('utf-8'))  # My Personal Information
 
     information_json = json.loads(response.content.decode('utf-8'))  # Attention for this loads 's'
