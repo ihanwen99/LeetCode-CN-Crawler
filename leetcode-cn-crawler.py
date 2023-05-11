@@ -43,6 +43,7 @@ category = {
     'Algorithms': "算法",
     'LCCI': "程序员面试金典",
     'LCOF': "剑指OFFER",
+    'LCOF2': "剑指OFFER II",
     'Database': "数据库",
     'Shell': "Shell",
     'Concurrency': "多线程"
