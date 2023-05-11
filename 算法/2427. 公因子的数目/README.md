@@ -1,0 +1,59 @@
+| [English](README_EN.md) | 简体中文 |
+
+# [2427. 公因子的数目](https://leetcode.cn/problems/number-of-common-factors)
+<p>给你两个正整数 <code>a</code> 和 <code>b</code> ，返回 <code>a</code> 和 <code>b</code> 的 <strong>公</strong> 因子的数目。</p>
+
+<p>如果 <code>x</code> 可以同时整除 <code>a</code> 和 <code>b</code> ，则认为 <code>x</code> 是 <code>a</code> 和 <code>b</code> 的一个 <strong>公因子</strong> 。</p>
+
+<p>&nbsp;</p>
+
+<p><strong>示例 1：</strong></p>
+
+<pre><strong>输入：</strong>a = 12, b = 6
+<strong>输出：</strong>4
+<strong>解释：</strong>12 和 6 的公因子是 1、2、3、6 。
+</pre>
+
+<p><strong>示例 2：</strong></p>
+
+<pre><strong>输入：</strong>a = 25, b = 30
+<strong>输出：</strong>2
+<strong>解释：</strong>25 和 30 的公因子是 1、5 。</pre>
+
+<p>&nbsp;</p>
+
+<p><strong>提示：</strong></p>
+
+<ul>
+	<li><code>1 &lt;= a, b &lt;= 1000</code></li>
+</ul>
+
+**标签:**  [数学](https://leetcode.cn/tag/math) [枚举](https://leetcode.cn/tag/enumeration) [数论](https://leetcode.cn/tag/number-theory) 
+# 解题思路 √
+
+### Python
+
+1. 
+
+```python
+
+```
+
+
+```python
+
+```
+
+### C++
+
+```cpp
+
+```
+
+---
+
+
+
+# 整理与总结
+
+1. 

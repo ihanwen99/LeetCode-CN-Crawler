@@ -1,0 +1,58 @@
+| [English](README_EN.md) | 简体中文 |
+
+# [371. 两整数之和](https://leetcode.cn/problems/sum-of-two-integers)
+<p>给你两个整数 <code>a</code> 和 <code>b</code> ，<strong>不使用 </strong>运算符&nbsp;<code>+</code> 和&nbsp;<code>-</code>&nbsp;​​​​​​​，计算并返回两整数之和。</p>
+
+<p>&nbsp;</p>
+
+<p><strong>示例 1：</strong></p>
+
+<pre>
+<strong>输入：</strong>a = 1, b = 2
+<strong>输出：</strong>3
+</pre>
+
+<p><strong>示例 2：</strong></p>
+
+<pre>
+<strong>输入：</strong>a = 2, b = 3
+<strong>输出：</strong>5
+</pre>
+
+<p>&nbsp;</p>
+
+<p><strong>提示：</strong></p>
+
+<ul>
+	<li><code>-1000 &lt;= a, b &lt;= 1000</code></li>
+</ul>
+
+**标签:**  [位运算](https://leetcode.cn/tag/bit-manipulation) [数学](https://leetcode.cn/tag/math) 
+# 解题思路 √
+
+### Python
+
+1. 
+
+```python
+
+```
+
+
+```python
+
+```
+
+### C++
+
+```cpp
+
+```
+
+---
+
+
+
+# 整理与总结
+
+1. 

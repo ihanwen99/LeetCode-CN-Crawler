@@ -1,0 +1,58 @@
+| [English](README_EN.md) | 简体中文 |
+
+# [67. 二进制求和](https://leetcode.cn/problems/add-binary)
+<p>给你两个二进制字符串 <code>a</code> 和 <code>b</code> ，以二进制字符串的形式返回它们的和。</p>
+
+<p>&nbsp;</p>
+
+<p><strong>示例&nbsp;1：</strong></p>
+
+<pre>
+<strong>输入:</strong>a = "11", b = "1"
+<strong>输出：</strong>"100"</pre>
+
+<p><strong>示例&nbsp;2：</strong></p>
+
+<pre>
+<strong>输入：</strong>a = "1010", b = "1011"
+<strong>输出：</strong>"10101"</pre>
+
+<p>&nbsp;</p>
+
+<p><strong>提示：</strong></p>
+
+<ul>
+	<li><code>1 &lt;= a.length, b.length &lt;= 10<sup>4</sup></code></li>
+	<li><code>a</code> 和 <code>b</code> 仅由字符 <code>'0'</code> 或 <code>'1'</code> 组成</li>
+	<li>字符串如果不是 <code>"0"</code> ，就不含前导零</li>
+</ul>
+
+**标签:**  [位运算](https://leetcode.cn/tag/bit-manipulation) [数学](https://leetcode.cn/tag/math) [字符串](https://leetcode.cn/tag/string) [模拟](https://leetcode.cn/tag/simulation) 
+# 解题思路 √
+
+### Python
+
+1. 
+
+```python
+
+```
+
+
+```python
+
+```
+
+### C++
+
+```cpp
+
+```
+
+---
+
+
+
+# 整理与总结
+
+1. 

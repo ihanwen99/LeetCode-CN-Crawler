@@ -1,0 +1,55 @@
+| [English](README_EN.md) | 简体中文 |
+
+# [面试题 08.01. 三步问题](https://leetcode.cn/problems/three-steps-problem-lcci)
+<p>三步问题。有个小孩正在上楼梯，楼梯有n阶台阶，小孩一次可以上1阶、2阶或3阶。实现一种方法，计算小孩有多少种上楼梯的方式。结果可能很大，你需要对结果模1000000007。</p>
+
+<p> <strong>示例1:</strong></p>
+
+<pre>
+<strong> 输入</strong>：n = 3 
+<strong> 输出</strong>：4
+<strong> 说明</strong>: 有四种走法
+</pre>
+
+<p> <strong>示例2:</strong></p>
+
+<pre>
+<strong> 输入</strong>：n = 5
+<strong> 输出</strong>：13
+</pre>
+
+<p> <strong>提示:</strong></p>
+
+<ol>
+<li>n范围在[1, 1000000]之间</li>
+</ol>
+
+**标签:**  [记忆化搜索](https://leetcode.cn/tag/memoization) [数学](https://leetcode.cn/tag/math) [动态规划](https://leetcode.cn/tag/dynamic-programming) 
+# 解题思路 √
+
+### Python
+
+1. 
+
+```python
+
+```
+
+
+```python
+
+```
+
+### C++
+
+```cpp
+
+```
+
+---
+
+
+
+# 整理与总结
+
+1. 

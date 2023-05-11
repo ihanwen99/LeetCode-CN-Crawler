@@ -1,0 +1,61 @@
+| [English](README_EN.md) | 简体中文 |
+
+# [996. 正方形数组的数目](https://leetcode.cn/problems/number-of-squareful-arrays)
+<p>给定一个非负整数数组&nbsp;<code>A</code>，如果该数组每对相邻元素之和是一个完全平方数，则称这一数组为<em>正方形</em>数组。</p>
+
+<p>返回 A 的正方形排列的数目。两个排列 <code>A1</code> 和 <code>A2</code> 不同的充要条件是存在某个索引 <code>i</code>，使得 A1[i] != A2[i]。</p>
+
+<p>&nbsp;</p>
+
+<p><strong>示例 1：</strong></p>
+
+<pre><strong>输入：</strong>[1,17,8]
+<strong>输出：</strong>2
+<strong>解释：</strong>
+[1,8,17] 和 [17,8,1] 都是有效的排列。
+</pre>
+
+<p><strong>示例 2：</strong></p>
+
+<pre><strong>输入：</strong>[2,2,2]
+<strong>输出：</strong>1
+</pre>
+
+<p>&nbsp;</p>
+
+<p><strong>提示：</strong></p>
+
+<ol>
+	<li><code>1 &lt;= A.length &lt;= 12</code></li>
+	<li><code>0 &lt;= A[i] &lt;= 1e9</code></li>
+</ol>
+
+**标签:**  [位运算](https://leetcode.cn/tag/bit-manipulation) [数组](https://leetcode.cn/tag/array) [数学](https://leetcode.cn/tag/math) [动态规划](https://leetcode.cn/tag/dynamic-programming) [回溯](https://leetcode.cn/tag/backtracking) [状态压缩](https://leetcode.cn/tag/bitmask) 
+# 解题思路 √
+
+### Python
+
+1. 
+
+```python
+
+```
+
+
+```python
+
+```
+
+### C++
+
+```cpp
+
+```
+
+---
+
+
+
+# 整理与总结
+
+1. 
