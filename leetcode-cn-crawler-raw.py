@@ -46,7 +46,8 @@ category = {
     'LCOF2': "剑指OFFER II",
     'Database': "数据库",
     'Shell': "Shell",
-    'Concurrency': "多线程"
+    'Concurrency': "多线程",
+    'JavaScript': "JavaScript"
 }
 diff = {
     'Easy': "简单",
