@@ -245,12 +245,6 @@ def process_writing_question(content):
     except:
         pass
 
-    solution_content = normal_solution
-    if (category_title == "Database"):
-        solution_content = sql_solution
-    elif (category_title == "Shell"):
-        solution_content = shell_solution
-    f_cn.write(solution_content)
     sample_cn.close()
     f_cn.close()
 

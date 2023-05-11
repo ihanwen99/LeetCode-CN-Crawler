@@ -65,31 +65,3 @@ x=5, y=1 -> f(5, 1) = 5 * 1 = 5</pre>
 </ul>
 
 **标签:**  [数学](https://leetcode.cn/tag/math) [双指针](https://leetcode.cn/tag/two-pointers) [二分查找](https://leetcode.cn/tag/binary-search) [交互](https://leetcode.cn/tag/interactive) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

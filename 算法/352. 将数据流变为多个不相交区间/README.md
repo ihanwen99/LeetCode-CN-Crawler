@@ -54,31 +54,3 @@ summaryRanges.getIntervals(); // 返回 [[1, 3], [6, 7]]
 <p><strong>进阶：</strong>如果存在大量合并，并且与数据流的大小相比，不相交区间的数量很小，该怎么办?</p>
 
 **标签:**  [设计](https://leetcode.cn/tag/design) [二分查找](https://leetcode.cn/tag/binary-search) [有序集合](https://leetcode.cn/tag/ordered-set) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

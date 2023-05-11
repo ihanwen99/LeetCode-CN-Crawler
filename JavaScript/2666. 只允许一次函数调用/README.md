@@ -42,32 +42,3 @@ onceFn(4, 6, 8); // undefined, fn 没有被调用
 	<li><code>1 &lt;= calls[i].length &lt;= 100</code></li>
 	<li><code>2 &lt;= JSON.stringify(calls).length &lt;= 1000</code></li>
 </ul>
-
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

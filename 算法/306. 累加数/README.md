@@ -40,31 +40,3 @@
 <p><strong>进阶：</strong>你计划如何处理由过大的整数输入导致的溢出?</p>
 
 **标签:**  [字符串](https://leetcode.cn/tag/string) [回溯](https://leetcode.cn/tag/backtracking) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

@@ -53,31 +53,3 @@
 <p><meta charset="UTF-8" />注意：本题与主站 338&nbsp;题相同：<a href="https://leetcode-cn.com/problems/counting-bits/">https://leetcode-cn.com/problems/counting-bits/</a></p>
 
 **标签:**  [位运算](https://leetcode.cn/tag/bit-manipulation) [动态规划](https://leetcode.cn/tag/dynamic-programming) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

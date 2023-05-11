@@ -34,31 +34,3 @@ nums 最终元素和为 5 + 6 + 1 + 2 + 3 + 4 + 7 + 8 = 36 ，这是所有情况
 </ul>
 
 **标签:**  [贪心](https://leetcode.cn/tag/greedy) [数组](https://leetcode.cn/tag/array) [数学](https://leetcode.cn/tag/math) [排序](https://leetcode.cn/tag/sorting) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

@@ -40,31 +40,3 @@ parkingSystem.addCar(1); // 返回 false ，因为没有空的大车位，唯一
 </ul>
 
 **标签:**  [设计](https://leetcode.cn/tag/design) [计数](https://leetcode.cn/tag/counting) [模拟](https://leetcode.cn/tag/simulation) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

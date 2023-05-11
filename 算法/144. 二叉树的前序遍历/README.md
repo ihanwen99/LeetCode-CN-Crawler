@@ -54,31 +54,3 @@
 <p><strong>进阶：</strong>递归算法很简单，你可以通过迭代算法完成吗？</p>
 
 **标签:**  [栈](https://leetcode.cn/tag/stack) [树](https://leetcode.cn/tag/tree) [深度优先搜索](https://leetcode.cn/tag/depth-first-search) [二叉树](https://leetcode.cn/tag/binary-tree) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

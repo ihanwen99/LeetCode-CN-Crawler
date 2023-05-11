@@ -15,31 +15,3 @@
 <p>如果你已经实现复杂度为 O(<em>n</em>) 的解法，尝试使用更为精妙的分治法求解。</p>
 
 **标签:**  [数组](https://leetcode.cn/tag/array) [分治](https://leetcode.cn/tag/divide-and-conquer) [动态规划](https://leetcode.cn/tag/dynamic-programming) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

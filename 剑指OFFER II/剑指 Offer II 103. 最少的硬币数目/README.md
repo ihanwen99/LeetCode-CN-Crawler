@@ -56,31 +56,3 @@
 <p><meta charset="UTF-8" />注意：本题与主站 322&nbsp;题相同：&nbsp;<a href="https://leetcode-cn.com/problems/coin-change/">https://leetcode-cn.com/problems/coin-change/</a></p>
 
 **标签:**  [广度优先搜索](https://leetcode.cn/tag/breadth-first-search) [数组](https://leetcode.cn/tag/array) [动态规划](https://leetcode.cn/tag/dynamic-programming) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

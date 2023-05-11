@@ -44,31 +44,3 @@ movingAverage.next(5); // 返回 6.0 = (10 + 3 + 5) / 3
 <p><meta charset="UTF-8" />注意：本题与主站 346&nbsp;题相同：&nbsp;<a href="https://leetcode-cn.com/problems/moving-average-from-data-stream/">https://leetcode-cn.com/problems/moving-average-from-data-stream/</a></p>
 
 **标签:**  [设计](https://leetcode.cn/tag/design) [队列](https://leetcode.cn/tag/queue) [数组](https://leetcode.cn/tag/array) [数据流](https://leetcode.cn/tag/data-stream) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

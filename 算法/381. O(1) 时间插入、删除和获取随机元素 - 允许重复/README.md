@@ -53,31 +53,3 @@ collection.getRandom(); // getRandom 应该返回 1 或 2，两者的可能性�
 </ul>
 
 **标签:**  [设计](https://leetcode.cn/tag/design) [数组](https://leetcode.cn/tag/array) [哈希表](https://leetcode.cn/tag/hash-table) [数学](https://leetcode.cn/tag/math) [随机化](https://leetcode.cn/tag/randomized) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

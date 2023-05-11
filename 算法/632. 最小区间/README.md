@@ -40,31 +40,3 @@
 <p>&nbsp;</p>
 
 **标签:**  [贪心](https://leetcode.cn/tag/greedy) [数组](https://leetcode.cn/tag/array) [哈希表](https://leetcode.cn/tag/hash-table) [排序](https://leetcode.cn/tag/sorting) [滑动窗口](https://leetcode.cn/tag/sliding-window) [堆（优先队列）](https://leetcode.cn/tag/heap-priority-queue) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

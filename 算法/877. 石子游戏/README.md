@@ -43,31 +43,3 @@ Alice 先开始，只能拿前 5 颗或后 5 颗石子 。
 </ul>
 
 **标签:**  [数组](https://leetcode.cn/tag/array) [数学](https://leetcode.cn/tag/math) [动态规划](https://leetcode.cn/tag/dynamic-programming) [博弈](https://leetcode.cn/tag/game-theory) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

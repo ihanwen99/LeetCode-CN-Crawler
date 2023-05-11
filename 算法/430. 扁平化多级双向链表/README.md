@@ -89,31 +89,3 @@
 </ul>
 
 **标签:**  [深度优先搜索](https://leetcode.cn/tag/depth-first-search) [链表](https://leetcode.cn/tag/linked-list) [双向链表](https://leetcode.cn/tag/doubly-linked-list) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

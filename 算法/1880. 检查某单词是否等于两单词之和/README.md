@@ -57,31 +57,3 @@ targetWord 的数值为 "aaaa" -&gt; "0000" -&gt; 0
 </ul>
 
 **标签:**  [字符串](https://leetcode.cn/tag/string) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

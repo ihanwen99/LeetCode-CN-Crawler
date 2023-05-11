@@ -38,31 +38,3 @@
 </ul>
 
 **标签:**  [数组](https://leetcode.cn/tag/array) [链表](https://leetcode.cn/tag/linked-list) [矩阵](https://leetcode.cn/tag/matrix) [模拟](https://leetcode.cn/tag/simulation) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

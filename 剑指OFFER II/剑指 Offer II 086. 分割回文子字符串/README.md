@@ -41,31 +41,3 @@
 <p><meta charset="UTF-8" />注意：本题与主站 131&nbsp;题相同：&nbsp;<a href="https://leetcode-cn.com/problems/palindrome-partitioning/">https://leetcode-cn.com/problems/palindrome-partitioning/</a></p>
 
 **标签:**  [深度优先搜索](https://leetcode.cn/tag/depth-first-search) [广度优先搜索](https://leetcode.cn/tag/breadth-first-search) [图](https://leetcode.cn/tag/graph) [哈希表](https://leetcode.cn/tag/hash-table) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

@@ -37,31 +37,3 @@
 </ul>
 
 **标签:**  [数组](https://leetcode.cn/tag/array) [桶排序](https://leetcode.cn/tag/bucket-sort) [有序集合](https://leetcode.cn/tag/ordered-set) [排序](https://leetcode.cn/tag/sorting) [滑动窗口](https://leetcode.cn/tag/sliding-window) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

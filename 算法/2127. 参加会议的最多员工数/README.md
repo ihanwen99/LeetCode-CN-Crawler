@@ -60,31 +60,3 @@
 </ul>
 
 **标签:**  [深度优先搜索](https://leetcode.cn/tag/depth-first-search) [图](https://leetcode.cn/tag/graph) [拓扑排序](https://leetcode.cn/tag/topological-sort) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

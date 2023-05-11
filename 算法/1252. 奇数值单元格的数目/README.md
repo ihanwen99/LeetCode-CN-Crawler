@@ -54,31 +54,3 @@
 <p><strong>进阶：</strong>你可以设计一个时间复杂度为 <code>O(n + m + indices.length)</code> 且仅用 <code>O(n + m)</code> 额外空间的算法来解决此问题吗？</p>
 
 **标签:**  [数组](https://leetcode.cn/tag/array) [数学](https://leetcode.cn/tag/math) [模拟](https://leetcode.cn/tag/simulation) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

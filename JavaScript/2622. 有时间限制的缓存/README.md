@@ -59,32 +59,3 @@
 	<li><code>0 &lt;= duration &lt;= 1000</code></li>
 	<li><code>方法调用总数不会超过100</code></li>
 </ul>
-
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

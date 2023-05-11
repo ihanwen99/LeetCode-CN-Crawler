@@ -66,31 +66,3 @@ bSTIterator.hasNext(); // 返回 False
 <p><meta charset="UTF-8" />注意：本题与主站 173&nbsp;题相同：&nbsp;<a href="https://leetcode-cn.com/problems/binary-search-tree-iterator/">https://leetcode-cn.com/problems/binary-search-tree-iterator/</a></p>
 
 **标签:**  [栈](https://leetcode.cn/tag/stack) [树](https://leetcode.cn/tag/tree) [设计](https://leetcode.cn/tag/design) [二叉搜索树](https://leetcode.cn/tag/binary-search-tree) [二叉树](https://leetcode.cn/tag/binary-tree) [迭代器](https://leetcode.cn/tag/iterator) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

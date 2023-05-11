@@ -52,31 +52,3 @@
 <p><strong>进阶：</strong>您能否仅使用 <code>O(s2.length)</code> 额外的内存空间来解决它?</p>
 
 **标签:**  [字符串](https://leetcode.cn/tag/string) [动态规划](https://leetcode.cn/tag/dynamic-programming) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

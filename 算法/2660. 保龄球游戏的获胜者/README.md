@@ -64,31 +64,3 @@ player1 的得分等于 player2 的得分，所以这一场比赛平局，答案
 </ul>
 
 **标签:**  [数组](https://leetcode.cn/tag/array) [模拟](https://leetcode.cn/tag/simulation) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

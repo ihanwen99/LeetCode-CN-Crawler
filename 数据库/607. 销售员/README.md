@@ -108,20 +108,3 @@ Orders 表:
 所以我们需要输出表&nbsp;<code>salesperson</code>&nbsp;中所有其他人的名字。</pre>
 
 **标签:**  [数据库](https://leetcode.cn/tag/database) 
-# 解题思路 √
-
-### SQL
-
-1. 
-
-```sql
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

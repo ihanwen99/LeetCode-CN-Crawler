@@ -54,31 +54,3 @@ countIntervals.count();    // 返回 8
 </ul>
 
 **标签:**  [设计](https://leetcode.cn/tag/design) [线段树](https://leetcode.cn/tag/segment-tree) [有序集合](https://leetcode.cn/tag/ordered-set) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

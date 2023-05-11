@@ -51,31 +51,3 @@ authenticationManager.<code>countUnexpiredTokens</code>(15); // tokenId 为 "bbb
 </ul>
 
 **标签:**  [设计](https://leetcode.cn/tag/design) [哈希表](https://leetcode.cn/tag/hash-table) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

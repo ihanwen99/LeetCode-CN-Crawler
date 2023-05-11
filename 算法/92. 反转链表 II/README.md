@@ -34,31 +34,3 @@
 <p><strong>进阶：</strong> 你可以使用一趟扫描完成反转吗？</p>
 
 **标签:**  [链表](https://leetcode.cn/tag/linked-list) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

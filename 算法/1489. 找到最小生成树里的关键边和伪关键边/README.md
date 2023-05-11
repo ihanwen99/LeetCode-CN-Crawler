@@ -45,31 +45,3 @@
 </ul>
 
 **标签:**  [并查集](https://leetcode.cn/tag/union-find) [图](https://leetcode.cn/tag/graph) [最小生成树](https://leetcode.cn/tag/minimum-spanning-tree) [排序](https://leetcode.cn/tag/sorting) [强连通分量](https://leetcode.cn/tag/strongly-connected-component) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

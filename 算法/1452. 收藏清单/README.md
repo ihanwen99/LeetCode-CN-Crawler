@@ -44,31 +44,3 @@ favoriteCompanies[3]=[&quot;google&quot;] 是 favoriteCompanies[0]=[&quot;leetco
 </ul>
 
 **标签:**  [数组](https://leetcode.cn/tag/array) [哈希表](https://leetcode.cn/tag/hash-table) [字符串](https://leetcode.cn/tag/string) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

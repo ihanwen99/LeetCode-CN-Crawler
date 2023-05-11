@@ -41,32 +41,3 @@ Dog 是 Animal 的子类。因此，Dog 对象同时是 Dog 和 Animal 的实例
 <b>输入：</b>func = () =&gt; checkIfInstance(5, Number)
 <b>输出：</b>true
 <strong>解释：</strong>5 是一个 Number。注意，"instanceof" 关键字将返回 false。</pre>
-
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

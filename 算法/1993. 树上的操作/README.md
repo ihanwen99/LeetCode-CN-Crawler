@@ -68,31 +68,3 @@ lockingTree.lock(0, 1);    // 返回 false ，因为节点 0 已经被上锁了�
 </ul>
 
 **标签:**  [树](https://leetcode.cn/tag/tree) [深度优先搜索](https://leetcode.cn/tag/depth-first-search) [广度优先搜索](https://leetcode.cn/tag/breadth-first-search) [设计](https://leetcode.cn/tag/design) [哈希表](https://leetcode.cn/tag/hash-table) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

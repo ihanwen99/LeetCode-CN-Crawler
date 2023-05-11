@@ -106,31 +106,3 @@ class Node {
 </ul>
 
 **标签:**  [树](https://leetcode.cn/tag/tree) [分治](https://leetcode.cn/tag/divide-and-conquer) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

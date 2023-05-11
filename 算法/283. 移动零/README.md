@@ -35,31 +35,3 @@
 <p><b>进阶：</b>你能尽量减少完成的操作次数吗？</p>
 
 **标签:**  [数组](https://leetcode.cn/tag/array) [双指针](https://leetcode.cn/tag/two-pointers) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

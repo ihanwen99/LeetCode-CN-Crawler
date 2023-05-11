@@ -29,31 +29,3 @@
 + `1 <= 结点数量 <= 10000`
     
 **标签:**  [树](https://leetcode.cn/tag/tree) [动态规划](https://leetcode.cn/tag/dynamic-programming) [二叉树](https://leetcode.cn/tag/binary-tree) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

@@ -50,31 +50,3 @@
 <p><meta charset="UTF-8" />注意：本题与主站 76&nbsp;题相似（本题答案不唯一）：<a href="https://leetcode-cn.com/problems/minimum-window-substring/">https://leetcode-cn.com/problems/minimum-window-substring/</a></p>
 
 **标签:**  [哈希表](https://leetcode.cn/tag/hash-table) [字符串](https://leetcode.cn/tag/string) [滑动窗口](https://leetcode.cn/tag/sliding-window) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

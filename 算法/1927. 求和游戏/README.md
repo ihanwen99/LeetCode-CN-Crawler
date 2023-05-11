@@ -63,31 +63,3 @@ Bob 获胜，因为 9 + 3 + 2 + 9 = 5 + 9 + 2 + 7 。
 </ul>
 
 **标签:**  [贪心](https://leetcode.cn/tag/greedy) [数学](https://leetcode.cn/tag/math) [博弈](https://leetcode.cn/tag/game-theory) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

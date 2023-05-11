@@ -55,31 +55,3 @@
 </ul>
 
 **标签:**  [栈](https://leetcode.cn/tag/stack) [并查集](https://leetcode.cn/tag/union-find) [树状数组](https://leetcode.cn/tag/binary-indexed-tree) [线段树](https://leetcode.cn/tag/segment-tree) [数组](https://leetcode.cn/tag/array) [二分查找](https://leetcode.cn/tag/binary-search) [动态规划](https://leetcode.cn/tag/dynamic-programming) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

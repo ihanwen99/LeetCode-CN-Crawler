@@ -35,31 +35,3 @@
 <p>注意：本题与主站 226 题相同：<a href="https://leetcode-cn.com/problems/invert-binary-tree/">https://leetcode-cn.com/problems/invert-binary-tree/</a></p>
 
 **标签:**  [树](https://leetcode.cn/tag/tree) [深度优先搜索](https://leetcode.cn/tag/depth-first-search) [广度优先搜索](https://leetcode.cn/tag/breadth-first-search) [二叉树](https://leetcode.cn/tag/binary-tree) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

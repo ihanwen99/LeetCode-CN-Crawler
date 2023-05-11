@@ -50,31 +50,3 @@ b<sub>prefix</sub> = "jiz", b<sub>suffix</sub> = "alu"
 </ul>
 
 **标签:**  [双指针](https://leetcode.cn/tag/two-pointers) [字符串](https://leetcode.cn/tag/string) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

@@ -43,31 +43,3 @@
 </ul>
 
 **标签:**  [数组](https://leetcode.cn/tag/array) [字符串](https://leetcode.cn/tag/string) [字符串匹配](https://leetcode.cn/tag/string-matching) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

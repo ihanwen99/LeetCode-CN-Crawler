@@ -50,31 +50,3 @@ solution.getRandom(); // 返回 3
 </ul>
 
 **标签:**  [水塘抽样](https://leetcode.cn/tag/reservoir-sampling) [链表](https://leetcode.cn/tag/linked-list) [数学](https://leetcode.cn/tag/math) [随机化](https://leetcode.cn/tag/randomized) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

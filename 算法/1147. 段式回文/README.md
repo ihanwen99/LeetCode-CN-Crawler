@@ -47,31 +47,3 @@
 </ul>
 
 **标签:**  [贪心](https://leetcode.cn/tag/greedy) [双指针](https://leetcode.cn/tag/two-pointers) [字符串](https://leetcode.cn/tag/string) [动态规划](https://leetcode.cn/tag/dynamic-programming) [哈希函数](https://leetcode.cn/tag/hash-function) [滚动哈希](https://leetcode.cn/tag/rolling-hash) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

@@ -51,31 +51,3 @@
 </ul>
 
 **标签:**  [栈](https://leetcode.cn/tag/stack) [树](https://leetcode.cn/tag/tree) [字符串](https://leetcode.cn/tag/string) [二叉树](https://leetcode.cn/tag/binary-tree) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

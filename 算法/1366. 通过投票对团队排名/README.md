@@ -72,31 +72,3 @@ C 队获得两票「排位第一」，两票「排位第二」，两票「排位
 </ul>
 
 **标签:**  [数组](https://leetcode.cn/tag/array) [哈希表](https://leetcode.cn/tag/hash-table) [字符串](https://leetcode.cn/tag/string) [计数](https://leetcode.cn/tag/counting) [排序](https://leetcode.cn/tag/sorting) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

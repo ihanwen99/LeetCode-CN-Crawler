@@ -47,31 +47,3 @@ s 中没有 "01" 存在，整个过程花费 0 秒。
 <p>你能以 O(n) 的时间复杂度解决这个问题吗？</p>
 
 **标签:**  [字符串](https://leetcode.cn/tag/string) [动态规划](https://leetcode.cn/tag/dynamic-programming) [模拟](https://leetcode.cn/tag/simulation) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

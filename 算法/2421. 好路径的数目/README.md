@@ -65,31 +65,3 @@
 </ul>
 
 **标签:**  [树](https://leetcode.cn/tag/tree) [并查集](https://leetcode.cn/tag/union-find) [图](https://leetcode.cn/tag/graph) [数组](https://leetcode.cn/tag/array) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

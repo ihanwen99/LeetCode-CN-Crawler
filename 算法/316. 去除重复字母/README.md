@@ -32,31 +32,3 @@
 <p><strong>注意：</strong>该题与 1081 <a href="https://leetcode-cn.com/problems/smallest-subsequence-of-distinct-characters">https://leetcode-cn.com/problems/smallest-subsequence-of-distinct-characters</a> 相同</p>
 
 **标签:**  [栈](https://leetcode.cn/tag/stack) [贪心](https://leetcode.cn/tag/greedy) [字符串](https://leetcode.cn/tag/string) [单调栈](https://leetcode.cn/tag/monotonic-stack) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

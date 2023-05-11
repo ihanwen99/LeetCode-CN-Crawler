@@ -33,31 +33,3 @@
 <p><strong>进阶：</strong>你可以运用递归和迭代两种方法解决这个问题吗？</p>
 
 **标签:**  [树](https://leetcode.cn/tag/tree) [深度优先搜索](https://leetcode.cn/tag/depth-first-search) [广度优先搜索](https://leetcode.cn/tag/breadth-first-search) [二叉树](https://leetcode.cn/tag/binary-tree) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

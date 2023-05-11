@@ -35,31 +35,3 @@ coins =  3*1*5    +   3*5*8   +  1*3*8  + 1*8*1 = 167</pre>
 </ul>
 
 **标签:**  [数组](https://leetcode.cn/tag/array) [动态规划](https://leetcode.cn/tag/dynamic-programming) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

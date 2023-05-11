@@ -38,31 +38,3 @@ i = 4 ，arr[4] = 0 因为不存在值等于 2 的其他下标。
 </ul>
 
 **标签:**  [数组](https://leetcode.cn/tag/array) [哈希表](https://leetcode.cn/tag/hash-table) [前缀和](https://leetcode.cn/tag/prefix-sum) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

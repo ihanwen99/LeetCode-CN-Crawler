@@ -45,31 +45,3 @@
 </ul>
 
 **标签:**  [线段树](https://leetcode.cn/tag/segment-tree) [数组](https://leetcode.cn/tag/array) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

@@ -74,32 +74,3 @@ t = 1000
 	<li><code>0 &lt;= t &lt;= 1000</code></li>
 	<li><code>fn 返回一个 Promise 对象</code></li>
 </ul>
-
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

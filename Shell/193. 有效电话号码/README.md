@@ -27,20 +27,3 @@
 </pre>
 
 **标签:**  [None](https://leetcode.cn/tag/shell) 
-# 解题思路 √
-
-### sh
-
-1. 
-
-```sql
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

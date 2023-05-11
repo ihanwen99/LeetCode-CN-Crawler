@@ -49,31 +49,3 @@
 </ul>
 
 **标签:**  [脑筋急转弯](https://leetcode.cn/tag/brainteaser) [数学](https://leetcode.cn/tag/math) [博弈](https://leetcode.cn/tag/game-theory) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

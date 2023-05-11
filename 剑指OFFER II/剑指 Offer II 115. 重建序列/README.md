@@ -67,31 +67,3 @@
 <p>注意：本题与主站 444&nbsp;题相同：<a href="https://leetcode-cn.com/problems/sequence-reconstruction/">https://leetcode-cn.com/problems/sequence-reconstruction/</a></p>
 
 **标签:**  [图](https://leetcode.cn/tag/graph) [拓扑排序](https://leetcode.cn/tag/topological-sort) [数组](https://leetcode.cn/tag/array) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

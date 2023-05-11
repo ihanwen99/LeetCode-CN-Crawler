@@ -83,32 +83,3 @@ memoFactorial(3); // 返回 6。 没有调用 factorial()，因为前面有相�
 	<li><code>at most 10<sup>5</sup>&nbsp;attempts to access callCount</code></li>
 	<li><code>input function is sum, fib, or factorial</code></li>
 </ul>
-
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

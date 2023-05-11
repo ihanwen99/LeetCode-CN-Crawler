@@ -53,20 +53,3 @@ Products table:
 产品1在store1，store3的价格分别为70,80。在store2无法买到。</pre>
 
 **标签:**  [数据库](https://leetcode.cn/tag/database) 
-# 解题思路 √
-
-### SQL
-
-1. 
-
-```sql
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

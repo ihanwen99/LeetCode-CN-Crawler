@@ -58,31 +58,3 @@
 </ul>
 
 **标签:**  [栈](https://leetcode.cn/tag/stack) [贪心](https://leetcode.cn/tag/greedy) [双指针](https://leetcode.cn/tag/two-pointers) [字符串](https://leetcode.cn/tag/string) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

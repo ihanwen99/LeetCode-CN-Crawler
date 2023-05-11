@@ -33,31 +33,3 @@
 <p><strong>进阶：</strong>你能否用&nbsp;<code>O(n)</code> 时间复杂度和 <code>O(1)</code> 空间复杂度解决此题？</p>
 
 **标签:**  [栈](https://leetcode.cn/tag/stack) [递归](https://leetcode.cn/tag/recursion) [链表](https://leetcode.cn/tag/linked-list) [双指针](https://leetcode.cn/tag/two-pointers) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

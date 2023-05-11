@@ -36,32 +36,3 @@ n = -2
 	<li><code>-1000<sup>&nbsp;</sup>&lt;= n &lt;= 1000</code></li>
 	<li><code>最多对 counter() 进行 1000 次调用</code></li>
 </ul>
-
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

@@ -48,20 +48,3 @@ Employee 表:
 <strong>解释:</strong> Joe 是唯一挣得比经理多的雇员。</pre>
 
 **标签:**  [数据库](https://leetcode.cn/tag/database) 
-# 解题思路 √
-
-### SQL
-
-1. 
-
-```sql
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

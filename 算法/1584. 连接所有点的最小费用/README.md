@@ -61,31 +61,3 @@
 </ul>
 
 **标签:**  [并查集](https://leetcode.cn/tag/union-find) [图](https://leetcode.cn/tag/graph) [数组](https://leetcode.cn/tag/array) [最小生成树](https://leetcode.cn/tag/minimum-spanning-tree) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

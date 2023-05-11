@@ -39,31 +39,3 @@
 <p><strong>进阶：</strong>如果行数远大于列数，该如何设计解决方案？</p>
 
 **标签:**  [数组](https://leetcode.cn/tag/array) [二分查找](https://leetcode.cn/tag/binary-search) [矩阵](https://leetcode.cn/tag/matrix) [有序集合](https://leetcode.cn/tag/ordered-set) [前缀和](https://leetcode.cn/tag/prefix-sum) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

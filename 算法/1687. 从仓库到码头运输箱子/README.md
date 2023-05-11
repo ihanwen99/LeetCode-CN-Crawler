@@ -87,31 +87,3 @@
 </ul>
 
 **标签:**  [线段树](https://leetcode.cn/tag/segment-tree) [队列](https://leetcode.cn/tag/queue) [数组](https://leetcode.cn/tag/array) [动态规划](https://leetcode.cn/tag/dynamic-programming) [前缀和](https://leetcode.cn/tag/prefix-sum) [单调队列](https://leetcode.cn/tag/monotonic-queue) [堆（优先队列）](https://leetcode.cn/tag/heap-priority-queue) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

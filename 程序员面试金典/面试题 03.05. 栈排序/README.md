@@ -28,31 +28,3 @@
 </ol>
 
 **标签:**  [栈](https://leetcode.cn/tag/stack) [设计](https://leetcode.cn/tag/design) [单调栈](https://leetcode.cn/tag/monotonic-stack) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

@@ -49,31 +49,3 @@ nums 的 MEX 是 2 。可以证明 2 是可以取到的最大 MEX 。
 </ul>
 
 **标签:**  [贪心](https://leetcode.cn/tag/greedy) [数组](https://leetcode.cn/tag/array) [哈希表](https://leetcode.cn/tag/hash-table) [数学](https://leetcode.cn/tag/math) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

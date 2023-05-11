@@ -58,31 +58,3 @@ Alice 输掉游戏，因为已移除石子值总和（15）可以被 3 整除，
 </ul>
 
 **标签:**  [贪心](https://leetcode.cn/tag/greedy) [数组](https://leetcode.cn/tag/array) [数学](https://leetcode.cn/tag/math) [计数](https://leetcode.cn/tag/counting) [博弈](https://leetcode.cn/tag/game-theory) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

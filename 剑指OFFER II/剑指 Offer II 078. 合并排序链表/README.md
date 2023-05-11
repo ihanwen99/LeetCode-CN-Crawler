@@ -54,31 +54,3 @@
 <p><meta charset="UTF-8" />注意：本题与主站 23&nbsp;题相同：&nbsp;<a href="https://leetcode-cn.com/problems/merge-k-sorted-lists/">https://leetcode-cn.com/problems/merge-k-sorted-lists/</a></p>
 
 **标签:**  [链表](https://leetcode.cn/tag/linked-list) [分治](https://leetcode.cn/tag/divide-and-conquer) [堆（优先队列）](https://leetcode.cn/tag/heap-priority-queue) [归并排序](https://leetcode.cn/tag/merge-sort) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

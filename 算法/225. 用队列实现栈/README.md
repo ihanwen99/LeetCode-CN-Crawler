@@ -56,31 +56,3 @@ myStack.empty(); // 返回 False
 <p><strong>进阶：</strong>你能否仅用一个队列来实现栈。</p>
 
 **标签:**  [栈](https://leetcode.cn/tag/stack) [设计](https://leetcode.cn/tag/design) [队列](https://leetcode.cn/tag/queue) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

@@ -57,31 +57,3 @@
 <p><strong>进阶：</strong>你是否可以使用 <code>O(1)</code> 空间解决此题？</p>
 
 **标签:**  [哈希表](https://leetcode.cn/tag/hash-table) [链表](https://leetcode.cn/tag/linked-list) [双指针](https://leetcode.cn/tag/two-pointers) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

@@ -48,31 +48,3 @@
 <p><strong>注意</strong>：本题与主站 48 题相同：<a href="https://leetcode-cn.com/problems/rotate-image/">https://leetcode-cn.com/problems/rotate-image/</a></p>
 
 **标签:**  [数组](https://leetcode.cn/tag/array) [数学](https://leetcode.cn/tag/math) [矩阵](https://leetcode.cn/tag/matrix) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

@@ -61,31 +61,3 @@
 <p><strong>进阶：</strong>你能设计一个时间复杂度为 <code>O(n)</code> 且额外空间复杂度为 <code>O(1)</code> 的算法吗？</p>
 
 **标签:**  [数组](https://leetcode.cn/tag/array) [哈希表](https://leetcode.cn/tag/hash-table) [双指针](https://leetcode.cn/tag/two-pointers) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

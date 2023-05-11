@@ -52,31 +52,3 @@ patterns 中有 2 个字符串作为子字符串出现在 word 中。
 </ul>
 
 **标签:**  [字符串](https://leetcode.cn/tag/string) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

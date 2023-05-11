@@ -67,31 +67,3 @@ nums 只有一个元素，所以我们选中 13 并将其加到串联值上，�
 </ul>
 
 **标签:**  [数组](https://leetcode.cn/tag/array) [双指针](https://leetcode.cn/tag/two-pointers) [模拟](https://leetcode.cn/tag/simulation) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

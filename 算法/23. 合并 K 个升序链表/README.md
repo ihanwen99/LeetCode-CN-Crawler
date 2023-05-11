@@ -47,31 +47,3 @@
 </ul>
 
 **标签:**  [链表](https://leetcode.cn/tag/linked-list) [分治](https://leetcode.cn/tag/divide-and-conquer) [堆（优先队列）](https://leetcode.cn/tag/heap-priority-queue) [归并排序](https://leetcode.cn/tag/merge-sort) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

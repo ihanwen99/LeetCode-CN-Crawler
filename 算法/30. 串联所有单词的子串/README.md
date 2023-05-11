@@ -56,31 +56,3 @@ s 中没有子串长度为 16 并且等于 words 的任何顺序排列的连接�
 </ul>
 
 **标签:**  [哈希表](https://leetcode.cn/tag/hash-table) [字符串](https://leetcode.cn/tag/string) [滑动窗口](https://leetcode.cn/tag/sliding-window) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

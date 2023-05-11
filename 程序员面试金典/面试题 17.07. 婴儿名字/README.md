@@ -22,31 +22,3 @@
 </ul>
 
 **标签:**  [深度优先搜索](https://leetcode.cn/tag/depth-first-search) [广度优先搜索](https://leetcode.cn/tag/breadth-first-search) [并查集](https://leetcode.cn/tag/union-find) [数组](https://leetcode.cn/tag/array) [哈希表](https://leetcode.cn/tag/hash-table) [字符串](https://leetcode.cn/tag/string) [计数](https://leetcode.cn/tag/counting) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

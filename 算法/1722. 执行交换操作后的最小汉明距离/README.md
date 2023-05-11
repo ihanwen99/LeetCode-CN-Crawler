@@ -47,31 +47,3 @@ source 和 target 间的汉明距离是 2 ，二者有 2 处元素不同，在�
 </ul>
 
 **标签:**  [深度优先搜索](https://leetcode.cn/tag/depth-first-search) [并查集](https://leetcode.cn/tag/union-find) [数组](https://leetcode.cn/tag/array) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

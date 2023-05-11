@@ -68,32 +68,3 @@ curriedLife() === 42
 	<li><code>inputs.flat().length == fn.length</code></li>
 	<li><code>函数参数需要被显式定义</code></li>
 </ul>
-
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

@@ -48,31 +48,3 @@
 <p>注意：本题与主站 167 题相似（下标起点不同）：<a href="https://leetcode.cn/problems/two-sum-ii-input-array-is-sorted/">https://leetcode.cn/problems/two-sum-ii-input-array-is-sorted/</a></p>
 
 **标签:**  [数组](https://leetcode.cn/tag/array) [双指针](https://leetcode.cn/tag/two-pointers) [二分查找](https://leetcode.cn/tag/binary-search) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

@@ -48,31 +48,3 @@ solution.pick(); // 返回 4
 </ul>
 
 **标签:**  [数组](https://leetcode.cn/tag/array) [哈希表](https://leetcode.cn/tag/hash-table) [数学](https://leetcode.cn/tag/math) [二分查找](https://leetcode.cn/tag/binary-search) [排序](https://leetcode.cn/tag/sorting) [随机化](https://leetcode.cn/tag/randomized) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

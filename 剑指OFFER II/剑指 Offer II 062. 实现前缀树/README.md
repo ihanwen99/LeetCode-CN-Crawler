@@ -50,31 +50,3 @@ trie.search(&quot;app&quot;);     // 返回 True
 <p><meta charset="UTF-8" />注意：本题与主站 208 题相同：<a href="https://leetcode-cn.com/problems/implement-trie-prefix-tree/">https://leetcode-cn.com/problems/implement-trie-prefix-tree/</a>&nbsp;</p>
 
 **标签:**  [设计](https://leetcode.cn/tag/design) [字典树](https://leetcode.cn/tag/trie) [哈希表](https://leetcode.cn/tag/hash-table) [字符串](https://leetcode.cn/tag/string) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

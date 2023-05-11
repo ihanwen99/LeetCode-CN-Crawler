@@ -50,31 +50,3 @@
 <p><strong>进阶：</strong>你可以设计并实现时间复杂度为 <code>O(log(n))</code> 的算法解决此问题吗？</p>
 
 **标签:**  [数组](https://leetcode.cn/tag/array) [二分查找](https://leetcode.cn/tag/binary-search) [计数](https://leetcode.cn/tag/counting) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

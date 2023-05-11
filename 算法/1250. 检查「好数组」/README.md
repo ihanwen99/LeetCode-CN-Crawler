@@ -39,31 +39,3 @@
 </ul>
 
 **标签:**  [数组](https://leetcode.cn/tag/array) [数学](https://leetcode.cn/tag/math) [数论](https://leetcode.cn/tag/number-theory) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

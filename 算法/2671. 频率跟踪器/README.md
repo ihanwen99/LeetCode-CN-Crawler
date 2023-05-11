@@ -73,31 +73,3 @@ frequencyTracker.hasFrequency(1); // 返回 true ，因为 3 出现 1 次
 </ul>
 
 **标签:**  [设计](https://leetcode.cn/tag/design) [哈希表](https://leetcode.cn/tag/hash-table) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

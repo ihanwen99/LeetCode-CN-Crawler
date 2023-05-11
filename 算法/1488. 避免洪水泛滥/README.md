@@ -69,31 +69,3 @@
 </ul>
 
 **标签:**  [贪心](https://leetcode.cn/tag/greedy) [数组](https://leetcode.cn/tag/array) [哈希表](https://leetcode.cn/tag/hash-table) [二分查找](https://leetcode.cn/tag/binary-search) [堆（优先队列）](https://leetcode.cn/tag/heap-priority-queue) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

@@ -46,31 +46,3 @@ server.longest();                    // 前缀 [1,2,3] 是最长上传前缀，�
 </ul>
 
 **标签:**  [并查集](https://leetcode.cn/tag/union-find) [设计](https://leetcode.cn/tag/design) [树状数组](https://leetcode.cn/tag/binary-indexed-tree) [线段树](https://leetcode.cn/tag/segment-tree) [二分查找](https://leetcode.cn/tag/binary-search) [有序集合](https://leetcode.cn/tag/ordered-set) [堆（优先队列）](https://leetcode.cn/tag/heap-priority-queue) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

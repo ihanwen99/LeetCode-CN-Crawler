@@ -48,31 +48,3 @@ freqStack.pop ();//返回 4 ，因为 4, 5 和 7 出现频率最高，但 4 是�
 </ul>
 
 **标签:**  [栈](https://leetcode.cn/tag/stack) [设计](https://leetcode.cn/tag/design) [哈希表](https://leetcode.cn/tag/hash-table) [有序集合](https://leetcode.cn/tag/ordered-set) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

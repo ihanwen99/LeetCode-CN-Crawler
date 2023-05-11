@@ -69,31 +69,3 @@ D.pop()            // 返回 -1。仍然没有栈。
 </ul>
 
 **标签:**  [栈](https://leetcode.cn/tag/stack) [设计](https://leetcode.cn/tag/design) [哈希表](https://leetcode.cn/tag/hash-table) [堆（优先队列）](https://leetcode.cn/tag/heap-priority-queue) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

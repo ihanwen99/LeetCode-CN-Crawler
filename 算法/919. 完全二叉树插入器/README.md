@@ -48,31 +48,3 @@ cBTInserter.get_root(); // 返回 [1, 2, 3, 4]</pre>
 </ul>
 
 **标签:**  [树](https://leetcode.cn/tag/tree) [广度优先搜索](https://leetcode.cn/tag/breadth-first-search) [设计](https://leetcode.cn/tag/design) [二叉树](https://leetcode.cn/tag/binary-tree) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

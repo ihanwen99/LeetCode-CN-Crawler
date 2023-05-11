@@ -28,31 +28,3 @@ death = [1948, 1951, 2000]
 </ul>
 
 **标签:**  [数组](https://leetcode.cn/tag/array) [计数](https://leetcode.cn/tag/counting) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

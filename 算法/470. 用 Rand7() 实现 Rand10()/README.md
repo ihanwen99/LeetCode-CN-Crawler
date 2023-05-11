@@ -51,31 +51,3 @@
 </ul>
 
 **标签:**  [数学](https://leetcode.cn/tag/math) [拒绝采样](https://leetcode.cn/tag/rejection-sampling) [概率与统计](https://leetcode.cn/tag/probability-and-statistics) [随机化](https://leetcode.cn/tag/randomized) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

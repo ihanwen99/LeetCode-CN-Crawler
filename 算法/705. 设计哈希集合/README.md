@@ -42,31 +42,3 @@ myHashSet.contains(2); // 返回 False ，（已移除）</pre>
 </ul>
 
 **标签:**  [设计](https://leetcode.cn/tag/design) [数组](https://leetcode.cn/tag/array) [哈希表](https://leetcode.cn/tag/hash-table) [链表](https://leetcode.cn/tag/linked-list) [哈希函数](https://leetcode.cn/tag/hash-function) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

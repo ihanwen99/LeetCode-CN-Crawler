@@ -54,20 +54,3 @@ Queue 表
 Thomas Jefferson(id 6) 是最后一个体重合适并进入电梯的人。</pre>
 
 **标签:**  [数据库](https://leetcode.cn/tag/database) 
-# 解题思路 √
-
-### SQL
-
-1. 
-
-```sql
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

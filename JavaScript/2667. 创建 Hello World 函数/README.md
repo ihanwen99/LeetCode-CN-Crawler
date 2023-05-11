@@ -35,32 +35,3 @@ f({}, null, 42); // "Hello World"
 <ul>
 	<li><code>0 &lt;= args.length &lt;= 10</code></li>
 </ul>
-
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

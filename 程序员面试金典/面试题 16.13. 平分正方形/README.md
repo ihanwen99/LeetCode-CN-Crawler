@@ -24,31 +24,3 @@ square2 = {0, -1, 2}
 </ul>
 
 **标签:**  [几何](https://leetcode.cn/tag/geometry) [数学](https://leetcode.cn/tag/math) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

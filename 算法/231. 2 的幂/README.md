@@ -57,31 +57,3 @@
 <p><strong>进阶：</strong>你能够不使用循环/递归解决此问题吗？</p>
 
 **标签:**  [位运算](https://leetcode.cn/tag/bit-manipulation) [递归](https://leetcode.cn/tag/recursion) [数学](https://leetcode.cn/tag/math) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

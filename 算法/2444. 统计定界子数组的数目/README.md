@@ -39,31 +39,3 @@
 </ul>
 
 **标签:**  [队列](https://leetcode.cn/tag/queue) [数组](https://leetcode.cn/tag/array) [滑动窗口](https://leetcode.cn/tag/sliding-window) [单调队列](https://leetcode.cn/tag/monotonic-queue) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

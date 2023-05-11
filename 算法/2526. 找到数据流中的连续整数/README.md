@@ -42,31 +42,3 @@ dataStream.consec(3); // 最后 k 个整数分别是 [4,4,3] 。
 </ul>
 
 **标签:**  [设计](https://leetcode.cn/tag/design) [队列](https://leetcode.cn/tag/queue) [哈希表](https://leetcode.cn/tag/hash-table) [计数](https://leetcode.cn/tag/counting) [数据流](https://leetcode.cn/tag/data-stream) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

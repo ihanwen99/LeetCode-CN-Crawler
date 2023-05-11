@@ -35,31 +35,3 @@ prefix = [2,5,6,5,2,2,-1] ，分数为 6 。
 </ul>
 
 **标签:**  [贪心](https://leetcode.cn/tag/greedy) [数组](https://leetcode.cn/tag/array) [前缀和](https://leetcode.cn/tag/prefix-sum) [排序](https://leetcode.cn/tag/sorting) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

@@ -49,31 +49,3 @@
 + `0 <= 节点值 <= 10^9`
 
 **标签:**  [树](https://leetcode.cn/tag/tree) [线段树](https://leetcode.cn/tag/segment-tree) [二叉搜索树](https://leetcode.cn/tag/binary-search-tree) [数组](https://leetcode.cn/tag/array) [二分查找](https://leetcode.cn/tag/binary-search) [二叉树](https://leetcode.cn/tag/binary-tree) [有序集合](https://leetcode.cn/tag/ordered-set) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

@@ -40,31 +40,3 @@ MyCalendar.book(25, 55); // returns true
 </ul>
 
 **标签:**  [设计](https://leetcode.cn/tag/design) [线段树](https://leetcode.cn/tag/segment-tree) [二分查找](https://leetcode.cn/tag/binary-search) [有序集合](https://leetcode.cn/tag/ordered-set) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

@@ -42,31 +42,3 @@
 <p><meta charset="UTF-8" />注意：本题与主站 234&nbsp;题相同：<a href="https://leetcode-cn.com/problems/palindrome-linked-list/">https://leetcode-cn.com/problems/palindrome-linked-list/</a></p>
 
 **标签:**  [栈](https://leetcode.cn/tag/stack) [递归](https://leetcode.cn/tag/recursion) [链表](https://leetcode.cn/tag/linked-list) [双指针](https://leetcode.cn/tag/two-pointers) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

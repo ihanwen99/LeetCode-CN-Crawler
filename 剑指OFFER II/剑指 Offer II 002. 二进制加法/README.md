@@ -34,31 +34,3 @@
 <p><meta charset="UTF-8" />注意：本题与主站 67&nbsp;题相同：<a href="https://leetcode-cn.com/problems/add-binary/">https://leetcode-cn.com/problems/add-binary/</a></p>
 
 **标签:**  [位运算](https://leetcode.cn/tag/bit-manipulation) [数学](https://leetcode.cn/tag/math) [字符串](https://leetcode.cn/tag/string) [模拟](https://leetcode.cn/tag/simulation) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

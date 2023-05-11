@@ -49,31 +49,3 @@
 </ul>
 
 **标签:**  [贪心](https://leetcode.cn/tag/greedy) [数学](https://leetcode.cn/tag/math) [回溯](https://leetcode.cn/tag/backtracking) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

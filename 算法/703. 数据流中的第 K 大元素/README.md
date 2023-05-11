@@ -43,31 +43,3 @@ kthLargest.add(4);   // return 8
 </ul>
 
 **标签:**  [树](https://leetcode.cn/tag/tree) [设计](https://leetcode.cn/tag/design) [二叉搜索树](https://leetcode.cn/tag/binary-search-tree) [二叉树](https://leetcode.cn/tag/binary-tree) [数据流](https://leetcode.cn/tag/data-stream) [堆（优先队列）](https://leetcode.cn/tag/heap-priority-queue) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

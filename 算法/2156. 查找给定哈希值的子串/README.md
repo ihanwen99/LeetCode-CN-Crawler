@@ -48,31 +48,3 @@
 </ul>
 
 **标签:**  [字符串](https://leetcode.cn/tag/string) [滑动窗口](https://leetcode.cn/tag/sliding-window) [哈希函数](https://leetcode.cn/tag/hash-function) [滚动哈希](https://leetcode.cn/tag/rolling-hash) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

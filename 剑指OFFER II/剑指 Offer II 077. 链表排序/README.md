@@ -51,31 +51,3 @@
 <p><meta charset="UTF-8" />注意：本题与主站 148&nbsp;题相同：<a href="https://leetcode-cn.com/problems/sort-list/">https://leetcode-cn.com/problems/sort-list/</a></p>
 
 **标签:**  [链表](https://leetcode.cn/tag/linked-list) [双指针](https://leetcode.cn/tag/two-pointers) [分治](https://leetcode.cn/tag/divide-and-conquer) [排序](https://leetcode.cn/tag/sorting) [归并排序](https://leetcode.cn/tag/merge-sort) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

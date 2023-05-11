@@ -73,31 +73,3 @@ textEditor.cursorRight(6); // 返回 "practi"
 <p><strong>进阶：</strong>你能设计并实现一个每次调用时间复杂度为 <code>O(k)</code> 的解决方案吗？</p>
 
 **标签:**  [栈](https://leetcode.cn/tag/stack) [设计](https://leetcode.cn/tag/design) [链表](https://leetcode.cn/tag/linked-list) [字符串](https://leetcode.cn/tag/string) [双向链表](https://leetcode.cn/tag/doubly-linked-list) [模拟](https://leetcode.cn/tag/simulation) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

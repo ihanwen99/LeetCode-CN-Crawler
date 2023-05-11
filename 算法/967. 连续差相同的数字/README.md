@@ -47,31 +47,3 @@
 </ul>
 
 **标签:**  [广度优先搜索](https://leetcode.cn/tag/breadth-first-search) [回溯](https://leetcode.cn/tag/backtracking) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

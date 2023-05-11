@@ -30,31 +30,3 @@ S[0] = {A[0], A[5], A[6], A[2]} = {5, 6, 2, 0}
 </ul>
 
 **标签:**  [深度优先搜索](https://leetcode.cn/tag/depth-first-search) [数组](https://leetcode.cn/tag/array) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

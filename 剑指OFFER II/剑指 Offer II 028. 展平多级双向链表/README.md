@@ -92,31 +92,3 @@
 <p><meta charset="UTF-8" />注意：本题与主站 430&nbsp;题相同：&nbsp;<a href="https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list/">https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list/</a></p>
 
 **标签:**  [深度优先搜索](https://leetcode.cn/tag/depth-first-search) [链表](https://leetcode.cn/tag/linked-list) [双向链表](https://leetcode.cn/tag/doubly-linked-list) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

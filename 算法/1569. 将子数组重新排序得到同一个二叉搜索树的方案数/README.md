@@ -57,31 +57,3 @@
 </ul>
 
 **标签:**  [树](https://leetcode.cn/tag/tree) [并查集](https://leetcode.cn/tag/union-find) [二叉搜索树](https://leetcode.cn/tag/binary-search-tree) [记忆化搜索](https://leetcode.cn/tag/memoization) [数组](https://leetcode.cn/tag/array) [数学](https://leetcode.cn/tag/math) [分治](https://leetcode.cn/tag/divide-and-conquer) [动态规划](https://leetcode.cn/tag/dynamic-programming) [二叉树](https://leetcode.cn/tag/binary-tree) [组合数学](https://leetcode.cn/tag/combinatorics) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

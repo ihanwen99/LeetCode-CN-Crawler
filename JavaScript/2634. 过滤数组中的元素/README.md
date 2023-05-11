@@ -45,32 +45,3 @@ const newArray = filter(arr, fn); // [20, 30]
 	<li><code>0 &lt;= arr.length &lt;= 1000</code></li>
 	<li><code><font face="monospace">-10<sup>9</sup>&nbsp;&lt;= arr[i] &lt;= 10<sup>9</sup></font></code></li>
 </ul>
-
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

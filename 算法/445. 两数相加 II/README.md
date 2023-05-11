@@ -45,31 +45,3 @@
 <p><strong>进阶：</strong>如果输入链表不能翻转该如何解决？</p>
 
 **标签:**  [栈](https://leetcode.cn/tag/stack) [链表](https://leetcode.cn/tag/linked-list) [数学](https://leetcode.cn/tag/math) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

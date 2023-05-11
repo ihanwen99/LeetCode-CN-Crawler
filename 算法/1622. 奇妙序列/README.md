@@ -50,31 +50,3 @@ fancy.getIndex(2); // 返回 20
 </ul>
 
 **标签:**  [设计](https://leetcode.cn/tag/design) [线段树](https://leetcode.cn/tag/segment-tree) [数学](https://leetcode.cn/tag/math) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

@@ -28,31 +28,3 @@
 </ul>
 
 **标签:**  [枚举](https://leetcode.cn/tag/enumeration) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

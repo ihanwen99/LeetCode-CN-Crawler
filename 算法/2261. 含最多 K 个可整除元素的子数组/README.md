@@ -55,31 +55,3 @@ nums 中的所有元素都可以被 p = 1 整除。
 <p>你可以设计并实现时间复杂度为 <code>O(n<sup>2</sup>)</code> 的算法解决此问题吗？</p>
 
 **标签:**  [字典树](https://leetcode.cn/tag/trie) [数组](https://leetcode.cn/tag/array) [哈希表](https://leetcode.cn/tag/hash-table) [枚举](https://leetcode.cn/tag/enumeration) [哈希函数](https://leetcode.cn/tag/hash-function) [滚动哈希](https://leetcode.cn/tag/rolling-hash) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

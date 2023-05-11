@@ -53,31 +53,3 @@
 </ul>
 
 **标签:**  [并查集](https://leetcode.cn/tag/union-find) [数组](https://leetcode.cn/tag/array) [数学](https://leetcode.cn/tag/math) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

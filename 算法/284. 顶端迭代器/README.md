@@ -50,31 +50,3 @@ peekingIterator.hasNext(); // 返回 False
 <p><strong>进阶：</strong>你将如何拓展你的设计？使之变得通用化，从而适应所有的类型，而不只是整数型？</p>
 
 **标签:**  [设计](https://leetcode.cn/tag/design) [数组](https://leetcode.cn/tag/array) [迭代器](https://leetcode.cn/tag/iterator) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

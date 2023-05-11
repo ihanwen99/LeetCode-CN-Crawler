@@ -39,31 +39,3 @@
 <p><strong>进阶：</strong>递归法很简单，你可以使用迭代法完成此题吗?</p>
 
 **标签:**  [栈](https://leetcode.cn/tag/stack) [树](https://leetcode.cn/tag/tree) [深度优先搜索](https://leetcode.cn/tag/depth-first-search) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

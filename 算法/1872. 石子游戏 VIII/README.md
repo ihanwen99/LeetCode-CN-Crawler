@@ -58,31 +58,3 @@
 </ul>
 
 **标签:**  [数组](https://leetcode.cn/tag/array) [数学](https://leetcode.cn/tag/math) [动态规划](https://leetcode.cn/tag/dynamic-programming) [博弈](https://leetcode.cn/tag/game-theory) [前缀和](https://leetcode.cn/tag/prefix-sum) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

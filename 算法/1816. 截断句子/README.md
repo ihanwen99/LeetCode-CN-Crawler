@@ -49,31 +49,3 @@ s 中的单词为 ["What", "is" "the", "solution", "to", "this", "problem"]
 </ul>
 
 **标签:**  [数组](https://leetcode.cn/tag/array) [字符串](https://leetcode.cn/tag/string) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

@@ -43,31 +43,3 @@ num1 和 num2 的二进制表示分别是 0001 和 1100 。
 </ul>
 
 **标签:**  [贪心](https://leetcode.cn/tag/greedy) [位运算](https://leetcode.cn/tag/bit-manipulation) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

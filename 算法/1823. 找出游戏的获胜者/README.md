@@ -54,31 +54,3 @@
 <p><strong>进阶：</strong>你能否使用线性时间复杂度和常数空间复杂度解决此问题？</p>
 
 **标签:**  [递归](https://leetcode.cn/tag/recursion) [队列](https://leetcode.cn/tag/queue) [数组](https://leetcode.cn/tag/array) [数学](https://leetcode.cn/tag/math) [模拟](https://leetcode.cn/tag/simulation) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

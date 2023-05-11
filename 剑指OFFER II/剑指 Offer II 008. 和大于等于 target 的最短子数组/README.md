@@ -52,31 +52,3 @@
 <p><meta charset="UTF-8" />注意：本题与主站 209&nbsp;题相同：<a href="https://leetcode-cn.com/problems/minimum-size-subarray-sum/">https://leetcode-cn.com/problems/minimum-size-subarray-sum/</a></p>
 
 **标签:**  [数组](https://leetcode.cn/tag/array) [二分查找](https://leetcode.cn/tag/binary-search) [前缀和](https://leetcode.cn/tag/prefix-sum) [滑动窗口](https://leetcode.cn/tag/sliding-window) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

@@ -38,31 +38,3 @@
 </ul>
 
 **标签:**  [队列](https://leetcode.cn/tag/queue) [数组](https://leetcode.cn/tag/array) [动态规划](https://leetcode.cn/tag/dynamic-programming) [滑动窗口](https://leetcode.cn/tag/sliding-window) [单调队列](https://leetcode.cn/tag/monotonic-queue) [堆（优先队列）](https://leetcode.cn/tag/heap-priority-queue) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

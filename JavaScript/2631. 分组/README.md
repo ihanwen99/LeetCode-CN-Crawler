@@ -86,32 +86,3 @@ fn = function (n) {
 	<li><code>0 &lt;= array.length &lt;= 10<sup>5</sup></code></li>
 	<li><code>fn 返回一个字符串</code></li>
 </ul>
-
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

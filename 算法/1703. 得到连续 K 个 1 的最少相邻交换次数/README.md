@@ -39,31 +39,3 @@
 </ul>
 
 **标签:**  [贪心](https://leetcode.cn/tag/greedy) [数组](https://leetcode.cn/tag/array) [前缀和](https://leetcode.cn/tag/prefix-sum) [滑动窗口](https://leetcode.cn/tag/sliding-window) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

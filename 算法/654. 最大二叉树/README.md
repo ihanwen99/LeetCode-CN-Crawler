@@ -48,31 +48,3 @@
 </ul>
 
 **标签:**  [栈](https://leetcode.cn/tag/stack) [树](https://leetcode.cn/tag/tree) [数组](https://leetcode.cn/tag/array) [分治](https://leetcode.cn/tag/divide-and-conquer) [二叉树](https://leetcode.cn/tag/binary-tree) [单调栈](https://leetcode.cn/tag/monotonic-stack) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

@@ -59,32 +59,3 @@ fn = function (a, b) { return ({...a, ...b}); }
 	<li><code>0 &lt;= inputs.flat().length &lt;= 10<sup>5</sup></code></li>
 	<li><code>inputs[i][j] != NaN</code></li>
 </ul>
-
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

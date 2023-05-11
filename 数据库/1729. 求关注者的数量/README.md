@@ -50,20 +50,3 @@ Followers 表：
 2 的关注者有 {0,1}</pre>
 
 **标签:**  [数据库](https://leetcode.cn/tag/database) 
-# 解题思路 √
-
-### SQL
-
-1. 
-
-```sql
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

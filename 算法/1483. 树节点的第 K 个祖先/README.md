@@ -47,31 +47,3 @@ treeAncestor.getKthAncestor(6, 3);  // 返回 -1 因为不存在满足要求的�
 </ul>
 
 **标签:**  [树](https://leetcode.cn/tag/tree) [深度优先搜索](https://leetcode.cn/tag/depth-first-search) [广度优先搜索](https://leetcode.cn/tag/breadth-first-search) [设计](https://leetcode.cn/tag/design) [二分查找](https://leetcode.cn/tag/binary-search) [动态规划](https://leetcode.cn/tag/dynamic-programming) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

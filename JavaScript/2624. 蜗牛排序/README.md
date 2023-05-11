@@ -59,32 +59,3 @@ colsCount = 2
 	<li><code>1 &lt;= rowsCount &lt;= 250</code></li>
 	<li><code>1 &lt;= colsCount &lt;= 250</code></li>
 </ul>
-
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

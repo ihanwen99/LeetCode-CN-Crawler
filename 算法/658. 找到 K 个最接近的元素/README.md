@@ -38,31 +38,3 @@
 </ul>
 
 **标签:**  [数组](https://leetcode.cn/tag/array) [双指针](https://leetcode.cn/tag/two-pointers) [二分查找](https://leetcode.cn/tag/binary-search) [排序](https://leetcode.cn/tag/sorting) [滑动窗口](https://leetcode.cn/tag/sliding-window) [堆（优先队列）](https://leetcode.cn/tag/heap-priority-queue) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

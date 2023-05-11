@@ -55,31 +55,3 @@
 </ul>
 
 **标签:**  [贪心](https://leetcode.cn/tag/greedy) [数学](https://leetcode.cn/tag/math) [动态规划](https://leetcode.cn/tag/dynamic-programming) [枚举](https://leetcode.cn/tag/enumeration) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

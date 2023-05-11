@@ -41,31 +41,3 @@
 <p><strong>进阶：</strong>尝试以&nbsp;<code>O(n log k)</code> 时间复杂度和&nbsp;<code>O(n)</code> 空间复杂度解决。</p>
 
 **标签:**  [字典树](https://leetcode.cn/tag/trie) [哈希表](https://leetcode.cn/tag/hash-table) [字符串](https://leetcode.cn/tag/string) [桶排序](https://leetcode.cn/tag/bucket-sort) [计数](https://leetcode.cn/tag/counting) [排序](https://leetcode.cn/tag/sorting) [堆（优先队列）](https://leetcode.cn/tag/heap-priority-queue) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

@@ -37,31 +37,3 @@ snapshotArr.get(0,0);  // 获取 snap_id = 0 的快照中 array[0] 的值，返�
 </ul>
 
 **标签:**  [设计](https://leetcode.cn/tag/design) [数组](https://leetcode.cn/tag/array) [哈希表](https://leetcode.cn/tag/hash-table) [二分查找](https://leetcode.cn/tag/binary-search) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

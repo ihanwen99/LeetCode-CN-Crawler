@@ -45,31 +45,3 @@ const newArray = map(arr, plusone); // [2,3,4]
 	<li><font face="monospace"><code>fn 返回一个数</code></font></li>
 </ul>
 <span style="display:block"><span style="height:0px"><span style="position:absolute">​​​​​​</span></span></span>
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

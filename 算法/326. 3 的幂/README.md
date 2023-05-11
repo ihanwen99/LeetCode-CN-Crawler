@@ -48,31 +48,3 @@
 <p><strong>进阶：</strong>你能不使用循环或者递归来完成本题吗？</p>
 
 **标签:**  [递归](https://leetcode.cn/tag/recursion) [数学](https://leetcode.cn/tag/math) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

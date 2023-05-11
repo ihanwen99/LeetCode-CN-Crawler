@@ -15,31 +15,3 @@
 <p>给定的 <em>k</em>&nbsp;保证是有效的。</p>
 
 **标签:**  [链表](https://leetcode.cn/tag/linked-list) [双指针](https://leetcode.cn/tag/two-pointers) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

@@ -42,31 +42,3 @@
 <p><strong>进阶：</strong>你能设计一个时间复杂度 <code>O(n)</code> 的解决方案吗？</p>
 
 **标签:**  [数组](https://leetcode.cn/tag/array) [排序](https://leetcode.cn/tag/sorting) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

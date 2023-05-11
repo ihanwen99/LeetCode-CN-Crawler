@@ -40,31 +40,3 @@
 </ul>
 
 **标签:**  [贪心](https://leetcode.cn/tag/greedy) [二分查找](https://leetcode.cn/tag/binary-search) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

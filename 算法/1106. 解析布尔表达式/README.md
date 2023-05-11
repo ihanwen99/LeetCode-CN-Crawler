@@ -56,31 +56,3 @@
 </ul>
 
 **标签:**  [栈](https://leetcode.cn/tag/stack) [递归](https://leetcode.cn/tag/recursion) [字符串](https://leetcode.cn/tag/string) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

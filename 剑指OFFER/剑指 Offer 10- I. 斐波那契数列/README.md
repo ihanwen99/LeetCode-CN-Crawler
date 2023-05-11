@@ -36,31 +36,3 @@ F(N) = F(N - 1) + F(N - 2), 其中 N > 1.</pre>
 </ul>
 
 **标签:**  [记忆化搜索](https://leetcode.cn/tag/memoization) [数学](https://leetcode.cn/tag/math) [动态规划](https://leetcode.cn/tag/dynamic-programming) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

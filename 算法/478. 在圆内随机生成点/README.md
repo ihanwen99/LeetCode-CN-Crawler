@@ -36,31 +36,3 @@ solution.randPoint ();//返回[0.36572,0.17248]</pre>
 </ul>
 
 **标签:**  [几何](https://leetcode.cn/tag/geometry) [数学](https://leetcode.cn/tag/math) [拒绝采样](https://leetcode.cn/tag/rejection-sampling) [随机化](https://leetcode.cn/tag/randomized) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

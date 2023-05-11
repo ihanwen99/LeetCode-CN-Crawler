@@ -51,32 +51,3 @@ JSON 的基本类型是字符串、数字型、布尔值和 null。
 	<li><code>1 &lt;= JSON.stringify(object).length &lt;= 10<sup>5</sup></code></li>
 	<li><code>maxNestingLevel &lt;= 1000</code></li>
 </ul>
-
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

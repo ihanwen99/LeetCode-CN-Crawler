@@ -54,31 +54,3 @@ solution.pick(); // 返回 [0, 0]</pre>
 </ul>
 
 **标签:**  [水塘抽样](https://leetcode.cn/tag/reservoir-sampling) [数组](https://leetcode.cn/tag/array) [数学](https://leetcode.cn/tag/math) [二分查找](https://leetcode.cn/tag/binary-search) [有序集合](https://leetcode.cn/tag/ordered-set) [前缀和](https://leetcode.cn/tag/prefix-sum) [随机化](https://leetcode.cn/tag/randomized) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

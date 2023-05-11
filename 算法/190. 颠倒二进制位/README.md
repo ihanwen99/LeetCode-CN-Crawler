@@ -41,31 +41,3 @@
 <p><strong>进阶</strong>: 如果多次调用这个函数，你将如何优化你的算法？</p>
 
 **标签:**  [位运算](https://leetcode.cn/tag/bit-manipulation) [分治](https://leetcode.cn/tag/divide-and-conquer) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

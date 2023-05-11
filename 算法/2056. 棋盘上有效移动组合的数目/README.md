@@ -101,31 +101,3 @@
 </ul>
 
 **标签:**  [数组](https://leetcode.cn/tag/array) [字符串](https://leetcode.cn/tag/string) [回溯](https://leetcode.cn/tag/backtracking) [模拟](https://leetcode.cn/tag/simulation) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

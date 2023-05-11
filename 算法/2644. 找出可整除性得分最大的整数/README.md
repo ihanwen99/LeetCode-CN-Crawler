@@ -54,31 +54,3 @@ divisors[1] 的可整除性得分为 0 ，因为 nums 中没有任何数字能�
 </ul>
 
 **标签:**  [数组](https://leetcode.cn/tag/array) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

@@ -52,31 +52,3 @@ streamChecker.query("l"); // 返回 True ，因为 'kl' 在 words 中
 </ul>
 
 **标签:**  [设计](https://leetcode.cn/tag/design) [字典树](https://leetcode.cn/tag/trie) [数组](https://leetcode.cn/tag/array) [字符串](https://leetcode.cn/tag/string) [数据流](https://leetcode.cn/tag/data-stream) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

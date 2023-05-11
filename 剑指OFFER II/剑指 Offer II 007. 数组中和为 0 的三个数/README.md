@@ -53,31 +53,3 @@ nums[0] + nums[3] + nums[4] = (-1) + 2 + (-1) = 0 。
 <p><meta charset="UTF-8" />注意：本题与主站 15&nbsp;题相同：<a href="https://leetcode.cn/problems/3sum/">leetcode.cn/problems/3sum/</a></p>
 
 **标签:**  [数组](https://leetcode.cn/tag/array) [双指针](https://leetcode.cn/tag/two-pointers) [排序](https://leetcode.cn/tag/sorting) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

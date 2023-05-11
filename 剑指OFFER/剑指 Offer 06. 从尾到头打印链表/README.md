@@ -17,31 +17,3 @@
 <p><code>0 &lt;= 链表长度 &lt;= 10000</code></p>
 
 **标签:**  [栈](https://leetcode.cn/tag/stack) [递归](https://leetcode.cn/tag/recursion) [链表](https://leetcode.cn/tag/linked-list) [双指针](https://leetcode.cn/tag/two-pointers) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

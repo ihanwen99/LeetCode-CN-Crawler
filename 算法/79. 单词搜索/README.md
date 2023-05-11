@@ -45,31 +45,3 @@
 <p><strong>进阶：</strong>你可以使用搜索剪枝的技术来优化解决方案，使其在 <code>board</code> 更大的情况下可以更快解决问题？</p>
 
 **标签:**  [数组](https://leetcode.cn/tag/array) [回溯](https://leetcode.cn/tag/backtracking) [矩阵](https://leetcode.cn/tag/matrix) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

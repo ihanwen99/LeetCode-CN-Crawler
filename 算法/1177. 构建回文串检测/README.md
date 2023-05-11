@@ -37,31 +37,3 @@ queries[4] :&nbsp;子串 = &quot;abcda&quot;，可以变成回文的 &quot;abcba
 </ul>
 
 **标签:**  [位运算](https://leetcode.cn/tag/bit-manipulation) [哈希表](https://leetcode.cn/tag/hash-table) [字符串](https://leetcode.cn/tag/string) [前缀和](https://leetcode.cn/tag/prefix-sum) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

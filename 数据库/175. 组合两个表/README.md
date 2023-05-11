@@ -70,20 +70,3 @@ Address表:
 addressId = 1 包含了 personId = 2 的地址信息。</pre>
 
 **标签:**  [数据库](https://leetcode.cn/tag/database) 
-# 解题思路 √
-
-### SQL
-
-1. 
-
-```sql
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

@@ -44,31 +44,3 @@
 + `1 <= m <= 8`
 + `words[i][j]` 仅为小写字母
 **标签:**  [位运算](https://leetcode.cn/tag/bit-manipulation) [数组](https://leetcode.cn/tag/array) [字符串](https://leetcode.cn/tag/string) [动态规划](https://leetcode.cn/tag/dynamic-programming) [状态压缩](https://leetcode.cn/tag/bitmask) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

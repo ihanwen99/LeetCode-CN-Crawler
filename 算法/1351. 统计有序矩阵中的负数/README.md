@@ -36,31 +36,3 @@
 <p><strong>进阶：</strong>你可以设计一个时间复杂度为 <code>O(n + m)</code> 的解决方案吗？</p>
 
 **标签:**  [数组](https://leetcode.cn/tag/array) [二分查找](https://leetcode.cn/tag/binary-search) [矩阵](https://leetcode.cn/tag/matrix) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

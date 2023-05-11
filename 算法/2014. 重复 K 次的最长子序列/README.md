@@ -54,31 +54,3 @@
 </ul>
 
 **标签:**  [贪心](https://leetcode.cn/tag/greedy) [字符串](https://leetcode.cn/tag/string) [回溯](https://leetcode.cn/tag/backtracking) [计数](https://leetcode.cn/tag/counting) [枚举](https://leetcode.cn/tag/enumeration) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

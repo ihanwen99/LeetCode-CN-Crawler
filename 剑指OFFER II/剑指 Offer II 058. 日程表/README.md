@@ -43,31 +43,3 @@ MyCalendar.book(20, 30); // returns true ，第三个日程安排可以添加到
 <p><meta charset="UTF-8" />注意：本题与主站 729&nbsp;题相同：&nbsp;<a href="https://leetcode-cn.com/problems/my-calendar-i/">https://leetcode-cn.com/problems/my-calendar-i/</a></p>
 
 **标签:**  [设计](https://leetcode.cn/tag/design) [线段树](https://leetcode.cn/tag/segment-tree) [二分查找](https://leetcode.cn/tag/binary-search) [有序集合](https://leetcode.cn/tag/ordered-set) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

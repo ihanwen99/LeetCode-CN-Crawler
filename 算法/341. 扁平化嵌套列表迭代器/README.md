@@ -49,31 +49,3 @@ return res</pre>
 </ul>
 
 **标签:**  [栈](https://leetcode.cn/tag/stack) [树](https://leetcode.cn/tag/tree) [深度优先搜索](https://leetcode.cn/tag/depth-first-search) [设计](https://leetcode.cn/tag/design) [队列](https://leetcode.cn/tag/queue) [迭代器](https://leetcode.cn/tag/iterator) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

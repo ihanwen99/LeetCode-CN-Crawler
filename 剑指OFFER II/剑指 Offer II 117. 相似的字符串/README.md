@@ -43,31 +43,3 @@
 <p><meta charset="UTF-8" />注意：本题与主站 839&nbsp;题相同：<a href="https://leetcode-cn.com/problems/similar-string-groups/">https://leetcode-cn.com/problems/similar-string-groups/</a></p>
 
 **标签:**  [深度优先搜索](https://leetcode.cn/tag/depth-first-search) [广度优先搜索](https://leetcode.cn/tag/breadth-first-search) [并查集](https://leetcode.cn/tag/union-find) [数组](https://leetcode.cn/tag/array) [字符串](https://leetcode.cn/tag/string) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

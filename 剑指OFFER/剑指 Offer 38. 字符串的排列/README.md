@@ -22,31 +22,3 @@
 <p><code>1 &lt;= s 的长度 &lt;= 8</code></p>
 
 **标签:**  [字符串](https://leetcode.cn/tag/string) [回溯](https://leetcode.cn/tag/backtracking) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

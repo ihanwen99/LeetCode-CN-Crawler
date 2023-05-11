@@ -21,31 +21,3 @@
 <p>注意：本题与主站 264 题相同：<a href="https://leetcode-cn.com/problems/ugly-number-ii/">https://leetcode-cn.com/problems/ugly-number-ii/</a></p>
 
 **标签:**  [哈希表](https://leetcode.cn/tag/hash-table) [数学](https://leetcode.cn/tag/math) [动态规划](https://leetcode.cn/tag/dynamic-programming) [堆（优先队列）](https://leetcode.cn/tag/heap-priority-queue) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

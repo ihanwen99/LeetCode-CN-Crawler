@@ -42,31 +42,3 @@ recentCounter.ping(3002);  // requests = [1, <strong>100</strong>, <strong>3001<
 </ul>
 
 **标签:**  [设计](https://leetcode.cn/tag/design) [队列](https://leetcode.cn/tag/queue) [数据流](https://leetcode.cn/tag/data-stream) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

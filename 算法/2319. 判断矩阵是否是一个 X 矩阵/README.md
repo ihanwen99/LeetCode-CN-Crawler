@@ -41,31 +41,3 @@ X 矩阵应该满足：绿色元素（对角线上）都不是 0 ，红色元素
 </ul>
 
 **标签:**  [数组](https://leetcode.cn/tag/array) [矩阵](https://leetcode.cn/tag/matrix) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

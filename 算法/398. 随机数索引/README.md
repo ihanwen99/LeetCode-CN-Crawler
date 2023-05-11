@@ -48,31 +48,3 @@ solution.pick(3); // 随机返回索引 2, 3 或者 4 之一。每个索引的�
 <div class="fullscreen-btn-layer__2kn7">&nbsp;</div>
 
 **标签:**  [水塘抽样](https://leetcode.cn/tag/reservoir-sampling) [哈希表](https://leetcode.cn/tag/hash-table) [数学](https://leetcode.cn/tag/math) [随机化](https://leetcode.cn/tag/randomized) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

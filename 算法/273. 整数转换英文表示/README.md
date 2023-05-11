@@ -35,31 +35,3 @@
 </ul>
 
 **标签:**  [递归](https://leetcode.cn/tag/recursion) [数学](https://leetcode.cn/tag/math) [字符串](https://leetcode.cn/tag/string) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

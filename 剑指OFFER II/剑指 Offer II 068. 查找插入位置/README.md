@@ -58,31 +58,3 @@
 <p><meta charset="UTF-8" />注意：本题与主站 35&nbsp;题相同：&nbsp;<a href="https://leetcode-cn.com/problems/search-insert-position/">https://leetcode-cn.com/problems/search-insert-position/</a></p>
 
 **标签:**  [数组](https://leetcode.cn/tag/array) [二分查找](https://leetcode.cn/tag/binary-search) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

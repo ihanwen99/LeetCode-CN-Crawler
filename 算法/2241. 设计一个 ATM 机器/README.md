@@ -52,31 +52,3 @@ atm.withdraw(550);        // 返回 [0,1,0,0,1] ，机器会返回 1 张 $50 的
 </ul>
 
 **标签:**  [贪心](https://leetcode.cn/tag/greedy) [设计](https://leetcode.cn/tag/design) [数组](https://leetcode.cn/tag/array) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

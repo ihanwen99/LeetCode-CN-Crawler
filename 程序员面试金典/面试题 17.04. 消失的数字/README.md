@@ -19,31 +19,3 @@
 </pre>
 
 **标签:**  [位运算](https://leetcode.cn/tag/bit-manipulation) [数组](https://leetcode.cn/tag/array) [哈希表](https://leetcode.cn/tag/hash-table) [数学](https://leetcode.cn/tag/math) [排序](https://leetcode.cn/tag/sorting) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

@@ -48,31 +48,3 @@ rLEIterator.next(2); // 耗去序列的 2 个项，返回 -1。 这是由于第�
 </ul>
 
 **标签:**  [设计](https://leetcode.cn/tag/design) [数组](https://leetcode.cn/tag/array) [计数](https://leetcode.cn/tag/counting) [迭代器](https://leetcode.cn/tag/iterator) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

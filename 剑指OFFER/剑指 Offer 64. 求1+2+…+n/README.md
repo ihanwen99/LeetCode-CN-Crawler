@@ -26,31 +26,3 @@
 </ul>
 
 **标签:**  [位运算](https://leetcode.cn/tag/bit-manipulation) [递归](https://leetcode.cn/tag/recursion) [脑筋急转弯](https://leetcode.cn/tag/brainteaser) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

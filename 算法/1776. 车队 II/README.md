@@ -40,31 +40,3 @@
 </ul>
 
 **标签:**  [栈](https://leetcode.cn/tag/stack) [数组](https://leetcode.cn/tag/array) [数学](https://leetcode.cn/tag/math) [单调栈](https://leetcode.cn/tag/monotonic-stack) [堆（优先队列）](https://leetcode.cn/tag/heap-priority-queue) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

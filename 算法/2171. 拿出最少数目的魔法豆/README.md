@@ -49,31 +49,3 @@
 </ul>
 
 **标签:**  [数组](https://leetcode.cn/tag/array) [前缀和](https://leetcode.cn/tag/prefix-sum) [排序](https://leetcode.cn/tag/sorting) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

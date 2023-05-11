@@ -62,31 +62,3 @@
 </ul>
 
 **标签:**  [动态规划](https://leetcode.cn/tag/dynamic-programming) [前缀和](https://leetcode.cn/tag/prefix-sum) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

@@ -37,31 +37,3 @@ grid2 中标红的 1 区域是子岛屿，总共有 2 个子岛屿。
 </ul>
 
 **标签:**  [深度优先搜索](https://leetcode.cn/tag/depth-first-search) [广度优先搜索](https://leetcode.cn/tag/breadth-first-search) [并查集](https://leetcode.cn/tag/union-find) [数组](https://leetcode.cn/tag/array) [矩阵](https://leetcode.cn/tag/matrix) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

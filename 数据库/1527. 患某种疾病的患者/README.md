@@ -49,20 +49,3 @@ patient_id （患者 ID）是该表的主键。
 <strong>解释：</strong>Bob 和 George 都患有代码以 DIAB1 开头的疾病。</pre>
 
 **标签:**  [数据库](https://leetcode.cn/tag/database) 
-# 解题思路 √
-
-### SQL
-
-1. 
-
-```sql
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

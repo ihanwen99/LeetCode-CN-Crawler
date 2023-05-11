@@ -48,20 +48,3 @@ Result 表：
 <strong>解释：</strong>1 是唯一连续出现至少三次的数字。</pre>
 
 **标签:**  [数据库](https://leetcode.cn/tag/database) 
-# 解题思路 √
-
-### SQL
-
-1. 
-
-```sql
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

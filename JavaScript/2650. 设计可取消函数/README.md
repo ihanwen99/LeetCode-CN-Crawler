@@ -138,32 +138,3 @@ cancelledAt = null
 	<li><code>cancelledAt == null or 0 &lt;= cancelledAt &lt;= 1000</code></li>
 	<li><code>generatorFunction 返回一个生成器对象</code></li>
 </ul>
-
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

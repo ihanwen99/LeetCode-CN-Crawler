@@ -50,31 +50,3 @@ timeMap.get("foo", 5);         // 返回 "bar2"
 </ul>
 
 **标签:**  [设计](https://leetcode.cn/tag/design) [哈希表](https://leetcode.cn/tag/hash-table) [字符串](https://leetcode.cn/tag/string) [二分查找](https://leetcode.cn/tag/binary-search) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

@@ -80,32 +80,3 @@ calls = [
 	<li><code>0 &lt;= calls[i].t &lt;= 1000</code></li>
 	<li><code>0 &lt;= calls[i].inputs.length &lt;= 10</code></li>
 </ul>
-
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

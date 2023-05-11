@@ -46,31 +46,3 @@ Alice 有两个选择: 擦掉数字 1 或 2。
 </ul>
 
 **标签:**  [位运算](https://leetcode.cn/tag/bit-manipulation) [脑筋急转弯](https://leetcode.cn/tag/brainteaser) [数组](https://leetcode.cn/tag/array) [数学](https://leetcode.cn/tag/math) [博弈](https://leetcode.cn/tag/game-theory) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

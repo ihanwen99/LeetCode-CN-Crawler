@@ -97,31 +97,3 @@ topRight 具有不同的值，因此我们将其再分为 4 个子网格，这�
 </ol>
 
 **标签:**  [树](https://leetcode.cn/tag/tree) [数组](https://leetcode.cn/tag/array) [分治](https://leetcode.cn/tag/divide-and-conquer) [矩阵](https://leetcode.cn/tag/matrix) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

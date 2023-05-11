@@ -36,31 +36,3 @@
 <p><meta charset="UTF-8" />注意：本题与主站 47&nbsp;题相同：&nbsp;<a href="https://leetcode-cn.com/problems/permutations-ii/">https://leetcode-cn.com/problems/permutations-ii/</a></p>
 
 **标签:**  [数组](https://leetcode.cn/tag/array) [回溯](https://leetcode.cn/tag/backtracking) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

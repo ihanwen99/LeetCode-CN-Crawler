@@ -47,31 +47,3 @@
 </ul>
 
 **标签:**  [几何](https://leetcode.cn/tag/geometry) [数组](https://leetcode.cn/tag/array) [数学](https://leetcode.cn/tag/math) [矩阵](https://leetcode.cn/tag/matrix) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

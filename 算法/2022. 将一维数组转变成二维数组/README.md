@@ -57,31 +57,3 @@ original 中只有 1 个元素。
 </ul>
 
 **标签:**  [数组](https://leetcode.cn/tag/array) [矩阵](https://leetcode.cn/tag/matrix) [模拟](https://leetcode.cn/tag/simulation) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

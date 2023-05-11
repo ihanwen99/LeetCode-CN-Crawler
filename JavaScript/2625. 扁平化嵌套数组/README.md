@@ -59,32 +59,3 @@ n = 2
 	<li><code>-1000 &lt;= each number &lt;= 1000</code></li>
 	<li><code><font face="monospace">0 &lt;= n &lt;= 1000</font></code></li>
 </ul>
-
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

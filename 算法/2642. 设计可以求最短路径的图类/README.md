@@ -47,31 +47,3 @@ g.shortestPath(0, 3); // 返回 6 。从 0 到 3 的最短路径为 0 -&gt; 1 -&
 </ul>
 
 **标签:**  [图](https://leetcode.cn/tag/graph) [设计](https://leetcode.cn/tag/design) [最短路](https://leetcode.cn/tag/shortest-path) [堆（优先队列）](https://leetcode.cn/tag/heap-priority-queue) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

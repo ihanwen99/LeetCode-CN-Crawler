@@ -42,31 +42,3 @@ s 中没有字母出现超过 1 次，所以 s 中每个子字符串的波动值
 </ul>
 
 **标签:**  [数组](https://leetcode.cn/tag/array) [动态规划](https://leetcode.cn/tag/dynamic-programming) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

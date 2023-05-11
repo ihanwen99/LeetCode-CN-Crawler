@@ -32,31 +32,3 @@
 </ol>
 
 **标签:**  [设计](https://leetcode.cn/tag/design) [队列](https://leetcode.cn/tag/queue) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

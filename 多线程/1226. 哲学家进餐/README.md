@@ -52,31 +52,3 @@ output[i] = [a, b, c] (3个整数)
 </ul>
 
 **标签:**  [多线程](https://leetcode.cn/tag/concurrency) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

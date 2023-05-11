@@ -54,31 +54,3 @@ Step 1) 2 是偶数，除 2 得到 1
 </ul>
 
 **标签:**  [位运算](https://leetcode.cn/tag/bit-manipulation) [字符串](https://leetcode.cn/tag/string) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

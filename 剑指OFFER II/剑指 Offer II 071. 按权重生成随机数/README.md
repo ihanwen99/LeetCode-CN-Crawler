@@ -65,31 +65,3 @@ solution.pickIndex(); // 返回 0，返回下标 0，返回该下标概率为 1/
 <p><meta charset="UTF-8" />注意：本题与主站 528&nbsp;题相同：&nbsp;<a href="https://leetcode-cn.com/problems/random-pick-with-weight/">https://leetcode-cn.com/problems/random-pick-with-weight/</a></p>
 
 **标签:**  [数组](https://leetcode.cn/tag/array) [数学](https://leetcode.cn/tag/math) [二分查找](https://leetcode.cn/tag/binary-search) [前缀和](https://leetcode.cn/tag/prefix-sum) [随机化](https://leetcode.cn/tag/randomized) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

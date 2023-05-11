@@ -30,31 +30,3 @@ wordsFrequency.get(&quot;pen&quot;); //返回1
 </ul>
 
 **标签:**  [设计](https://leetcode.cn/tag/design) [字典树](https://leetcode.cn/tag/trie) [数组](https://leetcode.cn/tag/array) [哈希表](https://leetcode.cn/tag/hash-table) [字符串](https://leetcode.cn/tag/string) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

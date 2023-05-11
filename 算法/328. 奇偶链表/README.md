@@ -38,31 +38,3 @@
 </ul>
 
 **标签:**  [链表](https://leetcode.cn/tag/linked-list) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

@@ -41,31 +41,3 @@ iterator.hasNext(); // 返回 false
 </ul>
 
 **标签:**  [设计](https://leetcode.cn/tag/design) [字符串](https://leetcode.cn/tag/string) [回溯](https://leetcode.cn/tag/backtracking) [迭代器](https://leetcode.cn/tag/iterator) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

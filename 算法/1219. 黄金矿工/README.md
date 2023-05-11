@@ -50,31 +50,3 @@
 </ul>
 
 **标签:**  [数组](https://leetcode.cn/tag/array) [回溯](https://leetcode.cn/tag/backtracking) [矩阵](https://leetcode.cn/tag/matrix) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

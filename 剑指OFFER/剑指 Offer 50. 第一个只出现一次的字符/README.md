@@ -24,31 +24,3 @@
 <p><code>0 &lt;= s 的长度 &lt;= 50000</code></p>
 
 **标签:**  [队列](https://leetcode.cn/tag/queue) [哈希表](https://leetcode.cn/tag/hash-table) [字符串](https://leetcode.cn/tag/string) [计数](https://leetcode.cn/tag/counting) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

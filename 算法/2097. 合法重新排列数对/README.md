@@ -58,31 +58,3 @@ end<sub>1</sub> = 1 == 1 = start<sub>2</sub>
 </ul>
 
 **标签:**  [深度优先搜索](https://leetcode.cn/tag/depth-first-search) [图](https://leetcode.cn/tag/graph) [欧拉回路](https://leetcode.cn/tag/eulerian-circuit) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

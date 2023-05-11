@@ -37,31 +37,3 @@
 <p><strong>进阶：</strong>你能用 O(n) 时间复杂度和 / 或原地 O(1) 额外空间来实现吗？</p>
 
 **标签:**  [数组](https://leetcode.cn/tag/array) [分治](https://leetcode.cn/tag/divide-and-conquer) [快速选择](https://leetcode.cn/tag/quickselect) [排序](https://leetcode.cn/tag/sorting) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

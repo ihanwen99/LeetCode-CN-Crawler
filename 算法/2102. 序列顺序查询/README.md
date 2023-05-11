@@ -73,31 +73,3 @@ tracker.get();              // 从好到坏的景点为：branford, orlando, alp
 </ul>
 
 **标签:**  [设计](https://leetcode.cn/tag/design) [数据流](https://leetcode.cn/tag/data-stream) [有序集合](https://leetcode.cn/tag/ordered-set) [堆（优先队列）](https://leetcode.cn/tag/heap-priority-queue) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

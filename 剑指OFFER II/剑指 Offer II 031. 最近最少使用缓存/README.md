@@ -57,31 +57,3 @@ lRUCache.get(4);    // 返回 4
 <p><meta charset="UTF-8" />注意：本题与主站 146&nbsp;题相同：<a href="https://leetcode-cn.com/problems/lru-cache/">https://leetcode-cn.com/problems/lru-cache/</a>&nbsp;</p>
 
 **标签:**  [设计](https://leetcode.cn/tag/design) [哈希表](https://leetcode.cn/tag/hash-table) [链表](https://leetcode.cn/tag/linked-list) [双向链表](https://leetcode.cn/tag/doubly-linked-list) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

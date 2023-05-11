@@ -39,31 +39,3 @@
 <p><meta charset="UTF-8" />注意：本题与主站 739&nbsp;题相同：&nbsp;<a href="https://leetcode-cn.com/problems/daily-temperatures/">https://leetcode-cn.com/problems/daily-temperatures/</a></p>
 
 **标签:**  [栈](https://leetcode.cn/tag/stack) [数组](https://leetcode.cn/tag/array) [单调栈](https://leetcode.cn/tag/monotonic-stack) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

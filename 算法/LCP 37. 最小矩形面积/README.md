@@ -28,31 +28,3 @@
 + `-10000 <= lines[1] <= 10000`
 + `与标准答案绝对误差或相对误差在 10^-4 以内的结果都被视为正确结果`
 **标签:**  [贪心](https://leetcode.cn/tag/greedy) [几何](https://leetcode.cn/tag/geometry) [数组](https://leetcode.cn/tag/array) [数学](https://leetcode.cn/tag/math) [组合数学](https://leetcode.cn/tag/combinatorics) [排序](https://leetcode.cn/tag/sorting) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

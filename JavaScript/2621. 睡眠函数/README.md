@@ -33,32 +33,3 @@ sleep(100).then(() =&gt; {
 <ul>
 	<li><code>1 &lt;= millis &lt;= 1000</code></li>
 </ul>
-
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

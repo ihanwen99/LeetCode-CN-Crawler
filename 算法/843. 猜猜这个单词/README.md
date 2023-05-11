@@ -59,31 +59,3 @@ master.guess("abcczz") 返回 4 ，因为 "abcczz" 共有 4 个字母匹配。
 </ul>
 
 **标签:**  [数组](https://leetcode.cn/tag/array) [数学](https://leetcode.cn/tag/math) [字符串](https://leetcode.cn/tag/string) [博弈](https://leetcode.cn/tag/game-theory) [交互](https://leetcode.cn/tag/interactive) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

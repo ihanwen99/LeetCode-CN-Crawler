@@ -12,31 +12,3 @@
 </ul>
 
 **标签:**  [栈](https://leetcode.cn/tag/stack) [贪心](https://leetcode.cn/tag/greedy) [数组](https://leetcode.cn/tag/array) [双指针](https://leetcode.cn/tag/two-pointers) [排序](https://leetcode.cn/tag/sorting) [单调栈](https://leetcode.cn/tag/monotonic-stack) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

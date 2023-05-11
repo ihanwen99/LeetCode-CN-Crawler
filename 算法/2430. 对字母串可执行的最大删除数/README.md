@@ -57,31 +57,3 @@
 </ul>
 
 **标签:**  [字符串](https://leetcode.cn/tag/string) [动态规划](https://leetcode.cn/tag/dynamic-programming) [字符串匹配](https://leetcode.cn/tag/string-matching) [哈希函数](https://leetcode.cn/tag/hash-function) [滚动哈希](https://leetcode.cn/tag/rolling-hash) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 

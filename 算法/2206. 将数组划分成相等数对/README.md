@@ -44,31 +44,3 @@ nums 可以划分成 (2, 2) ，(3, 3) 和 (2, 2) ，满足所有要求。
 </ul>
 
 **标签:**  [位运算](https://leetcode.cn/tag/bit-manipulation) [数组](https://leetcode.cn/tag/array) [哈希表](https://leetcode.cn/tag/hash-table) [计数](https://leetcode.cn/tag/counting) 
-# 解题思路 √
-
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. 
