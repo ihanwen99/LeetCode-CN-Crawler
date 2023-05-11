@@ -1,13 +1,15 @@
-import os
-import requests
-import json
-import time
 import argparse
-from sqlalchemy import Column, String, create_engine, Integer, TEXT
+import json
+import os
+import time
+
+import requests
+from sqlalchemy import Column, create_engine, Integer, TEXT
+from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker
 from sqlalchemy.sql import exists
-from sqlalchemy.ext.declarative import declarative_base
-from template import readme_adding, README_CN, README_EN
+
+from template import readme_adding, README_CN, README_EN, sql_solution, normal_solution, shell_solution
 
 parser = argparse.ArgumentParser()
 parser.add_argument('-u', '--username', nargs='+', help="username")
@@ -30,12 +32,12 @@ ROOT_PATH = args.output[0]
 user_agent = r'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36'
 
 requests.packages.urllib3.disable_warnings()
-leetcode_url = 'https://leetcode-cn.com/'
-sign_in_url = 'https://leetcode-cn.com/accounts/login/'
-submissions_url = 'https://leetcode-cn.com/submissions/'
-problems_url = "https://leetcode-cn.com/api/problems/all/"
-question_url = "https://leetcode-cn.com/problems/"
-tag_url = "https://leetcode-cn.com/tag/"
+leetcode_url = 'https://leetcode.cn/'
+sign_in_url = 'https://leetcode.cn/accounts/login/'
+submissions_url = 'https://leetcode.cn/submissions/'
+problems_url = "https://leetcode.cn/api/problems/all/"
+question_url = "https://leetcode.cn/problems/"
+tag_url = "https://leetcode.cn/tag/"
 
 category = {
     'Algorithms': "算法",
@@ -125,10 +127,11 @@ def get_question_list(client):
     for question in questions_list:
         question_id = int(question['stat']['question_id'])  # 1000093
         question_frontend_id = question['stat']['frontend_question_id']  # LCP 13 / 面试题 17.08 / 1
-        # question_title = question['stat']['question__title']  # '寻宝'
+        question_title = question['stat']['question__title']  # '寻宝'
         question_simple_url = question['stat']['question__title_slug']  # 'xun-bao'
         # print(question_id, '\t', question_frontend_id, '\t', question_title, '\t', question_simple_url)
         question_status = question['status']  # ac / None
+
         # question_level = question['difficulty']['level']
         #
         # if question_level == 1:
@@ -138,14 +141,16 @@ def get_question_list(client):
         # elif question_level == 3:
         #     question_difficulty = "Hard"
 
-        # if question['paid_only']: continue
-
-        # print(question_id, question_frontend_id, type(question_frontend_id ), len(question_frontend_id)==4 and question_frontend_id[0]=='5',question_title)
+        if question['paid_only']: continue
 
         if len(question_frontend_id) == 4 and question_frontend_id[0] == '5': continue
+        if question['stat']['question__hide']: continue
         if not question_status: continue
+
+        # print(question_id, question_frontend_id, type(question_frontend_id), question_title)
         current_question_find = dbsession.query(exists().where(Question.id == question_id)).scalar()
         if current_question_find: continue
+        # print(question_title)
         get_question_detail(question_simple_url)
 
 
@@ -154,8 +159,8 @@ def get_question_detail(simple_url):
     question_headers = {'User-Agent': user_agent,
                         'Connection': 'keep-alive',
                         'Content-Type': 'application/json',
-                        'Referer': 'https://leetcode-cn.com/problems/' + simple_url}
-    detailed_question_url = "https://leetcode-cn.com/graphql"
+                        'Referer': 'https://leetcode.cn/problems/' + simple_url}
+    detailed_question_url = "https://leetcode.cn/graphql"
     params = {'operationName': "getQuestionDetail",
               'variables': {'titleSlug': simple_url},
               'query':
@@ -227,44 +232,25 @@ def process_writing_question(content):
         for tag in tags:
             f_cn.write("[{}]({}) ".format(tag['translatedName'], tag_url + tag['slug']))
 
-    similarQuestions = eval(similarQuestions)
-    if len(similarQuestions) > 0:
-        f_cn.write("\n ### 相似题目\n")
-        # print(similarQuestions, type(similarQuestions))
-        for similar_question in similarQuestions:
-            # print(similar_question, type(similar_question))
-            f_cn.write("- {}:\t[{}]({}) \n".format(diff[similar_question["difficulty"]],
-                                                   similar_question['translatedTitle'],
-                                                   question_url + similar_question['titleSlug']))
-    f_cn.write("""
-# 解题思路 √
+    try:
+        similarQuestions = eval(similarQuestions)
+        if len(similarQuestions) > 0:
+            f_cn.write("\n ### 相似题目\n")
+            # print(similarQuestions, type(similarQuestions))
+            for similar_question in similarQuestions:
+                # print(similar_question, type(similar_question))
+                f_cn.write("- {}:\t[{}]({}) \n".format(diff[similar_question["difficulty"]],
+                                                       similar_question['translatedTitle'],
+                                                       question_url + similar_question['titleSlug']))
+    except:
+        pass
 
-### Python
-
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
-
-```cpp
-
-```
-
----
-
-
-
-# 整理与总结
-
-1. """)
+    solution_content = normal_solution
+    if (category_title == "Database"):
+        solution_content = sql_solution
+    elif (category_title == "Shell"):
+        solution_content = shell_solution
+    f_cn.write(solution_content)
     sample_cn.close()
     f_cn.close()
 
@@ -282,14 +268,17 @@ def process_writing_question(content):
         for tag in tags:
             f_en.write("[{}]({}) ".format(tag['name'], tag_url + tag['slug']))
 
-    if len(similarQuestions) > 0:
-        f_en.write("\n\n### Similar Question{}\n".format("s" if len(similarQuestions) > 1 else ""))
-        # print(similarQuestions, type(similarQuestions))
-        for similar_question in similarQuestions:
-            # print(similar_question, type(similar_question))
-            f_en.write(" - {}:\t[{}]({}) \n".format(similar_question["difficulty"],
-                                                    similar_question['title'],
-                                                    question_url + similar_question['titleSlug']))
+    try:
+        if len(similarQuestions) > 0:
+            f_en.write("\n\n### Similar Question{}\n".format("s" if len(similarQuestions) > 1 else ""))
+            # print(similarQuestions, type(similarQuestions))
+            for similar_question in similarQuestions:
+                # print(similar_question, type(similar_question))
+                f_en.write(" - {}:\t[{}]({}) \n".format(similar_question["difficulty"],
+                                                        similar_question['title'],
+                                                        question_url + similar_question['titleSlug']))
+    except:
+        pass
     sample_en.close()
     f_en.close()
     add_this_new_question_to_db(id, frontend_id, simple_url, title_cn, title_en, difficulty, category_title_cn, tags)
