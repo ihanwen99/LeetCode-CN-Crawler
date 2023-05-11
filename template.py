@@ -43,3 +43,71 @@ README_EN = """
 """
 
 readme_adding = "|[{frontend_id}]({formal_url})|[{title}]({githubURL})|{difficulty}|{tags}|\n"
+
+normal_solution = """
+# 解题思路 √
+
+### Python
+
+1. 
+
+```python
+
+```
+
+
+```python
+
+```
+
+### C++
+
+```cpp
+
+```
+
+---
+
+
+
+# 整理与总结
+
+1. """
+
+sql_solution = """
+# 解题思路 √
+
+### SQL
+
+1. 
+
+```sql
+
+```
+
+---
+
+
+
+# 整理与总结
+
+1. """
+
+shell_solution = """
+# 解题思路 √
+
+### sh
+
+1. 
+
+```sql
+
+```
+
+---
+
+
+
+# 整理与总结
+
+1. """
