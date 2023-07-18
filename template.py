@@ -1,5 +1,5 @@
 README_CN = """
-| [English](README_EN.md) | 简体中文 | [Guidance指南](Guidance.md) |
+| [English](README_EN.md) | 简体中文 | [Guidance 指南](Guidance.md) |
 <p align="center">
     <img src="https://img.shields.io/badge/用户-{user_name}-blue.svg?" alt="">
     <img src="https://img.shields.io/badge/已解决-{num_solved}/{num_total}-blue.svg?" alt="">
@@ -11,7 +11,7 @@ README_CN = """
 
 <p align="center">
     <br>
-    <b>最近一次更新: {time}</b>
+    <b>最近一次更新：{time}</b>
     <br>
 </p>
 <p align="center">This repo is powered by <a href="https://github.com/david990917/LeetCode-CN-Crawler">LeetCode-CN-Crawler</a>.</p>
@@ -21,7 +21,7 @@ README_CN = """
 """
 
 README_EN = """
-| English | [简体中文](README.md) | [Guidance指南](Guidance.md) |
+| English | [简体中文](README.md) | [Guidance 指南](Guidance.md) |
 <p align="center">
     <img src="https://img.shields.io/badge/User-{user_name}-blue.svg?" alt="">
     <img src="https://img.shields.io/badge/Solved-{num_solved}/{num_total}-blue.svg?" alt="">
@@ -33,7 +33,7 @@ README_EN = """
 
 <p align="center">
     <br>
-    <b>最近一次更新: {time}</b>
+    <b>最近一次更新：{time}</b>
     <br>
 </p>
 <p align="center">This repo is powered by <a href="https://github.com/david990917/LeetCode-CN-Crawler">LeetCode-CN-Crawler</a>.</p>
@@ -44,42 +44,47 @@ README_EN = """
 
 readme_adding = "|[{frontend_id}]({formal_url})|[{title}]({githubURL})|{difficulty}|{tags}|\n"
 
-normal_solution = """
+python___ = """
 # 解题思路 √
 
-### Python
+## C++
 
-1. 
-
-```python
-
-```
-
-
-```python
-
-```
-
-### C++
+### 方法 1: 
 
 ```cpp
 
 ```
 
+### 方法 2: 
+
+```cpp
+
+```
+
+## Python
+
+```python
+
+```
+
+```python
+
+```
+
 ---
-
-
 
 # 整理与总结
 
 1. """
+
+normal_solution = python___
 
 sql_solution = """
 # 解题思路 √
 
-### SQL
+## SQL
 
-1. 
+### 方法 1: 
 
 ```sql
 
@@ -87,18 +92,17 @@ sql_solution = """
 
 ---
 
-
-
 # 整理与总结
 
-1. """
+1. 
+"""
 
 shell_solution = """
 # 解题思路 √
 
-### sh
+## sh
 
-1. 
+### 方法 1: 
 
 ```sql
 
@@ -106,8 +110,7 @@ shell_solution = """
 
 ---
 
-
-
 # 整理与总结
 
-1. """
+1.
+"""
