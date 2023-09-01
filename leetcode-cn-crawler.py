@@ -4,6 +4,7 @@ import os
 import time
 
 import requests
+from fake_useragent import UserAgent
 from sqlalchemy import Column, create_engine, Integer, TEXT
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker
@@ -17,6 +18,7 @@ parser.add_argument('-p', '--password', nargs='+', help="password")
 parser.add_argument('-dp', '--database', nargs='+', help="database")
 parser.add_argument('-g', '--github', nargs='+', help="github")
 parser.add_argument('-r', '--output', nargs='+', help="output_directory_path")
+parser.add_argument('-c', '--cookies', nargs='+', help="cookies for login")
 args = parser.parse_args()
 
 argsDict = vars(args)
@@ -26,10 +28,11 @@ USERNAME = args.username[0]
 PASSWORD = args.password[0]
 GITHUBURL = args.github[0]
 ROOT_PATH = args.output[0]
+COOKIES = args.cookies[0]
+UA = UserAgent()
 
 # if os.path.exists(ROOT_PATH + DB_PATH): os.remove(ROOT_PATH + DB_PATH)
-
-user_agent = r'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36'
+user_agent = UA.random
 
 requests.packages.urllib3.disable_warnings()
 leetcode_url = 'https://leetcode.cn/'
@@ -89,21 +92,28 @@ DBSession = sessionmaker(bind=engine)
 
 def login(username, password):
     client = requests.session()
-    client.encoding = "utf-8"
 
-    client.get(sign_in_url, verify=False)
+    headers = {
+        'User-Agent': user_agent,
+        'Referer': sign_in_url,
+        'Cookie': COOKIES,
+        'Connection': 'keep-alive'
+    }
+
+    client.get(sign_in_url)
     login_data = {'login': username, 'password': password}
-    result = client.post(sign_in_url, data=login_data, headers=dict(Referer=sign_in_url))
+    result = client.post(sign_in_url, data=login_data, headers=headers)
 
     if result.ok:
         print("Login Successfully!")  # Login Successfully!
     else:
-        print("Login Failed!")
+        print("Login Failed...")
+        raise Exception("LoginError")
     return client
 
 
 def get_question_list(client):
-    headers = {'User-Agent': user_agent, 'Connection': 'keep-alive'}
+    headers = {'User-Agent': user_agent, 'Referer': sign_in_url, 'Cookie': COOKIES, 'Connection': 'keep-alive'}
     response = client.get(problems_url, headers=headers, timeout=10)
     # print(response)  # <Response [200]>
     # print(response.content.decode('utf-8'))  # My Personal Information
